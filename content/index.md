@@ -1,5 +1,6 @@
 ---
 title: DNB ENT Theory Q&A
+description: Complete collection of DNB ENT Theory exam questions and answers from 2011 to 2025. All 883 questions across 4 papers with answers based on Scott-Brown's Otorhinolaryngology 8th Edition.
 ---
 
 # DNB ENT Theory — Complete Question & Answer Resource

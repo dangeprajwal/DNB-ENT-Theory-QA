@@ -17,7 +17,7 @@ const config: QuartzConfig = {
       tagId: "G-KRHLW7ZCDZ",
     },
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "dangeprajwal.github.io/DNB-ENT-Theory-QA",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
