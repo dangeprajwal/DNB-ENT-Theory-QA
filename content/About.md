@@ -7,7 +7,7 @@ description: About the DNB ENT Theory Q&A project — a free resource for DNB EN
 
 ## Who Made This?
 
-This website was created by **Dr. Prajwal Dange**, an ENT resident, to help fellow students preparing for the **DNB ENT Theory Examination**.
+This website was created by **Dr. Prajwal Dange, MBBS, MS, DNB, MCh Head Neck Surgery and Oncology (AIIMS Raipur) (Gold Medalist)**, to help fellow students preparing for the **DNB ENT Theory Examination**.
 
 ## Why This Exists
 
