@@ -9,6 +9,8 @@ This website is an effort to help all students preparing for the **DNB ENT Theor
 
 All answers are based on **Scott-Brown's Otorhinolaryngology, Head and Neck Surgery, 8th Edition** as the primary reference textbook.
 
+> **Quick Links:** [[Year-wise Question Papers|Year-wise Trends & Exam Strategy]] | [[About|About This Project]] | [[Disclaimer|Disclaimer]]
+
 ---
 
 ## High-Yield Topics — What to Prioritise
@@ -408,3 +410,7 @@ Based on analysis of all question papers from 2011 to 2025, these are the most f
 ---
 
 **Total: 219 Answer Files | 883 Questions | Papers from 2011–2025**
+
+---
+
+[[About|About This Project]] | [[Disclaimer|Disclaimer]] | [[Year-wise Question Papers|Year-wise Trends]]
