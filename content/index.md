@@ -10,6 +10,55 @@ All answers are based on **Scott-Brown's Otorhinolaryngology, Head and Neck Surg
 
 ---
 
+## High-Yield Topics — What to Prioritise
+
+Based on analysis of all question papers from 2011 to 2025, these are the most frequently asked topics across all 4 papers:
+
+| Rank | Topic | Paper | Frequency |
+|------|-------|-------|-----------|
+| 1 | Audiology (BERA, OAE, Impedance, Masking) | Paper 1 | ~22 Qs |
+| 2 | Otology Surgery (Mastoid, Tympanoplasty, Stapes) | Paper 1 | ~19 Qs |
+| 3 | Thyroid & Parathyroid | Paper 3, 4 | ~19 Qs |
+| 4 | Vestibular Disorders (BPPV, Meniere's, SSCD) | Paper 1 | ~17 Qs |
+| 5 | Skull Base Surgery (Endonasal Approaches, Pituitary) | Paper 2 | ~17 Qs |
+| 6 | Laryngeal Carcinoma & Conservation Surgery | Paper 3 | ~15 Qs |
+| 7 | Research Methodology (Study Design, Bias, Statistics) | Paper 1 | ~15 Qs |
+| 8 | Salivary Gland Tumours (Parotid, Sialolithiasis) | Paper 2 | ~15 Qs |
+| 9 | Reconstruction & Free Flaps (PMMC, Radial, Fibula) | Paper 3, 4 | ~14 Qs |
+| 10 | Voice Disorders (Spasmodic Dysphonia, Thyroplasty) | Paper 3 | ~14 Qs |
+| 11 | Cochlear Implant & Hearing Rehabilitation | Paper 1 | ~13 Qs |
+| 12 | Oral Cavity Cancer, Premalignant Lesions, OSMF | Paper 2 | ~13 Qs |
+| 13 | FESS & Complications | Paper 2 | ~12 Qs |
+| 14 | Swallowing, FEES & Dysphagia | Paper 3 | ~12 Qs |
+| 15 | LASER in ENT | Paper 4 | ~11 Qs |
+| 16 | Subglottic Stenosis & Paediatric Airway | Paper 3 | ~11 Qs |
+| 17 | Facial Nerve (Palsy, Trauma, Surgery) | Paper 1 | ~10 Qs |
+| 18 | Technology (NBI, Navigation, Contact Endoscopy) | Paper 4 | ~13 Qs |
+| 19 | Fungal Rhinosinusitis & Mucormycosis | Paper 2 | ~8 Qs |
+| 20 | Wound Healing & Shock | Paper 4 | ~8 Qs |
+
+---
+
+## Paper-wise Study Guide
+
+### Paper 1 — Otology
+> Prioritise **Audiology tests** (22 Qs), **Otology Surgery** (19 Qs), and **Vestibular Disorders** (17 Qs). Cochlear Implants and Research Methodology appear in almost every session. Facial Nerve, CSOM/Cholesteatoma, and Otosclerosis are perennial favourites.
+
+### Paper 2 — Rhinology & Oral Cavity
+> **Skull Base approaches** (17 Qs) and **Salivary Gland tumours** (15 Qs) are as important as core rhinology. Fungal rhinosinusitis/mucormycosis surged post-COVID. JNA, Frontal Sinus approaches, and CSF Rhinorrhea appear nearly every session. Oral Cavity SCC and OSMF are consistently asked.
+
+### Paper 3 — Larynx & Head Neck
+> **Laryngeal oncology** (15 Qs) and **Voice disorders** (14 Qs) dominate. Spasmodic Dysphonia is asked almost every year. Subglottic Stenosis, FEES/Swallowing assessment, and Neck Dissection are high-yield. Deep Neck Space infections and Foreign Body management are regularly tested.
+
+### Paper 4 — General Topics
+> **Reconstruction/Flaps** (14 Qs), **Technology** topics like NBI and Navigation (13 Qs), and **LASER** (11 Qs) form the backbone. Wound Healing and Shock are guaranteed questions. Gene Therapy, Robotic Surgery (TORS/TOUSS), and Radiotherapy principles have become increasingly common.
+
+---
+
+## Complete Answer Index
+
+---
+
 ## Paper 1 — Otology
 
 ### Anatomy and Embryology
