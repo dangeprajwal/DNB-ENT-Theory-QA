@@ -3,15 +3,16 @@ tags:
   - paper1
   - otology
   - external-ear
+description: "DNB ENT Paper 1 (Otology) — Endoscopic Ear Surgery. Answers based on Scott-Brown 8th Edition."
 ---
 
 # Endoscopic Ear Surgery
 
-## Questions Covered
-- **Q29 (2020):** Discuss the comparative position of endoscopic ear surgery and microscopic ear surgery. Discuss the role of endoscopes in lateral skull base surgery.
-- **Q83 (2023):** Describe technique of endoscopic [[Tympanoplasty Myringoplasty|tympanoplasty]]. Write the advantages and disadvantages of it as compared to microscope.
+> [!question] Questions Covered
+> - **Q29 (2020):** Discuss the comparative position of endoscopic ear surgery and microscopic ear surgery. Discuss the role of endoscopes in lateral skull base surgery.
+> - **Q83 (2023):** Describe technique of endoscopic [[Tympanoplasty Myringoplasty|tympanoplasty]]. Write the advantages and disadvantages of it as compared to microscope.
+> - Scott-Brown's Otorhinolaryngology 8th Edition, Volume 2 — Chapter 86 (Endoscopic Ear Surgery)
 
-**Source:** Scott-Brown's Otorhinolaryngology 8th Edition, Volume 2 — Chapter 86 (Endoscopic Ear Surgery)
 
 ---
 

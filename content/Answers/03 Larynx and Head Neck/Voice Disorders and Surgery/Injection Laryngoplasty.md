@@ -4,13 +4,14 @@ tags:
   - laryngology
   - voice
   - surgery
+description: "DNB ENT Paper 3 (Larynx & Head Neck) — Injection Laryngoplasty — Indications, Techniques and Complications. Answers based on Scott-Brown 8th Edition."
 ---
 
 # Injection Laryngoplasty — Indications, Techniques and Complications
 
-**Question:** *What are the indications, surgical techniques and complications of injection laryngoplasty?*
-
-**Source:** Scott-Brown's Otorhinolaryngology, 8th Edition - Volume 3, Chapter 67 (Phonosurgery), Chapter 78 (Paralysis of the Larynx), Chapter 63 (Structural Disorders of the Vocal Cords)
+> [!question] Questions Covered
+> - What are the indications, surgical techniques and complications of injection laryngoplasty?
+*Source:** Scott-Brown's Otorhinolaryngology, 8th Edition - Volume 3, Chapter 67 (Phonosurgery), Chapter 78 (Paralysis of the Larynx), Chapter 63 (Structural Disorders of the Vocal Cords)
 
 ---
 

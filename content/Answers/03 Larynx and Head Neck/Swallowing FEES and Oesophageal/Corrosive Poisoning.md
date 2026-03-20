@@ -4,9 +4,13 @@ tags:
   - laryngology
   - swallowing
   - oesophageal
+description: "DNB ENT Paper 3 (Larynx & Head Neck) — Emergency Management of Acute Corrosive Poisoning. Answers based on Scott-Brown 8th Edition."
 ---
 
 # Emergency Management of Acute Corrosive Poisoning
+
+> [!question] Questions Covered
+> - Discuss the emergency management of acute corrosive poisoning with particular reference to airway management and long-term sequelae.
 
 ## Q149. Emergency management of acute corrosive poisoning — airway, long-term sequelae (2013 Jun)
 

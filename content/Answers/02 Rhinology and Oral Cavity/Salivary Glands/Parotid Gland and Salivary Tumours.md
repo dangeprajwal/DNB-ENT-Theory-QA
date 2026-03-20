@@ -3,13 +3,14 @@ tags:
   - paper2
   - salivary
   - surgery
+description: "DNB ENT Paper 2 (Rhinology) — Parotid Gland Anatomy, Salivary Gland Tumours and Facial Nerve in Parotid Sur.... Answers based on Scott-Brown 8th Edition."
 ---
 
 # Parotid Gland Anatomy, Salivary Gland Tumours and Facial Nerve in Parotid Surgery
 
-**Question:** *Parotid gland anatomy. Neck management in salivary gland carcinoma. Facial nerve landmarks in parotid surgery. House-Brackmann classification. Benign tumours of parotid — features, investigation, management.*
-
-**Source:** Scott-Brown's Volume 3, Chapter 43 (Salivary Gland Anatomy), Chapter 9 (Benign Salivary Gland Tumours), Chapter 10 (Malignant Tumours of the Salivary Glands), Chapter 95 (Facial Reanimation Surgery); Volume 2, Chapter 112 (Facial Nerve Disorders)
+> [!question] Questions Covered
+> - Parotid gland anatomy. Neck management in salivary gland carcinoma. Facial nerve landmarks in parotid surgery. House-Brackmann classification. Benign tumours of parotid — features, investigation, management.
+*Source:** Scott-Brown's Volume 3, Chapter 43 (Salivary Gland Anatomy), Chapter 9 (Benign Salivary Gland Tumours), Chapter 10 (Malignant Tumours of the Salivary Glands), Chapter 95 (Facial Reanimation Surgery); Volume 2, Chapter 112 (Facial Nerve Disorders)
 
 ---
 

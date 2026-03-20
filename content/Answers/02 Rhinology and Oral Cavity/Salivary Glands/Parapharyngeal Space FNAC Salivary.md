@@ -3,13 +3,14 @@ tags:
   - paper2
   - salivary
   - surgery
+description: "DNB ENT Paper 2 (Rhinology) — Parapharyngeal Space Tumours, FNAC and Imaging of Salivary Glands. Answers based on Scott-Brown 8th Edition."
 ---
 
 # [[Parapharyngeal Space|Parapharyngeal Space]] Tumours, FNAC and Imaging of Salivary Glands
 
-**Question:** *Discuss salivary gland tumours arising de-novo in the parapharyngeal space with their clinical features and management. Describe the indications for FNAC in salivary gland disease and the role of radiology in salivary gland evaluation. Outline the cervico-parotid approach for PPS adenoma, complications of parotid surgery and first bite syndrome.*
-
-**Source:** Scott-Brown's Volume 3, Chapter 9 (Benign Salivary Gland Tumours), Chapter 10 (Malignant Tumours of the Salivary Glands), Chapter 45 (Imaging of Salivary Glands)
+> [!question] Questions Covered
+> - Discuss salivary gland tumours arising de-novo in the parapharyngeal space with their clinical features and management. Describe the indications for FNAC in salivary gland disease and the role of radiology in salivary gland evaluation. Outline the cervico-parotid approach for PPS adenoma, complications of parotid surgery and first bite syndrome.
+*Source:** Scott-Brown's Volume 3, Chapter 9 (Benign Salivary Gland Tumours), Chapter 10 (Malignant Tumours of the Salivary Glands), Chapter 45 (Imaging of Salivary Glands)
 
 ---
 

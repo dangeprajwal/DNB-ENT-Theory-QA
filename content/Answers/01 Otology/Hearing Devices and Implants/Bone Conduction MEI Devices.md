@@ -5,16 +5,17 @@ tags:
   - devices
   - implants
   - rehabilitation
+description: "DNB ENT Paper 1 (Otology) — Bone Conduction & Middle Ear Implant Devices. Answers based on Scott-Brown 8th Edition."
 ---
 
 # Bone Conduction & Middle Ear Implant Devices
 
-## Questions Covered
-- **Q20 (2020):** Describe indications, mechanism of action and surgical considerations of middle ear implants.
-- **Q55 (2022):** Classify and enumerate various types of Bone Conduction Implant. What are the preoperative workup and candidacy criteria for Bone Conduction Implant in a child?
-- **Q107 (2024):** Describe the physiology of bone conduction hearing devices. Discuss the classification, types, indications of various bone conduction hearing devices.
+> [!question] Questions Covered
+> - **Q20 (2020):** Describe indications, mechanism of action and surgical considerations of middle ear implants.
+> - **Q55 (2022):** Classify and enumerate various types of Bone Conduction Implant. What are the preoperative workup and candidacy criteria for Bone Conduction Implant in a child?
+> - **Q107 (2024):** Describe the physiology of bone conduction hearing devices. Discuss the classification, types, indications of various bone conduction hearing devices.
+> - Scott-Brown's Otorhinolaryngology 8th Edition, Volume 2 — Chapter 93 (Bone-Conduction Hearing Devices), Chapter 95 (Middle Ear Implants)
 
-**Source:** Scott-Brown's Otorhinolaryngology 8th Edition, Volume 2 — Chapter 93 (Bone-Conduction Hearing Devices), Chapter 95 (Middle Ear Implants)
 
 ---
 

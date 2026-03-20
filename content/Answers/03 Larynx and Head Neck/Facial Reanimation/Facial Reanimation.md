@@ -4,9 +4,14 @@ tags:
   - facial-nerve
   - surgery
   - rehabilitation
+description: "DNB ENT Paper 3 (Larynx & Head Neck) — Facial Reanimation Surgery. Answers based on Scott-Brown 8th Edition."
 ---
 
 # Facial Reanimation Surgery
+
+> [!question] Questions Covered
+> - Q21: Facial reanimation surgery aims. Techniques for rehabilitation after paralysis (2021 Jun)
+> - Stage 2 (6-9 months later, after successful regeneration):
 
 > **Covers Q21**
 > **Source: Scott-Brown's Otorhinolaryngology, 8th Edition**

@@ -3,13 +3,14 @@ tags:
   - paper2
   - oral-cavity
   - oncology
+description: "DNB ENT Paper 2 (Rhinology) — Oral Premalignant Conditions, White Lesions and Oral Candidiasis. Answers based on Scott-Brown 8th Edition."
 ---
 
 # Oral Premalignant Conditions, White Lesions and Oral Candidiasis
 
-**Question:** *Q27: Oral premalignant conditions management ([[Schneiderian Papilloma|Inverted papilloma]] — see Schneiderian_Papilloma.md). Q96: Premalignant lesions of oral cavity (Juvenile recurrent parotitis — see salivary gland files). Q117: Oral premalignant lesions (Reconstruction after segmental mandibulectomy — see Mandible_and_Mandibular_Reconstruction.md). 2016-10: Oral premalignant conditions; Oral lichen planus — features and management. 2015-8: White lesions of oral mucosa; Oral candidiasis management.*
-
-**Source:** Scott-Brown's Otorhinolaryngology, 8th Edition — Volume 3, Chapter 42 (Benign Oral and Dental Disease), Chapter 12 (Oral Cavity Tumours including Lip Reconstruction), Chapter 26 (Head and Neck Pathology)
+> [!question] Questions Covered
+> - Q27: Oral premalignant conditions management ([[Schneiderian Papilloma|Inverted papilloma]] — see Schneiderian_Papilloma.md). Q96: Premalignant lesions of oral cavity (Juvenile recurrent parotitis — see salivary gland files). Q117: Oral premalignant lesions (Reconstruction after segmental mandibulectomy — see Mandible_and_Mandibular_Reconstruction.md). 2016-10: Oral premalignant conditions; Oral lichen planus — features and management. 2015-8: White lesions of oral mucosa; Oral candidiasis management.
+*Source:** Scott-Brown's Otorhinolaryngology, 8th Edition — Volume 3, Chapter 42 (Benign Oral and Dental Disease), Chapter 12 (Oral Cavity Tumours including Lip Reconstruction), Chapter 26 (Head and Neck Pathology)
 
 ---
 

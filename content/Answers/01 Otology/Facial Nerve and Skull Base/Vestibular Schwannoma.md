@@ -4,11 +4,14 @@ tags:
   - otology
   - facial-nerve
   - skull-base
+description: "DNB ENT Paper 1 (Otology) — Vestibular Schwannoma. Answers based on Scott-Brown 8th Edition."
 ---
 
 # Vestibular Schwannoma
 
-**Question (Q18, December 2019):** *Write etiopathogenesis, clinical presentation & diagnosis of vestibular schwannoma. Describe gamma knife stereotactic [[Radiotherapy Principles Fractionation Advances|radiotherapy]] & surgical options for management of acoustic neuroma.*
+> [!question] Questions Covered
+> - **Q18, December 2019:** Write etiopathogenesis, clinical presentation & diagnosis of vestibular schwannoma. Describe gamma knife stereotactic [[Radiotherapy Principles Fractionation Advances|radiotherapy]] & surgical options for management of acoustic neuroma.
+
 
 **Question (Q49, June 2021):** *What are the clinical features and diagnostic tests for acoustic neuroma? Discuss the various surgical approaches according to the size of the tumor.*
 

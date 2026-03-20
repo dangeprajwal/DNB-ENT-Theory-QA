@@ -4,13 +4,14 @@ tags:
   - rhinology
   - inflammation
   - functional
+description: "DNB ENT Paper 2 (Rhinology) — Invasive Fungal Rhinosinusitis. Answers based on Scott-Brown 8th Edition."
 ---
 
 # Invasive [[AFRS Fungal Ball|Fungal Rhinosinusitis]]
 
-**Question:** *Discuss the classification, etiopathogenesis, clinical features and management of invasive fungal rhinosinusitis.*
-
-**Source:** Scott-Brown's Otorhinolaryngology, 8th Edition - Volume 1, Chapter 21 (Fungal Infections)
+> [!question] Questions Covered
+> - Discuss the classification, etiopathogenesis, clinical features and management of invasive fungal rhinosinusitis.
+*Source:** Scott-Brown's Otorhinolaryngology, 8th Edition - Volume 1, Chapter 21 (Fungal Infections)
 
 ---
 

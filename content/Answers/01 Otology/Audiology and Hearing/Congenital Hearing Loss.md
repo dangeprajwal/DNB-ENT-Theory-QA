@@ -4,12 +4,21 @@ tags:
   - otology
   - audiology
   - hearing
+description: "DNB ENT Paper 1 (Otology) — Dnb ENT Exam Answers. Answers based on Scott-Brown 8th Edition."
 ---
 
 # Dnb ENT Exam Answers
 ## Topic: Congenital Hearing Loss, Deaf Child Evaluation, Congenital [[Mastoid Surgery Cholesteatoma|Cholesteatoma]], and Cochlear Malformations
 
 **Source:** Scott-Brown's Otorhinolaryngology, 8th Edition, Volumes 1 & 2
+
+> [!question] Questions Covered
+> - Enumerate various genes responsible for congenital hearing loss. Briefly discuss the role of gene therapy in such conditions.
+> - Enumerate the causes of congenital deafness. How would you evaluate a deaf child?
+> - Enumerate the causes of conductive hearing loss with intact tympanic membrane. Describe clinical features and management of congenital cholesteatoma.
+> - Define congenital cholesteatoma. Discuss the investigation and management of congenital cholesteatoma.
+> - Describe the various types of congenital malformation of cochlea according to Sennaroglu classification and possible ways of hearing rehabilitation of each deformity.
+
 
 ---
 

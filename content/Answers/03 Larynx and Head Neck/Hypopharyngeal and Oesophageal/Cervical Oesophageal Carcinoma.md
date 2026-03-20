@@ -4,13 +4,14 @@ tags:
   - laryngology
   - oncology
   - oesophageal
+description: "DNB ENT Paper 3 (Larynx & Head Neck) — Cervical Oesophageal Carcinoma. Answers based on Scott-Brown 8th Edition."
 ---
 
 # Cervical Oesophageal Carcinoma
 
-**Question:** *Discuss the clinical features, investigations, and management of cervical oesophageal carcinoma.*
-
-**Source:** Scott-Brown's Otorhinolaryngology, 8th Edition - Volume 3, Chapter 16 (Management of Hypopharyngeal Cancer), Chapter 47 (Anatomy of the Pharynx and Oesophagus), Chapter 53 (Oesophageal Diseases), Chapter 93 (Reconstructive Microsurgery)
+> [!question] Questions Covered
+> - Discuss the clinical features, investigations, and management of cervical oesophageal carcinoma.
+*Source:** Scott-Brown's Otorhinolaryngology, 8th Edition - Volume 3, Chapter 16 (Management of Hypopharyngeal Cancer), Chapter 47 (Anatomy of the Pharynx and Oesophagus), Chapter 53 (Oesophageal Diseases), Chapter 93 (Reconstructive Microsurgery)
 
 ---
 

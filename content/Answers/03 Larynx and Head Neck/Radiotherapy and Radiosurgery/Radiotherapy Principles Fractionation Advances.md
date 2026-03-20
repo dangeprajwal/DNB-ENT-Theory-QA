@@ -3,9 +3,15 @@ tags:
   - paper3
   - laryngology
   - radiotherapy
+description: "DNB ENT Paper 3 (Larynx & Head Neck) — Radiotherapy in Head and Neck Cancer — Types, Fractionation, Radiosensitizers.... Answers based on Scott-Brown 8th Edi..."
 ---
 
 # Radiotherapy in Head and Neck Cancer — Types, Fractionation, Radiosensitizers and Recent Developments
+
+> [!question] Questions Covered
+> - **2013:** Recent developments in radiation therapy for H&N Malignancies. Radiosensitizers and Radioprotective agents.
+> - **2020:** What is fractionation of radiotherapy? Role of Proton beam therapy in head and neck malignancy.
+> - **2022:** Describe the types of radiotherapy for head neck cancer. Discuss Gamma knife therapy.
 
 *Q13D-10 (2013): Recent developments in radiation therapy for H&N Malignancies. Radiosensitizers and Radioprotective agents.*
 *Q2020-31 (2020): What is fractionation of radiotherapy? Role of Proton beam therapy in head and neck malignancy.*

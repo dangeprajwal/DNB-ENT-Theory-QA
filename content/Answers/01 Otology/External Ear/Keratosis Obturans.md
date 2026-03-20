@@ -3,13 +3,14 @@ tags:
   - paper1
   - otology
   - external-ear
+description: "DNB ENT Paper 1 (Otology) — Keratosis Obturans Presenting with Facial Nerve Palsy. Answers based on Scott-Brown 8th Edition."
 ---
 
 # Keratosis Obturans Presenting with [[Facial Nerve|Facial Nerve Palsy]]
 
-**Question:** *Discuss keratosis obturans presenting with facial nerve palsy. Include its pathology, clinical features, staging, and management.*
-
-**Source:** Scott-Brown's Otorhinolaryngology, 8th Edition - Volume 2, Chapter 76
+> [!question] Questions Covered
+> - Discuss keratosis obturans presenting with facial nerve palsy. Include its pathology, clinical features, staging, and management.
+*Source:** Scott-Brown's Otorhinolaryngology, 8th Edition - Volume 2, Chapter 76
 
 ---
 

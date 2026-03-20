@@ -3,9 +3,16 @@ tags:
   - paper3
   - laryngology
   - congenital
+description: "DNB ENT Paper 3 (Larynx & Head Neck) — Branchial Anomalies, Biofilms & Congenital Conditions. Answers based on Scott-Brown 8th Edition."
 ---
 
 # Branchial Anomalies, Biofilms & Congenital Conditions
+
+> [!question] Questions Covered
+> - Q23: Biofilm — definition, stages, role in ENT infections (2021 Jun)
+> - Q27: Branchial cleft anomalies embryology. 2nd branchial fistula management (2020 Dec)
+> - Q150: Branchial cyst — etiopathogenesis and management (2013 Jun)
+> - Q157: Down syndrome features. Craniofacial dysostosis treatment (2011 Dec)
 
 > **Covers Q23, Q27, Q150, Q157**
 > **Source: Scott-Brown's Otorhinolaryngology, 8th Edition**

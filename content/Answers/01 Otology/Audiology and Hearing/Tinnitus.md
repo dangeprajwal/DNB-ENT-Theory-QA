@@ -4,11 +4,14 @@ tags:
   - otology
   - audiology
   - hearing
+description: "DNB ENT Paper 1 (Otology) — TINNITUS. Answers based on Scott-Brown 8th Edition."
 ---
 
 # TINNITUS
 
-**Question:** *Define and classify tinnitus. Describe the pathophysiology of tinnitus. Enumerate the various causes of pulsatile tinnitus.*
+> [!question] Questions Covered
+> - Define and classify tinnitus. Describe the pathophysiology of tinnitus. Enumerate the various causes of pulsatile tinnitus.
+
 
 Source: Scott-Brown's Otorhinolaryngology, Volume 2, Chapter 61 - Tinnitus and Hyperacusis
 

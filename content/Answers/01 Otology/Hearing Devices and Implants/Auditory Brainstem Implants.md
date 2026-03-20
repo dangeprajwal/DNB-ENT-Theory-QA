@@ -5,13 +5,14 @@ tags:
   - devices
   - implants
   - rehabilitation
+description: "DNB ENT Paper 1 (Otology) — Auditory Brainstem Implants and Recent Developments. Answers based on Scott-Brown 8th Edition."
 ---
 
 # Auditory Brainstem Implants and Recent Developments
 
-**Question:** *Describe the auditory brainstem implant (ABI), its indications, surgical considerations, outcomes and recent developments in its application.*
-
-**Source:** Scott-Brown's Otorhinolaryngology, Volume 2 – Chapter 96: Auditory Brainstem Implantation (Shakeel R. Saeed and Harry R.F. Powell)
+> [!question] Questions Covered
+> - Describe the auditory brainstem implant (ABI), its indications, surgical considerations, outcomes and recent developments in its application.
+*Source:** Scott-Brown's Otorhinolaryngology, Volume 2 – Chapter 96: Auditory Brainstem Implantation (Shakeel R. Saeed and Harry R.F. Powell)
 
 ---
 

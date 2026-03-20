@@ -5,11 +5,14 @@ tags:
   - devices
   - implants
   - rehabilitation
+description: "DNB ENT Paper 1 (Otology) — Electroacoustic Stimulation and Hearing Preservation in Cochlear Implantation. Answers based on Scott-Brown 8th Edition."
 ---
 
 # Electroacoustic Stimulation and Hearing Preservation in [[Cochlear Implant|Cochlear Implantation]]
 
-**Question (Q12, December 2019):** *Describe concepts and its application of Electroacoustic stimulation for management of deaf child. Surgical factors for preserving hearing in cochlear implantation.*
+> [!question] Questions Covered
+> - **Q12, December 2019:** Describe concepts and its application of Electroacoustic stimulation for management of deaf child. Surgical factors for preserving hearing in cochlear implantation.
+
 
 **Source:** Scott-Brown's Otorhinolaryngology, 8th Edition - Volume 2, Chapter 11: Paediatric Implantation Otology; Chapter 96: Cochlear Implantation in Adults
 

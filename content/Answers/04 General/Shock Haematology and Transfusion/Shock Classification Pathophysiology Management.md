@@ -4,18 +4,19 @@ tags:
   - general
   - haematology
   - emergency
+description: "DNB ENT Paper 4 (General) — Shock: Classification, Pathophysiology and Management. Answers based on Scott-Brown 8th Edition."
 ---
 
 # Shock: Classification, Pathophysiology and Management
 
-## Questions Covered
-- *Q2019-18: Enumerate various types of shock. Discuss management of a case of anaphylaxis*
-- *Q2021-43: Define shock. Classify the different types of shock. Pathophysiology and management of hypovolemic shock*
-- *Q2023-92: Define shock. Classify types of shock. Pathophysiology and management of hypovolemic shock*
-- *Q2024-120 (Part A): Pathophysiology of septic shock*
-- *Q2025-123: Define hemorrhagic shock. Classification and management. Contents of packed red cells and FFP and their indications*
+> [!question] Questions Covered
+> - *Q2019-18: Enumerate various types of shock. Discuss management of a case of anaphylaxis*
+> - *Q2021-43: Define shock. Classify the different types of shock. Pathophysiology and management of hypovolemic shock*
+> - *Q2023-92: Define shock. Classify types of shock. Pathophysiology and management of hypovolemic shock*
+> - *Q2024-120 (Part A): Pathophysiology of septic shock*
+> - *Q2025-123: Define hemorrhagic shock. Classification and management. Contents of packed red cells and FFP and their indications*
+> - Scott-Brown's Otorhinolaryngology, 8th Edition — Volume 1, Chapter 24: Blood Groups, Blood Components and Alternatives to Transfusion (pp. 239-248); Chapter 33: Adult Critical Care (pp. 349-359); Chapter 14: Allergy (pp. 137-148); Volume 3, Chapter 38: Neck Trauma (pp. 595-600)
 
-**Source:** Scott-Brown's Otorhinolaryngology, 8th Edition — Volume 1, Chapter 24: Blood Groups, Blood Components and Alternatives to Transfusion (pp. 239-248); Chapter 33: Adult Critical Care (pp. 349-359); Chapter 14: Allergy (pp. 137-148); Volume 3, Chapter 38: Neck Trauma (pp. 595-600)
 
 ---
 

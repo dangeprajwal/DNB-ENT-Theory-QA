@@ -4,16 +4,17 @@ tags:
   - otology
   - anatomy
   - embryology
+description: "DNB ENT Paper 1 (Otology) — Endoscopic Middle Ear Anatomy & Retrotympanum. Answers based on Scott-Brown 8th Edition."
 ---
 
 # Endoscopic Middle Ear Anatomy & Retrotympanum
 
-## Questions Covered
-- **Q44 (2021):** Describe the endoscopic middle ear anatomy with suitable diagrams. Enumerate the recommended endoscopic instruments for ear surgery.
-- **Q52 (2022):** Enumerate the various posterior mesotympanic spaces. Describe the various types and grades of sinus tympani with labelled diagrams.
-- **Q74 (2023):** Describe the endoscopic anatomy of retrotympanum with suitable diagrams. Discuss the relation (along with measurements) of the position of round window membrane with other landmarks.
+> [!question] Questions Covered
+> - **Q44 (2021):** Describe the endoscopic middle ear anatomy with suitable diagrams. Enumerate the recommended endoscopic instruments for ear surgery.
+> - **Q52 (2022):** Enumerate the various posterior mesotympanic spaces. Describe the various types and grades of sinus tympani with labelled diagrams.
+> - **Q74 (2023):** Describe the endoscopic anatomy of retrotympanum with suitable diagrams. Discuss the relation (along with measurements) of the position of round window membrane with other landmarks.
+> - Scott-Brown's Otorhinolaryngology 8th Edition, Volume 2 — Chapter 46 (Anatomy of External and Middle Ear), Chapter 86 ([[Endoscopic Ear Surgery|Endoscopic Ear Surgery]])
 
-**Source:** Scott-Brown's Otorhinolaryngology 8th Edition, Volume 2 — Chapter 46 (Anatomy of External and Middle Ear), Chapter 86 ([[Endoscopic Ear Surgery|Endoscopic Ear Surgery]])
 
 ---
 

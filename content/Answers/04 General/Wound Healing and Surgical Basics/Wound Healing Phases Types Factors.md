@@ -4,19 +4,20 @@ tags:
   - general
   - surgery
   - wound-healing
+description: "DNB ENT Paper 4 (General) — Wound Healing — Phases, Types, Cytokines and Factors. Answers based on Scott-Brown 8th Edition."
 ---
 
 # Wound Healing — Phases, Types, Cytokines and Factors
 
-## Questions Covered
-- *Q11D-1: Enumerate the four distinct phases of wound healing. Role of collagen and cytokines in wound healing*
-- *Q13J-3: Describe the various surgical wounds and discuss wound healing*
-- *Q14J-1: Mechanism of wound healing. Intrinsic and extrinsic factors affecting wound healing. Best practices to improve healing*
-- *Q15J-7: Factors affecting wound healing. Safe surgical techniques to improve wound healing*
-- *Q16D-1: Define wound healing. Types of wound healing. Process of wound healing by secondary intention*
-- *Q2020-37: Classify wounds based on level of contamination at surgery. Source and role of cytokines/growth factors in wound healing*
+> [!question] Questions Covered
+> - *Q11D-1: Enumerate the four distinct phases of wound healing. Role of collagen and cytokines in wound healing*
+> - *Q13J-3: Describe the various surgical wounds and discuss wound healing*
+> - *Q14J-1: Mechanism of wound healing. Intrinsic and extrinsic factors affecting wound healing. Best practices to improve healing*
+> - *Q15J-7: Factors affecting wound healing. Safe surgical techniques to improve wound healing*
+> - *Q16D-1: Define wound healing. Types of wound healing. Process of wound healing by secondary intention*
+> - *Q2020-37: Classify wounds based on level of contamination at surgery. Source and role of cytokines/growth factors in wound healing*
+> - Scott-Brown's Otorhinolaryngology, 8th Edition — Volume 1, Chapter 10: Soft and Hard Tissue Repair (pp. 93-105)
 
-**Source:** Scott-Brown's Otorhinolaryngology, 8th Edition — Volume 1, Chapter 10: Soft and Hard Tissue Repair (pp. 93-105)
 
 ---
 

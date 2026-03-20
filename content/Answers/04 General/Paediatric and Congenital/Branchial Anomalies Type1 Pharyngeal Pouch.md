@@ -4,6 +4,7 @@ tags:
   - general
   - paediatric
   - congenital
+description: "DNB ENT Paper 4 (General) — Branchial Anomalies — Aetiopathogenesis and Type 1 Branchial Cleft Anomaly. Answers based on Scott-Brown 8th Edition."
 ---
 
 # Branchial Anomalies — Aetiopathogenesis and Type 1 Branchial Cleft Anomaly
@@ -11,6 +12,10 @@ tags:
 **Question 1:** *Aetiopathogenesis of various branchial anomalies. Clinical features and management of type 1 branchial cleft anomaly.*
 
 **Source:** Scott-Brown's Otorhinolaryngology, 8th Edition - Volume 2, Chapter 41 (Cysts and Sinuses of the Head and Neck)
+
+
+> [!question] Questions Covered
+> - Aetiopathogenesis of various branchial anomalies. Clinical features and management of type 1 branchial cleft anomaly.
 
 ---
 

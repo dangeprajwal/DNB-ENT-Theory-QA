@@ -3,13 +3,14 @@ tags:
   - paper3
   - laryngology
   - diagnostics
+description: "DNB ENT Paper 3 (Larynx & Head Neck) — Videolaryngostroboscopy, Contact Endoscopy and Laryngeal Diagnostic Techniques. Answers based on Scott-Brown 8th Edition."
 ---
 
 # Videolaryngostroboscopy, Contact Endoscopy and Laryngeal Diagnostic Techniques
 
-**Question:** *Video laryngostroboscopy — principle and interpretation. Stroboscopy — definition, parameters, clinical uses. Contact endoscopy — procedure and applications in ENT. Video laryngoscopy — principle and clinical applications.*
-
-**Source:** Scott-Brown's Volume 3, Chapters 59 (Physiology of the Larynx), 61 (Assessment and Examination of the Larynx), 62 (Evaluation of the Voice) and 63 (Structural Disorders of the Vocal Cords); Volume 1, Chapter 51 (Contact Endoscopy of the Upper Aerodigestive Tract)
+> [!question] Questions Covered
+> - Video laryngostroboscopy — principle and interpretation. Stroboscopy — definition, parameters, clinical uses. Contact endoscopy — procedure and applications in ENT. Video laryngoscopy — principle and clinical applications.
+*Source:** Scott-Brown's Volume 3, Chapters 59 (Physiology of the Larynx), 61 (Assessment and Examination of the Larynx), 62 (Evaluation of the Voice) and 63 (Structural Disorders of the Vocal Cords); Volume 1, Chapter 51 (Contact Endoscopy of the Upper Aerodigestive Tract)
 
 ---
 

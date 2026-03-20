@@ -4,6 +4,7 @@ tags:
   - otology
   - anatomy
   - embryology
+description: "DNB ENT Paper 1 (Otology) — Embryology of Pinna, Congenital Anomalies, and Collaural Fistula. Answers based on Scott-Brown 8th Edition."
 ---
 
 # Embryology of Pinna, Congenital Anomalies, and Collaural Fistula
@@ -14,12 +15,11 @@ tags:
 - Chapter 41: Cysts and Sinuses of Head and Neck
 - Chapter 16: Microtia and External Ear Abnormalities
 
-## Questions Covered
+> [!question] Questions Covered
+> - **Question:** Year
+> - **| **Q38:** 2021
+> - **| **Q80:** 2023
 
-| Question | Year | Topic |
-|----------|------|-------|
-| **Q38** | 2021 | Describe the embryologic development of pinna. Describe various congenital anomalies of pinna. What are the structures derived from the first pharyngeal arch? |
-| **Q80** | 2023 | Describe the embryology of collaural fistula. How would you investigate and manage such a case? |
 
 ---
 

@@ -3,6 +3,7 @@ tags:
   - paper2
   - rhinology
   - miscellaneous
+description: "DNB ENT Paper 2 (Rhinology) — Facial Pain, Trigeminal Neuralgia and Rhinogenic Headache. Answers based on Scott-Brown 8th Edition."
 ---
 
 # Facial Pain, Trigeminal Neuralgia and Rhinogenic Headache
@@ -12,6 +13,11 @@ tags:
 **Question 2:** *Enumerate headache types and their etiologies. Describe the clinical features and management of Sluder's neuralgia.* (Q66, Jun 2022)
 
 **Source:** Scott-Brown's Otorhinolaryngology, 8th Edition — Volume 1 Chapter 112 (Facial Pain); Volume 3 Chapter 38 (Orofacial Pain)
+
+
+> [!question] Questions Covered
+> - Discuss the etiology of facial pain. Describe the clinical features and management of trigeminal neuralgia.
+> - Enumerate headache types and their etiologies. Describe the clinical features and management of Sluder's neuralgia.
 
 ---
 

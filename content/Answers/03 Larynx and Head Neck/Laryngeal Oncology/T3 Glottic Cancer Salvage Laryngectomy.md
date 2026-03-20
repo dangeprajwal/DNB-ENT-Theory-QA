@@ -4,13 +4,14 @@ tags:
   - laryngology
   - oncology
   - surgery
+description: "DNB ENT Paper 3 (Larynx & Head Neck) — T3 Glottic Cancer — Pattern of Spread, Management and Salvage Laryngectomy. Answers based on Scott-Brown 8th Edition."
 ---
 
 # T3 Glottic Cancer — Pattern of Spread, Management and Salvage Laryngectomy
 
-**Question:** *Discuss the pattern of spread of glottic laryngeal cancer. Describe the management of T3 glottic cancer as per the latest guidelines. Discuss the role of salvage laryngectomy in management of such a lesion.*
-
-**Source:** Scott-Brown's Otorhinolaryngology, 8th Edition - Volume 3, Chapter 14 (Tumours of the Larynx), Chapter 27 (Open Conservation Surgery)
+> [!question] Questions Covered
+> - Discuss the pattern of spread of glottic laryngeal cancer. Describe the management of T3 glottic cancer as per the latest guidelines. Discuss the role of salvage laryngectomy in management of such a lesion.
+*Source:** Scott-Brown's Otorhinolaryngology, 8th Edition - Volume 3, Chapter 14 (Tumours of the Larynx), Chapter 27 (Open Conservation Surgery)
 
 ---
 

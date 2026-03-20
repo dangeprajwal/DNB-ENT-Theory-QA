@@ -4,6 +4,7 @@ tags:
   - general
   - infections
   - pharmacology
+description: "DNB ENT Paper 4 (General) — Drugs in Acute Vestibular Crisis and Classification of Ototoxic Agents. Answers based on Scott-Brown 8th Edition."
 ---
 
 # Drugs in Acute Vestibular Crisis and Classification of Ototoxic Agents
@@ -13,6 +14,11 @@ tags:
 **Question 2:** *Classify ototoxic agents and discuss mechanism of ototoxicity.*
 
 **Source:** Scott-Brown's Otorhinolaryngology, 8th Edition - Volume 2, Chapter 76 (Medical Management of Vertigo), Chapter 10 (Management of the Hearing Impaired Child), and Volume 1, Chapter 2 (Genetics of Aminoglycoside Toxicity)
+
+
+> [!question] Questions Covered
+> - Describe five main drugs in acute vestibular crisis — dose, side effects and contraindications.
+> - Classify ototoxic agents and discuss mechanism of ototoxicity.
 
 ---
 

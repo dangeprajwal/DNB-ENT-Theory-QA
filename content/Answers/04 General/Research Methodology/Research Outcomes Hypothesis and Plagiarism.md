@@ -3,9 +3,13 @@ tags:
   - paper4
   - research
   - evidence-based-medicine
+description: "DNB ENT Paper 4 (General) — OUTCOME-BASED RESEARCH, HYPOTHESIS TESTING, AND PLAGIARISM IN MEDICAL LITERATURE. Answers based on Scott-Brown 8th Edition."
 ---
 
 # OUTCOME-BASED RESEARCH, HYPOTHESIS TESTING, AND PLAGIARISM IN MEDICAL LITERATURE
+
+> [!question] Questions Covered
+> - Last updated: February 2026
 
 ## QUESTIONS ANSWERED IN THIS DOCUMENT
 

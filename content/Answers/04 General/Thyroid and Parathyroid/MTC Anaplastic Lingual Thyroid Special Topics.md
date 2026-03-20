@@ -4,6 +4,7 @@ tags:
   - endocrinology
   - thyroid
   - surgery
+description: "DNB ENT Paper 4 (General) — Medullary Thyroid Cancer, Anaplastic Carcinoma and Special Thyroid Topics. Answers based on Scott-Brown 8th Edition."
 ---
 
 # Medullary Thyroid Cancer, Anaplastic Carcinoma and Special Thyroid Topics
@@ -17,6 +18,13 @@ tags:
 **Question 4:** *Thyroid ophthalmoplegia and its management. Role of central [[Neck Dissection|neck dissection]] in differentiated thyroid cancers.*
 
 **Source:** Scott-Brown's Otorhinolaryngology, 8th Edition - Volume 1, Chapter 53 (Developmental Anatomy), Chapter 58 (Pathology), Chapter 61 (Benign Thyroid Disease), Chapter 62 (DTC Management), Chapter 63 (MTC), Chapter 64 (Anaplastic/Lymphoma)
+
+
+> [!question] Questions Covered
+> - Embryology, clinical features and management of lingual thyroid.
+> - Gene mutations in aetiology of medullary thyroid carcinoma. Syndromes associated with MTC. Role of prophylactic thyroidectomy in familial MTC.
+> - Clinical features and recent advances in management of anaplastic thyroid cancer.
+> - Thyroid ophthalmoplegia and its management. Role of central [[Neck Dissection|neck dissection]] in differentiated thyroid cancers.
 
 ---
 

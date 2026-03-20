@@ -4,13 +4,14 @@ tags:
   - otology
   - facial-nerve
   - skull-base
+description: "DNB ENT Paper 1 (Otology) — Intra-operative Facial Nerve Monitoring. Answers based on Scott-Brown 8th Edition."
 ---
 
 # Intra-operative Facial Nerve Monitoring
 
-**Question:** *Discuss the indications, anaesthesia modifications, and management of surgical trauma with loss of signal in intra-operative facial nerve monitoring.*
-
-**Source:** Scott-Brown's Otorhinolaryngology, 8th Edition
+> [!question] Questions Covered
+> - Discuss the indications, anaesthesia modifications, and management of surgical trauma with loss of signal in intra-operative facial nerve monitoring.
+*Source:** Scott-Brown's Otorhinolaryngology, 8th Edition
 - Volume 1, Chapter 45 (Electrophysiology and Monitoring)
 - Volume 2, Chapters 99, 102 (Facial Paralysis, [[Vestibular Schwannoma|Vestibular Schwannoma]] Surgery)
 

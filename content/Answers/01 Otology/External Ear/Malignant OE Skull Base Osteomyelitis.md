@@ -3,11 +3,14 @@ tags:
   - paper1
   - otology
   - external-ear
+description: "DNB ENT Paper 1 (Otology) — Malignant Otitis Externa and Skull Base Osteomyelitis. Answers based on Scott-Brown 8th Edition."
 ---
 
 # Malignant Otitis Externa and Skull Base Osteomyelitis
 
-**Question (Q14, December 2019):** *Describe etiopathogenesis, clinical features and management of malignant otitis externa.*
+> [!question] Questions Covered
+> - **Q14, December 2019:** Describe etiopathogenesis, clinical features and management of malignant otitis externa.
+
 
 **Question (Q53, December 2021):** *Describe the clinical features, diagnostic criteria, stages, investigation and management of Malignant Otitis Externa.*
 

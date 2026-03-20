@@ -3,13 +3,14 @@ tags:
   - paper3
   - airway
   - paediatric
+description: "DNB ENT Paper 3 (Larynx & Head Neck) — Subglottic Stenosis in Children — Aetiology, Classification and Management. Answers based on Scott-Brown 8th Edition."
 ---
 
 # Subglottic Stenosis in Children — Aetiology, Classification and Management
 
-**Question:** *Subglottic stenosis — causes, classification (Cotton-Myer grading). Evaluation and surgical management of congenital SGS including Grade 4. Diagnosis in term and preterm neonates. Congenital anomalies of the larynx.*
-
-**Source:** Scott-Brown's Volume 2, Chapters 28 (Stridor), 30 (Congenital Disorders of the Larynx, Trachea and Bronchi) and 31 (Acquired Laryngotracheal Stenosis)
+> [!question] Questions Covered
+> - Subglottic stenosis — causes, classification (Cotton-Myer grading). Evaluation and surgical management of congenital SGS including Grade 4. Diagnosis in term and preterm neonates. Congenital anomalies of the larynx.
+*Source:** Scott-Brown's Volume 2, Chapters 28 (Stridor), 30 (Congenital Disorders of the Larynx, Trachea and Bronchi) and 31 (Acquired Laryngotracheal Stenosis)
 
 ---
 

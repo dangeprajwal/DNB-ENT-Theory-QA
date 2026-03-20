@@ -4,18 +4,19 @@ tags:
   - general
   - molecular
   - research
+description: "DNB ENT Paper 4 (General) — Gene Therapy in ENT and Head & Neck Cancer. Answers based on Scott-Brown 8th Edition."
 ---
 
 # Gene Therapy in ENT and Head & Neck Cancer
 
-## Questions Covered
-- *Q14J-5 (Part B): Gene therapy and its possible role in ENT diseases*
-- *Q15D-8: Role of gene therapy in Head & Neck cancers*
-- *Q2021-46: What is gene therapy? Discuss the delivery mechanism and its role in head and neck diseases*
-- *Q2021-51: Define gene therapy. Discuss therapeutic strategies using gene therapy in H&N Cancer*
-- *Q2024-103: Describe gene therapy. Describe various strategies to administer gene therapy in ENT*
+> [!question] Questions Covered
+> - *Q14J-5 (Part B): Gene therapy and its possible role in ENT diseases*
+> - *Q15D-8: Role of gene therapy in Head & Neck cancers*
+> - *Q2021-46: What is gene therapy? Discuss the delivery mechanism and its role in head and neck diseases*
+> - *Q2021-51: Define gene therapy. Discuss therapeutic strategies using gene therapy in H&N Cancer*
+> - *Q2024-103: Describe gene therapy. Describe various strategies to administer gene therapy in ENT*
+> - Scott-Brown's Otorhinolaryngology, 8th Edition — Volume 1, Chapter 3: Gene Therapy (pp. 29-36)
 
-**Source:** Scott-Brown's Otorhinolaryngology, 8th Edition — Volume 1, Chapter 3: Gene Therapy (pp. 29-36)
 
 ---
 

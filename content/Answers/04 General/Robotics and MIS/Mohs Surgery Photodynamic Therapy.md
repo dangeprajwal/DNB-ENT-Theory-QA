@@ -4,13 +4,14 @@ tags:
   - general
   - technology
   - surgery
+description: "DNB ENT Paper 4 (General) — Mohs Micrographic Surgery and Photodynamic Therapy for Cutaneous Malignancy. Answers based on Scott-Brown 8th Edition."
 ---
 
 # Mohs Micrographic Surgery and Photodynamic Therapy for Cutaneous Malignancy
 
-**Question:** *What is Moh's surgery? Photodynamic therapy for cutaneous malignancy of head and neck.*
-
-**Source:** Scott-Brown's Otorhinolaryngology, 8th Edition - Volume 3, Chapter 94 (Non-Melanoma Skin Cancer) and Volume 1, Chapter 50 (Laser Principles in Otolaryngology)
+> [!question] Questions Covered
+> - What is Moh's surgery? Photodynamic therapy for cutaneous malignancy of head and neck.
+*Source:** Scott-Brown's Otorhinolaryngology, 8th Edition - Volume 3, Chapter 94 (Non-Melanoma Skin Cancer) and Volume 1, Chapter 50 (Laser Principles in Otolaryngology)
 
 ---
 

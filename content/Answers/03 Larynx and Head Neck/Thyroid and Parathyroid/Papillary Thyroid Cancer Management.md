@@ -4,13 +4,14 @@ tags:
   - endocrinology
   - thyroid
   - surgery
+description: "DNB ENT Paper 3 (Larynx & Head Neck) — Papillary Thyroid Cancer — Evaluation and Management. Answers based on Scott-Brown 8th Edition."
 ---
 
 # Papillary Thyroid Cancer — Evaluation and Management
 
-**Question:** *A 40-year-old lady presented with solitary thyroid nodule 4 cm size and multiple ipsilateral neck nodes, reported as metastatic papillary thyroid cancer on FNAC. Discuss the evaluation and further management.*
-
-**Source:** Scott-Brown's Otorhinolaryngology, 8th Edition - Volume 1, Chapter 57 (Imaging), Chapter 58 (Pathology), Chapter 62 (DTC Management), Chapter 67 (Thyroidectomy), Chapter 68 (Locally Advanced/Nodal Disease)
+> [!question] Questions Covered
+> - A 40-year-old lady presented with solitary thyroid nodule 4 cm size and multiple ipsilateral neck nodes, reported as metastatic papillary thyroid cancer on FNAC. Discuss the evaluation and further management.
+*Source:** Scott-Brown's Otorhinolaryngology, 8th Edition - Volume 1, Chapter 57 (Imaging), Chapter 58 (Pathology), Chapter 62 (DTC Management), Chapter 67 (Thyroidectomy), Chapter 68 (Locally Advanced/Nodal Disease)
 
 ---
 

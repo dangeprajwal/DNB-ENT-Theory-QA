@@ -3,13 +3,14 @@ tags:
   - paper2
   - rhinology
   - anatomy
+description: "DNB ENT Paper 2 (Rhinology) — Anatomy of the Orbit. Answers based on Scott-Brown 8th Edition."
 ---
 
 # Anatomy of the Orbit
 
-**Question:** *Describe the anatomy of the orbit with diagrams.*
-
-**Source:** Scott-Brown's Otorhinolaryngology, 8th Edition - Volume 1, Chapter 111 (Disorders of the Orbit) & Chapter 87 (Anatomy of the Nose and Paranasal Sinuses)
+> [!question] Questions Covered
+> - Describe the anatomy of the orbit with diagrams.
+*Source:** Scott-Brown's Otorhinolaryngology, 8th Edition - Volume 1, Chapter 111 (Disorders of the Orbit) & Chapter 87 (Anatomy of the Nose and Paranasal Sinuses)
 
 ---
 

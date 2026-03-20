@@ -4,16 +4,17 @@ tags:
   - otology
   - surgery
   - middle-ear
+description: "DNB ENT Paper 1 (Otology) — Ossiculoplasty, CSF Otorrhea & Cochleostomy. Answers based on Scott-Brown 8th Edition."
 ---
 
 # Ossiculoplasty, CSF Otorrhea & Cochleostomy
 
-## Questions Covered
-- **Q106 (2024):** Classify ossicular defects. Describe the materials used for ossiculoplasty. How will you manage erosion of long process of incus?
-- **Q93 (2023):** Discuss the diagnosis and management of CSF otorrhea following temporal bone trauma.
-- **Q43 (2021):** Describe the surgical steps involved in cochleostomy for [[Cochlear Implant|cochlear implant]] surgery.
+> [!question] Questions Covered
+> - **Q106 (2024):** Classify ossicular defects. Describe the materials used for ossiculoplasty. How will you manage erosion of long process of incus?
+> - **Q93 (2023):** Discuss the diagnosis and management of CSF otorrhea following temporal bone trauma.
+> - **Q43 (2021):** Describe the surgical steps involved in cochleostomy for [[Cochlear Implant|cochlear implant]] surgery.
+> - Scott-Brown's Otorhinolaryngology 8th Edition, Volume 2 — Chapter 85 (Ossiculoplasty), Chapter 94 (Cochlear Implants), Chapter 91 (Ear Trauma)
 
-**Source:** Scott-Brown's Otorhinolaryngology 8th Edition, Volume 2 — Chapter 85 (Ossiculoplasty), Chapter 94 (Cochlear Implants), Chapter 91 (Ear Trauma)
 
 ---
 

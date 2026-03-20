@@ -4,6 +4,7 @@ tags:
   - otology
   - surgery
   - middle-ear
+description: "DNB ENT Paper 1 (Otology) — Otosclerosis. Answers based on Scott-Brown 8th Edition."
 ---
 
 # Otosclerosis
@@ -18,25 +19,12 @@ tags:
 
 ---
 
-**Question:** *Discuss the etiopathogenesis, histopathology, genetics, clinical features, diagnosis (clinical, audiological and radiological), and management of otosclerosis including surgical challenges and far advanced otosclerosis.*
-
-Source: Scott-Brown's Otorhinolaryngology Head and Neck Surgery, Volume 2, Chapter 89
-
----
-
-## INTRODUCTION
-
-Otosclerosis is a localized hereditary disorder of bone metabolism of otic capsule enchondral bone characterized by disordered resorption and deposition of bone. It results from increased and pathologic bone remodelling - the basic lesion consists of areas of bone resorption by osteoclasts and new bone formation by osteoblasts, accompanied by vascular proliferation and tissue stroma.
-
-The condition is unique to humans and affects the otic capsule, which normally exhibits limited remodelling compared to the rest of the skeleton. The prevalence of clinical otosclerosis in the white population is approximately 2%, with histological otosclerosis found in 2.5-3.4% of unselected temporal bones.
-
----
-
-## PART A: DEFINITIONS AND CLASSIFICATION
-
-### Types of Otosclerosis
-
-**Clinical Otosclerosis:** Lesions affecting the stapes, stapediovestibular joint, or round window membrane causing conductive hearing loss. In mixed hearing loss, lesions also affect the cochlear endosteum.
+> [!question] Questions Covered
+> - Discuss the etiopathogenesis, histopathology, genetics, clinical features, diagnosis (clinical, audiological and radiological), and management of otosclerosis including surgical challenges and far advanced otosclerosis.
+> - ## INTRODUCTION
+> - the basic lesion consists of areas of bone resorption by osteoclasts and new bone formation by osteoblasts, accompanied by vascular proliferation and tissue stroma.
+> - ## PART A: DEFINITIONS AND CLASSIFICATION
+*Clinical Otosclerosis:** Lesions affecting the stapes, stapediovestibular joint, or round window membrane causing conductive hearing loss. In mixed hearing loss, lesions also affect the cochlear endosteum.
 
 **Cochlear Otosclerosis:** Lesions involving the cochlear endosteum without affecting the stapes or stapediovestibular joint, causing pure sensorineural hearing loss. Considered very rare.
 

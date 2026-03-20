@@ -3,11 +3,14 @@ tags:
   - paper1
   - otology
   - vestibular
+description: "DNB ENT Paper 1 (Otology) — Vestibular Migraine. Answers based on Scott-Brown 8th Edition."
 ---
 
 # Vestibular Migraine
 
-**Question:** *Discuss vestibular migraine (migrainous vertigo) including its classification, clinical features, diagnosis, and management.*
+> [!question] Questions Covered
+> - Discuss vestibular migraine (migrainous vertigo) including its classification, clinical features, diagnosis, and management.
+
 
 Source: Scott-Brown's Otorhinolaryngology Head and Neck Surgery, Volume 2, Chapter 67
 

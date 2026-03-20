@@ -4,9 +4,18 @@ tags:
   - reconstruction
   - surgery
   - flaps
+description: "DNB ENT Paper 3 (Larynx & Head Neck) — Free Flaps in Head and Neck Reconstruction. Answers based on Scott-Brown 8th Edition."
 ---
 
 # Free Flaps in Head and Neck Reconstruction
+
+> [!question] Questions Covered
+> - **2015:** Define free tissue transfer. What are its advantages as compared to pedicle flap in Head & Neck reconstruction?
+> - **2016:** Classify different types of free flaps used in head and neck reconstruction. Radial artery forearm flap and its clinical indications.
+> - **2019:** Describe various methods for reconstruction in head & neck cancer patients and role of free flaps.
+> - **2020:** Enumerate the various free flaps used in head and neck reconstruction. Anatomy and utility of radial free forearm flap.
+> - **2020:** Classify the various types of free flaps. Discuss the factors contributing to a compromised flap and interventions to improve skin flap survival.
+> - **2022:** Define a skin flap. What are angiosomes of head and neck? Describe anatomy of free fibular flap, blood supply and indications.
 
 *Q15D-5 (2015): Define free tissue transfer. What are its advantages as compared to pedicle flap in Head & Neck reconstruction?*
 *Q16D-8 (2016): Classify different types of free flaps used in head and neck reconstruction. Radial artery forearm flap and its clinical indications.*

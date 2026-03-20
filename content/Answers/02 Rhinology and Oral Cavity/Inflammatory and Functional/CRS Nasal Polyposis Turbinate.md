@@ -4,6 +4,7 @@ tags:
   - rhinology
   - inflammation
   - functional
+description: "DNB ENT Paper 2 (Rhinology) — CRS, Nasal Polyposis & Inferior Turbinate Management. Answers based on Scott-Brown 8th Edition."
 ---
 
 # CRS, Nasal Polyposis & Inferior Turbinate Management
@@ -23,6 +24,16 @@ tags:
 **Question 7:** *Nasal polyposis — define, describe etiopathogenesis, clinical features and management.*
 
 **Source:** Scott-Brown's Otorhinolaryngology, 8th Edition — Volume 1: Chapter 94 (Rhinosinusitis: Definitions, Classification & Diagnosis), Chapter 95 (Nasal Polyposis — Louise Melia), Chapter 105 (Management of Enlarged Turbinates)
+
+
+> [!question] Questions Covered
+> - Enumerate causes of bilateral inferior turbinate hypertrophy. Describe surgical options and their complications.
+> - Classify orbital complications of CRS. Describe medical management of CRS.
+> - Classify CRS. Describe clinical features and management of CRS.
+> - Describe features of Type 2 CRS. Surgical indications. Discuss biologicals and their indications.
+> - What are the anatomical variations that influence chronic sinusitis? How would you investigate invasive fungal sinusitis?
+> - What are the congenital conditions associated with CRS? How would you evaluate cystic fibrosis?
+> - Nasal polyposis — define, describe etiopathogenesis, clinical features and management.
 
 ---
 

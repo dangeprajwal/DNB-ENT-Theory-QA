@@ -4,6 +4,7 @@ tags:
   - rhinology
   - surgery
   - fess
+description: "DNB ENT Paper 2 (Rhinology) — Nasal Septal Perforations — Aetiology, Assessment & Surgical Repair. Answers based on Scott-Brown 8th Edition."
 ---
 
 # Nasal Septal Perforations — Aetiology, Assessment & Surgical Repair
@@ -15,6 +16,12 @@ tags:
 **Question 3:** *Describe the pathogenesis of septal perforation. What are the treatment options for a large perforation?*
 
 **Source:** Scott-Brown's Otorhinolaryngology, 8th Edition — Volume 1: Chapter 104 (Nasal Septal Perforations — Charles East and Kevin Kulendra)
+
+
+> [!question] Questions Covered
+> - Describe the surgical repair of septal perforations. Discuss factors influencing [[Frontal Recess Frontal Sinus Surgery|frontal sinus]] surgical approaches.
+> - Describe the etiology, clinical features, investigations and management of septal perforation.
+> - Describe the pathogenesis of septal perforation. What are the treatment options for a large perforation?
 
 ---
 

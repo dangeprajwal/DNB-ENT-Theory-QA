@@ -4,13 +4,14 @@ tags:
   - endocrinology
   - thyroid
   - surgery
+description: "DNB ENT Paper 3 (Larynx & Head Neck) — Parathyroid Glands — Surgical Anatomy, Primary Hyperparathyroidism and Brown .... Answers based on Scott-Brown 8th Edi..."
 ---
 
 # Parathyroid Glands — Surgical Anatomy, Primary Hyperparathyroidism and Brown Tumour
 
-**Question:** *Describe surgical anatomy of parathyroid glands. Clinical features and syndromes associated with parathyroid adenoma. Radiological assessment and surgical management. How will you manage a case of Brown tumour?*
-
-**Source:** Scott-Brown's Otorhinolaryngology, 8th Edition - Volume 1, Chapter 53 (Developmental Anatomy), Chapter 71 (Hypercalcaemia), Chapter 72 (Investigation of HPT), Chapter 73 (Management of HPT), Chapter 76 (Bilateral Exploration), Chapter 77 (MIP)
+> [!question] Questions Covered
+> - Describe surgical anatomy of parathyroid glands. Clinical features and syndromes associated with parathyroid adenoma. Radiological assessment and surgical management. How will you manage a case of Brown tumour?
+*Source:** Scott-Brown's Otorhinolaryngology, 8th Edition - Volume 1, Chapter 53 (Developmental Anatomy), Chapter 71 (Hypercalcaemia), Chapter 72 (Investigation of HPT), Chapter 73 (Management of HPT), Chapter 76 (Bilateral Exploration), Chapter 77 (MIP)
 
 ---
 

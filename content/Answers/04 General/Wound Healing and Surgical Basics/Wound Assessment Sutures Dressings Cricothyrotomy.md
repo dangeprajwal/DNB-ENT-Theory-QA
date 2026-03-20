@@ -4,18 +4,19 @@ tags:
   - general
   - surgery
   - wound-healing
+description: "DNB ENT Paper 4 (General) — Wound Assessment, Sutures, Dressings and Surgical Cricothyrotomy. Answers based on Scott-Brown 8th Edition."
 ---
 
 # Wound Assessment, Sutures, Dressings and Surgical Cricothyrotomy
 
-## Questions Covered
-- *Q15J-8: Classify the suture materials & their applications*
-- *Q18J-1: Enumerate various suture materials used in ENT & H&N surgery. Briefly describe any three surgical knots*
-- *Q2021-44: Classify different types of wounds. Ways of wound assessment and dressings for different wound types*
-- *Q2022-75: Types of [[Wound Healing Phases Types Factors|wound healing]]. Phases of wound healing. Various types of dressings used for various wounds*
-- *Q2025-121: Factors affecting wound healing and ways to improve it. Surgical cricothyrotomy*
+> [!question] Questions Covered
+> - *Q15J-8: Classify the suture materials & their applications*
+> - *Q18J-1: Enumerate various suture materials used in ENT & H&N surgery. Briefly describe any three surgical knots*
+> - *Q2021-44: Classify different types of wounds. Ways of wound assessment and dressings for different wound types*
+> - *Q2022-75: Types of [[Wound Healing Phases Types Factors|wound healing]]. Phases of wound healing. Various types of dressings used for various wounds*
+> - *Q2025-121: Factors affecting wound healing and ways to improve it. Surgical cricothyrotomy*
+> - Scott-Brown's Otorhinolaryngology, 8th Edition — Volume 1, Chapter 10: Soft and Hard Tissue Repair (pp. 93-105); Chapter 31: Recognition and Management of the Difficult Airway (pp. 319-321)
 
-**Source:** Scott-Brown's Otorhinolaryngology, 8th Edition — Volume 1, Chapter 10: Soft and Hard Tissue Repair (pp. 93-105); Chapter 31: Recognition and Management of the Difficult Airway (pp. 319-321)
 
 ---
 

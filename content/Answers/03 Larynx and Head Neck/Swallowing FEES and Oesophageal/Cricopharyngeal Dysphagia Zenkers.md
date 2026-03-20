@@ -4,13 +4,14 @@ tags:
   - laryngology
   - swallowing
   - oesophageal
+description: "DNB ENT Paper 3 (Larynx & Head Neck) — Cricopharyngeal Dysphagia and Zenker's Diverticulum. Answers based on Scott-Brown 8th Edition."
 ---
 
 # Cricopharyngeal Dysphagia and Zenker's Diverticulum
 
-**Question:** *Discuss the aetiopathogenesis, clinical features and management of cricopharyngeal dysphagia. What is a pharyngeal pouch? Describe the aetiopathogenesis of Zenker's diverticulum. Discuss endoscopic management and outcomes of pharyngeal pouch surgery.*
-
-**Source:** Scott-Brown's Otorhinolaryngology, 8th Edition - Volume 3, Chapter 52 (Cricopharyngeal Dysphagia)
+> [!question] Questions Covered
+> - Discuss the aetiopathogenesis, clinical features and management of cricopharyngeal dysphagia. What is a pharyngeal pouch? Describe the aetiopathogenesis of Zenker's diverticulum. Discuss endoscopic management and outcomes of pharyngeal pouch surgery.
+*Source:** Scott-Brown's Otorhinolaryngology, 8th Edition - Volume 3, Chapter 52 (Cricopharyngeal Dysphagia)
 
 ---
 

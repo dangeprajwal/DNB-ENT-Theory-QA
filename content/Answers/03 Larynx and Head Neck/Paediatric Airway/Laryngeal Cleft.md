@@ -3,13 +3,14 @@ tags:
   - paper3
   - airway
   - paediatric
+description: "DNB ENT Paper 3 (Larynx & Head Neck) — Laryngeal Cleft — Definition, Classification, Diagnosis and Management. Answers based on Scott-Brown 8th Edition."
 ---
 
 # Laryngeal Cleft — Definition, Classification, Diagnosis and Management
 
-**Question:** *Laryngeal cleft — definition, features, diagnosis and management. Type 1 laryngeal cleft. Disc battery ingestion management.*
-
-**Source:** Scott-Brown's Volume 2, Chapter 30 (Congenital Disorders of the Larynx, Trachea and Bronchi) and Chapter 34 (Foreign Bodies)
+> [!question] Questions Covered
+> - Laryngeal cleft — definition, features, diagnosis and management. Type 1 laryngeal cleft. Disc battery ingestion management.
+*Source:** Scott-Brown's Volume 2, Chapter 30 (Congenital Disorders of the Larynx, Trachea and Bronchi) and Chapter 34 (Foreign Bodies)
 
 ---
 

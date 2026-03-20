@@ -3,6 +3,7 @@ tags:
   - paper4
   - general
   - anatomy
+description: "DNB ENT Paper 4 (General) — Right Main Bronchus and Bronchopulmonary Segments; Muscles of Mastication. Answers based on Scott-Brown 8th Edition."
 ---
 
 # Right Main Bronchus and Bronchopulmonary Segments; Muscles of Mastication
@@ -12,6 +13,11 @@ tags:
 **Question 2:** *Describe muscles of mastication and their actions.*
 
 **Source:** Scott-Brown's Otorhinolaryngology, 8th Edition - Volume 2, Chapter 34 (Foreign Bodies in ENT), Chapter 28 (Stridor); Volume 3, Chapter 41 (Anatomy and Embryology of the Mouth and Dentition)
+
+
+> [!question] Questions Covered
+> - Describe right main bronchus and bronchopulmonary segments with clinical importance.
+> - Describe muscles of mastication and their actions.
 
 ---
 

@@ -4,19 +4,20 @@ tags:
   - otology
   - audiology
   - hearing
+description: "DNB ENT Paper 1 (Otology) — Cochlear Implant. Answers based on Scott-Brown 8th Edition."
 ---
 
 # Cochlear Implant
 
-## Questions Covered
-- **Q4 (2019) [remaining parts]:** Benefits of bilateral cochlear implantation. Indications of cochlear implantation in adults. *(ABI part already completed in `Auditory_Brainstem_Implants.md`)*
-- **Q28 (2020) [CI candidacy part]:** Candidacy criteria for cochlear implant surgery. *(Posterior tympanotomy anatomy part → `Mastoid_Surgery_[[Mastoid Surgery Cholesteatoma|Cholesteatoma]]_Comprehensive.md`)*
-- **Q33 (2021):** Candidacy criteria for cochlear implantation. Evaluation of child for cochlear implantation.
-- **Q65 (2022):** Types of middle ear implant. Candidacy criteria for cochlear implant in children & adults.
-- **Q89 (2023):** Role of HRCT temporal bone and MRI in cochlear implant surgery.
-- **Q116 (2024):** Candidacy criteria for cochlear implantation. Complications of cochlear implant surgery.
+> [!question] Questions Covered
+> - **Q4 (2019) [remaining parts]:** Benefits of bilateral cochlear implantation. Indications of cochlear implantation in adults. *(ABI part already completed in `Auditory_Brainstem_Implants.md`)*
+> - **Q28 (2020) [CI candidacy part]:** Candidacy criteria for cochlear implant surgery. *(Posterior tympanotomy anatomy part → `Mastoid_Surgery_[[Mastoid Surgery Cholesteatoma|Cholesteatoma]]_Comprehensive.md`)*
+> - **Q33 (2021):** Candidacy criteria for cochlear implantation. Evaluation of child for cochlear implantation.
+> - **Q65 (2022):** Types of middle ear implant. Candidacy criteria for cochlear implant in children & adults.
+> - **Q89 (2023):** Role of HRCT temporal bone and MRI in cochlear implant surgery.
+> - **Q116 (2024):** Candidacy criteria for cochlear implantation. Complications of cochlear implant surgery.
+> - Scott-Brown's Otorhinolaryngology 8th Edition, Volume 2 — Chapter 94 (Cochlear Implants), Chapter 95 (Middle Ear Implants), Chapter 11 (Paediatric Implantation Otology)
 
-**Source:** Scott-Brown's Otorhinolaryngology 8th Edition, Volume 2 — Chapter 94 (Cochlear Implants), Chapter 95 (Middle Ear Implants), Chapter 11 (Paediatric Implantation Otology)
 
 ---
 

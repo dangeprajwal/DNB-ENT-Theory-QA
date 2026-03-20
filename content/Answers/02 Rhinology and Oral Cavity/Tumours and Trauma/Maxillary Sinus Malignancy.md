@@ -4,13 +4,14 @@ tags:
   - rhinology
   - oncology
   - trauma
+description: "DNB ENT Paper 2 (Rhinology) — Maxillary Sinus Malignancy. Answers based on Scott-Brown 8th Edition."
 ---
 
 # Maxillary Sinus Malignancy
 
-**Question:** *Discuss the etiopathogenesis, staging, and management of maxillary sinus malignancy in detail.*
-
-**Source:** Scott-Brown's Otorhinolaryngology, 8th Edition - Volume 3, Chapter 7 (Nasal Cavity and Paranasal Sinus Malignancy)
+> [!question] Questions Covered
+> - Discuss the etiopathogenesis, staging, and management of maxillary sinus malignancy in detail.
+*Source:** Scott-Brown's Otorhinolaryngology, 8th Edition - Volume 3, Chapter 7 (Nasal Cavity and Paranasal Sinus Malignancy)
 
 ---
 

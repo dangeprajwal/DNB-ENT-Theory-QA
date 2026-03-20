@@ -4,6 +4,7 @@ tags:
   - general
   - oncology
   - head-and-neck
+description: "DNB ENT Paper 4 (General) — Palliative Care in Head and Neck Cancer & NPC Staging and Biomarkers. Answers based on Scott-Brown 8th Edition."
 ---
 
 # Palliative Care in Head and Neck Cancer & NPC Staging and Biomarkers
@@ -13,6 +14,11 @@ tags:
 **Question 2:** *TNM classification for carcinoma nasopharynx. Role of biomarkers in carcinoma of nasopharynx.*
 
 **Source:** Scott-Brown's Otorhinolaryngology, 8th Edition - Volume 3, Chapter 8 ([[Nasopharyngeal Carcinoma|Nasopharyngeal Carcinoma]]), Chapter 21 (Palliative Care)
+
+
+> [!question] Questions Covered
+> - Briefly discuss care of terminally ill patient. How will you communicate death to relatives?
+> - TNM classification for carcinoma nasopharynx. Role of biomarkers in carcinoma of nasopharynx.
 
 ---
 

@@ -3,6 +3,7 @@ tags:
   - paper4
   - research
   - evidence-based-medicine
+description: "DNB ENT Paper 4 (General) — RESEARCH METHODOLOGY: BIAS AND ERRORS IN MEDICAL RESEARCH. Answers based on Scott-Brown 8th Edition."
 ---
 
 # RESEARCH METHODOLOGY: BIAS AND ERRORS IN MEDICAL RESEARCH
@@ -15,23 +16,11 @@ tags:
 
 ---
 
-**Question:** *Discuss the types of bias and errors in medical research, their impact on study validity, and methods to minimize them.*
-
-Source: Scott-Brown's Otorhinolaryngology Head and Neck Surgery, Volume 1, Chapters 43-44
-
----
-
-## INTRODUCTION
-
-Bias and errors in medical research can lead to incorrect conclusions that may harm patients by providing inaccurate information about prognosis, making false assumptions about diagnostic test results, giving ineffective or harmful therapy, or failing to give effective therapy. Understanding and minimizing bias is fundamental to conducting valid research and practicing evidence-based medicine.
-
----
-
-## PART A: TYPES OF ERRORS IN RESEARCH
-
-### Random Error (Type I and Type II Errors)
-
-**Type I Error (Alpha Error, False Positive)**
+> [!question] Questions Covered
+> - Discuss the types of bias and errors in medical research, their impact on study validity, and methods to minimize them.
+> - ## INTRODUCTION
+> - ## PART A: TYPES OF ERRORS IN RESEARCH
+*Type I Error (Alpha Error, False Positive)**
 - Rejecting null hypothesis when it is true
 - Concluding treatment works when it actually does not
 - Probability denoted by alpha (typically set at 0.05)

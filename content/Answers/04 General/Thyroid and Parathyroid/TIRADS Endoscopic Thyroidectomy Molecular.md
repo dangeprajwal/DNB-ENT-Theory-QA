@@ -4,6 +4,7 @@ tags:
   - endocrinology
   - thyroid
   - surgery
+description: "DNB ENT Paper 4 (General) — TI-RADS, Endoscopic Thyroidectomy and Molecular Diagnostics. Answers based on Scott-Brown 8th Edition."
 ---
 
 # TI-RADS, Endoscopic Thyroidectomy and Molecular Diagnostics
@@ -15,6 +16,12 @@ tags:
 **Question 3:** *Remote access thyroidectomy. Role of molecular diagnostic tests in differentiated thyroid cancers.*
 
 **Source:** Scott-Brown's Otorhinolaryngology, 8th Edition - Volume 1, Chapter 10 (Genetics of Thyroid Tumours), Chapter 58 (Pathology), Chapter 62 (DTC Management), Chapter 69 (Minimally Invasive and Robotic Thyroid Surgery)
+
+
+> [!question] Questions Covered
+> - Describe various endoscopic approaches to thyroid gland. Indications and problems with these approaches.
+> - What is TI-RADS classification and scoring of thyroid nodules? How to approach a case of suspected recurrent thyroid cancer.
+> - Remote access thyroidectomy. Role of molecular diagnostic tests in differentiated thyroid cancers.
 
 ---
 

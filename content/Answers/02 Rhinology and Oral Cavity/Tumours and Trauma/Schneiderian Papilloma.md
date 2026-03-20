@@ -4,13 +4,14 @@ tags:
   - rhinology
   - oncology
   - trauma
+description: "DNB ENT Paper 2 (Rhinology) — Schneiderian Papilloma (sinonasal Papilloma). Answers based on Scott-Brown 8th Edition."
 ---
 
 # Schneiderian Papilloma (sinonasal Papilloma)
 
-**Question:** *Describe the etiopathogenesis, investigations and surgical management of Schneiderian tumour.*
-
-**Source:** Scott-Brown's Otorhinolaryngology, 8th Edition - Volume 1, Chapters 99, 114 & Volume 3, Chapters 7, 26
+> [!question] Questions Covered
+> - Describe the etiopathogenesis, investigations and surgical management of Schneiderian tumour.
+*Source:** Scott-Brown's Otorhinolaryngology, 8th Edition - Volume 1, Chapters 99, 114 & Volume 3, Chapters 7, 26
 
 ---
 

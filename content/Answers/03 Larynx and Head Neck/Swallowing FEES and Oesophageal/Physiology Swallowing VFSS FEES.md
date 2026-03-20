@@ -4,13 +4,14 @@ tags:
   - laryngology
   - swallowing
   - oesophageal
+description: "DNB ENT Paper 3 (Larynx & Head Neck) — Physiology of Swallowing, Videofluoroscopy and FEES. Answers based on Scott-Brown 8th Edition."
 ---
 
 # Physiology of Swallowing, Videofluoroscopy and FEES
 
-**Question:** *Describe the phases of swallowing. Discuss swallowing assessment in a case of dysphagia in a head and neck cancer patient. Describe Videofluoroscopy. What is FEES? Discuss indications, technique, interpretation and advantages/disadvantages of FEES over video-fluoroscopy. Discuss the Mendelsohn maneuver.*
-
-**Source:** Scott-Brown's Otorhinolaryngology, 8th Edition - Volume 3, Chapter 48 (Physiology of Swallowing), Chapter 49 (Causes and Assessment of Dysphagia), Chapter 50 (Functional Investigations of Upper GI Tract), Chapter 55 (Rehabilitation of Swallowing Disorders)
+> [!question] Questions Covered
+> - Describe the phases of swallowing. Discuss swallowing assessment in a case of dysphagia in a head and neck cancer patient. Describe Videofluoroscopy. What is FEES? Discuss indications, technique, interpretation and advantages/disadvantages of FEES over video-fluoroscopy. Discuss the Mendelsohn maneuver.
+*Source:** Scott-Brown's Otorhinolaryngology, 8th Edition - Volume 3, Chapter 48 (Physiology of Swallowing), Chapter 49 (Causes and Assessment of Dysphagia), Chapter 50 (Functional Investigations of Upper GI Tract), Chapter 55 (Rehabilitation of Swallowing Disorders)
 
 ---
 

@@ -4,13 +4,14 @@ tags:
   - rhinology
   - surgery
   - fess
+description: "DNB ENT Paper 2 (Rhinology) — Infratemporal Fossa Anatomy, Surgical Approaches & Endovascular Embolization .... Answers based on Scott-Brown 8th Edition."
 ---
 
 # Infratemporal Fossa Anatomy, Surgical Approaches & Endovascular Embolization in Skull Base Tumours
 
-**Question:** *Q50: Describe the anatomy of the infratemporal fossa. What are the surgical approaches and their limitations? Q60: Discuss the role of embolization in skull base tumours. Q75: Enumerate the indications of endovascular embolization in head and neck surgery. Describe the embolic materials used and their advantages and disadvantages.*
-
-**Source:** Scott-Brown's Otorhinolaryngology, 8th Edition - Volume 2, Chapter 98 (Anatomy of the Skull Base and Infratemporal Fossa) and Chapter 100 (Vascular Assessment and Management)
+> [!question] Questions Covered
+> - Q50: Describe the anatomy of the infratemporal fossa. What are the surgical approaches and their limitations? Q60: Discuss the role of embolization in skull base tumours. Q75: Enumerate the indications of endovascular embolization in head and neck surgery. Describe the embolic materials used and their advantages and disadvantages.
+*Source:** Scott-Brown's Otorhinolaryngology, 8th Edition - Volume 2, Chapter 98 (Anatomy of the Skull Base and Infratemporal Fossa) and Chapter 100 (Vascular Assessment and Management)
 
 ---
 

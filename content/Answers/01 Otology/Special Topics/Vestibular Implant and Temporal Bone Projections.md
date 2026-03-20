@@ -3,6 +3,7 @@ tags:
   - paper1
   - otology
   - special-topics
+description: "DNB ENT Paper 1 (Otology) — Vestibular Implants & Temporal Bone Radiographic Projections. Answers based on Scott-Brown 8th Edition."
 ---
 
 # Vestibular Implants & Temporal Bone Radiographic Projections
@@ -12,6 +13,11 @@ tags:
 **Question 2:** *Enumerate temporal bone projections in conventional imaging.*
 
 **Source:** Scott-Brown's Otorhinolaryngology, 8th Edition — Volume 2: Chapter 95 (Middle Ear Implants), Chapter 97 (Imaging of the Temporal Bone), Chapter 48 (Vestibular Physiology — Future Research)
+
+
+> [!question] Questions Covered
+> - Discuss middle ear implants. Write a note on vestibular implant.
+> - Enumerate temporal bone projections in conventional imaging.
 
 ---
 

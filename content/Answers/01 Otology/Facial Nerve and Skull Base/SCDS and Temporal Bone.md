@@ -4,9 +4,14 @@ tags:
   - otology
   - facial-nerve
   - skull-base
+description: "DNB ENT Paper 1 (Otology) — Superior Semicircular Canal Dehiscence Syndrome. Answers based on Scott-Brown 8th Edition."
 ---
 
 # Superior Semicircular Canal Dehiscence Syndrome
+
+> [!question] Questions Covered
+> - Describe superior semicircular canal dehiscence syndrome — aetiopathogenesis, clinical features, diagnosis and management
+
 
 ## INTRODUCTION
 

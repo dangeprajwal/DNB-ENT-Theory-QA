@@ -3,13 +3,14 @@ tags:
   - paper2
   - oral-cavity
   - oncology
+description: "DNB ENT Paper 2 (Rhinology) — Oropharyngeal Carcinoma. Answers based on Scott-Brown 8th Edition."
 ---
 
 # Oropharyngeal Carcinoma
 
-**Question:** *Describe the surgical anatomy of the base of tongue. Discuss the management of cancer of the base of tongue. What is the role of HPV in oropharyngeal carcinoma? Describe the TNM staging of oropharyngeal carcinoma (AJCC 8th Edition). Discuss the surgical management of oropharyngeal carcinoma.*
-
-**Source:** Scott-Brown's Volume 3, Chapter 13 (Oropharyngeal Tumours)
+> [!question] Questions Covered
+> - Describe the surgical anatomy of the base of tongue. Discuss the management of cancer of the base of tongue. What is the role of HPV in oropharyngeal carcinoma? Describe the TNM staging of oropharyngeal carcinoma (AJCC 8th Edition). Discuss the surgical management of oropharyngeal carcinoma.
+*Source:** Scott-Brown's Volume 3, Chapter 13 (Oropharyngeal Tumours)
 
 ---
 

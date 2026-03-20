@@ -4,9 +4,19 @@ tags:
   - general
   - imaging
   - technology
+description: "DNB ENT Paper 4 (General) — PET-CT and Nuclear Medicine Scans in Head & Neck. Answers based on Scott-Brown 8th Edition."
 ---
 
 # PET-CT and Nuclear Medicine Scans in Head & Neck
+
+> [!question] Questions Covered
+> - **2014:** What is the principle of PET scan? Applications in evaluation and management of head and neck malignancies.
+> - **2016:** Principle of PET scan. Application in head and neck malignancy.
+> - **2019:** Principles and mechanisms of PET scan. Indications and importance of PET scan in head and neck cancer.
+> - **2020:** What is the principle of PET-CT? Indications and limitations of PET-CT in head and neck cancers.
+> - **2023:** Describe the imaging principle of positron emission tomography. What is modified barium swallow?
+> - **2021:** Describe the various nuclear medicine scans used in head and neck diseases. Indications and contraindications of Sestamibi scan.
+> - **2025:** Enumerate various nuclear medicine scans in H&N. Discuss scan for diagnosis of [[Glomus Tumour|paraganglioma]] and parathyroid adenoma.
 
 *Q14D-3 (2014): What is the principle of PET scan? Applications in evaluation and management of head and neck malignancies.*
 *Q16D-7 (2016): Principle of PET scan. Application in head and neck malignancy.*

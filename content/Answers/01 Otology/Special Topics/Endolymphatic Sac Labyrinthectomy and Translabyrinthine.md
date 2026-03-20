@@ -3,6 +3,7 @@ tags:
   - paper1
   - otology
   - special-topics
+description: "DNB ENT Paper 1 (Otology) — Endolymphatic Sac Surgery, Labyrinthectomy, and Translabyrinthine Approach to.... Answers based on Scott-Brown 8th Edition."
 ---
 
 # Endolymphatic Sac Surgery, Labyrinthectomy, and Translabyrinthine Approach to IAC
@@ -16,11 +17,9 @@ tags:
 
 ---
 
-## Question–Answer Mapping
+> [!question] Questions Covered
+> - **| 2019:** Describe the approach to the endolymphatic sac, labyrinthectomy and translabyrinthine exposure of the internal auditory canal
 
-| Year | Question | Section |
-|------|----------|---------|
-| 2019 | Describe the approach to the endolymphatic sac, labyrinthectomy and translabyrinthine exposure of the internal auditory canal | Parts A + B + C (entire answer) |
 
 ---
 

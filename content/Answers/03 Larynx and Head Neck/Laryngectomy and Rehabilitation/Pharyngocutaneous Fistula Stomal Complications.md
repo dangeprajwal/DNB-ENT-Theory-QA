@@ -4,17 +4,17 @@ tags:
   - laryngology
   - surgery
   - rehabilitation
+description: "DNB ENT Paper 3 (Larynx & Head Neck) — Pharyngocutaneous Fistula & Stomal Complications After Total Laryngectomy. Answers based on Scott-Brown 8th Edition."
 ---
 
 # Pharyngocutaneous Fistula & Stomal Complications After [[Laryngectomy Rehabilitation Voice Prosthesis|Total Laryngectomy]]
 
-## Questions Covered
-- *Q96: Pharyngocutaneous fistula — classification, features, management (2016 Dec)*
-- *2022-71: Pharyngocutaneous fistula aetiology, features, management after total laryngectomy (2022 Dec)*
-- *Q121: Post-laryngectomy stomal stenosis — causes, prevention, management (2014 Dec)*
-- *2023-98: Stomal recurrence after total laryngectomy. Paediatric [[Tracheostomy|tracheostomy]] (2023 Oct)*
+> [!question] Questions Covered
+> - *Q96: Pharyngocutaneous fistula — classification, features, management (2016 Dec)*
+> - *2022-71: Pharyngocutaneous fistula aetiology, features, management after total laryngectomy (2022 Dec)*
+> - *Q121: Post-laryngectomy stomal stenosis — causes, prevention, management (2014 Dec)*
+> - *2023-98: Stomal recurrence after total laryngectomy. Paediatric [[Tracheostomy|tracheostomy]] (2023 Oct)*
 
-**Source: Scott-Brown's Otorhinolaryngology, 8th Edition, Volume 3, Chapter 14 (Tumours of the Larynx) & Chapter 15 (Rehabilitation after Total Laryngectomy) & Chapter 16 (Management of Hypopharyngeal Cancer); Volume 2 (Paediatric Tracheostomy)**
 
 ---
 

@@ -3,13 +3,14 @@ tags:
   - paper1
   - otology
   - vestibular
+description: "DNB ENT Paper 1 (Otology) — Meniere's Disease: Pathogenesis and Intratympanic Therapy. Answers based on Scott-Brown 8th Edition."
 ---
 
 # Meniere's Disease: Pathogenesis and Intratympanic Therapy
 
-**Question:** *Describe the difference between Meniere's disease and Meniere's syndrome. Discuss the aetiopathogenesis of Meniere's disease. Discuss the role of intratympanic drug therapy for the treatment of Meniere's disease.*
-
-**Source:** Scott-Brown's Otorhinolaryngology, 8th Edition - Volume 2, Chapter 63
+> [!question] Questions Covered
+> - Describe the difference between Meniere's disease and Meniere's syndrome. Discuss the aetiopathogenesis of Meniere's disease. Discuss the role of intratympanic drug therapy for the treatment of Meniere's disease.
+*Source:** Scott-Brown's Otorhinolaryngology, 8th Edition - Volume 2, Chapter 63
 
 ---
 

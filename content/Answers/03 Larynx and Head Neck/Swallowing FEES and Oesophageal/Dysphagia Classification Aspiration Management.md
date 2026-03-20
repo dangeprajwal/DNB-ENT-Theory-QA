@@ -4,13 +4,14 @@ tags:
   - laryngology
   - swallowing
   - oesophageal
+description: "DNB ENT Paper 3 (Larynx & Head Neck) — Dysphagia — Classification, Assessment and Management of Intractable Aspiration. Answers based on Scott-Brown 8th Edit..."
 ---
 
 # Dysphagia — Classification, Assessment and Management of Intractable Aspiration
 
-**Question:** *Classify causes of dysphagia. Clinical assessment of a case of dysphagia after head and neck surgery. Role of various swallowing maneuvers in management. Discuss various surgical options for intractable aspiration.*
-
-**Source:** Scott-Brown's Otorhinolaryngology, 8th Edition - Volume 3, Chapter 49 (Causes and Assessment of Dysphagia), Chapter 55 (Rehabilitation of Swallowing Disorders), Chapter 56 (Chronic Aspiration)
+> [!question] Questions Covered
+> - Classify causes of dysphagia. Clinical assessment of a case of dysphagia after head and neck surgery. Role of various swallowing maneuvers in management. Discuss various surgical options for intractable aspiration.
+*Source:** Scott-Brown's Otorhinolaryngology, 8th Edition - Volume 3, Chapter 49 (Causes and Assessment of Dysphagia), Chapter 55 (Rehabilitation of Swallowing Disorders), Chapter 56 (Chronic Aspiration)
 
 ---
 

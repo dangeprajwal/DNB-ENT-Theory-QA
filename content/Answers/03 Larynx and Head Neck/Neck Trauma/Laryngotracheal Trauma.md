@@ -4,13 +4,14 @@ tags:
   - head-and-neck
   - trauma
   - emergency
+description: "DNB ENT Paper 3 (Larynx & Head Neck) — Laryngotracheal Trauma — Classification and Management. Answers based on Scott-Brown 8th Edition."
 ---
 
 # Laryngotracheal Trauma — Classification and Management
 
-**Question:** *Laryngotracheal trauma — classification and management algorithm. Grade 4 laryngotracheal trauma — management.*
-
-**Source:** Scott-Brown's Volume 3, Chapter 71 (Contemporary Management of Laryngotracheal Trauma)
+> [!question] Questions Covered
+> - Laryngotracheal trauma — classification and management algorithm. Grade 4 laryngotracheal trauma — management.
+*Source:** Scott-Brown's Volume 3, Chapter 71 (Contemporary Management of Laryngotracheal Trauma)
 
 ---
 

@@ -4,13 +4,14 @@ tags:
   - head-and-neck
   - trauma
   - emergency
+description: "DNB ENT Paper 3 (Larynx & Head Neck) — Neck Trauma — Zones, Assessment and Management. Answers based on Scott-Brown 8th Edition."
 ---
 
 # Neck Trauma — Zones, Assessment and Management
 
-**Question:** *Zones of the neck in trauma. Assessment and management of neck trauma. Penetrating trauma in the laryngeal region — assessment and management.*
-
-**Source:** Scott-Brown's Volume 3, Chapter 38 (Neck Trauma)
+> [!question] Questions Covered
+> - Zones of the neck in trauma. Assessment and management of neck trauma. Penetrating trauma in the laryngeal region — assessment and management.
+*Source:** Scott-Brown's Volume 3, Chapter 38 (Neck Trauma)
 
 ---
 

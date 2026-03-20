@@ -4,20 +4,21 @@ tags:
   - otology
   - surgery
   - middle-ear
+description: "DNB ENT Paper 1 (Otology) — Mastoid Surgery & Cholesteatoma. Answers based on Scott-Brown 8th Edition."
 ---
 
 # Mastoid Surgery & Cholesteatoma
 
-## Questions Covered
-- **Q8 (2019):** Describe the role of otoendoscopy and diffusion-weighted MRI in cholesteatoma management. What is minimally invasive technique of Thomassin?
-- **Q34 (2021):** Describe the anatomy of posterior tympanotomy (facial recess). Discuss the indications and complications of posterior tympanotomy.
-- **Q48 (2021):** Discuss the aetiology and management of post-operative discharging mastoid cavity.
-- **Q104 (2024):** Classify and describe types of mastoid surgery. Discuss the management of cholesteatoma in a child.
-- **Q124 (2025):** What are the hidden areas for residual cholesteatoma? Discuss the management of cholesteatoma in sinus tympani.
-- **Q113 (2024) [Obliteration part]:** Describe mastoid obliteration techniques. *(Surgical techniques for [[Otosclerosis|otosclerosis]] → `Stapes_Surgery_Comprehensive.md`)*
-- **Q94 (2023) [Residivism part]:** Discuss residivism after mastoid surgery. *(Stapedotomy complications → `Stapes_Surgery_Comprehensive.md`)*
+> [!question] Questions Covered
+> - **Q8 (2019):** Describe the role of otoendoscopy and diffusion-weighted MRI in cholesteatoma management. What is minimally invasive technique of Thomassin?
+> - **Q34 (2021):** Describe the anatomy of posterior tympanotomy (facial recess). Discuss the indications and complications of posterior tympanotomy.
+> - **Q48 (2021):** Discuss the aetiology and management of post-operative discharging mastoid cavity.
+> - **Q104 (2024):** Classify and describe types of mastoid surgery. Discuss the management of cholesteatoma in a child.
+> - **Q124 (2025):** What are the hidden areas for residual cholesteatoma? Discuss the management of cholesteatoma in sinus tympani.
+> - **Q113 (2024) [Obliteration part]:** Describe mastoid obliteration techniques. *(Surgical techniques for [[Otosclerosis|otosclerosis]] → `Stapes_Surgery_Comprehensive.md`)*
+> - **Q94 (2023) [Residivism part]:** Discuss residivism after mastoid surgery. *(Stapedotomy complications → `Stapes_Surgery_Comprehensive.md`)*
+> - Scott-Brown’s Otorhinolaryngology 8th Edition, Volume 2 — Chapter 15 (Paediatric COM), Chapter 83 (Chronic Otitis Media), Chapter 87 (Otoendoscopy), Chapter 46 (Temporal Bone Anatomy)
 
-**Source:** Scott-Brown’s Otorhinolaryngology 8th Edition, Volume 2 — Chapter 15 (Paediatric COM), Chapter 83 (Chronic Otitis Media), Chapter 87 (Otoendoscopy), Chapter 46 (Temporal Bone Anatomy)
 
 ---
 

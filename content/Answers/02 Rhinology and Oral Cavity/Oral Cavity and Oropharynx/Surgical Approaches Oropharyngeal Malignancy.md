@@ -3,13 +3,14 @@ tags:
   - paper2
   - oral-cavity
   - oncology
+description: "DNB ENT Paper 2 (Rhinology) — Surgical Approaches to Oropharyngeal Malignancy. Answers based on Scott-Brown 8th Edition."
 ---
 
 # Surgical Approaches to Oropharyngeal Malignancy
 
-**Question:** *Discuss the surgical approaches to oropharyngeal malignancy. Describe mandibular swing osteotomy. Discuss transmandibular and mandible-sparing approaches for oropharyngeal malignancy.*
-
-**Source:** Scott-Brown's Volume 3, Chapter 12 (Oral Cavity Tumours — Surgical Access) and Chapter 13 (Oropharyngeal Tumours — Transoral Surgery)
+> [!question] Questions Covered
+> - Discuss the surgical approaches to oropharyngeal malignancy. Describe mandibular swing osteotomy. Discuss transmandibular and mandible-sparing approaches for oropharyngeal malignancy.
+*Source:** Scott-Brown's Volume 3, Chapter 12 (Oral Cavity Tumours — Surgical Access) and Chapter 13 (Oropharyngeal Tumours — Transoral Surgery)
 
 ---
 

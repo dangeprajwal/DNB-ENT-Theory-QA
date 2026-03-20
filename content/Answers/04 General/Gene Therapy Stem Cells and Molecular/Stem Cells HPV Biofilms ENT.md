@@ -4,17 +4,18 @@ tags:
   - general
   - molecular
   - research
+description: "DNB ENT Paper 4 (General) — Stem Cells, HPV-Associated Lesions and Biofilms in ENT. Answers based on Scott-Brown 8th Edition."
 ---
 
 # Stem Cells, HPV-Associated Lesions and Biofilms in ENT
 
-## Questions Covered
-- *Q2019-14: Describe different types of stem cells. Elaborate applications in otorhinolaryngology*
-- *Q2020-39: Discuss the various stem cell types. Describe the potential clinical application of stem cells*
-- *Q2023-89: What are lesions associated with HPV in otorhinolaryngology? Recent advances in management of HPV*
-- *Q2024-110: What is a biofilm? Describe the role of biofilms in ENT. Discuss management of biofilm in [[CRS Nasal Polyposis Turbinate|chronic rhinosinusitis]]*
+> [!question] Questions Covered
+> - *Q2019-14: Describe different types of stem cells. Elaborate applications in otorhinolaryngology*
+> - *Q2020-39: Discuss the various stem cell types. Describe the potential clinical application of stem cells*
+> - *Q2023-89: What are lesions associated with HPV in otorhinolaryngology? Recent advances in management of HPV*
+> - *Q2024-110: What is a biofilm? Describe the role of biofilms in ENT. Discuss management of biofilm in [[CRS Nasal Polyposis Turbinate|chronic rhinosinusitis]]*
+> - Scott-Brown's Otorhinolaryngology, 8th Edition — Volume 1, Chapter 7: Stem Cells (pp. 69-73); Chapter 19: Microorganisms (pp. 184-185); Chapter 94: CRS (p. 1030); Volume 2, Chapter 32: Juvenile-onset RRP (pp. 367-375); Chapter 20: Paediatric CRS (pp. 293-295)
 
-**Source:** Scott-Brown's Otorhinolaryngology, 8th Edition — Volume 1, Chapter 7: Stem Cells (pp. 69-73); Chapter 19: Microorganisms (pp. 184-185); Chapter 94: CRS (p. 1030); Volume 2, Chapter 32: Juvenile-onset RRP (pp. 367-375); Chapter 20: Paediatric CRS (pp. 293-295)
 
 ---
 

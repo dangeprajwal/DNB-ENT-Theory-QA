@@ -3,6 +3,7 @@ tags:
   - paper4
   - research
   - evidence-based-medicine
+description: "DNB ENT Paper 4 (General) — RESEARCH METHODOLOGY: STUDY DESIGNS AND EVIDENCE-BASED MEDICINE. Answers based on Scott-Brown 8th Edition."
 ---
 
 # RESEARCH METHODOLOGY: STUDY DESIGNS AND EVIDENCE-BASED MEDICINE
@@ -19,28 +20,14 @@ tags:
 
 ---
 
-**Question:** *Discuss the types of research study designs, levels of evidence, and principles of evidence-based medicine.*
-
-Source: Scott-Brown's Otorhinolaryngology Head and Neck Surgery, Volume 1, Chapters 43-44
-
----
-
-## INTRODUCTION
-
-Evidence-based medicine (EBM) is defined as "the conscientious, explicit and judicious use of current best evidence in making decisions about the care of individual patients." The principles are now considered core in professional practice across all phases of medical training. EBM is endorsed by the World Federation of Medical Education and World Health Organization as an international characteristic of the medical profession.
-
-EBM may be described as a patient-centred cycle with three linked phases:
-- Clinical phase
-- Search phase
-- Evidence review phase
-
----
-
-## PART A: TYPES OF RESEARCH STUDIES
-
-### Hierarchy of Study Designs
-
-**1. Case Reports and Case Series**
+> [!question] Questions Covered
+> - Discuss the types of research study designs, levels of evidence, and principles of evidence-based medicine.
+> - ## INTRODUCTION
+> - Clinical phase
+> - Search phase
+> - Evidence review phase
+> - ## PART A: TYPES OF RESEARCH STUDIES
+*1. Case Reports and Case Series**
 - Reports of individual patients or groups of patients
 - May be retrospective or prospective (cohort studies)
 - Highly valid and authentic

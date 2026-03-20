@@ -4,9 +4,13 @@ tags:
   - laryngology
   - emergency
   - paediatric
+description: "DNB ENT Paper 3 (Larynx & Head Neck) — Foreign Bodies in the Airway and Esophagus. Answers based on Scott-Brown 8th Edition."
 ---
 
 # Foreign Bodies in the Airway and Esophagus
+
+> [!question] Questions Covered
+> - Covers Q31, Q35, Q47, Q53, Q78, 2023-87, 2024-119
 
 *Covers Q31, Q35, Q47, Q53, Q78, 2023-87, 2024-119*
 

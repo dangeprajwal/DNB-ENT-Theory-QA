@@ -4,13 +4,14 @@ tags:
   - otology
   - surgery
   - middle-ear
+description: "DNB ENT Paper 1 (Otology) — Tympanosclerosis of the Middle Ear. Answers based on Scott-Brown 8th Edition."
 ---
 
 # Tympanosclerosis of the Middle Ear
 
-**Question:** *Write short note on tympanosclerosis of the middle ear. Discuss its pathology, clinical features, and management.*
-
-**Source:** Scott-Brown's Otorhinolaryngology, 8th Edition - Volume 2, Chapter 83
+> [!question] Questions Covered
+> - Write short note on tympanosclerosis of the middle ear. Discuss its pathology, clinical features, and management.
+*Source:** Scott-Brown's Otorhinolaryngology, 8th Edition - Volume 2, Chapter 83
 
 ---
 

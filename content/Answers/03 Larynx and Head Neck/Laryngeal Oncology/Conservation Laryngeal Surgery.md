@@ -4,13 +4,14 @@ tags:
   - laryngology
   - oncology
   - surgery
+description: "DNB ENT Paper 3 (Larynx & Head Neck) — Conservation Laryngeal Surgery for Laryngeal Carcinoma. Answers based on Scott-Brown 8th Edition."
 ---
 
 # Conservation Laryngeal Surgery for [[Laryngeal Malignancy Etiopathogenesis Staging Management|Laryngeal Carcinoma]]
 
-**Question:** *Describe surgical anatomy of laryngeal muscles. Discuss various conservation laryngeal surgical procedures for laryngeal carcinoma.*
-
-**Source:** Scott-Brown's Otorhinolaryngology, 8th Edition - Volume 3, Chapter 14 (Tumours of the Larynx), Chapter 27 (Open Conservation Surgery for Laryngeal Cancer)
+> [!question] Questions Covered
+> - Describe surgical anatomy of laryngeal muscles. Discuss various conservation laryngeal surgical procedures for laryngeal carcinoma.
+*Source:** Scott-Brown's Otorhinolaryngology, 8th Edition - Volume 3, Chapter 14 (Tumours of the Larynx), Chapter 27 (Open Conservation Surgery for Laryngeal Cancer)
 
 ---
 

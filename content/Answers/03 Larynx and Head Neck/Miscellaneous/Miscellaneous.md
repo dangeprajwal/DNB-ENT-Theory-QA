@@ -3,9 +3,20 @@ tags:
   - paper3
   - laryngology
   - miscellaneous
+description: "DNB ENT Paper 3 (Larynx & Head Neck) — Miscellaneous Topics — Paper 3. Answers based on Scott-Brown 8th Edition."
 ---
 
 # Miscellaneous Topics — Paper 3
+
+> [!question] Questions Covered
+> - Discuss the differences between TORS and TOUSS. Describe the principle and indications of TOUSS.
+> - Discuss biomaterials used in ENT. Describe bioengineering methods for oral and maxillofacial reconstruction.
+> - Discuss the phases of HIV infection. Describe oral manifestations of HIV and their management.
+> - Discuss the role of microdebrider in laryngeal surgery. Describe jet ventilation in airway surgery.
+> - Discuss the causes of bilateral lymph node enlargement in the neck. Outline the management of suspected lymphoma.
+> - Classify odontogenic tumours. Describe the management of ameloblastoma of the mandible.
+> - Classify the types of tracheo-oesophageal fistula. Discuss etiology and management.
+> - Classify mid-face traumatic injuries. Describe assessment in an intubated ICU patient.
 
 ---
 

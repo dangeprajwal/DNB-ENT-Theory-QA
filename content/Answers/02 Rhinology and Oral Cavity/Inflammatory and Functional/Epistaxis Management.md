@@ -4,6 +4,7 @@ tags:
   - rhinology
   - inflammation
   - functional
+description: "DNB ENT Paper 2 (Rhinology) — Epistaxis — Vascular Anatomy, Classification & Management. Answers based on Scott-Brown 8th Edition."
 ---
 
 # Epistaxis — Vascular Anatomy, Classification & Management
@@ -21,6 +22,15 @@ tags:
 **Question 6:** *Describe the nasal vascular anatomy with diagram. Enumerate causes and outline management of epistaxis.*
 
 **Source:** Scott-Brown's Otorhinolaryngology, 8th Edition — Volume 1: Chapter 106 (Epistaxis — Gerald W. McGarry)
+
+
+> [!question] Questions Covered
+> - Describe the spectrum of epistaxis referrals. Outline the bedside consultation notes for a CKD patient with epistaxis.
+> - Describe the anatomy of the sphenopalatine foramen with diagram. Describe the steps of ESPAL.
+> - Describe recurrent epistaxis — etiology, types, clinical features and management.
+> - Enumerate the causes of epistaxis in a middle-aged male. Describe the indications and technique of ESPAL.
+> - Describe the steps of ESPAL. Briefly discuss juvenile recurrent parotitis.
+> - Describe the nasal vascular anatomy with diagram. Enumerate causes and outline management of epistaxis.
 
 ---
 

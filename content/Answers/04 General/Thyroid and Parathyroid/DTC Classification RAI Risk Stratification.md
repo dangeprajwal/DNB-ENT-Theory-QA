@@ -4,6 +4,7 @@ tags:
   - endocrinology
   - thyroid
   - surgery
+description: "DNB ENT Paper 4 (General) — Differentiated Thyroid Cancer — Classification, RAI and Risk Stratification. Answers based on Scott-Brown 8th Edition."
 ---
 
 # Differentiated Thyroid Cancer — Classification, RAI and Risk Stratification
@@ -17,6 +18,13 @@ tags:
 **Question 4:** *Radioactive iodine therapy in thyroid cancer.*
 
 **Source:** Scott-Brown's Otorhinolaryngology, 8th Edition - Volume 1, Chapter 58 (Pathology), Chapter 62 (DTC Management), Chapter 66 (Radioiodine)
+
+
+> [!question] Questions Covered
+> - Classify thyroid neoplasms. Discuss role of radioactive iodine in management of thyroid carcinoma.
+> - Describe the post total thyroidectomy management of well differentiated thyroid malignancy.
+> - Dynamic risk stratification follow-up after total thyroidectomy and RAI ablation in papillary thyroid carcinoma.
+> - Radioactive iodine therapy in thyroid cancer.
 
 ---
 

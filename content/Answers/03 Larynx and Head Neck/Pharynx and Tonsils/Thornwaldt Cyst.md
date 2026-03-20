@@ -3,13 +3,14 @@ tags:
   - paper3
   - pharynx
   - paediatric
+description: "DNB ENT Paper 3 (Larynx & Head Neck) — Thornwaldt's Cyst. Answers based on Scott-Brown 8th Edition."
 ---
 
 # Thornwaldt's Cyst
 
-**Question:** *Discuss the aetiology, clinical features and treatment of Thornwaldt's cyst.*
-
-**Source:** Scott-Brown's Volume 2, Chapter 23 (Congenital Nasal Masses and Cysts)
+> [!question] Questions Covered
+> - Discuss the aetiology, clinical features and treatment of Thornwaldt's cyst.
+*Source:** Scott-Brown's Volume 2, Chapter 23 (Congenital Nasal Masses and Cysts)
 
 ---
 

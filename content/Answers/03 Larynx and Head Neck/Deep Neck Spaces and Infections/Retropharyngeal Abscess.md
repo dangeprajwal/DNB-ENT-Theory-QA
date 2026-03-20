@@ -4,13 +4,14 @@ tags:
   - head-and-neck
   - infections
   - anatomy
+description: "DNB ENT Paper 3 (Larynx & Head Neck) — Retropharyngeal Abscess — Etiopathogenesis and Management. Answers based on Scott-Brown 8th Edition."
 ---
 
 # Retropharyngeal Abscess — Etiopathogenesis and Management
 
-**Question:** *Describe the etiopathogenesis and management of retropharyngeal abscess in a child. Discuss the surgical anatomy of the deep neck spaces. Describe the clinical features, diagnosis and management of retropharyngeal abscess in an adult.*
-
-**Source:** Scott-Brown's Volume 3, Chapter 35 (Surgical Anatomy of the Neck — Neck Spaces); Volume 2, Chapter 37 (Cervicofacial Infections)
+> [!question] Questions Covered
+> - Describe the etiopathogenesis and management of retropharyngeal abscess in a child. Discuss the surgical anatomy of the deep neck spaces. Describe the clinical features, diagnosis and management of retropharyngeal abscess in an adult.
+*Source:** Scott-Brown's Volume 3, Chapter 35 (Surgical Anatomy of the Neck — Neck Spaces); Volume 2, Chapter 37 (Cervicofacial Infections)
 
 ---
 

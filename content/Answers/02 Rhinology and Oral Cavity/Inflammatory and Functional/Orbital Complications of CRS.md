@@ -4,13 +4,14 @@ tags:
   - rhinology
   - inflammation
   - functional
+description: "DNB ENT Paper 2 (Rhinology) — Orbital Complications of Chronic Rhinosinusitis. Answers based on Scott-Brown 8th Edition."
 ---
 
 # Orbital Complications of [[CRS Nasal Polyposis Turbinate|Chronic Rhinosinusitis]]
 
-**Question:** *Describe the orbital complications of CRS.*
-
-**Source:** Scott-Brown's Otorhinolaryngology, 8th Edition - Volume 1, Chapter 101 (Complications of Rhinosinusitis)
+> [!question] Questions Covered
+> - Describe the orbital complications of CRS.
+*Source:** Scott-Brown's Otorhinolaryngology, 8th Edition - Volume 1, Chapter 101 (Complications of Rhinosinusitis)
 
 ---
 

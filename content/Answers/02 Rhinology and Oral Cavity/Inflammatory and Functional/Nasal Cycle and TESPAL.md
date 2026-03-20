@@ -4,13 +4,14 @@ tags:
   - rhinology
   - inflammation
   - functional
+description: "DNB ENT Paper 2 (Rhinology) — Nasal Cycle and TESPAL (functions of the Nose). Answers based on Scott-Brown 8th Edition."
 ---
 
 # Nasal Cycle and TESPAL (functions of the Nose)
 
-**Question:** *A) Discuss the nasal cycle. B) Describe TESPAL (functions of the nose).*
-
-**Source:** Scott-Brown's Otorhinolaryngology, 8th Edition - Volume 1, Chapter 89 (Physiology of the Nose and Paranasal Sinuses) & Chapter 90 (Measurement of the Nasal Airway)
+> [!question] Questions Covered
+> - A) Discuss the nasal cycle. B) Describe TESPAL (functions of the nose).
+*Source:** Scott-Brown's Otorhinolaryngology, 8th Edition - Volume 1, Chapter 89 (Physiology of the Nose and Paranasal Sinuses) & Chapter 90 (Measurement of the Nasal Airway)
 
 ---
 

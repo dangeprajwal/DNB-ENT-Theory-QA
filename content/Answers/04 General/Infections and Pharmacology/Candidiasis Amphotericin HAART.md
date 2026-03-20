@@ -4,6 +4,7 @@ tags:
   - general
   - infections
   - pharmacology
+description: "DNB ENT Paper 4 (General) — Oropharyngeal Candidiasis, Amphotericin B and HAART. Answers based on Scott-Brown 8th Edition."
 ---
 
 # Oropharyngeal Candidiasis, Amphotericin B and HAART
@@ -17,6 +18,13 @@ tags:
 **Question 4:** *What is HAART? Classify drugs for AIDS treatment. Merits and demerits.*
 
 **Source:** Scott-Brown's Otorhinolaryngology, 8th Edition - Volume 1, Chapter 21 (Acute Invasive [[AFRS Fungal Ball|Fungal Rhinosinusitis]]), Chapter 22 (Antimicrobials); Volume 3, Chapter 40 (Neck Space Infections), Chapter 60 (HIV and the Upper Aerodigestive Tract)
+
+
+> [!question] Questions Covered
+> - Aetiopathogenesis and management of oropharyngeal candidiasis. Prophylaxis.
+> - Mechanism of action, antifungal spectrum, mode of administration and toxicity of Amphotericin B.
+> - Liposomal amphotericin B.
+> - What is HAART? Classify drugs for AIDS treatment. Merits and demerits.
 
 ---
 

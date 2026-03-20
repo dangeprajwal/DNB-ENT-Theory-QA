@@ -5,18 +5,19 @@ tags:
   - devices
   - implants
   - rehabilitation
+description: "DNB ENT Paper 1 (Otology) — Stapes Surgery. Answers based on Scott-Brown 8th Edition."
 ---
 
 # Stapes Surgery
 
-## Questions Covered
-- **Q3 (2019):** Discuss the fenestra options and types of prosthesis used for stapedotomy.
-- **Q46 (2021):** Complications of stapes surgery. How will you manage a dislocated incus encountered during stapes surgery?
-- **Q71 (2022):** Describe types of LASER used in otological surgery with its advantages.
-- **Q113 (2024) [Surgery part]:** Describe the surgical techniques for [[Otosclerosis|otosclerosis]]. *(Pathology/diagnosis → `Otosclerosis_Comprehensive_Answer.md`; obliteration part → `Mastoid_Surgery_[[Mastoid Surgery Cholesteatoma|Cholesteatoma]]_Comprehensive.md`)*
-- **Q94 (2023) [Stapedotomy part]:** Post-operative complications of stapedotomy. *(Residivism after mastoid surgery → `Mastoid_Surgery_Cholesteatoma_Comprehensive.md`)*
+> [!question] Questions Covered
+> - **Q3 (2019):** Discuss the fenestra options and types of prosthesis used for stapedotomy.
+> - **Q46 (2021):** Complications of stapes surgery. How will you manage a dislocated incus encountered during stapes surgery?
+> - **Q71 (2022):** Describe types of LASER used in otological surgery with its advantages.
+> - **Q113 (2024) [Surgery part]:** Describe the surgical techniques for [[Otosclerosis|otosclerosis]]. *(Pathology/diagnosis → `Otosclerosis_Comprehensive_Answer.md`; obliteration part → `Mastoid_Surgery_[[Mastoid Surgery Cholesteatoma|Cholesteatoma]]_Comprehensive.md`)*
+> - **Q94 (2023) [Stapedotomy part]:** Post-operative complications of stapedotomy. *(Residivism after mastoid surgery → `Mastoid_Surgery_Cholesteatoma_Comprehensive.md`)*
+> - Scott-Brown's Otorhinolaryngology 8th Edition, Volume 2 — Chapter 89 (Otosclerosis)
 
-**Source:** Scott-Brown's Otorhinolaryngology 8th Edition, Volume 2 — Chapter 89 (Otosclerosis)
 
 ---
 

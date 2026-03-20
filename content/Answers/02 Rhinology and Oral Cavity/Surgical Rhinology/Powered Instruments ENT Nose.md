@@ -4,13 +4,14 @@ tags:
   - rhinology
   - surgery
   - fess
+description: "DNB ENT Paper 2 (Rhinology) — Powered Instruments in ENT (nose). Answers based on Scott-Brown 8th Edition."
 ---
 
 # Powered Instruments in ENT (nose)
 
-**Question:** *Discuss the various powered instruments used in rhinological surgery, their applications and complications.*
-
-**Source:** Scott-Brown's Otorhinolaryngology, 8th Edition - Volume 1, Chapter 98 (Surgical Management of Rhinosinusitis), Chapter 105 (Management of Enlarged Turbinates), Chapter 99 (The [[Frontal Recess Frontal Sinus Surgery|Frontal Sinus]]), Chapter 108 ([[CSF Rhinorrhea|CSF Leak]]s) & Chapter 42 (Image-Guided Surgery)
+> [!question] Questions Covered
+> - Discuss the various powered instruments used in rhinological surgery, their applications and complications.
+*Source:** Scott-Brown's Otorhinolaryngology, 8th Edition - Volume 1, Chapter 98 (Surgical Management of Rhinosinusitis), Chapter 105 (Management of Enlarged Turbinates), Chapter 99 (The [[Frontal Recess Frontal Sinus Surgery|Frontal Sinus]]), Chapter 108 ([[CSF Rhinorrhea|CSF Leak]]s) & Chapter 42 (Image-Guided Surgery)
 
 ---
 

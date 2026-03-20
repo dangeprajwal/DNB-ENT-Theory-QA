@@ -3,13 +3,14 @@ tags:
   - paper3
   - pharynx
   - paediatric
+description: "DNB ENT Paper 3 (Larynx & Head Neck) — Adenoid Hypertrophy. Answers based on Scott-Brown 8th Edition."
 ---
 
 # Adenoid Hypertrophy
 
-**Question:** *Discuss the clinical features and investigations for adenoid hypertrophy. What are the non-surgical treatment options? Enumerate the indications, techniques and complications of adenoidectomy.*
-
-**Source:** Scott-Brown's Volume 2, Chapter 26 (The Adenoid and Adenoidectomy)
+> [!question] Questions Covered
+> - Discuss the clinical features and investigations for adenoid hypertrophy. What are the non-surgical treatment options? Enumerate the indications, techniques and complications of adenoidectomy.
+*Source:** Scott-Brown's Volume 2, Chapter 26 (The Adenoid and Adenoidectomy)
 
 ---
 

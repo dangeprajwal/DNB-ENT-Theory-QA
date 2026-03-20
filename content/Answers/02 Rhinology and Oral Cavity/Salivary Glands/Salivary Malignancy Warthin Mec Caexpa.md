@@ -3,9 +3,15 @@ tags:
   - paper2
   - salivary
   - surgery
+description: "DNB ENT Paper 2 (Rhinology) — Salivary Gland Neoplasm Classification, Warthin's Tumour, Mucoepidermoid Carc.... Answers based on Scott-Brown 8th Edition."
 ---
 
 # Salivary Gland Neoplasm Classification, Warthin's Tumour, Mucoepidermoid Carcinoma, and Carcinoma Ex-[[Parotid Gland and Salivary Tumours|Pleomorphic Adenoma]]
+
+> [!question] Questions Covered
+> - Q57: Classify salivary gland neoplasms. Describe the features and management of Warthin's tumour. Q67: Classify salivary gland malignancies. Discuss the management of mucoepidermoid carcinoma. Q79: Describe types of parotid neoplasms. Discuss management of carcinoma ex-pleomorphic adenoma and principles of facial nerve preservation. Q104: Classify parotid neoplasms. Describe the Milan system for salivary gland cytopathology. Discuss the management of mucoepidermoid carcinoma. 2018-10: Classify salivary gland neoplasms. Discuss the management of mucoepidermoid carcinoma of the parotid gland.
+> - Note: The Milan system was published after the 8th edition of Scott-Brown's and is not covered in the textbook, but is commonly asked in examinations. The following is standard knowledge supplemented by FNAC data from the textbook.
+> - Answer based on: Scott-Brown's Otorhinolaryngology Head and Neck Surgery, 8th Edition, Volume 3 -- Chapters 9, 10, and 26.
 
 *Q57: Classify salivary gland neoplasms. Describe the features and management of Warthin's tumour. Q67: Classify salivary gland malignancies. Discuss the management of mucoepidermoid carcinoma. Q79: Describe types of parotid neoplasms. Discuss management of carcinoma ex-pleomorphic adenoma and principles of facial nerve preservation. Q104: Classify parotid neoplasms. Describe the Milan system for salivary gland cytopathology. Discuss the management of mucoepidermoid carcinoma. 2018-10: Classify salivary gland neoplasms. Discuss the management of mucoepidermoid carcinoma of the parotid gland.*
 

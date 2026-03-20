@@ -3,13 +3,14 @@ tags:
   - paper3
   - airway
   - surgery
+description: "DNB ENT Paper 3 (Larynx & Head Neck) — Tracheostomy — Indications, Techniques, Complications and Paediatric Consider.... Answers based on Scott-Brown 8th Edi..."
 ---
 
 # Tracheostomy — Indications, Techniques, Complications and Paediatric Considerations
 
-**Question:** *Tracheostomy techniques specific to children. Indications, technique, problems and complications of tracheostomy in infants. Post-operative care and complications in paediatric tracheostomy. Difficult decannulation in a child — evaluation and management. Prolonged tracheostomy in a child — causes, sequelae and investigations. Percutaneous vs classical tracheostomy. RLN anatomy on both sides.*
-
-**Source:** Scott-Brown's Volume 2, Chapter 35 (Paediatric Tracheostomy) and Volume 3, Chapter 72 (Upper Airway Obstruction and Tracheostomy)
+> [!question] Questions Covered
+> - Tracheostomy techniques specific to children. Indications, technique, problems and complications of tracheostomy in infants. Post-operative care and complications in paediatric tracheostomy. Difficult decannulation in a child — evaluation and management. Prolonged tracheostomy in a child — causes, sequelae and investigations. Percutaneous vs classical tracheostomy. RLN anatomy on both sides.
+*Source:** Scott-Brown's Volume 2, Chapter 35 (Paediatric Tracheostomy) and Volume 3, Chapter 72 (Upper Airway Obstruction and Tracheostomy)
 
 ---
 

@@ -4,13 +4,14 @@ tags:
   - laryngology
   - oncology
   - surgery
+description: "DNB ENT Paper 3 (Larynx & Head Neck) — Transoral Endoscopic Laser Resection of Glottic Carcinoma. Answers based on Scott-Brown 8th Edition."
 ---
 
 # Transoral Endoscopic Laser Resection of Glottic Carcinoma
 
-**Question:** *What are the indications and contraindications of transoral endoscopic laser resection of glottic carcinoma? Describe the same procedure and its complications.*
-
-**Source:** Scott-Brown's Otorhinolaryngology, 8th Edition - Volume 3, Chapter 14 (Tumours of the Larynx), Chapter 27 (Open Conservation Surgery for Laryngeal Cancer)
+> [!question] Questions Covered
+> - What are the indications and contraindications of transoral endoscopic laser resection of glottic carcinoma? Describe the same procedure and its complications.
+*Source:** Scott-Brown's Otorhinolaryngology, 8th Edition - Volume 3, Chapter 14 (Tumours of the Larynx), Chapter 27 (Open Conservation Surgery for Laryngeal Cancer)
 
 ---
 

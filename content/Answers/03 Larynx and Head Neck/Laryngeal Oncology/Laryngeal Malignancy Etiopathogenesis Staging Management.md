@@ -4,13 +4,14 @@ tags:
   - laryngology
   - oncology
   - surgery
+description: "DNB ENT Paper 3 (Larynx & Head Neck) — Laryngeal Malignancy - Etiopathogenesis, Staging and Management. Answers based on Scott-Brown 8th Edition."
 ---
 
 # Laryngeal Malignancy - Etiopathogenesis, Staging and Management
 
-**Question:** *Describe the etiopathogenesis and clinical presentation of laryngeal malignancy. Staging and management of laryngeal malignancy.*
-
-**Source:** Scott-Brown's Otorhinolaryngology, 8th Edition - Volume 3, Chapter 2 (Aetiology of Head and Neck Cancer), Chapter 4 (Staging), Chapter 14 (Tumours of the Larynx), Chapter 27 (Open Conservation Surgery for Laryngeal Cancer)
+> [!question] Questions Covered
+> - Describe the etiopathogenesis and clinical presentation of laryngeal malignancy. Staging and management of laryngeal malignancy.
+*Source:** Scott-Brown's Otorhinolaryngology, 8th Edition - Volume 3, Chapter 2 (Aetiology of Head and Neck Cancer), Chapter 4 (Staging), Chapter 14 (Tumours of the Larynx), Chapter 27 (Open Conservation Surgery for Laryngeal Cancer)
 
 ---
 

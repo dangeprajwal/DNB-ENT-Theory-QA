@@ -4,13 +4,14 @@ tags:
   - laryngology
   - oncology
   - oesophageal
+description: "DNB ENT Paper 3 (Larynx & Head Neck) — Hypopharyngeal Cancer — Benign and Malignant Lesions, Management of Stage 3 P.... Answers based on Scott-Brown 8th Edi..."
 ---
 
 # Hypopharyngeal Cancer — Benign and Malignant Lesions, Management of Stage 3 Pyriform Sinus Cancer
 
-**Question:** *Enumerate benign and malignant lesions of hypopharynx. Discuss the management of stage 3 hypopharyngeal cancer involving pyriform sinus.*
-
-**Source:** Scott-Brown's Otorhinolaryngology, 8th Edition - Volume 3, Chapter 16 (Management of Hypopharyngeal Cancer)
+> [!question] Questions Covered
+> - Enumerate benign and malignant lesions of hypopharynx. Discuss the management of stage 3 hypopharyngeal cancer involving pyriform sinus.
+*Source:** Scott-Brown's Otorhinolaryngology, 8th Edition - Volume 3, Chapter 16 (Management of Hypopharyngeal Cancer)
 
 ---
 

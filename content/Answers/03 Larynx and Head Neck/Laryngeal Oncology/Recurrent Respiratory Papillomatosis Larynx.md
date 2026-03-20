@@ -4,13 +4,14 @@ tags:
   - laryngology
   - oncology
   - surgery
+description: "DNB ENT Paper 3 (Larynx & Head Neck) — Recurrent Respiratory Papillomatosis of the Larynx. Answers based on Scott-Brown 8th Edition."
 ---
 
 # Recurrent Respiratory Papillomatosis of the Larynx
 
-**Question:** *Clinical features, staging and management of a case of recurrent respiratory papillomatosis of the larynx.*
-
-**Source:** Scott-Brown's Otorhinolaryngology, 8th Edition - Volume 2, Chapter 32 (Juvenile-onset RRP); Volume 3, Chapter 14 (Tumours of the Larynx)
+> [!question] Questions Covered
+> - Clinical features, staging and management of a case of recurrent respiratory papillomatosis of the larynx.
+*Source:** Scott-Brown's Otorhinolaryngology, 8th Edition - Volume 2, Chapter 32 (Juvenile-onset RRP); Volume 3, Chapter 14 (Tumours of the Larynx)
 
 ---
 

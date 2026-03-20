@@ -3,13 +3,14 @@ tags:
   - paper3
   - pharynx
   - paediatric
+description: "DNB ENT Paper 3 (Larynx & Head Neck) — Membranous Lesions of the Throat. Answers based on Scott-Brown 8th Edition."
 ---
 
 # Membranous Lesions of the Throat
 
-**Question:** *Enumerate the causes of membranous lesions in the throat. How would you differentiate between them?*
-
-**Source:** Scott-Brown's Volume 2, Chapter 29 (Acute Laryngeal Infections) and Volume 3, Chapter 51 (Pharyngitis)
+> [!question] Questions Covered
+> - Enumerate the causes of membranous lesions in the throat. How would you differentiate between them?
+*Source:** Scott-Brown's Volume 2, Chapter 29 (Acute Laryngeal Infections) and Volume 3, Chapter 51 (Pharyngitis)
 
 ---
 

@@ -4,13 +4,14 @@ tags:
   - rhinology
   - surgery
   - fess
+description: "DNB ENT Paper 2 (Rhinology) — Extended Endonasal Sinus Surgery: Approaches. Answers based on Scott-Brown 8th Edition."
 ---
 
 # Extended Endonasal Sinus Surgery: Approaches
 
-**Question:** *Describe the extended endonasal sinus surgery approaches.*
-
-**Source:** Scott-Brown's Otorhinolaryngology, 8th Edition - Volume 1, Chapters 114 & 116
+> [!question] Questions Covered
+> - Describe the extended endonasal sinus surgery approaches.
+*Source:** Scott-Brown's Otorhinolaryngology, 8th Edition - Volume 1, Chapters 114 & 116
 
 ---
 

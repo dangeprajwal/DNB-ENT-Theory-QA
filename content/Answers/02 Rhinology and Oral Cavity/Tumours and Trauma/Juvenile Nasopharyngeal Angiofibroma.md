@@ -4,13 +4,14 @@ tags:
   - rhinology
   - oncology
   - trauma
+description: "DNB ENT Paper 2 (Rhinology) — Juvenile Nasopharyngeal Angiofibroma (JNA). Answers based on Scott-Brown 8th Edition."
 ---
 
 # Juvenile Nasopharyngeal Angiofibroma (JNA)
 
-**Question:** *Discuss the etiopathogenesis, theories of origin, investigations and management of juvenile nasopharyngeal angiofibroma.*
-
-**Source:** Scott-Brown's Otorhinolaryngology, 8th Edition - Volume 1, Chapter 113 (Juvenile Angiofibroma) & Volume 2, Chapter 22 ([[Epistaxis Management|Epistaxis]])
+> [!question] Questions Covered
+> - Discuss the etiopathogenesis, theories of origin, investigations and management of juvenile nasopharyngeal angiofibroma.
+*Source:** Scott-Brown's Otorhinolaryngology, 8th Edition - Volume 1, Chapter 113 (Juvenile Angiofibroma) & Volume 2, Chapter 22 ([[Epistaxis Management|Epistaxis]])
 
 ---
 

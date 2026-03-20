@@ -3,13 +3,14 @@ tags:
   - paper3
   - pharynx
   - paediatric
+description: "DNB ENT Paper 3 (Larynx & Head Neck) — Velopharyngeal Insufficiency. Answers based on Scott-Brown 8th Edition."
 ---
 
 # Velopharyngeal Insufficiency
 
-**Question:** *What is velopharyngeal insufficiency? Discuss the aetiology, assessment and management of velopharyngeal insufficiency. How would you manage rhinolalia aperta? Describe the surgical anatomy of the nasopharyngeal inlet in this context.*
-
-**Source:** Scott-Brown's Volume 2, Chapter 18 (Cleft Lip and Palate), Chapter 17 (Speech and Language), Chapter 26 (The Adenoid and Adenoidectomy)
+> [!question] Questions Covered
+> - What is velopharyngeal insufficiency? Discuss the aetiology, assessment and management of velopharyngeal insufficiency. How would you manage rhinolalia aperta? Describe the surgical anatomy of the nasopharyngeal inlet in this context.
+*Source:** Scott-Brown's Volume 2, Chapter 18 (Cleft Lip and Palate), Chapter 17 (Speech and Language), Chapter 26 (The Adenoid and Adenoidectomy)
 
 ---
 

@@ -4,17 +4,18 @@ tags:
   - general
   - haematology
   - emergency
+description: "DNB ENT Paper 4 (General) — Blood Transfusion, Hypersensitivity Reactions and Transfusion Medicine. Answers based on Scott-Brown 8th Edition."
 ---
 
 # Blood Transfusion, Hypersensitivity Reactions and Transfusion Medicine
 
-## Questions Covered
-- *Q15D-1: What are hypersensitivity reactions? Mechanism of anaphylaxis*
-- *Q15J-9: Define 'Autotransfusion'. Different blood fractions & transfusion reactions*
-- *Q16D-9: Enumerate various blood components used for transfusion. Management of excessive blood loss during surgery*
-- *Q2020-36: What is artificial blood? Discuss the various methods to minimize transfusion reactions*
+> [!question] Questions Covered
+> - *Q15D-1: What are hypersensitivity reactions? Mechanism of anaphylaxis*
+> - *Q15J-9: Define 'Autotransfusion'. Different blood fractions & transfusion reactions*
+> - *Q16D-9: Enumerate various blood components used for transfusion. Management of excessive blood loss during surgery*
+> - *Q2020-36: What is artificial blood? Discuss the various methods to minimize transfusion reactions*
+> - Scott-Brown's Otorhinolaryngology, 8th Edition — Volume 1, Chapter 24: Blood Groups, Blood Components and Alternatives to Transfusion (pp. 239-248); Chapter 13: Defence Mechanisms of the Upper Respiratory Tract (pp. 121-130); Chapter 14: Allergy (pp. 137-148)
 
-**Source:** Scott-Brown's Otorhinolaryngology, 8th Edition — Volume 1, Chapter 24: Blood Groups, Blood Components and Alternatives to Transfusion (pp. 239-248); Chapter 13: Defence Mechanisms of the Upper Respiratory Tract (pp. 121-130); Chapter 14: Allergy (pp. 137-148)
 
 ---
 

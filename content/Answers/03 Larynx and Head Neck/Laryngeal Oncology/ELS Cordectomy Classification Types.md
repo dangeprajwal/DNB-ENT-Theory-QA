@@ -4,13 +4,14 @@ tags:
   - laryngology
   - oncology
   - surgery
+description: "DNB ENT Paper 3 (Larynx & Head Neck) — ELS Classification of Cordectomy and Conservation Laryngeal Surgery. Answers based on Scott-Brown 8th Edition."
 ---
 
 # ELS Classification of Cordectomy and Conservation Laryngeal Surgery
 
-**Question:** *Discuss the ELS classification of various types of cordectomies for glottic carcinoma. Describe the indications, surgical steps and complications of Type 3 cordectomy. Also: Describe the surgical anatomy of vocal cords. Discuss the various types of Endoscopic Cordectomy in respect to [[Laryngeal Malignancy Etiopathogenesis Staging Management|laryngeal carcinoma]].*
-
-**Source:** Scott-Brown's Otorhinolaryngology, 8th Edition - Volume 3, Chapter 14 (Tumours of the Larynx), Chapter 27 (Open Conservation Surgery for Laryngeal Cancer)
+> [!question] Questions Covered
+> - Discuss the ELS classification of various types of cordectomies for glottic carcinoma. Describe the indications, surgical steps and complications of Type 3 cordectomy. Also: Describe the surgical anatomy of vocal cords. Discuss the various types of Endoscopic Cordectomy in respect to [[Laryngeal Malignancy Etiopathogenesis Staging Management|laryngeal carcinoma]].
+*Source:** Scott-Brown's Otorhinolaryngology, 8th Edition - Volume 3, Chapter 14 (Tumours of the Larynx), Chapter 27 (Open Conservation Surgery for Laryngeal Cancer)
 
 ---
 

@@ -4,13 +4,14 @@ tags:
   - laryngology
   - oncology
   - oesophageal
+description: "DNB ENT Paper 3 (Larynx & Head Neck) — Postcricoid Region — Surgical Anatomy and Plummer-vinson Syndrome. Answers based on Scott-Brown 8th Edition."
 ---
 
 # Postcricoid Region — Surgical Anatomy and Plummer-vinson Syndrome
 
-**Question:** *Describe the surgical anatomy of postcricoid region. Describe the management of Plummer-Vinson syndrome.*
-
-**Source:** Scott-Brown's Otorhinolaryngology, 8th Edition - Volume 3, Chapter 16 (Management of Hypopharyngeal Cancer), Chapter 47 (Anatomy of the Pharynx and Oesophagus), Chapter 49 (Causes and Assessment of Dysphagia)
+> [!question] Questions Covered
+> - Describe the surgical anatomy of postcricoid region. Describe the management of Plummer-Vinson syndrome.
+*Source:** Scott-Brown's Otorhinolaryngology, 8th Edition - Volume 3, Chapter 16 (Management of Hypopharyngeal Cancer), Chapter 47 (Anatomy of the Pharynx and Oesophagus), Chapter 49 (Causes and Assessment of Dysphagia)
 
 ---
 

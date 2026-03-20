@@ -4,6 +4,7 @@ tags:
   - general
   - paediatric
   - congenital
+description: "DNB ENT Paper 4 (General) — Thyroglossal Duct Cyst and Midline Neck Masses. Answers based on Scott-Brown 8th Edition."
 ---
 
 # Thyroglossal Duct Cyst and Midline Neck Masses
@@ -19,6 +20,14 @@ tags:
 **Question 5:** *8-year-old child with midline neck swelling 3 x 1 cm — presumptive diagnosis? Embryology? Management?*
 
 **Source:** Scott-Brown's Otorhinolaryngology, 8th Edition - Volume 2, Chapter 41 (Cysts and Sinuses of the Head and Neck)
+
+
+> [!question] Questions Covered
+> - Describe the development and surgical principles of thyroglossal cyst.
+> - Aetiopathogenesis, clinical features, evaluation and management of thyroglossal cyst.
+> - Describe different midline neck swellings and surgical management of thyroglossal cyst.
+> - Differential diagnosis of midline neck masses in different age groups. Investigation protocol for a vascular neck mass.
+> - 8-year-old child with midline neck swelling 3 x 1 cm — presumptive diagnosis? Embryology? Management?
 
 ---
 

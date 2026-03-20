@@ -4,13 +4,14 @@ tags:
   - laryngology
   - voice
   - surgery
+description: "DNB ENT Paper 3 (Larynx & Head Neck) — Vocal Fold Paralysis — Causes, Evaluation and Management. Answers based on Scott-Brown 8th Edition."
 ---
 
 # Vocal Fold Paralysis — Causes, Evaluation and Management
 
-**Question:** *Enumerate causes of vocal cord palsy. Discuss the clinical features, diagnosis and management of bilateral vocal fold paralysis.*
-
-**Source:** Scott-Brown's Otorhinolaryngology, 8th Edition - Volume 3, Chapter 78 (Paralysis of the Larynx), Chapter 67 (Phonosurgery), Chapter 63 (Structural Disorders of the Vocal Cords)
+> [!question] Questions Covered
+> - Enumerate causes of vocal cord palsy. Discuss the clinical features, diagnosis and management of bilateral vocal fold paralysis.
+*Source:** Scott-Brown's Otorhinolaryngology, 8th Edition - Volume 3, Chapter 78 (Paralysis of the Larynx), Chapter 67 (Phonosurgery), Chapter 63 (Structural Disorders of the Vocal Cords)
 
 ---
 

@@ -3,9 +3,15 @@ tags:
   - paper4
   - research
   - evidence-based-medicine
+description: "DNB ENT Paper 4 (General) — RESEARCH TYPES, EVALUATION OF RESEARCH PAPER, JOURNAL INDEXING AND IMPACT FACTOR. Answers based on Scott-Brown 8th Edition."
 ---
 
 # RESEARCH TYPES, EVALUATION OF RESEARCH PAPER, JOURNAL INDEXING AND IMPACT FACTOR
+
+> [!question] Questions Covered
+> - **Q17, December 2019:** Define evidence based medical practice and research types. Evaluation of research paper. What does indexing refer & its effect on impact factor?
+> - **Q10, June 2019:** What are various factors for choosing topic for research? What is correlation coefficient? What is impact factor?
+
 
 **Question 1 (Q17, December 2019):** *Define evidence based medical practice and research types. Evaluation of research paper. What does indexing refer & its effect on impact factor?*
 

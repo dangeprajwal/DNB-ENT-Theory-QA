@@ -4,13 +4,14 @@ tags:
   - head-and-neck
   - surgery
   - oncology
+description: "DNB ENT Paper 3 (Larynx & Head Neck) — Neck Dissection — Classification, Indications, Technique and Complications. Answers based on Scott-Brown 8th Edition."
 ---
 
 # Neck Dissection — Classification, Indications, Technique and Complications
 
-**Question:** *Neck dissection — principle, classification, indications and complications. Types of neck dissections. Modified radical neck dissection — indications, surgical steps and complications. Selective neck dissection — types and indications. Complications of neck dissection. Chyle leak management.*
-
-**Source:** Scott-Brown's Volume 3, Chapter 18 (Metastatic Neck Disease); Chapter 35 (Surgical Anatomy of the Neck)
+> [!question] Questions Covered
+> - Neck dissection — principle, classification, indications and complications. Types of neck dissections. Modified radical neck dissection — indications, surgical steps and complications. Selective neck dissection — types and indications. Complications of neck dissection. Chyle leak management.
+*Source:** Scott-Brown's Volume 3, Chapter 18 (Metastatic Neck Disease); Chapter 35 (Surgical Anatomy of the Neck)
 
 ---
 

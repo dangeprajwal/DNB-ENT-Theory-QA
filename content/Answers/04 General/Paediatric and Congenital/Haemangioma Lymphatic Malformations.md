@@ -4,6 +4,7 @@ tags:
   - general
   - paediatric
   - congenital
+description: "DNB ENT Paper 4 (General) — Infantile Haemangioma and Lymphatic Malformations in Head and Neck. Answers based on Scott-Brown 8th Edition."
 ---
 
 # Infantile Haemangioma and Lymphatic Malformations in Head and Neck
@@ -19,6 +20,14 @@ tags:
 **Question 5:** *Cystic hygroma involving neck, chest and mediastinum. Role of CBNAAT in extrapulmonary TB of H&N (Part A).*
 
 **Source:** Scott-Brown's Otorhinolaryngology, 8th Edition - Volume 2, Chapter 36 (Neonatal Airway), Chapter 37 (Paediatric Neck Masses), Chapter 42 (Haemangiomas and Vascular Malformations)
+
+
+> [!question] Questions Covered
+> - Cystic masses in lateral neck in infants. How to investigate and treat cystic hygroma?
+> - Classify lymphangiomas of the neck. Various medical and surgical options for management.
+> - Enumerate cystic neck masses in children. Clinical features, diagnosis and management of neck haemangioma in a 6-month-old.
+> - Briefly outline the management of infantile haemangioma in the head and neck region.
+> - Cystic hygroma involving neck, chest and mediastinum. Role of CBNAAT in extrapulmonary TB of H&N (Part A).
 
 ---
 

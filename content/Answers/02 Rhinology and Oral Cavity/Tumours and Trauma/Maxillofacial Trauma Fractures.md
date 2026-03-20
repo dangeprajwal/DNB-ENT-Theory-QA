@@ -4,13 +4,14 @@ tags:
   - rhinology
   - oncology
   - trauma
+description: "DNB ENT Paper 2 (Rhinology) — Maxillofacial Trauma — Fractures, TON, and Osteotomies in ENT. Answers based on Scott-Brown 8th Edition."
 ---
 
 # Maxillofacial Trauma — Fractures, TON, and Osteotomies in ENT
 
-**Question:** *"Classify [[Le Fort Fractures|Le Fort]] fractures and discuss traumatic optic neuropathy. Describe zygomatic fracture features and management. Discuss mandibular condyle fracture mechanisms and management. Classify nasal fractures and management. Enumerate various osteotomies done in ENT practice."*
-
-**Source:** Scott-Brown's Volume 3, Chapters 7 (Maxillary Malignancy — osteotomies), 57 (TMJ Disorders), 80 (Rhinoplasty Following Nasal Trauma), 84 (Osteotomies); Volume 1, Chapter 98 ([[FESS Steps Complications|FESS]] Complications), 107 (Nasal and Facial Fractures)
+> [!question] Questions Covered
+> - "Classify [[Le Fort Fractures|Le Fort]] fractures and discuss traumatic optic neuropathy. Describe zygomatic fracture features and management. Discuss mandibular condyle fracture mechanisms and management. Classify nasal fractures and management. Enumerate various osteotomies done in ENT practice."
+*Source:** Scott-Brown's Volume 3, Chapters 7 (Maxillary Malignancy — osteotomies), 57 (TMJ Disorders), 80 (Rhinoplasty Following Nasal Trauma), 84 (Osteotomies); Volume 1, Chapter 98 ([[FESS Steps Complications|FESS]] Complications), 107 (Nasal and Facial Fractures)
 
 ---
 

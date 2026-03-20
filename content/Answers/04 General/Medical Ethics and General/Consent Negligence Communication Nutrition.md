@@ -3,6 +3,7 @@ tags:
   - paper4
   - general
   - ethics
+description: "DNB ENT Paper 4 (General) — Informed Consent, Medical Negligence, Non-Technical Skills & Nutrition in ENT. Answers based on Scott-Brown 8th Edition."
 ---
 
 # Informed Consent, Medical Negligence, Non-Technical Skills & Nutrition in ENT
@@ -16,6 +17,13 @@ tags:
 **Question 4:** *Classify non-technical surgical skills. Discuss the role of communication and team work for an ENT surgeon.*
 
 **Source:** Scott-Brown's Otorhinolaryngology, 8th Edition — Volume 1: Chapters 10 ([[Wound Healing Phases Types Factors|Wound Healing]]), 30 (Preparation for Surgery), 33 (Adult Critical Care), 36 (Communication & Medical Consultation), 37 (Clinical Governance), 38 (Medical Ethics), 39a (Medical Jurisprudence); Volume 3: Chapter 32 (MDT Working)
+
+
+> [!question] Questions Covered
+> - Describe the procedure to take consent in surgical cases. How would you take care of a dying patient?
+> - What is the role of nutrition in recovery after major head and neck surgery? Discuss Covid-19 precautions in the ward.
+> - Discuss medical negligence in Otorhinolaryngology. Write a note on Consumer Redressal Forum relevant to medical practice.
+> - Classify non-technical surgical skills. Discuss the role of communication and team work for an ENT surgeon.
 
 ---
 

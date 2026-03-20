@@ -4,13 +4,14 @@ tags:
   - head-and-neck
   - infections
   - anatomy
+description: "DNB ENT Paper 3 (Larynx & Head Neck) — Deep Neck Space Infections — Classification, Ludwig's Angina and Necrotizing .... Answers based on Scott-Brown 8th Edi..."
 ---
 
 # Deep Neck Space Infections — Classification, Ludwig's Angina and Necrotizing Fasciitis
 
-**Question:** *Classify deep neck space infections. Describe the clinical features and management of Ludwig's angina. Discuss the deep neck spaces classification. Describe the clinical features, diagnosis and management of necrotizing cervical fasciitis.*
-
-**Source:** Scott-Brown's Volume 3, Chapter 35 (Surgical Anatomy of the Neck — Fascial Layers and Neck Spaces); Volume 2, Chapter 37 (Cervicofacial Infections)
+> [!question] Questions Covered
+> - Classify deep neck space infections. Describe the clinical features and management of Ludwig's angina. Discuss the deep neck spaces classification. Describe the clinical features, diagnosis and management of necrotizing cervical fasciitis.
+*Source:** Scott-Brown's Volume 3, Chapter 35 (Surgical Anatomy of the Neck — Fascial Layers and Neck Spaces); Volume 2, Chapter 37 (Cervicofacial Infections)
 
 ---
 

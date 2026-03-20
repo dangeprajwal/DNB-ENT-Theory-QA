@@ -4,13 +4,14 @@ tags:
   - endocrinology
   - thyroid
   - surgery
+description: "DNB ENT Paper 3 (Larynx & Head Neck) — Total Thyroidectomy — Indications, Parathyroid Identification and Post-operat.... Answers based on Scott-Brown 8th Edi..."
 ---
 
 # Total Thyroidectomy — Indications, Parathyroid Identification and Post-operative Hypocalcaemia
 
-**Question:** *Describe indications of total thyroidectomy according to ATA guidelines. What are various methods of identification of parathyroids during thyroidectomy? Describe management of post-thyroidectomy hypocalcaemia.*
-
-**Source:** Scott-Brown's Otorhinolaryngology, 8th Edition - Volume 1, Chapter 62 (DTC Management), Chapter 67 (Thyroidectomy), Chapter 74 (Persistent/Recurrent HPT), Chapter 77 (MIP), Chapter 79 (Complications)
+> [!question] Questions Covered
+> - Describe indications of total thyroidectomy according to ATA guidelines. What are various methods of identification of parathyroids during thyroidectomy? Describe management of post-thyroidectomy hypocalcaemia.
+*Source:** Scott-Brown's Otorhinolaryngology, 8th Edition - Volume 1, Chapter 62 (DTC Management), Chapter 67 (Thyroidectomy), Chapter 74 (Persistent/Recurrent HPT), Chapter 77 (MIP), Chapter 79 (Complications)
 
 ---
 

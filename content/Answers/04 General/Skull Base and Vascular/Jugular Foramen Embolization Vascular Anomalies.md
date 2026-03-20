@@ -3,6 +3,7 @@ tags:
   - paper4
   - skull-base
   - vascular
+description: "DNB ENT Paper 4 (General) — Jugular Foramen Anatomy, Embolization in ENT and Vascular Anomalies. Answers based on Scott-Brown 8th Edition."
 ---
 
 # Jugular Foramen Anatomy, Embolization in ENT and Vascular Anomalies
@@ -16,6 +17,13 @@ tags:
 **Question 4:** *Anomalous vascular malformations responsible for tracheo-oesophageal symptoms and management.*
 
 **Source:** Scott-Brown's Otorhinolaryngology, 8th Edition - Volume 1, Chapter 49 (Interventional Techniques); Volume 2, Chapter 30 (Congenital Disorders of Larynx, Trachea, Bronchi), Chapter 107 (Jugular Foramen Lesions)
+
+
+> [!question] Questions Covered
+> - Describe the anatomy of jugular foramen.
+> - Role of embolisation in management of H&N lesions. Indications, materials, advantages, disadvantages and complications.
+> - Importance of embolization in ENT practice. How to assess prognosis of intraoperative ICA ligation for accidental injury?
+> - Anomalous vascular malformations responsible for tracheo-oesophageal symptoms and management.
 
 ---
 
