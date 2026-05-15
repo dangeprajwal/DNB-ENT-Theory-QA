@@ -11,6 +11,11 @@ All answers are based on **Scott-Brown's Otorhinolaryngology, Head and Neck Surg
 
 > **Quick Links:** [[Year-wise Question Papers|Year-wise Trends & Exam Strategy]] | [[About|About This Project]] | [[Disclaimer|Disclaimer]]
 
+> [!info] About This Website
+> This website was created by **Dr. Prajwal Dange, MBBS, MS, DNB, MCh Head Neck Surgery and Oncology — AIIMS Raipur (Gold Medalist)**.
+>
+> For any queries, corrections, or suggestions regarding content on this website, please write to: **[prajwal.dange@gmail.com](mailto:prajwal.dange@gmail.com)**
+
 ---
 
 ## High-Yield Topics — What to Prioritise

@@ -33,9 +33,13 @@ Preparing for DNB ENT theory exams is challenging. Question papers from previous
 - **4** papers across **15 years** (2011–2025)
 - **1** reference textbook (Scott-Brown 8th Edition)
 
-## Contributing
+## Contact & Queries
 
-Found an error? Have a suggestion? Want to contribute answers? Feel free to reach out or submit an issue on [GitHub](https://github.com/dangeprajwal/DNB-ENT-Theory-QA).
+For any queries, corrections, or suggestions regarding the content on this website, please write to:
+
+📧 **[prajwal.dange@gmail.com](mailto:prajwal.dange@gmail.com)**
+
+Whether you have found an error, require a modification, or would like to contribute answers — feel free to reach out directly or submit an issue on [GitHub](https://github.com/dangeprajwal/DNB-ENT-Theory-QA).
 
 ---
 
