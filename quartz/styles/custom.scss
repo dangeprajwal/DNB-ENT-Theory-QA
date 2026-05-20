@@ -5,47 +5,16 @@
 // ============================================================
 
 // ------------------------------------------------------------
-// 0. MINIMAL SIDEBAR — narrow left panel, no Explorer clutter
+// 0. SIDEBAR — clean styling, Explorer restored
 // ------------------------------------------------------------
 
-// Desktop: shrink left sidebar to 220px (was 320px), right ToC to 260px
-@media (min-width: 1200px) {
-  #quartz-body {
-    grid-template-columns: 220px auto 260px !important;
-  }
-}
-
-// Tablet: shrink left sidebar to 200px
-@media (min-width: 800px) and (max-width: 1200px) {
-  #quartz-body {
-    grid-template-columns: 200px auto !important;
-  }
-}
-
-// Left sidebar: clean minimal strip
+// Left sidebar: subtle border separator
 .sidebar.left {
-  padding: 2.5rem 1.2rem 2rem 1.4rem !important;
   border-right: 1px solid var(--lightgray);
-  gap: 0.8rem !important;
-
-  // Site title — smaller, tight
-  h1.page-title {
-    font-size: 1rem !important;
-    font-weight: 700;
-    letter-spacing: -0.01em;
-    line-height: 1.3;
-    margin-bottom: 0.6rem;
-  }
-
-  // Search bar — flush to sidebar width
-  .search {
-    width: 100%;
-  }
 }
 
-// Right sidebar (ToC only): minimal, no border clutter
+// Right sidebar (ToC): minimal styling
 .sidebar.right {
-  padding: 2.5rem 1.2rem 2rem 1.2rem !important;
   border-left: 1px solid var(--lightgray);
 
   .toc {
