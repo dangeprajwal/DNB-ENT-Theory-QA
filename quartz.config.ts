@@ -8,8 +8,8 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Theory Q&A",
-    pageTitleSuffix: "",
+    pageTitle: "DNB ENT Theory Q&A",
+    pageTitleSuffix: " | Scott-Brown Answers",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
