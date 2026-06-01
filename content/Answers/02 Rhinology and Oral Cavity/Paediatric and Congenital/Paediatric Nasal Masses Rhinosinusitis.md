@@ -42,11 +42,16 @@ Nasal dermoids are the **most common midline nasal mass**, accounting for 1–3%
 
 ### Hartley Classification
 
-Classifies nasal dermoids based on the depth of extension:
-- Type 1: Superficial (skin and subcutaneous only)
-- Type 2: Extension to nasal bones
-- Type 3: Intraosseous extension
-- Type 4: Intracranial extension (through foramen cecum)
+*(Hartley et al. — series of 103 cases; cited in Scott-Brown Vol 2, Chapter 41, Figure 41.11)*
+
+A pragmatic staging system based on depth of extension of the dermoid tract:
+
+| Stage | Name | Extent | Surgical Approach |
+|-------|------|--------|-------------------|
+| 1 | **Superficial** | Within soft tissue only; most common | Simple excision |
+| 2 | **Intraosseous** | Extends into frontal and nasal bones | Drill-out required |
+| 3 | **Intracranial Extradural** | Breaches anterior cranial vault; outside dura | Frontonasal osteotomy; peeled from dura |
+| 4 | **Intracranial Intradural** | Most complex; penetrates dura | Bicoronal flap + frontal craniotomy; endoscopic transnasal approach possible in selected cases |
 
 ### Investigation
 
