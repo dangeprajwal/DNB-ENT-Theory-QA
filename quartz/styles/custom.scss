@@ -137,3 +137,100 @@ code {
     font-size: 1.05rem;
   }
 }
+
+// ============================================================
+// 8. COLLAPSIBLE SIDEBARS (desktop ≥ 1200px only)
+// ============================================================
+
+// -- Sidebar base: clip content when narrow ----------------
+@media (min-width: 1200px) {
+  // Smooth column-width transition on the grid container
+  #quartz-body {
+    transition: grid-template-columns 0.3s ease;
+  }
+
+  // Both sidebars: hide overflowing content when collapsed
+  .sidebar.left,
+  .sidebar.right {
+    overflow: hidden;
+    transition: padding 0.3s ease;
+  }
+
+  // Fade out content when the sidebar is collapsing
+  .sidebar.sb-collapsed > *:not(.sb-toggle-btn) {
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 0.15s ease;
+  }
+
+  // Restore opacity when expanded
+  .sidebar:not(.sb-collapsed) > *:not(.sb-toggle-btn) {
+    opacity: 1;
+    transition: opacity 0.25s ease 0.05s;
+  }
+
+  // Collapsed: remove horizontal padding so nothing peeks out
+  .sidebar.sb-collapsed {
+    padding-left: 4px !important;
+    padding-right: 4px !important;
+  }
+
+  // ── Toggle button (fixed, at viewport edge of each sidebar) ──
+  .sb-toggle-btn {
+    position: fixed;
+    top: 50vh;
+    transform: translateY(-50%);
+    z-index: 9999;
+
+    width: 26px;
+    height: 56px;
+    padding: 0;
+    margin: 0;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    background: var(--lightgray);
+    color: var(--darkgray);
+    border: 1px solid var(--gray);
+    border-radius: 6px;
+    cursor: pointer;
+
+    font-size: 11px;
+    font-weight: bold;
+    line-height: 1;
+
+    box-shadow: 0 2px 6px rgba(0,0,0,0.12);
+    transition: background 0.15s ease, box-shadow 0.15s ease, left 0.3s ease, right 0.3s ease;
+
+    // Hidden on mobile/tablet — JS also hides it but this prevents FOUC
+    @media (max-width: 1199px) {
+      display: none !important;
+    }
+
+    &:hover {
+      background: var(--secondary);
+      color: var(--light);
+      box-shadow: 0 3px 10px rgba(0,0,0,0.18);
+    }
+
+    &:active {
+      transform: translateY(-50%) scale(0.94);
+    }
+
+    &:focus-visible {
+      outline: 2px solid var(--secondary);
+      outline-offset: 2px;
+    }
+  }
+
+  // -- When right sidebar collapses, push content to fill space --
+  // (handled automatically by grid auto column — no extra CSS needed)
+
+  // -- Ensure article content stays centered after collapse ------
+  .center {
+    min-width: 0; // allow flex/grid shrink
+    transition: max-width 0.3s ease;
+  }
+}
