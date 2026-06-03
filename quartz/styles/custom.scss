@@ -139,98 +139,151 @@ code {
 }
 
 // ============================================================
-// 8. COLLAPSIBLE SIDEBARS (desktop ≥ 1200px only)
+// 8. COLLAPSIBLE SIDEBARS (desktop ≥ 1200 px only)
 // ============================================================
 
-// -- Sidebar base: clip content when narrow ----------------
 @media (min-width: 1200px) {
-  // Smooth column-width transition on the grid container
+
+  // ── Grid: smooth column-width animation ──────────────────────
   #quartz-body {
-    transition: grid-template-columns 0.3s ease;
+    transition: grid-template-columns 0.32s ease;
   }
 
-  // Both sidebars: hide overflowing content when collapsed
-  .sidebar.left,
+  // ── Left sidebar: clip to zero when collapsed ────────────────
+  .sidebar.left {
+    overflow: hidden;
+    // Remove border when fully hidden (avoids a 1 px ghost line)
+    &.sb-collapsed {
+      border-right: none !important;
+      padding: 0 !important;
+    }
+    // Fade all children out
+    & > * {
+      transition: opacity 0.18s ease;
+    }
+    &.sb-collapsed > * {
+      opacity: 0;
+      pointer-events: none;
+    }
+  }
+
+  // ── Right sidebar: collapses to 44 px, chevron stays visible ─
   .sidebar.right {
     overflow: hidden;
-    transition: padding 0.3s ease;
+    &.sb-collapsed {
+      padding-left:  2px !important;
+      padding-right: 2px !important;
+    }
+    // Fade all children except the chevron button
+    & > *:not(.sb-right-chevron) {
+      transition: opacity 0.18s ease;
+    }
+    &.sb-collapsed > *:not(.sb-right-chevron) {
+      opacity: 0;
+      pointer-events: none;
+    }
   }
 
-  // Fade out content when the sidebar is collapsing
-  .sidebar.sb-collapsed > *:not(.sb-toggle-btn) {
-    opacity: 0;
-    pointer-events: none;
-    transition: opacity 0.15s ease;
-  }
-
-  // Restore opacity when expanded
-  .sidebar:not(.sb-collapsed) > *:not(.sb-toggle-btn) {
-    opacity: 1;
-    transition: opacity 0.25s ease 0.05s;
-  }
-
-  // Collapsed: remove horizontal padding so nothing peeks out
-  .sidebar.sb-collapsed {
-    padding-left: 4px !important;
-    padding-right: 4px !important;
-  }
-
-  // ── Toggle button (fixed, at viewport edge of each sidebar) ──
-  .sb-toggle-btn {
+  // ── Hamburger button (fixed, top-left) ───────────────────────
+  .sb-hamburger {
     position: fixed;
-    top: 50vh;
-    transform: translateY(-50%);
+    top: 1.4rem;
+    left: 1rem;
     z-index: 9999;
 
-    width: 26px;
-    height: 56px;
-    padding: 0;
-    margin: 0;
+    width: 38px;
+    height: 38px;
+    padding: 9px;
 
     display: flex;
     align-items: center;
     justify-content: center;
 
-    background: var(--lightgray);
-    color: var(--darkgray);
-    border: 1px solid var(--gray);
-    border-radius: 6px;
+    background: transparent;
+    border: none;
+    border-radius: 8px;
     cursor: pointer;
+    color: var(--darkgray);
 
-    font-size: 11px;
-    font-weight: bold;
-    line-height: 1;
-
-    box-shadow: 0 2px 6px rgba(0,0,0,0.12);
-    transition: background 0.15s ease, box-shadow 0.15s ease, left 0.3s ease, right 0.3s ease;
-
-    // Hidden on mobile/tablet — JS also hides it but this prevents FOUC
-    @media (max-width: 1199px) {
-      display: none !important;
-    }
+    transition: background 0.15s ease, color 0.15s ease;
 
     &:hover {
-      background: var(--secondary);
-      color: var(--light);
-      box-shadow: 0 3px 10px rgba(0,0,0,0.18);
+      background: var(--lightgray);
+      color: var(--secondary);
     }
-
     &:active {
-      transform: translateY(-50%) scale(0.94);
+      background: var(--gray);
     }
-
     &:focus-visible {
       outline: 2px solid var(--secondary);
       outline-offset: 2px;
     }
+
+    // Hide on mobile/tablet — JS also hides it, this prevents FOUC
+    @media (max-width: 1199px) {
+      display: none !important;
+    }
   }
 
-  // -- When right sidebar collapses, push content to fill space --
-  // (handled automatically by grid auto column — no extra CSS needed)
+  // ── Right sidebar chevron button (inside sidebar, top) ───────
+  .sb-right-chevron {
+    flex-shrink: 0;
+    align-self: flex-start;
 
-  // -- Ensure article content stays centered after collapse ------
-  .center {
-    min-width: 0; // allow flex/grid shrink
-    transition: max-width 0.3s ease;
+    width: 30px;
+    height: 30px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    background: transparent;
+    border: 1px solid var(--lightgray);
+    border-radius: 6px;
+    cursor: pointer;
+    color: var(--gray);
+    font-size: 16px;
+    line-height: 1;
+
+    margin-bottom: 0.5rem;
+    transition: background 0.15s ease, color 0.15s ease, border-color 0.15s ease;
+
+    &:hover {
+      background: var(--lightgray);
+      color: var(--darkgray);
+      border-color: var(--gray);
+    }
+
+    // When sidebar is collapsed, centre the button in the 44 px strip
+    .sb-collapsed & {
+      align-self: center;
+      margin-top: 5rem;
+      margin-bottom: 0;
+    }
   }
-}
+
+  // ── Content centering when sidebars collapse ─────────────────
+  // Center column is `auto` — it fills freed space.
+  // Limit article width and centre it so text stays readable.
+
+  // Left hidden → add left margin so content doesn't hug the edge
+  body.sb-left-hidden #quartz-body .center article,
+  body.sb-left-hidden #quartz-body .center .page-header {
+    max-width: 860px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    box-sizing: border-box;
+    transition: max-width 0.32s ease, margin 0.32s ease;
+  }
+
+  // Both hidden → fully centred
+  body.sb-left-hidden.sb-right-hidden #quartz-body .center article,
+  body.sb-left-hidden.sb-right-hidden #quartz-body .center .page-header {
+    max-width: 800px;
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+
+} // end @media desktop

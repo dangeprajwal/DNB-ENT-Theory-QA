@@ -1,122 +1,114 @@
 /**
- * Collapsible sidebars for desktop (≥1200px)
- * Injects fixed toggle buttons at the sidebar/content boundary.
- * State is persisted in localStorage.
+ * Collapsible sidebars — desktop (≥ 1200 px)
+ *
+ * Left  → hamburger button (fixed, top-left of viewport)
+ * Right → small chevron button prepended inside the right sidebar
+ * State persisted in localStorage.
  */
 
-const COLLAPSED_W = 44   // px width of collapsed sidebar
-const EXPANDED_W  = 320  // must match $sidePanelWidth in variables.scss
-
-function positionButtons(
-  leftBtn: HTMLElement,
-  rightBtn: HTMLElement,
-  leftSidebar: HTMLElement,
-  rightSidebar: HTMLElement,
-) {
-  requestAnimationFrame(() => {
-    const lRect = leftSidebar.getBoundingClientRect()
-    const rRect = rightSidebar.getBoundingClientRect()
-    leftBtn.style.left  = `${lRect.right - 14}px`
-    rightBtn.style.right = `${window.innerWidth - rRect.left - 14}px`
-  })
-}
+const HAMBURGER = `<svg xmlns="http://www.w3.org/2000/svg" width="20" height="16" viewBox="0 0 20 16" fill="currentColor">
+  <rect x="0" y="0"  width="20" height="2.5" rx="1.25"/>
+  <rect x="0" y="6.75" width="20" height="2.5" rx="1.25"/>
+  <rect x="0" y="13.5" width="20" height="2.5" rx="1.25"/>
+</svg>`
 
 document.addEventListener("nav", () => {
   if (window.innerWidth < 1200) return
 
-  const quartzBody = document.getElementById("quartz-body") as HTMLElement | null
-  const leftSidebar  = document.querySelector<HTMLElement>(".sidebar.left")
-  const rightSidebar = document.querySelector<HTMLElement>(".sidebar.right")
+  const quartzBody  = document.getElementById("quartz-body") as HTMLElement | null
+  const leftSidebar = document.querySelector<HTMLElement>(".sidebar.left")
+  const rightSidebar= document.querySelector<HTMLElement>(".sidebar.right")
   if (!quartzBody || !leftSidebar || !rightSidebar) return
 
-  // ── state ──────────────────────────────────────────────────────────────
+  // ── State ─────────────────────────────────────────────────────────────
   let leftCollapsed  = localStorage.getItem("sb-left")  === "1"
   let rightCollapsed = localStorage.getItem("sb-right") === "1"
 
-  // ── ensure transition is set ───────────────────────────────────────────
-  quartzBody.style.transition = "grid-template-columns 0.3s ease"
-
-  // ── helper: apply grid + classes ───────────────────────────────────────
-  const applyLayout = (animate: boolean) => {
-    if (!animate) quartzBody.style.transition = "none"
-
-    const lw = leftCollapsed  ? COLLAPSED_W : EXPANDED_W
-    const rw = rightCollapsed ? COLLAPSED_W : EXPANDED_W
-    quartzBody.style.gridTemplateColumns = `${lw}px auto ${rw}px`
-    leftSidebar.classList.toggle("sb-collapsed",  leftCollapsed)
-    rightSidebar.classList.toggle("sb-collapsed", rightCollapsed)
-
-    if (!animate) {
-      requestAnimationFrame(() => {
-        quartzBody.style.transition = "grid-template-columns 0.3s ease"
-      })
-    }
-
-    // reposition the fixed buttons after the grid reflows
-    const leftBtn  = document.getElementById("sb-toggle-left")  as HTMLElement | null
-    const rightBtn = document.getElementById("sb-toggle-right") as HTMLElement | null
-    if (leftBtn && rightBtn) {
-      updateButtonIcons(leftBtn, rightBtn)
-      positionButtons(leftBtn, rightBtn, leftSidebar, rightSidebar)
-    }
-  }
-
-  // ── button icon helper ─────────────────────────────────────────────────
-  const updateButtonIcons = (leftBtn: HTMLElement, rightBtn: HTMLElement) => {
-    leftBtn.innerHTML  = leftCollapsed  ? "▶" : "◀"
-    leftBtn.title      = leftCollapsed  ? "Expand left sidebar"  : "Collapse left sidebar"
-    rightBtn.innerHTML = rightCollapsed ? "◀" : "▶"
-    rightBtn.title     = rightCollapsed ? "Expand right sidebar" : "Collapse right sidebar"
-  }
-
-  // ── create or reuse fixed toggle buttons ──────────────────────────────
-  const getOrCreate = (id: string) => {
-    let btn = document.getElementById(id) as HTMLButtonElement | null
+  // ── Hamburger (fixed, always outside the grid) ─────────────────────
+  const getHamburger = (): HTMLButtonElement => {
+    let btn = document.getElementById("sb-hamburger") as HTMLButtonElement | null
     if (!btn) {
       btn = document.createElement("button")
-      btn.id        = id
-      btn.className = "sb-toggle-btn"
-      btn.setAttribute("aria-label", id === "sb-toggle-left" ? "Toggle left sidebar" : "Toggle right sidebar")
+      btn.id        = "sb-hamburger"
+      btn.className = "sb-hamburger"
+      btn.setAttribute("aria-label", "Toggle navigation")
       document.body.appendChild(btn)
+    }
+    btn.innerHTML = HAMBURGER
+    return btn
+  }
+
+  // ── Right-sidebar chevron (prepended inside the right sidebar) ──────
+  const getRightChevron = (): HTMLButtonElement => {
+    let btn = rightSidebar.querySelector<HTMLButtonElement>(".sb-right-chevron")
+    if (!btn) {
+      btn = document.createElement("button")
+      btn.className = "sb-right-chevron"
+      btn.setAttribute("aria-label", "Toggle table of contents")
+      rightSidebar.prepend(btn)
     }
     return btn
   }
 
-  const leftBtn  = getOrCreate("sb-toggle-left")
-  const rightBtn = getOrCreate("sb-toggle-right")
+  const hamburger    = getHamburger()
+  const rightChevron = getRightChevron()
 
-  // ── click handlers (remove old listeners first via cleanup) ───────────
-  const onLeft = () => {
+  // ── Apply layout ───────────────────────────────────────────────────
+  const applyLayout = (animate: boolean) => {
+    if (!animate) quartzBody.style.transition = "none"
+
+    const lw = leftCollapsed  ? 0   : 320
+    const rw = rightCollapsed ? 44  : 320
+    quartzBody.style.gridTemplateColumns = `${lw}px auto ${rw}px`
+
+    leftSidebar.classList.toggle("sb-collapsed",  leftCollapsed)
+    rightSidebar.classList.toggle("sb-collapsed", rightCollapsed)
+
+    // Body classes for content-centering CSS hooks
+    document.body.classList.toggle("sb-left-hidden",  leftCollapsed)
+    document.body.classList.toggle("sb-right-hidden", rightCollapsed)
+
+    // Right chevron icon
+    rightChevron.textContent = rightCollapsed ? "›" : "‹"
+    rightChevron.title       = rightCollapsed ? "Expand TOC" : "Collapse TOC"
+
+    if (!animate) {
+      requestAnimationFrame(() => {
+        quartzBody.style.transition = "grid-template-columns 0.32s ease"
+      })
+    }
+  }
+
+  // ── Handlers ──────────────────────────────────────────────────────
+  const onHamburger = () => {
     leftCollapsed = !leftCollapsed
     localStorage.setItem("sb-left", leftCollapsed ? "1" : "0")
     applyLayout(true)
   }
-  const onRight = () => {
+  const onRightChevron = () => {
     rightCollapsed = !rightCollapsed
     localStorage.setItem("sb-right", rightCollapsed ? "1" : "0")
     applyLayout(true)
   }
 
-  leftBtn.addEventListener("click",  onLeft)
-  rightBtn.addEventListener("click", onRight)
+  hamburger.addEventListener("click",    onHamburger)
+  rightChevron.addEventListener("click", onRightChevron)
 
   window.addCleanup(() => {
-    leftBtn.removeEventListener("click",  onLeft)
-    rightBtn.removeEventListener("click", onRight)
+    hamburger.removeEventListener("click",    onHamburger)
+    rightChevron.removeEventListener("click", onRightChevron)
   })
 
-  // ── resize: hide buttons on mobile/tablet ─────────────────────────────
+  // ── Hide on mobile/tablet ─────────────────────────────────────────
   const onResize = () => {
-    const show = window.innerWidth >= 1200
-    leftBtn.style.display  = show ? "" : "none"
-    rightBtn.style.display = show ? "" : "none"
-    if (show) positionButtons(leftBtn, rightBtn, leftSidebar, rightSidebar)
+    const desktop = window.innerWidth >= 1200
+    hamburger.style.display = desktop ? "" : "none"
   }
   window.addEventListener("resize", onResize)
   window.addCleanup(() => window.removeEventListener("resize", onResize))
 
-  // ── initial render (no animation) ─────────────────────────────────────
+  // ── Initial render (no animation) ─────────────────────────────────
+  quartzBody.style.transition = "none"
   applyLayout(false)
-  leftBtn.style.display  = ""
-  rightBtn.style.display = ""
+  hamburger.style.display = ""
 })
