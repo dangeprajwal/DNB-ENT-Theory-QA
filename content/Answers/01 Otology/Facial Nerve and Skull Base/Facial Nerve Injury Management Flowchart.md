@@ -15,147 +15,164 @@ tags:
 ```mermaid
 flowchart TD
 
-    START([🧠 FACIAL PALSY — CN VII\nPresentation to ENT])
+    START(["FACIAL PALSY - CN VII"])
 
-    %% ══════════════════════════════════════════════
-    %% SECTION 1 — INITIAL ASSESSMENT
-    %% ══════════════════════════════════════════════
-    START --> ONSET{Onset of Palsy?}
+    START --> ONSET{"Onset?"}
+    START --> AET{"Aetiology?"}
+    START --> HBGRADE["`**House-Brackmann Grading**
+Grade I - Normal function
+Grade II - Mild dysfunction
+Grade III - Moderate dysfunction
+Grade IV - Moderately severe
+Grade V - Severe dysfunction
+Grade VI - Total paralysis`"]
 
-    ONSET -->|Immediate onset| COMP{Completeness?}
-    ONSET -->|Delayed onset — more than 1 hour after injury| DELAY["⬆ DELAYED ONSET\nMechanism: neural oedema / haematoma\nNeural continuity preserved\nPrognosis: EXCELLENT"]
+    %% ─── ONSET PATHWAY ───────────────────────────────────────────
+    ONSET -->|Immediate onset| COMP{"Completeness?"}
+    ONSET -->|Delayed - more than 1 hour| DELAY["`**Delayed Onset**
+Excellent prognosis
+Mechanism: neural oedema or haematoma
+Neural continuity preserved`"]
 
     DELAY --> CONS
+    COMP -->|Incomplete - HB Grade II to V| CONS
+    COMP -->|Complete - HB Grade VI| INVPATH
 
-    COMP -->|Incomplete — HB Grade II–V| CONS
-    COMP -->|Complete — HB Grade VI| INVPATH
+    %% ─── CONSERVATIVE MANAGEMENT ────────────────────────────────
+    CONS["Conservative Management"]
+    CONS --> ST["`Steroids
+Prednisolone 1 mg per kg per day
+1 to 3 weeks with taper`"]
+    CONS --> EC["`Eye Care
+Lubricants and moisture chamber
+Tape eyelid at night`"]
+    CONS --> OBSV["Serial Clinical Observation"]
 
-    %% ══════════════════════════════════════════════
-    %% SECTION 2 — GRADING
-    %% ══════════════════════════════════════════════
-    START --> HBGRADE["House-Brackmann Grading\nI = Normal\nII = Mild — slight asymmetry\nIII = Moderate — obvious weakness\nIV = Moderately severe — disfiguring\nV = Severe — barely perceptible\nVI = Total paralysis — no movement"]
+    %% ─── INVESTIGATIONS ──────────────────────────────────────────
+    INVPATH["Immediate Complete Palsy - Investigate"]
+    INVPATH --> HRCT["`HRCT Temporal Bone
+Fracture line
+Fallopian canal involvement`"]
+    INVPATH --> TOPODT["Topodiagnostic Tests - Localise level of lesion"]
+    INVPATH --> ENOG["`ENoG - Electroneuronography
+Useful: Day 3 to Day 14 only
+CMAP amplitude vs normal side`"]
 
-    %% ══════════════════════════════════════════════
-    %% SECTION 3 — CONSERVATIVE MANAGEMENT
-    %% ══════════════════════════════════════════════
-    CONS["✅ CONSERVATIVE MANAGEMENT"] --> ST["Steroids\nPrednisolone 1 mg/kg/day\n1–3 weeks with taper"]
-    CONS --> EC["Eye Care\nLubricants / moisture chamber\nTape eyelid at night"]
-    CONS --> OBSV["Serial Clinical Observation\nMonitor for progression"]
+    %% ─── TOPODIAGNOSTIC TESTS ────────────────────────────────────
+    TOPODT --> TP1["`Schirmer Test - GSPN
+Geniculate ganglion level
+Abnormal: more than 75pct reduction in lacrimation`"]
+    TOPODT --> TP2["`Stapedial Reflex - Nerve to stapedius
+Absent = lesion at or above stapedius`"]
+    TOPODT --> TP3["`Taste and Salivary Flow - Chorda tympani
+Abnormal = lesion above chorda`"]
 
-    %% ══════════════════════════════════════════════
-    %% SECTION 4 — INVESTIGATIONS for Complete Palsy
-    %% ══════════════════════════════════════════════
-    INVPATH["⚠ IMMEDIATE COMPLETE PALSY\nFull investigation required"] --> HRCT["HRCT Temporal Bone\nFracture line\nFallopian canal involvement\nSite of nerve injury"]
-    INVPATH --> TOPODT["Topodiagnostic Tests\nLocalise anatomical level of lesion"]
-    INVPATH --> ENOG["ENoG — Electroneuronography\nUseful: Day 3 to Day 14 only\nSupramaximal CMAP vs normal side"]
+    TP1 --> LOCLGC["Geniculate level: Schirmer + Stapedial + Taste all abnormal"]
+    TP2 --> LOCSTAP["Between Geniculate and Stapedius: Normal lacrimation only"]
+    TP3 --> LOCCHOR["Between Stapedius and Chorda: Normal lacrimation and stapedial"]
 
-    %% ── Topodiagnostic branch
-    TOPODT --> TP1["Schirmer's Test\nGreater petrosal nerve\nGeniculate ganglion level\nAbnormal = >75% reduction in lacrimation"]
-    TOPODT --> TP2["Stapedial Reflex\nNerve to stapedius\nImpedance audiometry\nAbsent = lesion at / above stapedius"]
-    TOPODT --> TP3["Taste / Salivary Flow\nChorda tympani\nElectrogustometry + Wharton's cannulation\nAbnormal = lesion above chorda"]
+    %% ─── ENOG DECISION ───────────────────────────────────────────
+    ENOG --> ENRES{"ENoG Result?"}
+    ENRES -->|Less than 90pct degeneration| CONS
+    ENRES -->|90pct or more within 6 days| SXIND
+    ENRES -->|No response - or after 3 weeks| EMGTEST
 
-    TP1 --> LOCLGC["Lesion at Geniculate Ganglion\nAbnormal: Schirmer + Stapedial + Taste"]
-    TP2 --> LOCSTAP["Lesion between Geniculate and Stapedius\nNormal lacrimation + Absent stapedial + Abnormal taste"]
-    TP3 --> LOCCHOR["Lesion between Stapedius and Chorda\nNormal lacrimation + Normal stapedial + Abnormal taste"]
+    %% ─── EMG DECISION ────────────────────────────────────────────
+    EMGTEST["`EMG - Electromyography
+Motor unit potentials
+Orbicularis oculi and oris`"]
+    EMGTEST --> EMRES{"EMG Finding?"}
+    EMRES -->|Polyphasic potentials| POLYPH["`Regeneration Occurring
+Surgery NOT indicated
+Conservative - observe`"]
+    EMRES -->|Fibrillation potentials| SXIND
+    EMRES -->|Electrical silence| REAN["`Facial Reanimation
+Motor end plates lost
+Static or dynamic procedure`"]
 
-    %% ── ENoG branch
-    ENOG --> ENRES{ENoG Result?}
-    ENRES -->|"< 90% degeneration"| CONS
-    ENRES -->|"> 90% degeneration within 6 days"| SXIND["🔴 SURGICAL EXPLORATION\nIndicated — discuss risks / benefits"]
-    ENRES -->|"No response — or presentation > 3 weeks"| EMGTEST
-
-    EMGTEST["EMG — Electromyography\nRecords motor unit potentials\nOrbicularis oculi and oris"] --> EMRES{EMG Finding?}
-    EMRES -->|"Polyphasic potentials"| POLYPH["Regeneration Occurring\nSurgery NOT indicated\nClose follow-up only"]
-    EMRES -->|"Fibrillation potentials"| SXIND
-    EMRES -->|"Electrical silence"| REAN["Facial Reanimation\nMotor end plates lost\nStatic or dynamic procedure"]
-
-    %% ══════════════════════════════════════════════
-    %% SECTION 5 — AETIOLOGY-SPECIFIC BRANCHES
-    %% ══════════════════════════════════════════════
-    START --> AET{Aetiology?}
-
+    %% ─── AETIOLOGY BRANCHES ─────────────────────────────────────
     AET -->|Temporal bone fracture| TBF
-    AET -->|CSOM — Cholesteatoma| CSOMN
+    AET -->|CSOM - Cholesteatoma| CSOMN
     AET -->|Acute Otitis Media| AOMN
-    AET -->|Iatrogenic — post mastoid surgery| POSTOP
+    AET -->|Post mastoid surgery| POSTOP
 
-    %% ── TRAUMATIC BRANCH
-    TBF["🟡 TRAUMATIC PALSY\nTemporal Bone Fracture\nFN palsy in 7% of TB fractures\n66% at geniculate ganglion"] --> TTYPE{Fracture type and hearing status?}
-
-    TTYPE -->|"Longitudinal — hearing preserved"| MFA["Middle Fossa Approach\nAccess geniculate and labyrinthine segment"]
-    TTYPE -->|"Transverse — hearing preserved"| MFTM["Middle Fossa + Transmastoid\nBilateral decompression"]
-    TTYPE -->|"Any type — profound SNHL"| TLA["Translabyrinthine Approach\nEasier access — sacrifices hearing"]
-
+    %% ─── TRAUMATIC BRANCH ───────────────────────────────────────
+    TBF["`Traumatic Palsy
+FN palsy in 7pct of TB fractures
+66pct at geniculate ganglion`"]
+    TBF --> TTYPE{"Fracture type and hearing?"}
+    TTYPE -->|Longitudinal - hearing preserved| MFA["Middle Fossa Approach"]
+    TTYPE -->|Transverse - hearing preserved| MFTM["Middle Fossa plus Transmastoid"]
+    TTYPE -->|Profound SNHL - any type| TLA["Translabyrinthine Approach"]
     MFA --> SXIND
     MFTM --> SXIND
     TLA --> SXIND
 
-    %% ── CSOM BRANCH
-    CSOMN["🟡 CSOM-RELATED PALSY\nCholesteatoma erosion\nFallopian canal osteitis"] --> CSO1["CT Scan\nDelineate site of Fallopian canal erosion"]
-    CSO1 --> CSO2["Mastoidectomy + Facial Nerve Decompression\nRemove cholesteatoma / granulation tissue\nAssess nerve integrity"]
+    %% ─── CSOM BRANCH ────────────────────────────────────────────
+    CSOMN["`CSOM-related Palsy
+Cholesteatoma erosion
+Fallopian canal osteitis`"]
+    CSOMN --> CSO1["CT Scan - Fallopian canal erosion"]
+    CSO1 --> CSO2["Mastoidectomy and FN Decompression"]
+    CSO2 -->|Nerve intact but compressed| DECO["Decompression Only"]
+    CSO2 -->|More than 50pct circumference disrupted| REPAR["Repair - suture or inlay graft"]
+    CSO2 -->|Transected| GRAFTN["Anastomosis or Interposition Nerve Graft"]
 
-    CSO2 -->|Nerve intact but compressed| DECO["Decompression Only\nEpineurium slitting if needed"]
-    CSO2 -->|">50% circumference disrupted"| REPAR["Repair\nDirect suture or inlay graft"]
-    CSO2 -->|Transected| GRAFTN["End-to-end Anastomosis\nor Interposition Nerve Graft"]
+    %% ─── AOM BRANCH ─────────────────────────────────────────────
+    AOMN["`AOM-related Palsy
+Inflammatory oedema and toxins
+Fallopian canal dehiscence`"]
+    AOMN --> AOMTX["IV Antibiotics and Steroids"]
+    AOMTX --> MYRING["Myringotomy and Ventilation Tube"]
+    MYRING --> AOMOUT["Good prognosis - surgery rarely needed"]
 
-    %% ── AOM BRANCH
-    AOMN["🟡 AOM-RELATED PALSY\nInflammatory oedema / toxins\nFallopian canal dehiscence"] --> AOMTX["IV Antibiotics + Steroids\nMedical management first"]
-    AOMTX --> MYRING["Myringotomy + Ventilation Tube\nif no spontaneous perforation\nCortical mastoidectomy if not improving"]
-    MYRING --> AOMOUT["Generally Good Prognosis\nSurgical decompression rarely needed"]
-
-    %% ── POST-MASTOID BRANCH
-    POSTOP["🟡 POST-OPERATIVE PALSY\nIncidence 0.6–3.6%\nMost common site: distal tympanic + second genu"] --> PMTYPE{Type of palsy?}
-
-    PMTYPE -->|"Possibly local anaesthetic effect"| OBSWAIT["Observe 2–4 hours\nRemove tight dressing over nerve"]
-    PMTYPE -->|Incomplete palsy| STEROPO["Oral Steroids\nSerial observation"]
-    PMTYPE -->|Complete — immediate| REEXPL["HRCT + Plan Re-exploration\nTransfer to regional centre\nImmediate re-exploration not advocated — plan carefully"]
-    PMTYPE -->|"Delayed post-op — days later"| VIRAL["Steroids + Acyclovir\nPresume HSV/VZV reactivation\nGenerally good prognosis"]
-
+    %% ─── POST-MASTOID BRANCH ────────────────────────────────────
+    POSTOP["`Post-operative Palsy
+Incidence: 0.6 to 3.6pct
+Most common site: distal tympanic segment`"]
+    POSTOP --> PMTYPE{"Type of palsy?"}
+    PMTYPE -->|Possibly local anaesthetic effect| OBSWAIT["Observe 2 to 4 hours - remove tight dressing"]
+    PMTYPE -->|Incomplete palsy| STEROPO["Oral Steroids and Observation"]
+    PMTYPE -->|Complete immediate| REEXPL["HRCT and Plan Re-exploration"]
+    PMTYPE -->|Delayed onset days later| VIRAL["Steroids and Acyclovir - HSV/VZV reactivation"]
     OBSWAIT --> STEROPO
-    STEROPO -->|Progresses to complete palsy| REEXPL
+    STEROPO -->|Progresses to complete| REEXPL
 
-    %% ══════════════════════════════════════════════
-    %% SECTION 6 — SURGICAL TECHNIQUE
-    %% ══════════════════════════════════════════════
-    SXIND --> SXFIND{Intra-operative Finding?}
+    %% ─── SURGICAL TECHNIQUE ─────────────────────────────────────
+    SXIND["Surgical Exploration Indicated"]
+    SXIND --> SXFIND{"Intra-operative Finding?"}
+    SXFIND -->|Compressed or oedematous| SDEC["Decompression of Fallopian Canal"]
+    SXFIND -->|Crushed but in continuity| SANA["Primary End-to-End Anastomosis"]
+    SXFIND -->|Transected with gap| SGRAFT["`Interposition Nerve Graft
+Great auricular or sural nerve
+Axonal regrowth: 1 mm per day`"]
 
-    SXFIND -->|"Compressed / oedematous — in continuity"| SDEC["Decompression of Fallopian Canal\nOpen canal — slit epineurium if needed"]
-    SXFIND -->|"Crushed — in continuity"| SANA["Primary End-to-End Anastomosis\nTension-free — 9/0 nylon"]
-    SXFIND -->|Transected — gap present| SGRAFT["Interposition Nerve Graft\nGreat auricular nerve or Sural nerve\nAxonal regrowth: 1 mm per day"]
-
-    %% ══════════════════════════════════════════════
-    %% SECTION 7 — OUTCOMES
-    %% ══════════════════════════════════════════════
-    SDEC --> OUT1(["✅ Expected HB I–II\nFull or near-full recovery"])
+    %% ─── OUTCOMES ───────────────────────────────────────────────
+    SDEC --> OUT1(["Expected HB I to II - Full or near-full recovery"])
     DECO --> OUT1
     POLYPH --> OUT1
     AOMOUT --> OUT1
-
-    SANA --> OUT2(["⚠ Partial Recovery HB II–III\nSome synkinesis possible"])
+    SANA --> OUT2(["Partial Recovery - HB II to III"])
     REPAR --> OUT2
-
-    SGRAFT --> OUT3(["⚠ Partial Recovery HB III–IV\nAxonal regrowth: months to years"])
+    SGRAFT --> OUT3(["Partial Recovery - HB III to IV - months to years"])
     GRAFTN --> OUT3
+    REAN --> OUT4(["Static sling or Dynamic reanimation procedure"])
 
-    REAN --> OUT4(["Static sling — immediate cosmesis\nDynamic reanimation — gracilis / masseter\nNerve transfer — hypoglossal XII to VII"])
-
-    %% ══════════════════════════════════════════════
-    %% STYLING
-    %% ══════════════════════════════════════════════
-    classDef startNode   fill:#1e40af,stroke:#1e3a8a,color:#ffffff,font-weight:bold
-    classDef decision    fill:#fef3c7,stroke:#d97706,color:#1c1917,font-weight:bold
+    %% ─── STYLING ─────────────────────────────────────────────────
+    classDef startNode    fill:#1e40af,stroke:#1e3a8a,color:#ffffff,font-weight:bold
+    classDef decision     fill:#fef3c7,stroke:#d97706,color:#1c1917,font-weight:bold
     classDef conservative fill:#dcfce7,stroke:#16a34a,color:#14532d
-    classDef investigate fill:#dbeafe,stroke:#3b82f6,color:#1e3a5f
-    classDef aetiology   fill:#ede9fe,stroke:#7c3aed,color:#3b0764
-    classDef surgical    fill:#fee2e2,stroke:#dc2626,color:#7f1d1d,font-weight:bold
-    classDef outcome     fill:#ecfdf5,stroke:#059669,color:#064e3b,font-weight:bold
-    classDef grading     fill:#f0f9ff,stroke:#0284c7,color:#0c4a6e
+    classDef investigate  fill:#dbeafe,stroke:#3b82f6,color:#1e3a5f
+    classDef aetiology    fill:#ede9fe,stroke:#7c3aed,color:#3b0764
+    classDef surgical     fill:#fee2e2,stroke:#dc2626,color:#7f1d1d,font-weight:bold
+    classDef outcome      fill:#ecfdf5,stroke:#059669,color:#064e3b
+    classDef grading      fill:#f0f9ff,stroke:#0284c7,color:#0c4a6e
 
     class START startNode
     class ONSET,COMP,ENRES,EMRES,AET,TTYPE,PMTYPE,SXFIND decision
-    class CONS,ST,EC,OBSV,DELAY,POLYPH,AOMOUT,VIRAL,OBSWAIT conservative
+    class CONS,ST,EC,OBSV,DELAY,POLYPH,AOMOUT,VIRAL,OBSWAIT,STEROPO conservative
     class INVPATH,HRCT,TOPODT,TP1,TP2,TP3,LOCLGC,LOCSTAP,LOCCHOR,ENOG,EMGTEST investigate
-    class TBF,CSOMN,AOMN,POSTOP,MFA,MFTM,TLA,CSO1,CSO2,AOMTX,MYRING,STEROPO,REEXPL aetiology
+    class TBF,CSOMN,AOMN,POSTOP,MFA,MFTM,TLA,CSO1,CSO2,AOMTX,MYRING,REEXPL aetiology
     class SXIND,SXFIND,SDEC,SANA,SGRAFT,DECO,REPAR,GRAFTN surgical
     class OUT1,OUT2,OUT3,OUT4,REAN outcome
     class HBGRADE grading
@@ -164,13 +181,13 @@ flowchart TD
 ---
 
 > [!abstract] Reading the Flowchart
-> - **Yellow diamonds** = Decision points
-> - **Blue nodes** = Investigations and localisation tests
-> - **Green nodes** = Conservative management and good prognosis
-> - **Red nodes** = Surgical management required
-> - **Purple nodes** = Aetiology-specific pathways
-> - **Teal nodes** = Expected outcomes
+> - **Yellow diamonds** — Decision points
+> - **Blue nodes** — Investigations and topodiagnostic localisation
+> - **Green nodes** — Conservative management and good prognosis paths
+> - **Red nodes** — Surgical indication and technique
+> - **Purple nodes** — Aetiology-specific management pathways
+> - **Teal nodes** — Expected outcomes
 
 ---
 
-*See also: [[Facial Nerve]] — full anatomy, grading, topodiagnostic tests and management text; [[Facial Nerve Monitoring]] — intra-operative monitoring*
+*See also: [[Facial Nerve]] — full anatomy, grading, ENoG/EMG and management text; [[Facial Nerve Monitoring]] — intra-operative monitoring*
