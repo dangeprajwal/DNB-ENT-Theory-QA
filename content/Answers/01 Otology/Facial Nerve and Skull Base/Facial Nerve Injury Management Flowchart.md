@@ -15,113 +15,99 @@ tags:
 ```mermaid
 flowchart TD
 
-    START(["FACIAL PALSY - CN VII"])
+    START([FACIAL PALSY - CN VII])
 
-    %% --- INITIAL ASSESSMENT ---
-    START --> ONSET{"Onset?"}
-    START --> AET{"Aetiology?"}
-    START --> HBG["House-Brackmann Scale: I=Normal, II=Mild, III=Moderate, IV=Mod-Severe, V=Severe, VI=Total palsy"]
+    START --> ONSET{Onset?}
+    START --> AET{Aetiology?}
+    START --> HBG[HB Scale: I=Normal II=Mild III=Moderate IV=Mod-Severe V=Severe VI=Total]
 
-    ONSET -->|Immediate onset| COMP{"Completeness?"}
-    ONSET -->|Delayed - more than 1 hour| DELAY["Delayed Onset - Excellent prognosis - oedema or haematoma - continuity preserved"]
+    ONSET -->|Immediate onset| COMP{Completeness?}
+    ONSET -->|Delayed more than 1 hour| DELAY[Delayed Onset - Excellent prognosis - neural oedema or haematoma]
 
     DELAY --> CONS
-    COMP -->|Incomplete - HB Grade II to V| CONS
-    COMP -->|Complete - HB Grade VI| INVPATH
+    COMP -->|Incomplete HB Grade II to V| CONS
+    COMP -->|Complete HB Grade VI| INVPATH
 
-    %% --- CONSERVATIVE ---
-    CONS["Conservative Management"]
-    CONS --> ST["Steroids - Prednisolone 1 mg/kg/day for 1 to 3 weeks"]
-    CONS --> EC["Eye Care - lubricants, moisture chamber, tape eyelid"]
-    CONS --> OBSV["Serial Clinical Observation"]
+    CONS[Conservative Management]
+    CONS --> ST[Steroids - Prednisolone 1mg per kg per day for 1 to 3 weeks]
+    CONS --> EC[Eye Care - lubricants and moisture chamber and tape eyelid]
+    CONS --> OBSV[Serial Clinical Observation]
 
-    %% --- INVESTIGATIONS ---
-    INVPATH["Immediate Complete Palsy - Full Investigation Required"]
-    INVPATH --> HRCT["HRCT Temporal Bone - fracture line and Fallopian canal involvement"]
-    INVPATH --> TOPODT["Topodiagnostic Tests - localise anatomical level of lesion"]
-    INVPATH --> ENOG["ENoG - Electroneuronography - useful Day 3 to Day 14 only"]
+    INVPATH[Immediate Complete Palsy - Full Investigation Required]
+    INVPATH --> HRCT[HRCT Temporal Bone - fracture line and Fallopian canal involvement]
+    INVPATH --> TOPODT[Topodiagnostic Tests - localise anatomical level of lesion]
+    INVPATH --> ENOG[ENoG - Electroneuronography - useful Day 3 to Day 14 only]
 
-    %% --- TOPODIAGNOSTIC ---
-    TOPODT --> TP1["Schirmer Test - GSPN - geniculate ganglion level - abnormal if more than 75pct reduction"]
-    TOPODT --> TP2["Stapedial Reflex - nerve to stapedius - absent if lesion at or above stapedius"]
-    TOPODT --> TP3["Taste and Salivary Flow - chorda tympani - abnormal if lesion above chorda"]
+    TOPODT --> TP1[Schirmer Test - GSPN - geniculate ganglion level - abnormal if more than 75pct reduction]
+    TOPODT --> TP2[Stapedial Reflex - nerve to stapedius - absent if lesion at or above stapedius]
+    TOPODT --> TP3[Taste and Salivary Flow - chorda tympani - abnormal if lesion above chorda]
 
-    TP1 --> LOCLGC["Geniculate level: Schirmer + Stapedial + Taste all abnormal"]
-    TP2 --> LOCSTAP["Geniculate to Stapedius: Normal lacrimation, absent stapedial, abnormal taste"]
-    TP3 --> LOCCHOR["Stapedius to Chorda: Normal lacrimation and stapedial, abnormal taste only"]
+    TP1 --> LOCLGC[Geniculate level - Schirmer and Stapedial and Taste all abnormal]
+    TP2 --> LOCSTAP[Geniculate to Stapedius - Normal lacrimation only]
+    TP3 --> LOCCHOR[Stapedius to Chorda - Normal lacrimation and stapedial only]
 
-    %% --- ENOG ---
-    ENOG --> ENRES{"ENoG Result?"}
+    ENOG --> ENRES{ENoG Result?}
     ENRES -->|Less than 90pct degeneration| CONS
     ENRES -->|90pct or more within 6 days| SXIND
     ENRES -->|No response or after 3 weeks| EMGTEST
 
-    %% --- EMG ---
-    EMGTEST["EMG - Electromyography - motor unit potentials - orbicularis oculi and oris"]
-    EMGTEST --> EMRES{"EMG Finding?"}
-    EMRES -->|Polyphasic potentials| POLYPH["Regeneration Occurring - Surgery NOT indicated - observe"]
+    EMGTEST[EMG - Electromyography - motor unit potentials - orbicularis oculi and oris]
+    EMGTEST --> EMRES{EMG Finding?}
+    EMRES -->|Polyphasic potentials| POLYPH[Regeneration Occurring - Surgery NOT indicated - observe]
     EMRES -->|Fibrillation potentials| SXIND
-    EMRES -->|Electrical silence| REAN["Facial Reanimation - motor end plates lost - static or dynamic"]
+    EMRES -->|Electrical silence| REAN[Facial Reanimation - motor end plates lost - static or dynamic]
 
-    %% --- AETIOLOGY BRANCHES ---
     AET -->|Temporal bone fracture| TBF
-    AET -->|CSOM - Cholesteatoma| CSOMN
+    AET -->|CSOM Cholesteatoma| CSOMN
     AET -->|Acute Otitis Media| AOMN
     AET -->|Post mastoid surgery| POSTOP
 
-    %% --- TRAUMATIC ---
-    TBF["Traumatic Palsy - FN palsy in 7pct of TB fractures - 66pct at geniculate ganglion"]
-    TBF --> TTYPE{"Fracture type and hearing?"}
-    TTYPE -->|Longitudinal - hearing preserved| MFA["Middle Fossa Approach"]
-    TTYPE -->|Transverse - hearing preserved| MFTM["Middle Fossa plus Transmastoid"]
-    TTYPE -->|Profound SNHL| TLA["Translabyrinthine Approach"]
+    TBF[Traumatic Palsy - FN palsy in 7pct of TB fractures - 66pct at geniculate ganglion]
+    TBF --> TTYPE{Fracture type and hearing?}
+    TTYPE -->|Longitudinal - hearing preserved| MFA[Middle Fossa Approach]
+    TTYPE -->|Transverse - hearing preserved| MFTM[Middle Fossa plus Transmastoid]
+    TTYPE -->|Profound SNHL| TLA[Translabyrinthine Approach]
     MFA --> SXIND
     MFTM --> SXIND
     TLA --> SXIND
 
-    %% --- CSOM ---
-    CSOMN["CSOM-related Palsy - cholesteatoma erosion - Fallopian canal osteitis"]
-    CSOMN --> CSO1["CT Scan - delineate Fallopian canal erosion"]
-    CSO1 --> CSO2["Mastoidectomy and FN Decompression - remove cholesteatoma and granulation tissue"]
-    CSO2 -->|Nerve intact but compressed| DECO["Decompression Only"]
-    CSO2 -->|More than 50pct disrupted| REPAR["Repair - direct suture or inlay graft"]
-    CSO2 -->|Transected| GRAFTN["Anastomosis or Interposition Nerve Graft"]
+    CSOMN[CSOM-related Palsy - cholesteatoma erosion - Fallopian canal osteitis]
+    CSOMN --> CSO1[CT Scan - delineate Fallopian canal erosion]
+    CSO1 --> CSO2[Mastoidectomy and FN Decompression - remove cholesteatoma]
+    CSO2 -->|Nerve intact but compressed| DECO[Decompression Only]
+    CSO2 -->|More than 50pct disrupted| REPAR[Repair - suture or inlay graft]
+    CSO2 -->|Transected| GRAFTN[Anastomosis or Interposition Nerve Graft]
 
-    %% --- AOM ---
-    AOMN["AOM-related Palsy - inflammatory oedema and toxins via Fallopian dehiscence"]
-    AOMN --> AOMTX["IV Antibiotics and Steroids"]
-    AOMTX --> MYRING["Myringotomy and Ventilation Tube if no spontaneous perforation"]
-    MYRING --> AOMOUT["Good prognosis - surgical decompression rarely needed"]
+    AOMN[AOM-related Palsy - inflammatory oedema and toxins via Fallopian dehiscence]
+    AOMN --> AOMTX[IV Antibiotics and Steroids]
+    AOMTX --> MYRING[Myringotomy and Ventilation Tube if no spontaneous perforation]
+    MYRING --> AOMOUT[Good prognosis - surgical decompression rarely needed]
 
-    %% --- POST-MASTOID ---
-    POSTOP["Post-operative Palsy - incidence 0.6 to 3.6pct - most common at distal tympanic segment"]
-    POSTOP --> PMTYPE{"Type of palsy?"}
-    PMTYPE -->|Possibly local anaesthetic| OBSWAIT["Observe 2 to 4 hours - remove tight dressing over nerve"]
-    PMTYPE -->|Incomplete palsy| STEROPO["Oral Steroids and Serial Observation"]
-    PMTYPE -->|Complete immediate| REEXPL["HRCT and Plan Re-exploration - transfer to regional centre"]
-    PMTYPE -->|Delayed onset days later| VIRAL["Steroids and Acyclovir - presume HSV/VZV reactivation"]
+    POSTOP[Post-operative Palsy - incidence 0.6 to 3.6pct - distal tympanic segment most common]
+    POSTOP --> PMTYPE{Type of palsy?}
+    PMTYPE -->|Possibly local anaesthetic| OBSWAIT[Observe 2 to 4 hours - remove tight dressing over nerve]
+    PMTYPE -->|Incomplete palsy| STEROPO[Oral Steroids and Serial Observation]
+    PMTYPE -->|Complete immediate| REEXPL[HRCT and Plan Re-exploration - transfer to regional centre]
+    PMTYPE -->|Delayed onset days later| VIRAL[Steroids and Acyclovir - presume HSV or VZV reactivation]
     OBSWAIT --> STEROPO
     STEROPO -->|Progresses to complete| REEXPL
 
-    %% --- SURGICAL TECHNIQUE ---
-    SXIND["Surgical Exploration Indicated"]
-    SXIND --> SXFIND{"Intra-operative Finding?"}
-    SXFIND -->|Compressed or oedematous| SDEC["Decompression of Fallopian Canal - slit epineurium"]
-    SXFIND -->|Crushed but in continuity| SANA["Primary End-to-End Anastomosis - 9/0 nylon tension-free"]
-    SXFIND -->|Transected with gap| SGRAFT["Interposition Nerve Graft - great auricular or sural nerve - 1mm/day regrowth"]
+    SXIND[Surgical Exploration Indicated]
+    SXIND --> SXFIND{Intra-operative Finding?}
+    SXFIND -->|Compressed or oedematous| SDEC[Decompression of Fallopian Canal - slit epineurium]
+    SXFIND -->|Crushed but in continuity| SANA[Primary End-to-End Anastomosis - tension-free 9-0 nylon]
+    SXFIND -->|Transected with gap| SGRAFT[Interposition Nerve Graft - great auricular or sural nerve]
 
-    %% --- OUTCOMES ---
-    SDEC --> OUT1(["Expected HB I to II - Full or near-full recovery"])
+    SDEC --> OUT1([Expected HB I to II - Full or near-full recovery])
     DECO --> OUT1
     POLYPH --> OUT1
     AOMOUT --> OUT1
-    SANA --> OUT2(["Partial Recovery - HB II to III"])
+    SANA --> OUT2([Partial Recovery - HB II to III])
     REPAR --> OUT2
-    SGRAFT --> OUT3(["Partial Recovery - HB III to IV - months to years"])
+    SGRAFT --> OUT3([Partial Recovery - HB III to IV - months to years])
     GRAFTN --> OUT3
-    REAN --> OUT4(["Static sling or Dynamic reanimation procedure"])
+    REAN --> OUT4([Static sling or Dynamic reanimation procedure])
 
-    %% --- STYLING ---
     classDef startNode    fill:#1e40af,stroke:#1e3a8a,color:#ffffff,font-weight:bold
     classDef decision     fill:#fef3c7,stroke:#d97706,color:#1c1917,font-weight:bold
     classDef conservative fill:#dcfce7,stroke:#16a34a,color:#14532d
@@ -136,7 +122,7 @@ flowchart TD
     class CONS,ST,EC,OBSV,DELAY,POLYPH,AOMOUT,VIRAL,OBSWAIT,STEROPO conservative
     class INVPATH,HRCT,TOPODT,TP1,TP2,TP3,LOCLGC,LOCSTAP,LOCCHOR,ENOG,EMGTEST investigate
     class TBF,CSOMN,AOMN,POSTOP,MFA,MFTM,TLA,CSO1,CSO2,AOMTX,MYRING,REEXPL aetiology
-    class SXIND,SXFIND,SDEC,SANA,SGRAFT,DECO,REPAR,GRAFTN surgical
+    class SXIND,SDEC,SANA,SGRAFT,DECO,REPAR,GRAFTN surgical
     class OUT1,OUT2,OUT3,OUT4,REAN outcome
     class HBG grading
 ```
