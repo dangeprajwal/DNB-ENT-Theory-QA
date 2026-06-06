@@ -149,9 +149,10 @@ code {
     transition: grid-template-columns 0.32s ease;
   }
 
-  // ── Sidebar shadow: left edge only (left nav → content boundary) ─
+  // ── Sidebar shadow + gap between shadow line and content ─────────
   .center {
     box-shadow: inset -14px 0 12px -12px rgba(0, 0, 0, 0.10);
+    padding-left: 2rem;
     transition: box-shadow 0.32s ease;
   }
 
