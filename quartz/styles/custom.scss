@@ -149,26 +149,18 @@ code {
     transition: grid-template-columns 0.32s ease;
   }
 
-  // ── Sidebar shadow: inset on center column edges ─────────────
-  // Renders as a soft shadow at the sidebar/content boundary,
-  // unaffected by sidebar overflow:hidden settings.
+  // ── Sidebar shadow: left edge only (left nav → content boundary) ─
   .center {
-    box-shadow:
-      inset  14px 0 12px -12px rgba(0, 0, 0, 0.10),
-      inset -14px 0 12px -12px rgba(0, 0, 0, 0.10);
+    box-shadow: inset -14px 0 12px -12px rgba(0, 0, 0, 0.10);
     transition: box-shadow 0.32s ease;
   }
 
-  // Fade the shadow out when a sidebar is hidden
+  // Remove shadow when left sidebar is hidden
   body.sb-left-hidden .center {
-    box-shadow:
-      inset  0px 0 0px 0px rgba(0, 0, 0, 0),
-      inset -14px 0 12px -12px rgba(0, 0, 0, 0.10);
+    box-shadow: none;
   }
   body.sb-right-hidden .center {
-    box-shadow:
-      inset  14px 0 12px -12px rgba(0, 0, 0, 0.10),
-      inset  0px 0 0px 0px rgba(0, 0, 0, 0);
+    box-shadow: inset -14px 0 12px -12px rgba(0, 0, 0, 0.10);
   }
   body.sb-left-hidden.sb-right-hidden .center {
     box-shadow: none;
