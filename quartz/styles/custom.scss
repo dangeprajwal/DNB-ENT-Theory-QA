@@ -152,7 +152,7 @@ code {
   // ── Sidebar shadow + gap between shadow line and content ─────────
   .center {
     box-shadow: inset -14px 0 12px -12px rgba(0, 0, 0, 0.10);
-    padding-left: 2rem;
+    padding-left: 2.5rem !important;
     transition: box-shadow 0.32s ease;
   }
 
