@@ -58,17 +58,9 @@ article strong {
   font-weight: 600;
 }
 
-// ── Sidebar: clean separator border ──────────────────────────────
+// ── Sidebar: no separating lines — blends into the page background ──
 .sidebar {
-  background-color: var(--light);
-}
-
-.sidebar.left {
-  border-right: 1px solid var(--lightgray);
-}
-
-.sidebar.right {
-  border-left: 1px solid var(--lightgray);
+  background-color: transparent;
 }
 
 // Mobile: frosted glass when sidebar overlays content
@@ -77,8 +69,6 @@ article strong {
     backdrop-filter: saturate(180%) blur(20px);
     -webkit-backdrop-filter: saturate(180%) blur(20px);
     background-color: color-mix(in srgb, var(--light) 84%, transparent);
-    border-right: none;
-    border-bottom: 1px solid var(--lightgray);
   }
 }
 
@@ -280,26 +270,22 @@ hr {
   margin: 2.8rem 0 !important;
 }
 
-// ── TOC: card container ───────────────────────────────────────────
+// ── TOC: clean, no card box ───────────────────────────────────────
 .toc {
-  border: 1px solid var(--lightgray) !important;
-  border-radius: 12px;
-  padding: 0.85rem 1.1rem !important;
-  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.04);
   font-size: 0.82rem;
   line-height: 1.5;
 
   > summary {
-    font-size: 0.75rem !important;
+    font-size: 0.72rem !important;
     font-weight: 600 !important;
-    letter-spacing: 0.07em !important;
+    letter-spacing: 0.08em !important;
     text-transform: uppercase !important;
     color: var(--gray) !important;
   }
 
   ol {
-    font-size: 0.85rem;
-    line-height: 1.95;
+    font-size: 0.84rem;
+    line-height: 1.9;
 
     a {
       background-color: transparent !important;
@@ -318,17 +304,12 @@ hr {
   }
 }
 
-// ── Backlinks: card ───────────────────────────────────────────────
+// ── Backlinks: clean, no card box ────────────────────────────────
 .backlinks {
-  border: 1px solid var(--lightgray);
-  border-radius: 12px;
-  padding: 0.85rem 1.1rem;
-  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.04);
-
   > h3 {
-    font-size: 0.75rem !important;
+    font-size: 0.72rem !important;
     font-weight: 600 !important;
-    letter-spacing: 0.07em;
+    letter-spacing: 0.08em;
     text-transform: uppercase;
     color: var(--gray) !important;
     margin-top: 0 !important;
@@ -336,7 +317,7 @@ hr {
   }
 
   ul {
-    font-size: 0.88rem;
+    font-size: 0.84rem;
     margin: 0;
 
     li a {
@@ -351,20 +332,15 @@ hr {
   }
 }
 
-// ── Graph: card ───────────────────────────────────────────────────
+// ── Graph: clean, no card box ─────────────────────────────────────
 .graph {
-  border: 1px solid var(--lightgray);
-  border-radius: 12px;
-  overflow: hidden;
-  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.04);
-
   > h3 {
-    font-size: 0.75rem !important;
+    font-size: 0.72rem !important;
     font-weight: 600 !important;
-    letter-spacing: 0.07em;
+    letter-spacing: 0.08em;
     text-transform: uppercase;
     color: var(--gray) !important;
-    margin: 0.7rem 0.9rem !important;
+    margin: 0 0 0.5rem !important;
   }
 }
 
