@@ -4,16 +4,9 @@ tags:
   - general
   - imaging
   - technology
-description: "DNB ENT Paper 4 (General) — Emerging Diagnostic Technologies — 3D Printing, RT-PCR, Electronic Nose, and .... Answers based on Scott-Brown 8th Edition."
 ---
 
 # Emerging Diagnostic Technologies — 3D Printing, RT-PCR, Electronic Nose, and Cone Beam CT
-
-> [!question] Questions Covered
-> - **2021:** Discuss principle and clinical application of 3D printing technology in ENT & head neck surgery.
-> - **2023:** Describe reverse transcription-polymerase chain reaction test. Discuss the utility of this test in otolaryngology.
-> - **2015:** Electronic nose and its relevance in modern rhinology.
-> - **2024:** What is cone beam CT? Discuss its indications and limitations in ENT.
 
 *Q2021-56 (2021): Discuss principle and clinical application of 3D printing technology in ENT & head neck surgery.*
 *Q2023-90 (2023): Describe reverse transcription-polymerase chain reaction test. Discuss the utility of this test in otolaryngology.*

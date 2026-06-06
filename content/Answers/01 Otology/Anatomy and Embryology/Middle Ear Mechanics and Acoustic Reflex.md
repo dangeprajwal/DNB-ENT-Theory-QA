@@ -8,9 +8,9 @@ tags:
 
 # Middle Ear Mechanics and Acoustic Reflex
 
-**Question:** *Describe the applied anatomy and physiology of acoustic reflex. Discuss two clinical scenarios where acoustic reflex contributes to decision making. Describe middle ear mechanics and acoustic stapedial reflex measurement.*
-
-Source: Scott-Brown's Otorhinolaryngology, Volume 2, Chapter 48 - Physiology of Hearing; Chapter 51 - Psychoacoustic Audiometry
+> [!question] Questions
+> Describe the applied anatomy and physiology of acoustic reflex. Discuss two clinical scenarios where acoustic reflex contributes to decision making. Describe middle ear mechanics and acoustic stapedial reflex measurement.
+> Source: Scott-Brown's Otorhinolaryngology, Volume 2, Chapter 48 - Physiology of Hearing; Chapter 51 - Psychoacoustic Audiometry
 
 ---
 

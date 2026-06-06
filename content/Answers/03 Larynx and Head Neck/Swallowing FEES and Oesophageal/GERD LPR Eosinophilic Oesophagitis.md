@@ -4,14 +4,14 @@ tags:
   - laryngology
   - swallowing
   - oesophageal
-description: "DNB ENT Paper 3 (Larynx & Head Neck) — Gastro-oesophageal Reflux, Laryngopharyngeal Reflux and Eosinophilic Oesophag.... Answers based on Scott-Brown 8th Edi..."
 ---
 
 # Gastro-oesophageal Reflux, Laryngopharyngeal Reflux and Eosinophilic Oesophagitis
 
-> [!question] Questions Covered
-> - Discuss GERD in the context of ENT practice. What is laryngopharyngeal reflux (LPR)? Differentiate LPR from GERD. Describe the pathophysiology, clinical features, diagnosis and management of LPR. Discuss eosinophilic oesophagitis.
-*Source:** Scott-Brown's Otorhinolaryngology, 8th Edition - Volume 3, Chapter 53 (Oesophageal Diseases), Chapter 77 (Reflux Disease)
+> [!question] Questions
+> Discuss GERD in the context of ENT practice. What is laryngopharyngeal reflux (LPR)? Differentiate LPR from GERD. Describe the pathophysiology, clinical features, diagnosis and management of LPR. Discuss eosinophilic oesophagitis.
+
+**Source:** Scott-Brown's Otorhinolaryngology, 8th Edition - Volume 3, Chapter 53 (Oesophageal Diseases), Chapter 77 (Reflux Disease)
 
 ---
 

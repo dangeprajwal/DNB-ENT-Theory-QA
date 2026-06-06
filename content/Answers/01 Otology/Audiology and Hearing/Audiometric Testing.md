@@ -8,15 +8,15 @@ tags:
 
 # Audiometric Testing
 
-**Questions Covered:**
-- **Q26** — Describe the calculation of percentage of hearing loss for disability certification. Discuss the role of tuning forks in diagnosing malingering.
-- **Q47** — What are audiometric tests to differentiate between cochlear and retrocochlear hearing loss? Describe stapedial reflex decay test and its clinical utility.
-- **Q54** — What is EMG and the various types of EMG recording? Describe role of EMG in Otology.
-- **Q61** — What is the principle of impedance audiometry? Draw ABR graph with labelling. What is the national program for prevention and control of deafness in India?
-- **Q75** — How is middle ear compliance determined? Discuss the various causes of changes in middle ear compliance. How will you manage a patient with conductive hearing loss with normal middle ear volume and increased compliance?
-- **Q88** — What is the importance of pure tone audiometry in evaluating hearing? Discuss various audiological tests for diagnosing a suspected malingerer.
-- **Q108** — What is masking and how it is done? Discuss the rules or indicators for the use of clinical masking. What is plateau seeking method of masking?
-- **Q117** — Describe the technology of tympanometry. Discuss its clinical applications.
+> [!question] Questions
+> - **Q26** — Describe the calculation of percentage of hearing loss for disability certification. Discuss the role of tuning forks in diagnosing malingering.
+> - **Q47** — What are audiometric tests to differentiate between cochlear and retrocochlear hearing loss? Describe stapedial reflex decay test and its clinical utility.
+> - **Q54** — What is EMG and the various types of EMG recording? Describe role of EMG in Otology.
+> - **Q61** — What is the principle of impedance audiometry? Draw ABR graph with labelling. What is the national program for prevention and control of deafness in India?
+> - **Q75** — How is middle ear compliance determined? Discuss the various causes of changes in middle ear compliance. How will you manage a patient with conductive hearing loss with normal middle ear volume and increased compliance?
+> - **Q88** — What is the importance of pure tone audiometry in evaluating hearing? Discuss various audiological tests for diagnosing a suspected malingerer.
+> - **Q108** — What is masking and how it is done? Discuss the rules or indicators for the use of clinical masking. What is plateau seeking method of masking?
+> - **Q117** — Describe the technology of tympanometry. Discuss its clinical applications.
 
 **Source:** Scott-Brown's Otorhinolaryngology, 8th Edition — Volume 2, Chapter 51 (Psychoacoustic Audiometry), Chapter 52 (Evoked Measurement of Auditory Sensitivity), Chapter 48 (Physiology of Hearing), Chapter 112 (Facial Nerve)
 

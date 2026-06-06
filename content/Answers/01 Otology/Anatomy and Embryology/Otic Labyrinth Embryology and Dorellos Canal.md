@@ -8,7 +8,8 @@ tags:
 
 # Embryology of Otic Labyrinth and Dorello's Canal
 
-**Question:** *Describe the embryological development of the otic labyrinth. Discuss the anatomy of Dorello's canal and the etiopathogenesis of the syndrome associated with it.*
+> [!question] Questions
+> Describe the embryological development of the otic labyrinth. Discuss the anatomy of Dorello's canal and the etiopathogenesis of the syndrome associated with it.
 
 **Source:** Scott-Brown's Otorhinolaryngology, Volume 2 - Chapters 16, 46, 99, 108, 111
 

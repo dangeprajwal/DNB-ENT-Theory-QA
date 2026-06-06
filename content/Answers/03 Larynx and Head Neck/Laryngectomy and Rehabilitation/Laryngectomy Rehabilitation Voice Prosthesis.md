@@ -4,17 +4,17 @@ tags:
   - laryngology
   - surgery
   - rehabilitation
-description: "DNB ENT Paper 3 (Larynx & Head Neck) — Voice Rehabilitation After Total Laryngectomy — TEP, Prosthesis & Complications. Answers based on Scott-Brown 8th Edit..."
 ---
 
 # Voice Rehabilitation After Total Laryngectomy — TEP, Prosthesis & Complications
 
-> [!question] Questions Covered
-> - *Q130: Voice rehabilitation after laryngectomy. TEP technique and complications (2014 Jun)*
-> - *2022-78: Sequelae of total laryngectomy. Voice and smell rehabilitation (2022 Dec)*
-> - *2024-107: TEP prosthesis principle. Air insufflation test. Causes of voice failure. Leaking TEP (2024 May)*
-> - *2025-130: Types of prosthesis for voice rehab. Hypertonic PE segment. Central/peripheral leak (2025 Jun)*
+## Questions Covered
+- *Q130: Voice rehabilitation after laryngectomy. TEP technique and complications (2014 Jun)*
+- *2022-78: Sequelae of total laryngectomy. Voice and smell rehabilitation (2022 Dec)*
+- *2024-107: TEP prosthesis principle. Air insufflation test. Causes of voice failure. Leaking TEP (2024 May)*
+- *2025-130: Types of prosthesis for voice rehab. Hypertonic PE segment. Central/peripheral leak (2025 Jun)*
 
+**Source: Scott-Brown's Otorhinolaryngology, 8th Edition, Volume 3, Chapter 15 — Rehabilitation after Total Laryngectomy (Yvonne Edels & Peter Clarke)**
 
 ---
 

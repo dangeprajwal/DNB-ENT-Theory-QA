@@ -3,15 +3,9 @@ tags:
   - paper3
   - laryngology
   - radiotherapy
-description: "DNB ENT Paper 3 (Larynx & Head Neck) — Stereotactic Radiosurgery and Proton Beam Therapy in Head and Neck. Answers based on Scott-Brown 8th Edition."
 ---
 
 # Stereotactic Radiosurgery and Proton Beam Therapy in Head and Neck
-
-> [!question] Questions Covered
-> - **2015:** What is gamma knife stereotactic radio surgery? Indications, advantages & limitations.
-> - **2024:** Indications and technique of proton therapy in head neck cancers. Liposomal amphotericin B.
-> - **2025:** Principles of stereotactic radiation. Role in management of [[Vestibular Schwannoma|vestibular schwannoma]]. Complications of stereotactic surgery.
 
 *Q15J-3 (2015): What is gamma knife stereotactic radio surgery? Indications, advantages & limitations.*
 *Q2024-111 (2024): Indications and technique of proton therapy in head neck cancers. Liposomal amphotericin B.*

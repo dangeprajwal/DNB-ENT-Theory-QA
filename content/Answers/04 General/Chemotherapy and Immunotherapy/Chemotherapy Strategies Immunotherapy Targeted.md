@@ -4,16 +4,9 @@ tags:
   - general
   - oncology
   - pharmacology
-description: "DNB ENT Paper 4 (General) — Chemotherapy Strategies, Immunotherapy and Targeted Therapy in Head and Neck .... Answers based on Scott-Brown 8th Edition."
 ---
 
 # Chemotherapy Strategies, [[Allergic Rhinitis Immunotherapy|Immunotherapy]] and Targeted Therapy in Head and Neck Cancer
-
-> [!question] Questions Covered
-> - **2014:** What is neoadjuvant chemotherapy? Rationale, advantages and disadvantages.
-> - **2015:** Chemotherapy strategies in head & neck cancer with brief description of neoadjuvant chemotherapy.
-> - **2021:** Classify chemotherapeutic agents in H&N Malignancy. Discuss monoclonal antibody in H&N Cancers.
-> - **2022:** Define immunotherapy. What are the immunotherapy agents for head & neck cancer?
 
 *Q14J-8 (2014): What is neoadjuvant chemotherapy? Rationale, advantages and disadvantages.*
 *Q15J-4 (2015): Chemotherapy strategies in head & neck cancer with brief description of neoadjuvant chemotherapy.*

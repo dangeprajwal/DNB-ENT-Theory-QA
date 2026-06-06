@@ -9,7 +9,8 @@ tags:
 
 # Auditory Brainstem Implants and Recent Developments
 
-**Question:** *Describe the auditory brainstem implant (ABI), its indications, surgical considerations, outcomes and recent developments in its application.*
+> [!question] Questions
+> Describe the auditory brainstem implant (ABI), its indications, surgical considerations, outcomes and recent developments in its application.
 
 **Source:** Scott-Brown's Otorhinolaryngology, Volume 2 – Chapter 96: Auditory Brainstem Implantation (Shakeel R. Saeed and Harry R.F. Powell)
 

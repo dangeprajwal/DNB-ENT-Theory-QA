@@ -8,7 +8,8 @@ tags:
 
 # Tympanosclerosis of the Middle Ear
 
-**Question:** *Write short note on tympanosclerosis of the middle ear. Discuss its pathology, clinical features, and management.*
+> [!question] Questions
+> Write short note on tympanosclerosis of the middle ear. Discuss its pathology, clinical features, and management.
 
 **Source:** Scott-Brown's Otorhinolaryngology, 8th Edition - Volume 2, Chapter 83
 

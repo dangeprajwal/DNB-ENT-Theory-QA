@@ -12,8 +12,8 @@ tags:
 
 **Source:** Scott-Brown's Otorhinolaryngology, Head & Neck Surgery, 8th Edition — Volume 2, Chapter 86 (Eustachian Tube) and Chapter 83 (Chronic Otitis Media)
 
-**Question Covered:**
-- **Q105 (2024):** Discuss the aetiopathogenesis of Eustachian tube dysfunction. Describe the various methods to assess the Eustachian tube function. Discuss the indications and complications of Balloon dilatation Eustachian tuboplasty.
+> [!question] Questions
+> - **Q105 (2024):** Discuss the aetiopathogenesis of Eustachian tube dysfunction. Describe the various methods to assess the Eustachian tube function. Discuss the indications and complications of Balloon dilatation Eustachian tuboplasty.
 
 ---
 

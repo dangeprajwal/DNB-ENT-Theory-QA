@@ -4,13 +4,9 @@ tags:
   - reconstruction
   - surgery
   - flaps
-description: "DNB ENT Paper 3 (Larynx & Head Neck) — Head & Neck Reconstruction. Answers based on Scott-Brown 8th Edition."
 ---
 
 # Head & Neck Reconstruction
-
-> [!question] Questions Covered
-> - Covers Q104, Q148, Q165, 2024-108
 
 *Covers Q104, Q148, Q165, 2024-108*
 

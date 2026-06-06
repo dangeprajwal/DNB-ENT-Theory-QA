@@ -7,7 +7,8 @@ tags:
 
 # Nasopharyngeal Carcinoma — Aetiopathogenesis, Classification, Clinical Features and Management
 
-**Question:** *Nasopharyngeal carcinoma — etiopathogenesis, clinical features and management. Histologic subtypes, T classification (AJCC). Classification and etiopathogenesis.*
+> [!question] Questions
+> Nasopharyngeal carcinoma — etiopathogenesis, clinical features and management. Histologic subtypes, T classification (AJCC). Classification and etiopathogenesis.
 
 **Source:** Scott-Brown's Volume 3, Chapter 8 (Nasopharyngeal Carcinoma)
 

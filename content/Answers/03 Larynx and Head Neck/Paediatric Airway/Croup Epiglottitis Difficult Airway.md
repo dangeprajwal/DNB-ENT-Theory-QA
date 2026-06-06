@@ -3,14 +3,14 @@ tags:
   - paper3
   - airway
   - paediatric
-description: "DNB ENT Paper 3 (Larynx & Head Neck) — Croup, Epiglottitis, Diphtheria and the Difficult Paediatric Airway. Answers based on Scott-Brown 8th Edition."
 ---
 
 # Croup, Epiglottitis, Diphtheria and the Difficult Paediatric Airway
 
-> [!question] Questions Covered
-> - Causes of croup. Epiglottitis — features and management. Stridor in children — diphtheria management. Evaluation and management of difficult airway in children.
-*Source:** Scott-Brown's Volume 2, Chapters 28 (Stridor) and 29 (Acute Laryngeal Infections)
+> [!question] Questions
+> Causes of croup. Epiglottitis — features and management. Stridor in children — diphtheria management. Evaluation and management of difficult airway in children.
+
+**Source:** Scott-Brown's Volume 2, Chapters 28 (Stridor) and 29 (Acute Laryngeal Infections)
 
 ---
 

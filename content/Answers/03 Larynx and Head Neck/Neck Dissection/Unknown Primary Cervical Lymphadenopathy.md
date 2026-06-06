@@ -4,14 +4,14 @@ tags:
   - head-and-neck
   - surgery
   - oncology
-description: "DNB ENT Paper 3 (Larynx & Head Neck) — Unknown Primary with Malignant Cervical Lymphadenopathy. Answers based on Scott-Brown 8th Edition."
 ---
 
 # Unknown Primary with Malignant Cervical Lymphadenopathy
 
-> [!question] Questions Covered
-> - Neck node levels. Unknown primary with malignant cervical lymphadenopathy — evaluation and management.
-*Source:** Scott-Brown's Volume 3, Chapter 17 (Neck Metastases from an Unknown Primary); Chapter 18 (Metastatic Neck Disease)
+> [!question] Questions
+> Neck node levels. Unknown primary with malignant cervical lymphadenopathy — evaluation and management.
+
+**Source:** Scott-Brown's Volume 3, Chapter 17 (Neck Metastases from an Unknown Primary); Chapter 18 (Metastatic Neck Disease)
 
 ---
 

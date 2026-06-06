@@ -9,7 +9,8 @@ tags:
 
 # Thyroplasty and Laryngeal Framework Surgery
 
-**Question:** *Describe laryngeal framework surgery. Classify thyroplasty and describe the surgical technique of Type I medialization thyroplasty. What are the indications, implant materials, and complications?*
+> [!question] Questions
+> Describe laryngeal framework surgery. Classify thyroplasty and describe the surgical technique of Type I medialization thyroplasty. What are the indications, implant materials, and complications?
 
 **Source:** Scott-Brown's Otorhinolaryngology, 8th Edition — Volume 3, Chapter 67 (Phonosurgery), Chapter 78 (Paralysis of the Larynx), Chapter 63 (Evaluation of Voice); supplemented by: Isshiki N et al. (1974), *Thyroplasty as a new phonosurgical technique*; European Laryngological Society classification (Eur Arch Otorhinolaryngol 2001); Type I Thyroplasty and Arytenoid Adduction review (IJHNS); PMC 7585243 (long-term outcomes with titanium implant)
 

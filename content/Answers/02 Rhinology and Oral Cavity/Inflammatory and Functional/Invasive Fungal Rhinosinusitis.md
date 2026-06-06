@@ -8,7 +8,8 @@ tags:
 
 # Invasive [[AFRS Fungal Ball|Fungal Rhinosinusitis]]
 
-**Question:** *Discuss the classification, etiopathogenesis, clinical features and management of invasive fungal rhinosinusitis.*
+> [!question] Questions
+> Discuss the classification, etiopathogenesis, clinical features and management of invasive fungal rhinosinusitis.
 
 **Source:** Scott-Brown's Otorhinolaryngology, 8th Edition - Volume 1, Chapter 21 (Fungal Infections)
 

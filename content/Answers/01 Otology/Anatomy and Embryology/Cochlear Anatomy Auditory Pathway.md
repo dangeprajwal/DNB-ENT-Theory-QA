@@ -12,9 +12,9 @@ tags:
 
 **Source:** Scott-Brown's Otorhinolaryngology, Head & Neck Surgery, 8th Edition, Volume 2 — Chapter 47 (Anatomy of the Cochlea and Vestibular System), Chapter 48 (Physiology of Hearing), Chapter 12 (Congenital Middle Ear Abnormalities)
 
-**Questions Covered:**
-- **Q23 (2020):** Describe the microstructure of Cochlea. Discuss the homeostasis of intracochlear fluids.
-- **Q62 (2022):** Draw labelled diagram of cochlea & cochlear duct. What is auditory pathway? Describe various congenital anomalies of middle ear. Describe facial recess.
+> [!question] Questions
+> - **Q23 (2020):** Describe the microstructure of Cochlea. Discuss the homeostasis of intracochlear fluids.
+> - **Q62 (2022):** Draw labelled diagram of cochlea & cochlear duct. What is auditory pathway? Describe various congenital anomalies of middle ear. Describe facial recess.
 
 ---
 

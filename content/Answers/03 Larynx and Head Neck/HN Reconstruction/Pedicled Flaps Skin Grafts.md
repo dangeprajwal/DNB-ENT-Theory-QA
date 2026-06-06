@@ -4,15 +4,9 @@ tags:
   - reconstruction
   - surgery
   - flaps
-description: "DNB ENT Paper 3 (Larynx & Head Neck) — Pedicled Flaps and Skin Grafts in Head and Neck Reconstruction. Answers based on Scott-Brown 8th Edition."
 ---
 
 # Pedicled Flaps and Skin Grafts in Head and Neck Reconstruction
-
-> [!question] Questions Covered
-> - **2019:** Describe the anatomy, indications and procedure of raising the pectoralis myocutaneous flap for oral cavity tumours.
-> - **2022:** Enumerate axial flaps in head neck reconstruction. Discuss DP flap.
-> - **2024:** Describe skin grafts and basic principles of graft uptake. Describe anatomy, blood supply and indications of PMMC flap.
 
 *Q2019-2 (2019): Describe the anatomy, indications and procedure of raising the pectoralis myocutaneous flap for oral cavity tumours.*
 *Q2022-70 (2022): Enumerate axial flaps in head neck reconstruction. Discuss DP flap.*

@@ -3,19 +3,14 @@ tags:
   - paper4
   - research
   - evidence-based-medicine
-description: "DNB ENT Paper 4 (General) — OUTCOME-BASED RESEARCH, HYPOTHESIS TESTING, AND PLAGIARISM IN MEDICAL LITERATURE. Answers based on Scott-Brown 8th Edition."
 ---
 
 # OUTCOME-BASED RESEARCH, HYPOTHESIS TESTING, AND PLAGIARISM IN MEDICAL LITERATURE
 
-> [!question] Questions Covered
-> - Last updated: February 2026
-
-## QUESTIONS ANSWERED IN THIS DOCUMENT
-
-1. **Q19 (December 2020):** What do we mean by outcome based research? Describe assessment of patient based measures for research data.
-2. **Q40 (June 2021):** What is a hypothesis and how do we test it? Describe the null hypothesis and how is it different from alternative hypothesis?
-3. **Q84 (October 2023):** What are the types of plagiarism in medical literature? How can it be minimised?
+> [!question] Questions
+> 1. **Q19 (December 2020):** What do we mean by outcome based research? Describe assessment of patient based measures for research data.
+> 2. **Q40 (June 2021):** What is a hypothesis and how do we test it? Describe the null hypothesis and how is it different from alternative hypothesis?
+> 3. **Q84 (October 2023):** What are the types of plagiarism in medical literature? How can it be minimised?
 
 ---
 

@@ -8,9 +8,8 @@ tags:
 
 # Neonatal Hearing Screening and Otoacoustic Emissions
 
-## QUESTIONS ANSWERED IN THIS DOCUMENT
-
-1. **December 2021:** What are Otoacoustic Emissions and enumerate the types of OAEs? Enumerate the differences between Universal Neonatal Hearing Screening and Targeted Hearing Screening.
+> [!question] Questions
+> 1. **December 2021:** What are Otoacoustic Emissions and enumerate the types of OAEs? Enumerate the differences between Universal Neonatal Hearing Screening and Targeted Hearing Screening.
 
 2. **December 2022:** Audiological testing of newborn child; 1-3-6 rule
 
@@ -18,9 +17,9 @@ tags:
 
 ---
 
-**Question:** *Discuss otoacoustic emissions including types, cochlear microphonics, their role in neonatal hearing screening, and compare universal versus targeted screening approaches. Explain the 1-3-6 rule and audiological assessment of newborns.*
-
-Source: Scott-Brown's Otorhinolaryngology Head and Neck Surgery, Volume 2, Chapters 8, 9, 47, 69
+> [!question] Questions
+> Discuss otoacoustic emissions including types, cochlear microphonics, their role in neonatal hearing screening, and compare universal versus targeted screening approaches. Explain the 1-3-6 rule and audiological assessment of newborns.
+> Source: Scott-Brown's Otorhinolaryngology Head and Neck Surgery, Volume 2, Chapters 8, 9, 47, 69
 
 ---
 

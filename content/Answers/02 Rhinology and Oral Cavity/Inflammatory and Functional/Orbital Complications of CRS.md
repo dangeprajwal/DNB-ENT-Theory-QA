@@ -8,7 +8,8 @@ tags:
 
 # Orbital Complications of [[CRS Nasal Polyposis Turbinate|Chronic Rhinosinusitis]]
 
-**Question:** *Describe the orbital complications of CRS.*
+> [!question] Questions
+> Describe the orbital complications of CRS.
 
 **Source:** Scott-Brown's Otorhinolaryngology, 8th Edition - Volume 1, Chapter 101 (Complications of Rhinosinusitis)
 

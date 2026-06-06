@@ -7,7 +7,8 @@ tags:
 
 # Drooling (Sialorrhoea) — Causes and Management
 
-**Question:** *Drooling in children — causes and management. Sialorrhoea — aetiology, assessment and treatment options.*
+> [!question] Questions
+> Drooling in children — causes and management. Sialorrhoea — aetiology, assessment and treatment options.
 
 **Source:** Scott-Brown's Volume 3, Chapter 46 (Non-Neoplastic Salivary Gland Diseases)
 

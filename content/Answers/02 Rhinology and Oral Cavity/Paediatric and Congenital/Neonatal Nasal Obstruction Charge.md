@@ -8,7 +8,8 @@ tags:
 
 # Nasal Obstruction in Neonates and Charge Syndrome
 
-**Question:** *Discuss the causes, diagnosis, and management of nasal obstruction in neonates. Describe CHARGE syndrome and its otorhinolaryngological implications.*
+> [!question] Questions
+> Discuss the causes, diagnosis, and management of nasal obstruction in neonates. Describe CHARGE syndrome and its otorhinolaryngological implications.
 
 **Source:** Scott-Brown's Otorhinolaryngology, 8th Edition - Volume 2, Chapter 23 (Neonatal Nasal Obstruction) & Chapter 6 (The Child with a Syndrome)
 

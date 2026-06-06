@@ -4,14 +4,14 @@ tags:
   - laryngology
   - oncology
   - surgery
-description: "DNB ENT Paper 3 (Larynx & Head Neck) — Mode of Spread of Laryngeal Carcinoma and T1N1M0 Management. Answers based on Scott-Brown 8th Edition."
 ---
 
 # Mode of Spread of [[Laryngeal Malignancy Etiopathogenesis Staging Management|Laryngeal Carcinoma]] and T1N1M0 Management
 
-> [!question] Questions Covered
-> - Mode of spread of laryngeal carcinoma. Management planning for T1N1M0 laryngeal cancer.
-*Source:** Scott-Brown's Otorhinolaryngology, 8th Edition - Volume 3, Chapter 14 (Tumours of the Larynx), Chapter 27 (Open Conservation Surgery)
+> [!question] Questions
+> Mode of spread of laryngeal carcinoma. Management planning for T1N1M0 laryngeal cancer.
+
+**Source:** Scott-Brown's Otorhinolaryngology, 8th Edition - Volume 3, Chapter 14 (Tumours of the Larynx), Chapter 27 (Open Conservation Surgery)
 
 ---
 

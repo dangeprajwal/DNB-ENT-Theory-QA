@@ -4,17 +4,9 @@ tags:
   - general
   - imaging
   - technology
-description: "DNB ENT Paper 4 (General) — Advanced Imaging — Functional MRI, Doppler Ultrasound, and HRCT Temporal Bone. Answers based on Scott-Brown 8th Edition."
 ---
 
 # Advanced Imaging — Functional MRI, Doppler Ultrasound, and HRCT Temporal Bone
-
-> [!question] Questions Covered
-> - **2015:** Principles of Functional MRI. What is perfusion functional MRI? Uses of fMRI in otology.
-> - **2018:** Principles and illustrative applications of functional MRI in otorhinolaryngology.
-> - **2016:** Principle of Doppler ultrasound and its use in ENT practice. Indications of intra-operative Doppler use.
-> - **2018:** Principles and illustrative applications of HRCT of temporal bone.
-> - **2011:** Enumerate temporal bone projections in conventional imaging and structures assessed in each.
 
 *Q15D-6 (2015): Principles of Functional MRI. What is perfusion functional MRI? Uses of fMRI in otology.*
 *Q18J-3 (2018): Principles and illustrative applications of functional MRI in otorhinolaryngology.*

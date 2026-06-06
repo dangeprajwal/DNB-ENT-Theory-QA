@@ -8,9 +8,9 @@ tags:
 
 # TINNITUS
 
-**Question:** *Define and classify tinnitus. Describe the pathophysiology of tinnitus. Enumerate the various causes of pulsatile tinnitus.*
-
-Source: Scott-Brown's Otorhinolaryngology, Volume 2, Chapter 61 - Tinnitus and Hyperacusis
+> [!question] Questions
+> Define and classify tinnitus. Describe the pathophysiology of tinnitus. Enumerate the various causes of pulsatile tinnitus.
+> Source: Scott-Brown's Otorhinolaryngology, Volume 2, Chapter 61 - Tinnitus and Hyperacusis
 
 ---
 

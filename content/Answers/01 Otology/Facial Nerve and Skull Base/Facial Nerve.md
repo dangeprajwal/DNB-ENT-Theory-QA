@@ -8,14 +8,14 @@ tags:
 
 # Facial Nerve
 
-**Questions Covered:**
-- **Q9** — Topodiagnostic evaluation of facial nerve palsy. Vestibular-Evoked Myogenic Potentials.
-- **Q15** — Describe surgical anatomy of facial nerve. Clinical presentation of temporal bone fracture, investigation & management of traumatic facial nerve palsy.
-- **Q27** — Describe the grading systems for facial nerve palsy. Discuss the management of a case of facial palsy in a patient of chronic otitis media (squamosal).
-- **Q64** — Describe topodiagnostic tests for facial nerve lesions. What is ENOG test? Describe electrocochleography & its role in ENT.
-- **Q73** — Enumerate the types of temporal bone fractures and discuss the management of immediate and delayed onset facial nerve palsy after a head injury.
-- **Q86** — What are the landmarks for facial nerve during mastoid surgery? How would you manage if you notice facial nerve paralysis immediately after mastoid surgery?
-- **Q119** — Describe the various topodiagnostic tests of facial nerve dysfunction. What is the surgical protocol for management of traumatic facial paralysis?
+> [!question] Questions
+> - **Q9** — Topodiagnostic evaluation of facial nerve palsy. Vestibular-Evoked Myogenic Potentials.
+> - **Q15** — Describe surgical anatomy of facial nerve. Clinical presentation of temporal bone fracture, investigation & management of traumatic facial nerve palsy.
+> - **Q27** — Describe the grading systems for facial nerve palsy. Discuss the management of a case of facial palsy in a patient of chronic otitis media (squamosal).
+> - **Q64** — Describe topodiagnostic tests for facial nerve lesions. What is ENOG test? Describe electrocochleography & its role in ENT.
+> - **Q73** — Enumerate the types of temporal bone fractures and discuss the management of immediate and delayed onset facial nerve palsy after a head injury.
+> - **Q86** — What are the landmarks for facial nerve during mastoid surgery? How would you manage if you notice facial nerve paralysis immediately after mastoid surgery?
+> - **Q119** — Describe the various topodiagnostic tests of facial nerve dysfunction. What is the surgical protocol for management of traumatic facial paralysis?
 
 **Source:** Scott-Brown's Otorhinolaryngology, 8th Edition — Volume 2, Chapter 112 (The Facial Nerve and Its Non-Neoplastic Disorders), Chapter 91 (Ear Trauma)
 

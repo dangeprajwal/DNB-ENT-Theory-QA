@@ -4,16 +4,9 @@ tags:
   - general
   - oncology
   - pharmacology
-description: "DNB ENT Paper 4 (General) — Cell Cycle, Chemotherapy Classification, Platinum Agents and Complications. Answers based on Scott-Brown 8th Edition."
 ---
 
 # Cell Cycle, Chemotherapy Classification, Platinum Agents and Complications
-
-> [!question] Questions Covered
-> - **2013:** Enumerate platinum based chemotherapeutic agents in SCC of H&N. Mechanism of action, dosage and adverse effects.
-> - **2015:** Cell Cycle. Chemotherapeutic targets & their site of action.
-> - **2022:** Enumerate complications of chemotherapy. What are oral chemotherapy drugs for head & neck cancer?
-> - **2022:** Phases of cell cycle. Mechanism of action of platinum-based chemo agents. Targeted therapeutic agents for H&N cancer.
 
 *Q13D-9 (2013): Enumerate platinum based chemotherapeutic agents in SCC of H&N. Mechanism of action, dosage and adverse effects.*
 *Q15D-7 (2015): Cell Cycle. Chemotherapeutic targets & their site of action.*

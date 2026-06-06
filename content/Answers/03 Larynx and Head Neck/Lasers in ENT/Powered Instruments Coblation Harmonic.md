@@ -4,16 +4,9 @@ tags:
   - laryngology
   - technology
   - surgery
-description: "DNB ENT Paper 3 (Larynx & Head Neck) — Powered Instruments, Coblation and Harmonic Scalpel in ENT. Answers based on Scott-Brown 8th Edition."
 ---
 
 # Powered Instruments, Coblation and Harmonic Scalpel in ENT
-
-> [!question] Questions Covered
-> - **2020:** Risks and precautions using powered instrumentation in Covid-19 times. ENT surgeries where Coblation may be used.
-> - **2021:** Describe various powered instruments used in ENT. Discuss management of carotid artery injury during skull base surgery using a microdebrider.
-> - **2022:** What are powered instruments in ENT? Discuss principle of harmonic scalpel, indications & complications.
-> - **2022:** What is the principle behind coblation surgery? How is it different from radiofrequency surgery? Advantages over conventional electrocautery.
 
 *Q2020-27 (2020): Risks and precautions using powered instrumentation in Covid-19 times. ENT surgeries where Coblation may be used.*
 *Q2021-50 (2021): Describe various powered instruments used in ENT. Discuss management of carotid artery injury during skull base surgery using a microdebrider.*

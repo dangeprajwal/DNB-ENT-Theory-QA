@@ -7,7 +7,8 @@ tags:
 
 # Mandible and Mandibular Reconstruction
 
-**Question:** *What are the differences between the young and elderly mandible? Discuss the management of defects following segmental mandibulectomy. Describe the principles of mandibular reconstruction and the available reconstructive options.*
+> [!question] Questions
+> What are the differences between the young and elderly mandible? Discuss the management of defects following segmental mandibulectomy. Describe the principles of mandibular reconstruction and the available reconstructive options.
 
 **Source:** Scott-Brown's Volume 3, Chapter 12 (Oral Cavity Tumours — Management of the Mandible) and Chapter 93 (Reconstructive Microsurgery in Head and Neck Surgery); Volume 1, Chapter 107 (Nasal and Facial Fractures — Mandibular Fractures)
 

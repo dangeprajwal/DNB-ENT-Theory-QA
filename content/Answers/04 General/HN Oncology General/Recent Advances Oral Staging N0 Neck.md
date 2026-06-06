@@ -4,7 +4,6 @@ tags:
   - general
   - oncology
   - head-and-neck
-description: "DNB ENT Paper 4 (General) — Recent Advances in HN Malignancy, Oral Cancer Staging and N0 Neck Management. Answers based on Scott-Brown 8th Edition."
 ---
 
 # Recent Advances in HN Malignancy, Oral Cancer Staging and N0 Neck Management
@@ -16,12 +15,6 @@ description: "DNB ENT Paper 4 (General) — Recent Advances in HN Malignancy, Or
 **Question 3:** *Classify various types of [[Neck Dissection|neck dissection]]. Role of therapeutic neck dissection in N0 oral cavity carcinoma.*
 
 **Source:** Scott-Brown's Otorhinolaryngology, 8th Edition - Volume 3, Chapter 4 (Staging), Chapter 6 (Molecular Biology), Chapter 12 (Oral Cavity Tumours), Chapter 18 (Metastatic Neck Disease), Chapter 22 (Transoral Laser Microsurgery)
-
-
-> [!question] Questions Covered
-> - Discuss the recent advances in management of head and neck malignancy. Discuss transoral ultrasonic surgery.
-> - Latest AJCC TNM staging system with modifications for oral cancer staging. Role of biomarkers for oral cancer.
-> - Classify various types of [[Neck Dissection|neck dissection]]. Role of therapeutic neck dissection in N0 oral cavity carcinoma.
 
 ---
 

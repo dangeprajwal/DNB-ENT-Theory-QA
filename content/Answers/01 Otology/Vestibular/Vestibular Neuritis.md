@@ -7,9 +7,9 @@ tags:
 
 # Vestibular Neuritis
 
-**Question:** *Discuss the clinical features, differential diagnosis, and current therapy of vestibular neuritis.*
-
-Source: Scott-Brown's Otorhinolaryngology Head and Neck Surgery, Volume 2, Chapter 66
+> [!question] Questions
+> Discuss the clinical features, differential diagnosis, and current therapy of vestibular neuritis.
+> Source: Scott-Brown's Otorhinolaryngology Head and Neck Surgery, Volume 2, Chapter 66
 
 ---
 

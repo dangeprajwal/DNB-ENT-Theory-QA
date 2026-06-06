@@ -7,7 +7,8 @@ tags:
 
 # Keratosis Obturans Presenting with [[Facial Nerve|Facial Nerve Palsy]]
 
-**Question:** *Discuss keratosis obturans presenting with facial nerve palsy. Include its pathology, clinical features, staging, and management.*
+> [!question] Questions
+> Discuss keratosis obturans presenting with facial nerve palsy. Include its pathology, clinical features, staging, and management.
 
 **Source:** Scott-Brown's Otorhinolaryngology, 8th Edition - Volume 2, Chapter 76
 

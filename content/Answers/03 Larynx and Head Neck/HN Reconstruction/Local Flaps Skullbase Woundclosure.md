@@ -4,16 +4,9 @@ tags:
   - reconstruction
   - surgery
   - flaps
-description: "DNB ENT Paper 3 (Larynx & Head Neck) — Local Flaps, Skull Base Flaps and Wound Closure in Head and Neck Surgery. Answers based on Scott-Brown 8th Edition."
 ---
 
 # Local Flaps, Skull Base Flaps and Wound Closure in Head and Neck Surgery
-
-> [!question] Questions Covered
-> - **2018:** Describe the basic principles of flap surgery. Elaborate on Rintala flap.
-> - **2021:** Enumerate local flaps in facial plastics. Discuss Rhomboid flaps.
-> - **2022:** Enumerate local flaps for skull base reconstruction. What is Hadad-Bassagasteguy flap — blood supply, indications, surgical technique?
-> - **2019:** Describe various methods of wound closure. Describe complications and their prevention following radical [[Neck Dissection|neck dissection]].
 
 *Q18D-9 (2018): Describe the basic principles of flap surgery. Elaborate on Rintala flap.*
 *Q2021-60 (2021): Enumerate local flaps in facial plastics. Discuss Rhomboid flaps.*

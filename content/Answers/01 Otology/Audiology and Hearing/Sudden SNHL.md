@@ -8,17 +8,16 @@ tags:
 
 # Idiopathic Sudden Sensorineural Hearing Loss
 
-## QUESTIONS ANSWERED IN THIS DOCUMENT
-
-1. **December 2021:** Define Sudden SNHL. What is the etiology, clinical features, prognostic factors and medical management for Idiopathic Sudden SNHL?
+> [!question] Questions
+> 1. **December 2021:** Define Sudden SNHL. What is the etiology, clinical features, prognostic factors and medical management for Idiopathic Sudden SNHL?
 
 2. **December 2022:** Definition of idiopathic sudden SNHL; Possible causes, clinical assessment, treatment
 
 ---
 
-**Question:** *Define Sudden Sensorineural Hearing Loss. Discuss the etiology, clinical features, clinical assessment, prognostic factors, and medical management of Idiopathic Sudden Sensorineural Hearing Loss.*
-
-Source: Scott-Brown's Otorhinolaryngology Head and Neck Surgery, Volume 2, Chapter 60
+> [!question] Questions
+> Define Sudden Sensorineural Hearing Loss. Discuss the etiology, clinical features, clinical assessment, prognostic factors, and medical management of Idiopathic Sudden Sensorineural Hearing Loss.
+> Source: Scott-Brown's Otorhinolaryngology Head and Neck Surgery, Volume 2, Chapter 60
 
 ---
 

@@ -4,14 +4,14 @@ tags:
   - laryngology
   - anatomy
   - embryology
-description: "DNB ENT Paper 3 (Larynx & Head Neck) — Laryngeal Anatomy, Embryology, Nerve Supply and Barriers to Cancer Spread. Answers based on Scott-Brown 8th Edition."
 ---
 
 # Laryngeal Anatomy, Embryology, Nerve Supply and Barriers to Cancer Spread
 
-> [!question] Questions Covered
-> - Larynx embryology. Intrinsic and extrinsic muscles of the larynx — nerve supply, actions. Barriers to cancer spread within the larynx. Laryngocoele. Developmental anatomy. Left RLN anatomy and steps to prevent damage during surgery.
-*Source:** Scott-Brown's Volume 3, Chapter 58 (Anatomy of the Larynx and Tracheobronchial Tree) and Chapter 69 (Acute Infections of the Larynx — laryngocoele section)
+> [!question] Questions
+> Larynx embryology. Intrinsic and extrinsic muscles of the larynx — nerve supply, actions. Barriers to cancer spread within the larynx. Laryngocoele. Developmental anatomy. Left RLN anatomy and steps to prevent damage during surgery.
+
+**Source:** Scott-Brown's Volume 3, Chapter 58 (Anatomy of the Larynx and Tracheobronchial Tree) and Chapter 69 (Acute Infections of the Larynx — laryngocoele section)
 
 ---
 

@@ -8,10 +8,10 @@ tags:
 
 # Auditory Pathway & Neuropathy
 
-**Questions Covered:**
-- **Q70** — Discuss the Auditory Pathway. What is Auditory neuropathy? Describe the management of a patient with auditory neuropathy.
-- **Q111** — Describe with the help of labelled diagrams the central auditory pathway. Discuss the various tests for evaluation of hearing in a neonate.
-- **Q123** — Describe the terms neural plasticity and neural scavenging. Discuss the diagnosis and management of a case of auditory neuropathy.
+> [!question] Questions
+> - **Q70** — Discuss the Auditory Pathway. What is Auditory neuropathy? Describe the management of a patient with auditory neuropathy.
+> - **Q111** — Describe with the help of labelled diagrams the central auditory pathway. Discuss the various tests for evaluation of hearing in a neonate.
+> - **Q123** — Describe the terms neural plasticity and neural scavenging. Discuss the diagnosis and management of a case of auditory neuropathy.
 
 **Source:** Scott-Brown's Otorhinolaryngology, 8th Edition — Volume 2, Chapter 50 (Perception of Sounds at the Auditory Cortex), Chapter 48 (Physiology of Hearing), Chapter 69 (Auditory Neuropathy Spectrum Disorder and Retrocochlear Disorders)
 

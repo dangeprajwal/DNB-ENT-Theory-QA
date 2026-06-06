@@ -8,9 +8,9 @@ tags:
 
 # Glomus Tumour (paraganglioma of the Temporal Bone)
 
-**Questions Covered:**
-- **Q35 (June 2021):** Enumerate the various tumors of the temporal bone. Describe the varied presentation and management of Glomus jugulare.
-- **Q118 (May 2025):** Describe the staging of glomus tumour and surgical steps to excise glomus jugulare.
+> [!question] Questions
+> - **Q35 (June 2021):** Enumerate the various tumors of the temporal bone. Describe the varied presentation and management of Glomus jugulare.
+> - **Q118 (May 2025):** Describe the staging of glomus tumour and surgical steps to excise glomus jugulare.
 
 **Source:** Scott-Brown's Otorhinolaryngology, 8th Edition — Volume 2, Chapter 99 (Paragangliomas of the Temporal Bone), Chapter 100 (Vascular Assessment and Management)
 

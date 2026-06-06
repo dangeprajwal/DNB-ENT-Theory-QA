@@ -6,7 +6,8 @@ tags:
 
 # Obstructive Sleep Apnoea — Pathophysiology, Diagnosis, Classification and Management
 
-**Question:** *Polysomnography — levels and indications. Medical management of OSAS. OSA — pathophysiology. Indications for surgical intervention. OSAS — diagnostic criteria and classification. Surgical management of severe OSA including tongue base surgery. Evaluation and management of OSA in an obese adult.*
+> [!question] Questions
+> Polysomnography — levels and indications. Medical management of OSAS. OSA — pathophysiology. Indications for surgical intervention. OSAS — diagnostic criteria and classification. Surgical management of severe OSA including tongue base surgery. Evaluation and management of OSA in an obese adult.
 
 **Source:** Scott-Brown's Volume 3, Chapters 73 (Physiology of Sleep and Sleep Disorders), 74 (Obstructive Sleep Apnoea: Medical Management) and 75 (The Surgical Management of Snoring and OSA)
 

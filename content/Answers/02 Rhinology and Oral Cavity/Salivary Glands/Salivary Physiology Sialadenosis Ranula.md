@@ -7,7 +7,8 @@ tags:
 
 # Salivary Physiology, Sialadenosis, Ranula and Non-neoplastic Salivary Diseases
 
-**Question:** *Discuss developmental dental cysts, physiology of salivation, and [[Sjogren Syndrome|Sjogren's syndrome]]. Describe the causes of sialadenosis and management of submandibular [[Sialolithiasis and Sialendoscopy|sialolithiasis]]. Discuss saliva formation, regulation, and function, and electrogustometry. Describe plunging ranula -- definition, clinical features, and management. Classify non-neoplastic salivary diseases, and discuss sialectasis.*
+> [!question] Questions
+> Discuss developmental dental cysts, physiology of salivation, and [[Sjogren Syndrome|Sjogren's syndrome]]. Describe the causes of sialadenosis and management of submandibular [[Sialolithiasis and Sialendoscopy|sialolithiasis]]. Discuss saliva formation, regulation, and function, and electrogustometry. Describe plunging ranula -- definition, clinical features, and management. Classify non-neoplastic salivary diseases, and discuss sialectasis.
 
 **Source:** Scott-Brown's Otorhinolaryngology, 8th Edition - Volume 3, Chapter 44 (Physiology of the Salivary Glands) and Chapter 46 (Non-Neoplastic Salivary Gland Diseases); Volume 2, Chapter 112 (Facial Nerve Testing)
 

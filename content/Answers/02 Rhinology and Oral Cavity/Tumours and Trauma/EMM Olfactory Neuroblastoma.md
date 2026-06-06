@@ -8,7 +8,8 @@ tags:
 
 # Endoscopic Medial Maxillectomy and Olfactory Neuroblastoma
 
-**Question:** *"Classify sinonasal tumours by tissue of origin. Describe indications, procedure, and limitations of endoscopic medial maxillectomy. Discuss olfactory neuroblastoma — etiopathogenesis, clinical features, staging, and management."*
+> [!question] Questions
+> "Classify sinonasal tumours by tissue of origin. Describe indications, procedure, and limitations of endoscopic medial maxillectomy. Discuss olfactory neuroblastoma — etiopathogenesis, clinical features, staging, and management."
 
 **Source:** Scott-Brown's Volume 1, Chapters 114 (Endoscopic Management of Sinonasal Tumours), 116 (Extended Anterior Skull Base Approaches), 117 (Radiology)
 

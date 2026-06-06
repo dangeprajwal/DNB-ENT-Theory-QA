@@ -8,7 +8,8 @@ tags:
 
 # Rhinoplasty — Assessment, Saddle Nose, Reduction and Augmentation
 
-**Question:** *"Classify saddle nose deformity and discuss management of acute and late saddle nose. Describe nasofacial angles used in rhinoplasty assessment and management of bulbous nasal tip. Discuss counselling for rhinoplasty, reduction rhinoplasty steps, and augmentation rhinoplasty indications and techniques."*
+> [!question] Questions
+> "Classify saddle nose deformity and discuss management of acute and late saddle nose. Describe nasofacial angles used in rhinoplasty assessment and management of bulbous nasal tip. Discuss counselling for rhinoplasty, reduction rhinoplasty steps, and augmentation rhinoplasty indications and techniques."
 
 **Source:** Scott-Brown's Volume 3, Chapters 80 (Rhinoplasty Following Nasal Trauma), 81 (Pre-operative Assessment for Rhinoplasty), 82 (External Rhinoplasty)
 

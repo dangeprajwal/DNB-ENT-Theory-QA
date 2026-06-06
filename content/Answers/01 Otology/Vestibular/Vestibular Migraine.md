@@ -7,9 +7,9 @@ tags:
 
 # Vestibular Migraine
 
-**Question:** *Discuss vestibular migraine (migrainous vertigo) including its classification, clinical features, diagnosis, and management.*
-
-Source: Scott-Brown's Otorhinolaryngology Head and Neck Surgery, Volume 2, Chapter 67
+> [!question] Questions
+> Discuss vestibular migraine (migrainous vertigo) including its classification, clinical features, diagnosis, and management.
+> Source: Scott-Brown's Otorhinolaryngology Head and Neck Surgery, Volume 2, Chapter 67
 
 ---
 

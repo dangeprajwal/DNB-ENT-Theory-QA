@@ -8,7 +8,8 @@ tags:
 
 # Approaches for Residual Carcinoma of Nasopharynx
 
-**Question:** *Describe the approaches for residual/recurrent carcinoma of the nasopharynx.*
+> [!question] Questions
+> Describe the approaches for residual/recurrent carcinoma of the nasopharynx.
 
 **Source:** Scott-Brown's Otorhinolaryngology, 8th Edition - Volume 2, Chapter 109 (Approaches to the Nasopharynx) & Volume 3, Chapter 8 ([[Nasopharyngeal Carcinoma|Nasopharyngeal Carcinoma]])
 

@@ -3,13 +3,9 @@ tags:
   - paper3
   - laryngology
   - palliative
-description: "DNB ENT Paper 3 (Larynx & Head Neck) — Pain in Malignancy. Answers based on Scott-Brown 8th Edition."
 ---
 
 # Pain in Malignancy
-
-> [!question] Questions Covered
-> - Discuss the pathophysiology, evaluation and management of pain in malignancy.
 
 ## Q64. Pain in malignancy — pathophysiology, evaluation, management (2019 Dec)
 

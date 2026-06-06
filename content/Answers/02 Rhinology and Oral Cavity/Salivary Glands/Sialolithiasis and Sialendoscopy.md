@@ -7,7 +7,8 @@ tags:
 
 # Sialolithiasis — Aetiology, Investigation and Management Including Sialendoscopy
 
-**Question:** *Submandibular duct stone removal — options. Sialendoscopy — indications and complications.*
+> [!question] Questions
+> Submandibular duct stone removal — options. Sialendoscopy — indications and complications.
 
 **Source:** Scott-Brown's Volume 3, Chapter 46 (Non-Neoplastic Salivary Gland Diseases), Chapter 45 (Imaging of the Salivary Glands)
 

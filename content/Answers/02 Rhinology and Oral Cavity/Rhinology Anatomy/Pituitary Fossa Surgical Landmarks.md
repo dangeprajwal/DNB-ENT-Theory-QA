@@ -7,7 +7,8 @@ tags:
 
 # Surgical Landmarks of the Pituitary Fossa
 
-**Question:** *Describe the developmental anatomy and surgical landmarks of the pituitary fossa relevant to endoscopic transsphenoidal surgery.*
+> [!question] Questions
+> Describe the developmental anatomy and surgical landmarks of the pituitary fossa relevant to endoscopic transsphenoidal surgery.
 
 **Source:** Scott-Brown's Otorhinolaryngology, 8th Edition - Volume 1, Chapter 54 (Developmental Anatomy of the Pituitary Fossa)
 

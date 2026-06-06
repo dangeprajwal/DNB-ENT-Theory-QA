@@ -7,7 +7,8 @@ tags:
 
 # Oral Tongue Carcinoma
 
-**Question:** *What is the differential diagnosis of an ulcer on the lateral border of the tongue? Discuss the role of [[Neck Dissection|neck dissection]] in T1/T2 oral cavity malignancy. Describe the TNM staging of oral cavity carcinoma (AJCC 8th Edition). How would you manage the N0 neck in oral cavity malignancy? Discuss the clinical features, diagnosis and management of T3N1M0 carcinoma of the right anterolateral tongue.*
+> [!question] Questions
+> What is the differential diagnosis of an ulcer on the lateral border of the tongue? Discuss the role of [[Neck Dissection|neck dissection]] in T1/T2 oral cavity malignancy. Describe the TNM staging of oral cavity carcinoma (AJCC 8th Edition). How would you manage the N0 neck in oral cavity malignancy? Discuss the clinical features, diagnosis and management of T3N1M0 carcinoma of the right anterolateral tongue.
 
 **Source:** Scott-Brown's Volume 3, Chapter 12 (Oral Cavity Tumours Including Lip Reconstruction)
 

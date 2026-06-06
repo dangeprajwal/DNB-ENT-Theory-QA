@@ -6,7 +6,8 @@ tags:
 
 # Paediatric [[Obstructive Sleep Apnoea|Obstructive Sleep Apnoea]] — Definition, Evaluation and Management
 
-**Question:** *Sleep apnoea — definition. Evaluate an obese child with OSA.*
+> [!question] Questions
+> Sleep apnoea — definition. Evaluate an obese child with OSA.
 
 **Source:** Scott-Brown's Volume 2, Chapter 27 (Paediatric Obstructive Sleep Apnoea)
 

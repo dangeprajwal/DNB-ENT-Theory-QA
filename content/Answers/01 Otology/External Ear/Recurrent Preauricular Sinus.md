@@ -7,7 +7,8 @@ tags:
 
 # Recurrent Preauricular Sinus Infection After Surgery
 
-**Question:** *Discuss the embryology, clinical features, and management of recurrent preauricular sinus infection after surgery.*
+> [!question] Questions
+> Discuss the embryology, clinical features, and management of recurrent preauricular sinus infection after surgery.
 
 **Source:** Scott-Brown's Otorhinolaryngology, 8th Edition - Volume 2, Chapter 16
 

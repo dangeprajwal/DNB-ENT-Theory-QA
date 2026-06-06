@@ -3,14 +3,14 @@ tags:
   - paper3
   - airway
   - paediatric
-description: "DNB ENT Paper 3 (Larynx & Head Neck) — Stridor in Children — Causes, Evaluation and Laryngomalacia Management. Answers based on Scott-Brown 8th Edition."
 ---
 
 # Stridor in Children — Causes, Evaluation and Laryngomalacia Management
 
-> [!question] Questions Covered
-> - Stridor in newborn — causes, evaluation and role of MLB. Stridor in children — causes and diphtheria management. Laryngomalacia — features, surgical management. Clinical anatomy of bronchus on bronchoscopy.
-*Source:** Scott-Brown's Volume 2, Chapters 28 (Stridor), 29 (Acute Laryngeal Infections) and 30 (Congenital Disorders of the Larynx, Trachea and Bronchi)
+> [!question] Questions
+> Stridor in newborn — causes, evaluation and role of MLB. Stridor in children — causes and diphtheria management. Laryngomalacia — features, surgical management. Clinical anatomy of bronchus on bronchoscopy.
+
+**Source:** Scott-Brown's Volume 2, Chapters 28 (Stridor), 29 (Acute Laryngeal Infections) and 30 (Congenital Disorders of the Larynx, Trachea and Bronchi)
 
 ---
 

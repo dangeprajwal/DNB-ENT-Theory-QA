@@ -7,7 +7,8 @@ tags:
 
 # Sentinel Lymph Node Biopsy in Head and Neck Cancer
 
-**Question:** *"Describe sentinel lymph node biopsy — technology, technique, indications, and applications in head and neck cancer. Discuss the role of SLNB in the management of the N0 neck in oral cavity SCC."*
+> [!question] Questions
+> "Describe sentinel lymph node biopsy — technology, technique, indications, and applications in head and neck cancer. Discuss the role of SLNB in the management of the N0 neck in oral cavity SCC."
 
 **Source:** Scott-Brown's Volume 3, Chapters 18 (Metastatic Neck Disease), 26 (Pathology of Head and Neck Malignancies), 94 (Benign and Malignant Conditions of the Skin — Melanoma)
 

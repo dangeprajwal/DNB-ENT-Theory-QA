@@ -7,7 +7,8 @@ tags:
 
 # Anatomy of the Orbit
 
-**Question:** *Describe the anatomy of the orbit with diagrams.*
+> [!question] Questions
+> Describe the anatomy of the orbit with diagrams.
 
 **Source:** Scott-Brown's Otorhinolaryngology, 8th Edition - Volume 1, Chapter 111 (Disorders of the Orbit) & Chapter 87 (Anatomy of the Nose and Paranasal Sinuses)
 

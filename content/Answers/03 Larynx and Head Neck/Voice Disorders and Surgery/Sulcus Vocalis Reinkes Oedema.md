@@ -4,14 +4,14 @@ tags:
   - laryngology
   - voice
   - surgery
-description: "DNB ENT Paper 3 (Larynx & Head Neck) — Sulcus Vocalis and Reinke's Oedema. Answers based on Scott-Brown 8th Edition."
 ---
 
 # Sulcus Vocalis and Reinke's Oedema
 
-> [!question] Questions Covered
-> - Discuss the aetiology, clinical features and management of sulcus vocalis. Describe Reinke's oedema.
-*Source:** Scott-Brown's Otorhinolaryngology, 8th Edition - Volume 3, Chapter 63 (Structural Disorders of the Vocal Cords), Chapter 67 (Phonosurgery)
+> [!question] Questions
+> Discuss the aetiology, clinical features and management of sulcus vocalis. Describe Reinke's oedema.
+
+**Source:** Scott-Brown's Otorhinolaryngology, 8th Edition - Volume 3, Chapter 63 (Structural Disorders of the Vocal Cords), Chapter 67 (Phonosurgery)
 
 ---
 

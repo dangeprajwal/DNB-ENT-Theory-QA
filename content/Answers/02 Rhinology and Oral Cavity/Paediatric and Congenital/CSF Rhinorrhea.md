@@ -8,7 +8,8 @@ tags:
 
 # CSF Rhinorrhea - Comprehensive Review
 
-**Question:** *Q86 (Apr 2023): CSF rhinorrhea causes and management. Q125 (Jun 2025): BIH presenting as CSF rhinorrhea - radiology features, diagnosis and management. 2018-17: CSF rhinorrhea - causes, features, surgical management. 2014-4: Evaluate post-traumatic CSF rhinorrhoea.*
+> [!question] Questions
+> Q86 (Apr 2023): CSF rhinorrhea causes and management. Q125 (Jun 2025): BIH presenting as CSF rhinorrhea - radiology features, diagnosis and management. 2018-17: CSF rhinorrhea - causes, features, surgical management. 2014-4: Evaluate post-traumatic CSF rhinorrhoea.
 
 **Source:** Scott-Brown's Otorhinolaryngology, 8th Edition - Volume 1, Chapter 108 (CSF Leaks)
 

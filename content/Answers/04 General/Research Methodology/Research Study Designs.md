@@ -3,31 +3,43 @@ tags:
   - paper4
   - research
   - evidence-based-medicine
-description: "DNB ENT Paper 4 (General) — RESEARCH METHODOLOGY: STUDY DESIGNS AND EVIDENCE-BASED MEDICINE. Answers based on Scott-Brown 8th Edition."
 ---
 
 # RESEARCH METHODOLOGY: STUDY DESIGNS AND EVIDENCE-BASED MEDICINE
 
-## QUESTIONS ANSWERED IN THIS DOCUMENT
-
-1. **June 2021, October 2023, June 2025:** Case control study design
-2. **April 2023:** Types of research studies
-3. **May 2024:** Study design classification
-4. **December 2020, December 2022:** Randomized Controlled Trial (RCT)
-5. **December 2021, December 2022, October 2024:** Levels of evidence
-6. **October 2024:** Systematic review vs meta-analysis
-7. **December 2019, December 2022:** Evidence-based medicine
+> [!question] Questions
+> 1. **June 2021, October 2023, June 2025:** Case control study design
+> 2. **April 2023:** Types of research studies
+> 3. **May 2024:** Study design classification
+> 4. **December 2020, December 2022:** Randomized Controlled Trial (RCT)
+> 5. **December 2021, December 2022, October 2024:** Levels of evidence
+> 6. **October 2024:** Systematic review vs meta-analysis
+> 7. **December 2019, December 2022:** Evidence-based medicine
 
 ---
 
-> [!question] Questions Covered
-> - Discuss the types of research study designs, levels of evidence, and principles of evidence-based medicine.
-> - ## INTRODUCTION
-> - Clinical phase
-> - Search phase
-> - Evidence review phase
-> - ## PART A: TYPES OF RESEARCH STUDIES
-*1. Case Reports and Case Series**
+> [!question] Questions
+> Discuss the types of research study designs, levels of evidence, and principles of evidence-based medicine.
+> Source: Scott-Brown's Otorhinolaryngology Head and Neck Surgery, Volume 1, Chapters 43-44
+
+---
+
+## INTRODUCTION
+
+Evidence-based medicine (EBM) is defined as "the conscientious, explicit and judicious use of current best evidence in making decisions about the care of individual patients." The principles are now considered core in professional practice across all phases of medical training. EBM is endorsed by the World Federation of Medical Education and World Health Organization as an international characteristic of the medical profession.
+
+EBM may be described as a patient-centred cycle with three linked phases:
+- Clinical phase
+- Search phase
+- Evidence review phase
+
+---
+
+## PART A: TYPES OF RESEARCH STUDIES
+
+### Hierarchy of Study Designs
+
+**1. Case Reports and Case Series**
 - Reports of individual patients or groups of patients
 - May be retrospective or prospective (cohort studies)
 - Highly valid and authentic

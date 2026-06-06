@@ -8,7 +8,8 @@ tags:
 
 # Oro-antral Fistula
 
-**Question:** *Describe oro-antral fistula along with its surgical management.*
+> [!question] Questions
+> Describe oro-antral fistula along with its surgical management.
 
 **Source:** Scott-Brown's Otorhinolaryngology, 8th Edition - Volume 1 (Chapters 88, 94, 114) & Volume 3
 

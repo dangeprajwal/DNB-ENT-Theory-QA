@@ -8,7 +8,8 @@ tags:
 
 # Skull Base Osteomyelitis, Skull Base Syndromes, Haddad Flap and Fossa of Rosenmuller
 
-**Question:** *2015-9: Discuss skull base osteomyelitis including pathology, staging and diagnosis. 2015-20: Define skull base syndrome and enumerate its causes, features and management. 2016-7: What is the Haddad flap? Discuss its definition, indications and surgical landmarks. 2014-3: Describe the clinical significance of the fossa of Rosenmuller.*
+> [!question] Questions
+> 2015-9: Discuss skull base osteomyelitis including pathology, staging and diagnosis. 2015-20: Define skull base syndrome and enumerate its causes, features and management. 2016-7: What is the Haddad flap? Discuss its definition, indications and surgical landmarks. 2014-3: Describe the clinical significance of the fossa of Rosenmuller.
 
 **Source:** Scott-Brown's Otorhinolaryngology, 8th Edition - Volume 2, Chapters 98, 99, 107, 111, 114; Volume 1, Chapters 85, 87, 114, 116; Volume 3, Chapter 8
 

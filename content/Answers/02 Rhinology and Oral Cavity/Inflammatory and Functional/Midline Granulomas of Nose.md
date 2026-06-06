@@ -8,7 +8,8 @@ tags:
 
 # Midline Granulomas of the Nose
 
-**Question:** *Discuss the aetiology, clinical features, diagnosis, and management of midline granulomas of the nose.*
+> [!question] Questions
+> Discuss the aetiology, clinical features, diagnosis, and management of midline granulomas of the nose.
 
 **Source:** Scott-Brown's Otorhinolaryngology, 8th Edition - Volume 1, Chapter 109 (Granulomatous Conditions of the Nose)
 

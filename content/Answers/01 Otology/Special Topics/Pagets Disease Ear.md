@@ -7,9 +7,9 @@ tags:
 
 # Otological Effects of Paget's Disease
 
-**Question:** *Define Paget's disease of bone. Describe the otological effects of Paget's disease including pathophysiology, clinical features, diagnosis and management.*
-
-Source: Scott-Brown's Otorhinolaryngology, 8th Edition — Volume 2, Chapter 90
+> [!question] Questions
+> Define Paget's disease of bone. Describe the otological effects of Paget's disease including pathophysiology, clinical features, diagnosis and management.
+> Source: Scott-Brown's Otorhinolaryngology, 8th Edition — Volume 2, Chapter 90
 
 ---
 

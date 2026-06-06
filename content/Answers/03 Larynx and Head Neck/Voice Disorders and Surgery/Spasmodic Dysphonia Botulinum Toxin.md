@@ -4,14 +4,14 @@ tags:
   - laryngology
   - voice
   - surgery
-description: "DNB ENT Paper 3 (Larynx & Head Neck) — Spasmodic Dysphonia and Botulinum Toxin in ENT. Answers based on Scott-Brown 8th Edition."
 ---
 
 # Spasmodic Dysphonia and Botulinum Toxin in ENT
 
-> [!question] Questions Covered
-> - Describe various types of spasmodic dysphonia. Discuss the clinical features and management. Mention the uses of botulinum toxin in ENT.
-*Source:** Scott-Brown's Otorhinolaryngology, 8th Edition - Volume 3, Chapter 68 (Movement Disorders of the Larynx), Chapter 67 (Phonosurgery)
+> [!question] Questions
+> Describe various types of spasmodic dysphonia. Discuss the clinical features and management. Mention the uses of botulinum toxin in ENT.
+
+**Source:** Scott-Brown's Otorhinolaryngology, 8th Edition - Volume 3, Chapter 68 (Movement Disorders of the Larynx), Chapter 67 (Phonosurgery)
 
 ---
 

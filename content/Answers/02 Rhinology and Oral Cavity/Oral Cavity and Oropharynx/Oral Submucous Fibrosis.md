@@ -7,7 +7,8 @@ tags:
 
 # Oral Submucous Fibrosis
 
-**Question:** *Oral submucous fibrosis — aetiopathogenesis, medical and surgical management.*
+> [!question] Questions
+> Oral submucous fibrosis — aetiopathogenesis, medical and surgical management.
 
 **Source:** Scott-Brown's Volume 3, Chapter 2 (Aetiology of Head and Neck Cancer), Chapter 12 (Oral Cavity Tumours), Chapter 26 (Head and Neck Pathology) and Chapter 42 (Benign Diseases of the Oral Cavity)
 

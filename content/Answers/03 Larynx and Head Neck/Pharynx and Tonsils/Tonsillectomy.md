@@ -3,14 +3,14 @@ tags:
   - paper3
   - pharynx
   - paediatric
-description: "DNB ENT Paper 3 (Larynx & Head Neck) — Tonsillectomy — Indications, Techniques and Complications. Answers based on Scott-Brown 8th Edition."
 ---
 
 # Tonsillectomy — Indications, Techniques and Complications
 
-> [!question] Questions Covered
-> - Discuss the indications of tonsillectomy in light of current evidence. Describe tonsillectomy techniques with their complication rates. How would you manage secondary haemorrhage after tonsillectomy? Describe the anatomy and clinical significance of the tonsillar bed.
-*Source:** Scott-Brown's Volume 2, Chapter 38 (Diseases of Tonsils, Tonsillectomy and Tonsillotomy) and Volume 3, Chapter 51 (Pharyngitis)
+> [!question] Questions
+> Discuss the indications of tonsillectomy in light of current evidence. Describe tonsillectomy techniques with their complication rates. How would you manage secondary haemorrhage after tonsillectomy? Describe the anatomy and clinical significance of the tonsillar bed.
+
+**Source:** Scott-Brown's Volume 2, Chapter 38 (Diseases of Tonsils, Tonsillectomy and Tonsillotomy) and Volume 3, Chapter 51 (Pharyngitis)
 
 ---
 

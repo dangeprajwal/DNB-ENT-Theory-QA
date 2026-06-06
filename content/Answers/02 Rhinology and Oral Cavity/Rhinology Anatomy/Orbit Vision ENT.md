@@ -7,7 +7,8 @@ tags:
 
 # Orbit — Vision in ENT, Orbital Anatomy, Proptosis, and ESS Complications
 
-**Question:** *"Enumerate causes of vision affection in ENT practice and describe AEA retraction during [[FESS Steps Complications|FESS]]. Discuss orbital anatomy in relation to nose and PNS. Enumerate causes of proptosis. What causes sudden proptosis during ESS and how to manage?"*
+> [!question] Questions
+> "Enumerate causes of vision affection in ENT practice and describe AEA retraction during [[FESS Steps Complications|FESS]]. Discuss orbital anatomy in relation to nose and PNS. Enumerate causes of proptosis. What causes sudden proptosis during ESS and how to manage?"
 
 **Source:** Scott-Brown's Volume 1, Chapters 98 (Surgical Management of Rhinosinusitis), 111 (Disorders of the Orbit)
 

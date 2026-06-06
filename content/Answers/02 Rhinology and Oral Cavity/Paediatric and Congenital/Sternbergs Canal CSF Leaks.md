@@ -8,7 +8,8 @@ tags:
 
 # Sternberg's Canal and Spontaneous CSF Leaks
 
-**Question:** *Describe Sternberg's canal and its clinical significance in the context of spontaneous [[CSF Rhinorrhea|CSF rhinorrhoea]].*
+> [!question] Questions
+> Describe Sternberg's canal and its clinical significance in the context of spontaneous [[CSF Rhinorrhea|CSF rhinorrhoea]].
 
 **Source:** Scott-Brown's Otorhinolaryngology, 8th Edition - Volume 1, Chapters 54 (Pituitary Fossa) & 108 (CSF Leaks)
 

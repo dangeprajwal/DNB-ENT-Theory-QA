@@ -7,7 +7,8 @@ tags:
 
 # VEMP and [[Menieres Disease and Intratympanic Therapy|Meniere's Disease]]
 
-**Question:** *What is VEMP? What is its role in ENT practice? Describe clinical features, evaluation and management of Meniere's disease.*
+> [!question] Questions
+> What is VEMP? What is its role in ENT practice? Describe clinical features, evaluation and management of Meniere's disease.
 
 **Source:** Scott-Brown's Otorhinolaryngology, 8th Edition - Volume 2, Chapters 62 & 63
 

@@ -4,14 +4,14 @@ tags:
   - laryngology
   - oncology
   - surgery
-description: "DNB ENT Paper 3 (Larynx & Head Neck) — Radiotherapy in Laryngeal Cancer. Answers based on Scott-Brown 8th Edition."
 ---
 
 # [[Radiotherapy Principles Fractionation Advances|Radiotherapy]] in Laryngeal Cancer
 
-> [!question] Questions Covered
-> - Discuss the role of radiotherapy in the management of laryngeal cancer. Describe various fractionation schedules and complications.
-*Source:** Scott-Brown's Otorhinolaryngology, 8th Edition - Volume 3, Chapter 14 (Tumours of the Larynx), Chapter 19 (Principles and Practice of Radiotherapy)
+> [!question] Questions
+> Discuss the role of radiotherapy in the management of laryngeal cancer. Describe various fractionation schedules and complications.
+
+**Source:** Scott-Brown's Otorhinolaryngology, 8th Edition - Volume 3, Chapter 14 (Tumours of the Larynx), Chapter 19 (Principles and Practice of Radiotherapy)
 
 ---
 

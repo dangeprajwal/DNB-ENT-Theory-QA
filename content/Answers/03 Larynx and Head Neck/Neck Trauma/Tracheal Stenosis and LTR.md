@@ -4,14 +4,14 @@ tags:
   - head-and-neck
   - trauma
   - emergency
-description: "DNB ENT Paper 3 (Larynx & Head Neck) — Laryngotracheal Stenosis — Aetiology, Grading and Surgical Management. Answers based on Scott-Brown 8th Edition."
 ---
 
 # Laryngotracheal Stenosis — Aetiology, Grading and Surgical Management
 
-> [!question] Questions Covered
-> - Tracheal stenosis — etiology and management. Laryngotracheal reconstruction and partial cricotracheal resection.
-*Source:** Scott-Brown's Volume 3, Chapter 76 (Laryngotracheal Stenosis in Adults); Chapter 71 (Contemporary Management of Laryngotracheal Trauma)
+> [!question] Questions
+> Tracheal stenosis — etiology and management. Laryngotracheal reconstruction and partial cricotracheal resection.
+
+**Source:** Scott-Brown's Volume 3, Chapter 76 (Laryngotracheal Stenosis in Adults); Chapter 71 (Contemporary Management of Laryngotracheal Trauma)
 
 ---
 

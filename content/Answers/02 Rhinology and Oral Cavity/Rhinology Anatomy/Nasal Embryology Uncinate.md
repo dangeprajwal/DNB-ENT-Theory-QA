@@ -7,11 +7,10 @@ tags:
 
 # Embryological Development of the Nose and Pns, Surgical Anatomy of the Uncinate Process and Lateral Wall, Intraoperative CSF Leak
 
-**Questions:**
-
-- Q3 (Jun 2019): Describe the embryological development of the nose and paranasal sinuses. Discuss the surgical anatomy of the uncinate process.
-- Q81 (Apr 2023): Describe the embryological development of the nose and paranasal sinuses. Discuss the surgical anatomy of the lateral wall of the nose.
-- Q115 (Oct 2024): Describe the anatomy of the uncinate process with diagrams. Discuss recognition and management of intraoperative CSF leak during FESS.
+> [!question] Questions
+> - Q3 (Jun 2019): Describe the embryological development of the nose and paranasal sinuses. Discuss the surgical anatomy of the uncinate process.
+> - Q81 (Apr 2023): Describe the embryological development of the nose and paranasal sinuses. Discuss the surgical anatomy of the lateral wall of the nose.
+> - Q115 (Oct 2024): Describe the anatomy of the uncinate process with diagrams. Discuss recognition and management of intraoperative CSF leak during FESS.
 
 **Source:** Scott-Brown's Otorhinolaryngology, 8th Edition - Volume 1, Chapter 87 (Anatomy of the Nose and Paranasal Sinuses) & Chapter 108 (CSF Leaks)
 

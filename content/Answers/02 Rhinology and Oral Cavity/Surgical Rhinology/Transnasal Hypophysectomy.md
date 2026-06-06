@@ -8,7 +8,8 @@ tags:
 
 # Transnasal Hypophysectomy
 
-**Question:** *Describe in detail the technique of transnasal (endoscopic transsphenoidal) hypophysectomy.*
+> [!question] Questions
+> Describe in detail the technique of transnasal (endoscopic transsphenoidal) hypophysectomy.
 
 **Source:** Scott-Brown's Otorhinolaryngology, 8th Edition - Volume 1, Chapters 54 (Pituitary Fossa), 84 (Pituitary Tumours) & 85 (Recurrent Pituitary Tumours)
 

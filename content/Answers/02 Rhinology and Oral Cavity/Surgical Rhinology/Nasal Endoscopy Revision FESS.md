@@ -8,11 +8,10 @@ tags:
 
 # Diagnostic Nasal Endoscopy, FESS Ergonomics, Endoscope Care and Revision FESS
 
-**Questions:**
-
-- Q6 (Jun 2019): Describe the FESS ergonomic setup. How to upkeep nasal endoscopes.
-- Q7 (Jun 2019): Discuss the complications of revision FESS for [[CRS Nasal Polyposis Turbinate|nasal polyposis]]. What precautions and prevention measures are recommended?
-- Q83 (Apr 2023): Describe the indications and technique of diagnostic nasal endoscopy. Discuss sterilization techniques for nasal endoscopes.
+> [!question] Questions
+> - Q6 (Jun 2019): Describe the FESS ergonomic setup. How to upkeep nasal endoscopes.
+> - Q7 (Jun 2019): Discuss the complications of revision FESS for [[CRS Nasal Polyposis Turbinate|nasal polyposis]]. What precautions and prevention measures are recommended?
+> - Q83 (Apr 2023): Describe the indications and technique of diagnostic nasal endoscopy. Discuss sterilization techniques for nasal endoscopes.
 
 **Source:** Scott-Brown's Otorhinolaryngology, 8th Edition — Volume 1, Chapter 98 (FESS Outcomes); Volume 3, Chapter 66 (Endoscopic Assessment of the Larynx — Sterilization and Endoscope Care)
 

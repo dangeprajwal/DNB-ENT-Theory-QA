@@ -8,7 +8,8 @@ tags:
 
 # Intra-operative Facial Nerve Monitoring
 
-**Question:** *Discuss the indications, anaesthesia modifications, and management of surgical trauma with loss of signal in intra-operative facial nerve monitoring.*
+> [!question] Questions
+> Discuss the indications, anaesthesia modifications, and management of surgical trauma with loss of signal in intra-operative facial nerve monitoring.
 
 **Source:** Scott-Brown's Otorhinolaryngology, 8th Edition
 - Volume 1, Chapter 45 (Electrophysiology and Monitoring)

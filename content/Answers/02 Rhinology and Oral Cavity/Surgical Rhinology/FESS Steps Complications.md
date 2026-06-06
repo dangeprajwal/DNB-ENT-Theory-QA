@@ -8,7 +8,8 @@ tags:
 
 # Functional Endoscopic Sinus Surgery (FESS) - Steps and Complications
 
-**Question:** *Describe the steps and complications of FESS.*
+> [!question] Questions
+> Describe the steps and complications of FESS.
 
 **Source:** Scott-Brown's Otorhinolaryngology, 8th Edition - Volume 1, Chapter 98 (Surgical Management of Rhinosinusitis) & Chapter 87 (Anatomy of the Nose and Paranasal Sinuses)
 

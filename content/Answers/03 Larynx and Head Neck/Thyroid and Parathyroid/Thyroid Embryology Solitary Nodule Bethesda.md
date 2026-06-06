@@ -4,14 +4,14 @@ tags:
   - endocrinology
   - thyroid
   - surgery
-description: "DNB ENT Paper 3 (Larynx & Head Neck) — Thyroid Embryology and Solitary Thyroid Nodule. Answers based on Scott-Brown 8th Edition."
 ---
 
 # Thyroid Embryology and Solitary Thyroid Nodule
 
-> [!question] Questions Covered
-> - Discuss the embryology of thyroid gland. Clinical features, investigations and management of a solitary thyroid nodule. How will you manage a case of follicular neoplasm (Bethesda category III)?
-*Source:** Scott-Brown's Otorhinolaryngology, 8th Edition - Volume 1, Chapter 53 (Developmental Anatomy), Chapter 58 (Pathology), Chapter 60 (Investigation of Thyroid Disease), Chapter 61 (Benign Thyroid Disease)
+> [!question] Questions
+> Discuss the embryology of thyroid gland. Clinical features, investigations and management of a solitary thyroid nodule. How will you manage a case of follicular neoplasm (Bethesda category III)?
+
+**Source:** Scott-Brown's Otorhinolaryngology, 8th Edition - Volume 1, Chapter 53 (Developmental Anatomy), Chapter 58 (Pathology), Chapter 60 (Investigation of Thyroid Disease), Chapter 61 (Benign Thyroid Disease)
 
 ---
 

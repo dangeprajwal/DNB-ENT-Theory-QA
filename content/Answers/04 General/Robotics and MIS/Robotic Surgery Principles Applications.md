@@ -4,7 +4,6 @@ tags:
   - general
   - technology
   - surgery
-description: "DNB ENT Paper 4 (General) — Robotic Surgery — Principles and Applications in Otolaryngology. Answers based on Scott-Brown 8th Edition."
 ---
 
 # Robotic Surgery — Principles and Applications in Otolaryngology
@@ -14,11 +13,6 @@ description: "DNB ENT Paper 4 (General) — Robotic Surgery — Principles and A
 **Question 2:** *Indications and contraindications of robotic surgery in oropharyngeal cancers.*
 
 **Source:** Scott-Brown's Otorhinolaryngology, 8th Edition - Volume 3, Chapter 29 (Applications of Robotics in Head and Neck Practice)
-
-
-> [!question] Questions Covered
-> - Principles of modern robotic surgeries and application in Otolaryngology.
-> - Indications and contraindications of robotic surgery in oropharyngeal cancers.
 
 ---
 

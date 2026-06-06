@@ -7,7 +7,8 @@ tags:
 
 # Sjögren's Syndrome — Classification, Head and Neck Manifestations, Diagnosis and Treatment
 
-**Question:** *Sjögren's syndrome — classification, head and neck manifestations, investigations and treatment.*
+> [!question] Questions
+> Sjögren's syndrome — classification, head and neck manifestations, investigations and treatment.
 
 **Source:** Scott-Brown's Volume 3, Chapter 46 (Non-Neoplastic Salivary Gland Diseases)
 

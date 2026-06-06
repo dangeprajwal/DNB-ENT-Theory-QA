@@ -7,11 +7,11 @@ tags:
 
 # Nasal Valve Anatomy, Assessment and Nasal Resistance
 
-**Questions:**
-- Q32 (Dec 2020): Describe the components of the internal nasal valve and its clinical importance. Discuss the management of internal nasal valve narrowing.
-- Q91 (Oct 2023): Differentiate between internal and external nasal valve area. Define nasofrontal and nasolabial angle.
-- Q129 (Jun 2025): Write a short note on Sternberg's canal. Describe the internal nasal valve.
-- 2016-6: Define anterior nasal valve. Discuss factors affecting nasal resistance and methods for its measurement.
+> [!question] Questions
+> - Q32 (Dec 2020): Describe the components of the internal nasal valve and its clinical importance. Discuss the management of internal nasal valve narrowing.
+> - Q91 (Oct 2023): Differentiate between internal and external nasal valve area. Define nasofrontal and nasolabial angle.
+> - Q129 (Jun 2025): Write a short note on Sternberg's canal. Describe the internal nasal valve.
+> - 2016-6: Define anterior nasal valve. Discuss factors affecting nasal resistance and methods for its measurement.
 
 **Source:** Scott-Brown's Otorhinolaryngology, 8th Edition - Volume 1, Chapter 87 (Anatomy of the Nose and Paranasal Sinuses), Chapter 89 (Physiology of the Nose) & Chapter 90 (Measurement of the Nasal Airway); Volume 3, Chapter 81 (Pre-operative Assessment for Rhinoplasty) & Chapter 103 (Nasal Septum and Nasal Valve)
 

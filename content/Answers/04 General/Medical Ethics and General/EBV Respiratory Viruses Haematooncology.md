@@ -3,7 +3,6 @@ tags:
   - paper4
   - general
   - ethics
-description: "DNB ENT Paper 4 (General) — EBV in ENT, Respiratory Viruses and ENT Manifestations of Haemato-oncological.... Answers based on Scott-Brown 8th Edition."
 ---
 
 # EBV in ENT, Respiratory Viruses and ENT Manifestations of Haemato-oncological Disorders
@@ -15,12 +14,6 @@ description: "DNB ENT Paper 4 (General) — EBV in ENT, Respiratory Viruses and 
 **Question 3:** *ENT manifestation of Haemato-Oncological disorders and HIV.*
 
 **Source:** Scott-Brown's Otorhinolaryngology, 8th Edition - Volume 2, Chapter 34 (ENT Infections in Children), Chapter 36 (Paediatric Pharyngeal Disorders); Volume 3, Chapter 8 (NPC), Chapter 60 (HIV in Upper Aerodigestive Tract)
-
-
-> [!question] Questions Covered
-> - Discuss various manifestations of EBV infections in ENT and head and neck.
-> - Give brief account of viruses causing respiratory illness.
-> - ENT manifestation of Haemato-Oncological disorders and HIV.
 
 ---
 

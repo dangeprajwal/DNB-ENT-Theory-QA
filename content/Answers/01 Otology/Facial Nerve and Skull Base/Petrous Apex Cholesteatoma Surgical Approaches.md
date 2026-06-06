@@ -8,8 +8,8 @@ tags:
 
 # Petrous Apex [[Mastoid Surgery Cholesteatoma|Cholesteatoma]]: Surgical Anatomy and Approaches
 
-**Question Covered:**
-- **Q128 (May 2025):** Describe the surgical anatomy of petrous apex with suitable diagram. Discuss the clinical features of petrous apex cholesteatoma and the various surgical approaches to remove it.
+> [!question] Questions
+> - **Q128 (May 2025):** Describe the surgical anatomy of petrous apex with suitable diagram. Discuss the clinical features of petrous apex cholesteatoma and the various surgical approaches to remove it.
 
 **Source:** Scott-Brown's Otorhinolaryngology 8th Edition, Volume 2 — Chapter 46 (Anatomy of the Temporal Bone), Chapter 97 (Lateral Skull Base Surgery)
 

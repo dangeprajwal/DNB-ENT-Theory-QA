@@ -8,7 +8,8 @@ tags:
 
 # Maxillary Sinus Malignancy
 
-**Question:** *Discuss the etiopathogenesis, staging, and management of maxillary sinus malignancy in detail.*
+> [!question] Questions
+> Discuss the etiopathogenesis, staging, and management of maxillary sinus malignancy in detail.
 
 **Source:** Scott-Brown's Otorhinolaryngology, 8th Edition - Volume 3, Chapter 7 (Nasal Cavity and Paranasal Sinus Malignancy)
 

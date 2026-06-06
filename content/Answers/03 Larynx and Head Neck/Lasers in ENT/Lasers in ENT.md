@@ -4,14 +4,9 @@ tags:
   - laryngology
   - technology
   - surgery
-description: "DNB ENT Paper 3 (Larynx & Head Neck) — Lasers in ENT and Coblation Technology. Answers based on Scott-Brown 8th Edition."
 ---
 
 # Lasers in ENT and Coblation Technology
-
-> [!question] Questions Covered
-> - Q162: Types of lasers in ENT. Clinical applications and advantages (2011 Dec)
-> - Q132: Lasers in ENT — types and area of usage. Role of laser in laryngeal surgeries (2014 Dec)
 
 > **Covers Q132, Q162, 2024-117**
 > **Source: Scott-Brown's Otorhinolaryngology, 8th Edition**

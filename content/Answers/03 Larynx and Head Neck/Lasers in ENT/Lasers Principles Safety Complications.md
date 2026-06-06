@@ -4,17 +4,9 @@ tags:
   - laryngology
   - technology
   - surgery
-description: "DNB ENT Paper 3 (Larynx & Head Neck) — Laser Surgery in ENT — Principles, Classification, Safety and Complications. Answers based on Scott-Brown 8th Edition."
 ---
 
 # Laser Surgery in ENT — Principles, Classification, Safety and Complications
-
-> [!question] Questions Covered
-> - **2014:** What is LASER? Various types of LASERs used in ENT with applications. Limitations and complications of surgical LASERs.
-> - **2019:** Principle of LASERS. Describe its emerging role in ENT.
-> - **2021:** Classify LASER. Discuss principle of LASER. Discuss LASER safety measures in operation theatre.
-> - **2023:** Principles of Laser surgery. Briefly enumerate its utility in otolaryngology.
-> - **2024:** Principles and indications of LASER in ENT. Safety measures during LASER surgery. How will you manage a LASER fire?
 
 *Q14J-2 (2014): What is LASER? Various types of LASERs used in ENT with applications. Limitations and complications of surgical LASERs.*
 *Q2019-17 (2019): Principle of LASERS. Describe its emerging role in ENT.*

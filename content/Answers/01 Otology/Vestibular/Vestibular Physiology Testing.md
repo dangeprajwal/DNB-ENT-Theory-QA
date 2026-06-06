@@ -7,11 +7,11 @@ tags:
 
 # Vestibular Physiology & Testing
 
-**Questions Covered:**
-- **Q16** — Enumerate causes and contributing factors producing giddiness in geriatric patient. Evaluation of severely dizzy patient.
-- **Q30** — Discuss the physiological basis and uses of [[VEMP and Menieres Disease|VEMP]]. Discuss the differentiating points in history and clinical examination between central and peripheral vertigo.
-- **Q66** — Describe types of nystagmus, Ewald's laws and vestibular physiology.
-- **Q97** — Vestibular evoked myogenic potentials. Caloric test.
+> [!question] Questions
+> - **Q16** — Enumerate causes and contributing factors producing giddiness in geriatric patient. Evaluation of severely dizzy patient.
+> - **Q30** — Discuss the physiological basis and uses of [[VEMP and Menieres Disease|VEMP]]. Discuss the differentiating points in history and clinical examination between central and peripheral vertigo.
+> - **Q66** — Describe types of nystagmus, Ewald's laws and vestibular physiology.
+> - **Q97** — Vestibular evoked myogenic potentials. Caloric test.
 
 **Source:** Scott-Brown's Otorhinolaryngology, 8th Edition — Volume 2, Chapter 49 (Physiology of Equilibrium), Chapter 62 (Evaluation of Balance), Chapter 64 ([[BPPV|BPPV]])
 

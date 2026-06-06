@@ -8,7 +8,8 @@ tags:
 
 # Extended Endonasal Sinus Surgery: Approaches
 
-**Question:** *Describe the extended endonasal sinus surgery approaches.*
+> [!question] Questions
+> Describe the extended endonasal sinus surgery approaches.
 
 **Source:** Scott-Brown's Otorhinolaryngology, 8th Edition - Volume 1, Chapters 114 & 116
 

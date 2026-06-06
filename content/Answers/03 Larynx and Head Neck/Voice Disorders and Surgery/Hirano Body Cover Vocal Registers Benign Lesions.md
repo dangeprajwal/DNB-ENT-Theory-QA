@@ -4,14 +4,14 @@ tags:
   - laryngology
   - voice
   - surgery
-description: "DNB ENT Paper 3 (Larynx & Head Neck) — Hirano's Body-cover Theory, Vocal Registers and Benign Vocal Fold Lesions. Answers based on Scott-Brown 8th Edition."
 ---
 
 # Hirano's Body-cover Theory, Vocal Registers and Benign Vocal Fold Lesions
 
-> [!question] Questions Covered
-> - Describe the Hirano's body-cover theory of phonation. Discuss vocal registers and their clinical importance. Describe the various benign lesions of the vocal fold and management of vocal nodules.
-*Source:** Scott-Brown's Otorhinolaryngology, 8th Edition - Volume 3, Chapter 58 (Anatomy of the Larynx), Chapter 59 (Physiology of the Larynx), Chapter 63 (Structural Disorders of the Vocal Cords), Chapter 67 (Phonosurgery); Volume 2, Chapter 33 (Paediatric Voice)
+> [!question] Questions
+> Describe the Hirano's body-cover theory of phonation. Discuss vocal registers and their clinical importance. Describe the various benign lesions of the vocal fold and management of vocal nodules.
+
+**Source:** Scott-Brown's Otorhinolaryngology, 8th Edition - Volume 3, Chapter 58 (Anatomy of the Larynx), Chapter 59 (Physiology of the Larynx), Chapter 63 (Structural Disorders of the Vocal Cords), Chapter 67 (Phonosurgery); Volume 2, Chapter 33 (Paediatric Voice)
 
 ---
 

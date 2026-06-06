@@ -4,14 +4,14 @@ tags:
   - laryngology
   - oncology
   - surgery
-description: "DNB ENT Paper 3 (Larynx & Head Neck) — Induction Chemotherapy and Molecular Factors in HNSCC. Answers based on Scott-Brown 8th Edition."
 ---
 
 # Induction Chemotherapy and Molecular Factors in HNSCC
 
-> [!question] Questions Covered
-> - Discuss the role of induction chemotherapy in HNSCC. Describe various molecular factors for alteration in HNSCC.
-*Source:** Scott-Brown's Otorhinolaryngology, 8th Edition - Volume 3, Chapter 6 (Molecular Biology of Head and Neck Cancer), Chapter 24 (Principles of Chemotherapy), Chapter 30 (Biologically Targeted Agents in Head and Neck Cancers)
+> [!question] Questions
+> Discuss the role of induction chemotherapy in HNSCC. Describe various molecular factors for alteration in HNSCC.
+
+**Source:** Scott-Brown's Otorhinolaryngology, 8th Edition - Volume 3, Chapter 6 (Molecular Biology of Head and Neck Cancer), Chapter 24 (Principles of Chemotherapy), Chapter 30 (Biologically Targeted Agents in Head and Neck Cancers)
 
 ---
 

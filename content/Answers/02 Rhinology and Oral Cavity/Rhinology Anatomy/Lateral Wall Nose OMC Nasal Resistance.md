@@ -7,7 +7,8 @@ tags:
 
 # Anatomy of the Lateral Wall of the Nose, OMC and Nasal Resistance
 
-**Question:** *A) Describe the anatomy of the lateral wall of the nose. Add a note on the ostiomeatal complex (OMC). B) Discuss nasal resistance.*
+> [!question] Questions
+> A) Describe the anatomy of the lateral wall of the nose. Add a note on the ostiomeatal complex (OMC). B) Discuss nasal resistance.
 
 **Source:** Scott-Brown's Otorhinolaryngology, 8th Edition - Volume 1, Chapter 87 (Anatomy of the Nose and Paranasal Sinuses) & Chapter 90 (Measurement of the Nasal Airway)
 

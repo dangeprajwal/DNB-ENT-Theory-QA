@@ -7,7 +7,8 @@ tags:
 
 # Anatomy of the Pterygopalatine Fossa
 
-**Question:** *Describe the anatomy of the pterygopalatine fossa with diagrams.*
+> [!question] Questions
+> Describe the anatomy of the pterygopalatine fossa with diagrams.
 
 **Source:** Scott-Brown's Otorhinolaryngology, 8th Edition - Volume 2, Chapter 98 (Skull Base Anatomy) & Volume 1, Chapter 87 (Anatomy of the Nose and Paranasal Sinuses)
 

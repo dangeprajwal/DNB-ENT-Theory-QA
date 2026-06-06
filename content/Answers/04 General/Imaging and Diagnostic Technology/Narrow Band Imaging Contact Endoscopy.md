@@ -4,17 +4,9 @@ tags:
   - general
   - imaging
   - technology
-description: "DNB ENT Paper 4 (General) — Narrow Band Imaging (NBI) and Contact Endoscopy. Answers based on Scott-Brown 8th Edition."
 ---
 
 # Narrow Band Imaging (NBI) and Contact Endoscopy
-
-> [!question] Questions Covered
-> - **2019:** Describe robotics in ENT — application and scope. Narrow band imaging and its use in ENT.
-> - **2022:** Discuss the newer diagnostic modalities for early diagnosis of head & neck cancer. Describe NBI.
-> - **2022:** Discuss the principle of NBI. How it is useful in diagnosis of primary laryngeal lesions. Characteristic angiogenic features seen in a malignant mucosal lesion on NBI.
-> - **2024:** Principles of narrow band imaging. Staging of laryngeal lesions as per NBI. How is NBI different from contact endoscopy?
-> - **2024:** Narrow band imaging. Nerve monitoring in laryngeal surgery.
 
 *Q2019-20 (2019): Describe robotics in ENT — application and scope. Narrow band imaging and its use in ENT.*
 *Q2022-65 (2022): Discuss the newer diagnostic modalities for early diagnosis of head & neck cancer. Describe NBI.*

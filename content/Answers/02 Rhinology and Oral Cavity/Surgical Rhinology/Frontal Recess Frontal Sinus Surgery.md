@@ -8,7 +8,8 @@ tags:
 
 # Frontal Recess and Surgical Approaches To the Frontal Sinus
 
-**Question:** *A) Describe the anatomy of the frontal recess. B) Discuss the different surgical approaches to the frontal sinus.*
+> [!question] Questions
+> A) Describe the anatomy of the frontal recess. B) Discuss the different surgical approaches to the frontal sinus.
 
 **Source:** Scott-Brown's Otorhinolaryngology, 8th Edition - Volume 1, Chapter 99 (The Frontal Sinus) & Chapter 98 (Surgical Management of Rhinosinusitis)
 

@@ -4,14 +4,14 @@ tags:
   - head-and-neck
   - infections
   - anatomy
-description: "DNB ENT Paper 3 (Larynx & Head Neck) — Parapharyngeal Space — Anatomy, Pathology and Surgical Approaches. Answers based on Scott-Brown 8th Edition."
 ---
 
 # Parapharyngeal Space — Anatomy, Pathology and Surgical Approaches
 
-> [!question] Questions Covered
-> - Describe the surgical anatomy of the parapharyngeal space with a diagram. Discuss the surgical approaches to the parapharyngeal space. Describe the benign and malignant lesions of the parapharyngeal space.
-*Source:** Scott-Brown's Volume 3, Chapter 11 (Tumours of the Parapharyngeal Space) and Chapter 35 (Surgical Anatomy of the Neck)
+> [!question] Questions
+> Describe the surgical anatomy of the parapharyngeal space with a diagram. Discuss the surgical approaches to the parapharyngeal space. Describe the benign and malignant lesions of the parapharyngeal space.
+
+**Source:** Scott-Brown's Volume 3, Chapter 11 (Tumours of the Parapharyngeal Space) and Chapter 35 (Surgical Anatomy of the Neck)
 
 ---
 

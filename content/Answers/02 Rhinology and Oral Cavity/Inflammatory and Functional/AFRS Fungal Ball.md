@@ -8,7 +8,8 @@ tags:
 
 # AFRS and Fungal Ball
 
-**Question:** *Discuss the mycology of AFRS and the role of steroids before FESS in [[CRS Nasal Polyposis Turbinate|nasal polyposis]]. Classify fungal infections of the nose and paranasal sinuses. Describe the diagnostic criteria and management of AFRS. Define and classify allergic fungal rhinosinusitis, its clinical features and management. Discuss the pathogenesis, imaging and surgical management of fungal ball of the paranasal sinuses.*
+> [!question] Questions
+> Discuss the mycology of AFRS and the role of steroids before FESS in [[CRS Nasal Polyposis Turbinate|nasal polyposis]]. Classify fungal infections of the nose and paranasal sinuses. Describe the diagnostic criteria and management of AFRS. Define and classify allergic fungal rhinosinusitis, its clinical features and management. Discuss the pathogenesis, imaging and surgical management of fungal ball of the paranasal sinuses.
 
 **Source:** Scott-Brown's Otorhinolaryngology, 8th Edition - Volume 1, Chapter 21 (Fungal Infections) and Chapter 96 (Fungal Rhinosinusitis)
 

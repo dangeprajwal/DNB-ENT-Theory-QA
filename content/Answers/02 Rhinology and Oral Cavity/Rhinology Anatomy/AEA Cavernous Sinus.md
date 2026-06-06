@@ -7,10 +7,9 @@ tags:
 
 # Anterior Ethmoidal Artery Anatomy, Preoperative Embolization and Cavernous Sinus
 
-**Questions:**
-
-- Q114 (Oct 2024): Describe the anatomy and course of the anterior ethmoidal artery. Discuss the role of preoperative embolization in sinonasal tumours.
-- 2014-8: Describe the relations of the cavernous sinus. Discuss the applied surgical anatomy of the cavernous sinus.
+> [!question] Questions
+> - Q114 (Oct 2024): Describe the anatomy and course of the anterior ethmoidal artery. Discuss the role of preoperative embolization in sinonasal tumours.
+> - 2014-8: Describe the relations of the cavernous sinus. Discuss the applied surgical anatomy of the cavernous sinus.
 
 **Source:** Scott-Brown's Otorhinolaryngology, 8th Edition — Volume 1, Chapter 87 (Anatomy of the Nose), Chapter 106 ([[Epistaxis Management|Epistaxis]]); Volume 2, Chapter 98 (Anatomy of the Skull Base), Chapter 100 (Vascular Assessment and Management)
 

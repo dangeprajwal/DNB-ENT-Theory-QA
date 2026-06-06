@@ -7,7 +7,8 @@ tags:
 
 # Surgical Approaches to Oropharyngeal Malignancy
 
-**Question:** *Discuss the surgical approaches to oropharyngeal malignancy. Describe mandibular swing osteotomy. Discuss transmandibular and mandible-sparing approaches for oropharyngeal malignancy.*
+> [!question] Questions
+> Discuss the surgical approaches to oropharyngeal malignancy. Describe mandibular swing osteotomy. Discuss transmandibular and mandible-sparing approaches for oropharyngeal malignancy.
 
 **Source:** Scott-Brown's Volume 3, Chapter 12 (Oral Cavity Tumours — Surgical Access) and Chapter 13 (Oropharyngeal Tumours — Transoral Surgery)
 

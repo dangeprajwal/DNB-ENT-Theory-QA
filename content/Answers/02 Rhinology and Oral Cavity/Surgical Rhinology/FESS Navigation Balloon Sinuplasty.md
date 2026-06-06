@@ -8,12 +8,11 @@ tags:
 
 # Image-guided Navigation in FESS, Balloon Sinuplasty and CT Evaluation
 
-**Questions:**
-
-- Q28 (Jun 2020): Discuss the role of preoperative CT in FESS. Describe the navigation system in FESS.
-- Q95 (Oct 2023): Discuss the role of navigation and balloon sinuplasty in CRS.
-- Q109 (May 2024): Describe the principles, types and indications of navigation surgery in FESS and skull base.
-- 2015-19: Discuss the indications of stereotactic navigation in FESS. Enumerate MIER surgical strategies.
+> [!question] Questions
+> - Q28 (Jun 2020): Discuss the role of preoperative CT in FESS. Describe the navigation system in FESS.
+> - Q95 (Oct 2023): Discuss the role of navigation and balloon sinuplasty in CRS.
+> - Q109 (May 2024): Describe the principles, types and indications of navigation surgery in FESS and skull base.
+> - 2015-19: Discuss the indications of stereotactic navigation in FESS. Enumerate MIER surgical strategies.
 
 **Source:** Scott-Brown's Otorhinolaryngology, 8th Edition — Volume 1, Chapter 48 (Image-Guided Surgery, 3D Planning and Reconstruction), Chapter 98 (FESS Outcomes), Chapter 99 (The [[Frontal Recess Frontal Sinus Surgery|Frontal Sinus]])
 

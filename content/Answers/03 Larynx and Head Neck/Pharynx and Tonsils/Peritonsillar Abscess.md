@@ -3,14 +3,14 @@ tags:
   - paper3
   - pharynx
   - paediatric
-description: "DNB ENT Paper 3 (Larynx & Head Neck) — Peritonsillar Abscess (Quinsy). Answers based on Scott-Brown 8th Edition."
 ---
 
 # Peritonsillar Abscess (Quinsy)
 
-> [!question] Questions Covered
-> - Define quinsy. Discuss the clinical features, management and complications of peritonsillar abscess.
-*Source:** Scott-Brown's Volume 2, Chapter 38 (Diseases of Tonsils, [[Tonsillectomy|Tonsillectomy]] and Tonsillotomy) and Volume 3, Chapter 51 (Pharyngitis)
+> [!question] Questions
+> Define quinsy. Discuss the clinical features, management and complications of peritonsillar abscess.
+
+**Source:** Scott-Brown's Volume 2, Chapter 38 (Diseases of Tonsils, [[Tonsillectomy|Tonsillectomy]] and Tonsillotomy) and Volume 3, Chapter 51 (Pharyngitis)
 
 ---
 

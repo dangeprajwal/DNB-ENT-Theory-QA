@@ -12,8 +12,8 @@ tags:
 
 **Source:** Scott-Brown's Otorhinolaryngology, Head & Neck Surgery, 8th Edition, Volume 2 — Chapter 13 (Otitis Media with Effusion), Chapter 83 (Chronic Otitis Media)
 
-**Question Covered:**
-- **Q69 (DNB 2023):** Define Otitis media with effusion and etiology. Describe the pathophysiology of OME and its sequelae.
+> [!question] Questions
+> - **Q69 (DNB 2023):** Define Otitis media with effusion and etiology. Describe the pathophysiology of OME and its sequelae.
 
 ---
 

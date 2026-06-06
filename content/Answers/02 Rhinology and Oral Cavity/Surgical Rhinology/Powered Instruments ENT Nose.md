@@ -8,7 +8,8 @@ tags:
 
 # Powered Instruments in ENT (nose)
 
-**Question:** *Discuss the various powered instruments used in rhinological surgery, their applications and complications.*
+> [!question] Questions
+> Discuss the various powered instruments used in rhinological surgery, their applications and complications.
 
 **Source:** Scott-Brown's Otorhinolaryngology, 8th Edition - Volume 1, Chapter 98 (Surgical Management of Rhinosinusitis), Chapter 105 (Management of Enlarged Turbinates), Chapter 99 (The [[Frontal Recess Frontal Sinus Surgery|Frontal Sinus]]), Chapter 108 ([[CSF Rhinorrhea|CSF Leak]]s) & Chapter 42 (Image-Guided Surgery)
 

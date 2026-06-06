@@ -3,7 +3,6 @@ tags:
   - paper4
   - skull-base
   - vascular
-description: "DNB ENT Paper 4 (General) — Milan System for Salivary Gland Cytopathology and Botulinum Toxin in Ageing Face. Answers based on Scott-Brown 8th Edition."
 ---
 
 # Milan System for Salivary Gland Cytopathology and Botulinum Toxin in Ageing Face
@@ -13,11 +12,6 @@ description: "DNB ENT Paper 4 (General) — Milan System for Salivary Gland Cyto
 **Question 2:** *Facial reanimation surgery. Use of botulinum toxin in treatment of ageing face.*
 
 **Source:** Scott-Brown's Otorhinolaryngology, 8th Edition - Volume 3, Chapter 51 (Salivary Gland Surgery), Chapter 89 (Non-Surgical Rejuvenation of the Ageing Face), Chapter 95 (Facial Reanimation)
-
-
-> [!question] Questions Covered
-> - Describe Milan system for reporting salivary gland cytopathology. Surgical landmarks for facial nerve during parotid surgery.
-> - Facial reanimation surgery. Use of botulinum toxin in treatment of ageing face.
 
 ---
 

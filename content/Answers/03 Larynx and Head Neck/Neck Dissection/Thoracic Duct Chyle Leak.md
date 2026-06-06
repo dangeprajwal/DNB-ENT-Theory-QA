@@ -4,14 +4,14 @@ tags:
   - head-and-neck
   - surgery
   - oncology
-description: "DNB ENT Paper 3 (Larynx & Head Neck) — Thoracic Duct Anatomy and Chyle Leak Management. Answers based on Scott-Brown 8th Edition."
 ---
 
 # Thoracic Duct Anatomy and Chyle Leak Management
 
-> [!question] Questions Covered
-> - Describe the anatomy of the thoracic duct. Discuss the management of chyle leak after modified radical [[Neck Dissection|neck dissection]].
-*Source:** Scott-Brown's Volume 3, Chapter 33 (Nutritional Considerations); Chapter 35 (Surgical Anatomy of the Neck); Chapter 47 (Anatomy of the Pharynx and Oesophagus)
+> [!question] Questions
+> Describe the anatomy of the thoracic duct. Discuss the management of chyle leak after modified radical [[Neck Dissection|neck dissection]].
+
+**Source:** Scott-Brown's Volume 3, Chapter 33 (Nutritional Considerations); Chapter 35 (Surgical Anatomy of the Neck); Chapter 47 (Anatomy of the Pharynx and Oesophagus)
 
 ---
 

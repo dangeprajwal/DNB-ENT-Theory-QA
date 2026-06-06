@@ -8,7 +8,8 @@ tags:
 
 # Oto-endoscopy and Management of Active Squamous Chronic Otitis Media
 
-**Question:** *Write a brief note on oto-endoscopy. What are the advantages and disadvantages of it? Describe the management of active squamous chronic otitis media.*
+> [!question] Questions
+> Write a brief note on oto-endoscopy. What are the advantages and disadvantages of it? Describe the management of active squamous chronic otitis media.
 
 **Source:** Scott-Brown's Otorhinolaryngology, Volume 2 – Chapter 87: Otoendoscopy (Bowdler, Leong & Pothier); Chapter 83: Chronic Otitis Media (Browning)
 

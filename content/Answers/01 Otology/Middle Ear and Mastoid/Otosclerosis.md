@@ -8,9 +8,8 @@ tags:
 
 # Otosclerosis
 
-## QUESTIONS ANSWERED IN THIS DOCUMENT
-
-1. **December 2019:** Histopathology and genetic basis of otosclerosis; Clinical, audiological and radiological diagnosis; Surgical challenges in [[Stapes Surgery|stapes surgery]]
+> [!question] Questions
+> 1. **December 2019:** Histopathology and genetic basis of otosclerosis; Clinical, audiological and radiological diagnosis; Surgical challenges in [[Stapes Surgery|stapes surgery]]
 
 2. **June 2022:** Clinical features, diagnostic tests, pathophysiology, and management of otosclerosis
 
@@ -18,9 +17,9 @@ tags:
 
 ---
 
-**Question:** *Discuss the etiopathogenesis, histopathology, genetics, clinical features, diagnosis (clinical, audiological and radiological), and management of otosclerosis including surgical challenges and far advanced otosclerosis.*
-
-Source: Scott-Brown's Otorhinolaryngology Head and Neck Surgery, Volume 2, Chapter 89
+> [!question] Questions
+> Discuss the etiopathogenesis, histopathology, genetics, clinical features, diagnosis (clinical, audiological and radiological), and management of otosclerosis including surgical challenges and far advanced otosclerosis.
+> Source: Scott-Brown's Otorhinolaryngology Head and Neck Surgery, Volume 2, Chapter 89
 
 ---
 

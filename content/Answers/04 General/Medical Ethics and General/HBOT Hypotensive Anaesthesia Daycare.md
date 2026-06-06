@@ -3,7 +3,6 @@ tags:
   - paper4
   - general
   - ethics
-description: "DNB ENT Paper 4 (General) — Hyperbaric Oxygen Therapy, Hypotensive Anaesthesia and Day Care Surgery in ENT. Answers based on Scott-Brown 8th Edition."
 ---
 
 # Hyperbaric Oxygen Therapy, Hypotensive Anaesthesia and Day Care Surgery in ENT
@@ -19,14 +18,6 @@ description: "DNB ENT Paper 4 (General) — Hyperbaric Oxygen Therapy, Hypotensi
 **Question 5:** *Discuss the principles of safe day care surgery in ENT.*
 
 **Source:** Scott-Brown's Otorhinolaryngology, 8th Edition - Volume 1, Chapter 7 ([[Radiotherapy Principles Fractionation Advances|Radiotherapy]]), Chapter 32 (Adult Anaesthesia); Volume 3, Chapter 8 (NPC), Chapter 31 (Prosthetic Management)
-
-
-> [!question] Questions Covered
-> - What is HBOT? Role in ENT practice, mechanism, complications.
-> - Mechanism of HBOT & its indications in ENT.
-> - What is hyperbaric oxygen? Describe its use in ENT practice.
-> - What is "Hypotensive Anaesthesia"? Methods, role in ENT practice, complications.
-> - Discuss the principles of safe day care surgery in ENT.
 
 ---
 

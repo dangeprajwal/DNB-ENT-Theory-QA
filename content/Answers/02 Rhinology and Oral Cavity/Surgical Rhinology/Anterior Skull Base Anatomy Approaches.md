@@ -8,7 +8,8 @@ tags:
 
 # Anterior Skull Base: Anatomy, Approaches, Ess Complications and Management
 
-**Question:** *Q11: Anterior skull base anatomy. ESS complications. [[CSF Rhinorrhea|CSF leak]] and orbital hematoma management. Q65: Surgical approaches to anterior and middle skull base. ITF approach steps. Q99: Type 3 MRND. Approaches to anterior skull base. Q112: Approaches to anterior skull base lesions.*
+> [!question] Questions
+> Q11: Anterior skull base anatomy. ESS complications. [[CSF Rhinorrhea|CSF leak]] and orbital hematoma management. Q65: Surgical approaches to anterior and middle skull base. ITF approach steps. Q99: Type 3 MRND. Approaches to anterior skull base. Q112: Approaches to anterior skull base lesions.
 
 **Source:** Scott-Brown's Otorhinolaryngology, 8th Edition - Volume 2, Chapter 98 (Anatomy of the Skull Base and Infratemporal Fossa); Volume 1, Chapters 114 (Endoscopic Management of Sinonasal Tumours) & 116 (Extended Anterior Skull Base Approaches); Volume 3, Chapter 7 (Nasal Cavity and Paranasal Sinus Malignancy)
 

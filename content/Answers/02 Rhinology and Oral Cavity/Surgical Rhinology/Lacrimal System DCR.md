@@ -8,7 +8,8 @@ tags:
 
 # Lacrimal System — Physiology, Endoscopic DCR, and Lacrimal Sump
 
-**Question:** *"Describe the physiology of lacrimation and preoperative evaluation for endoscopic DCR. Discuss the lacrimal system physiology, endonasal DCR technique with advantages/disadvantages, and lacrimal sump syndrome. Describe endoscopic DCR indications, advantages, and complications."*
+> [!question] Questions
+> "Describe the physiology of lacrimation and preoperative evaluation for endoscopic DCR. Discuss the lacrimal system physiology, endonasal DCR technique with advantages/disadvantages, and lacrimal sump syndrome. Describe endoscopic DCR indications, advantages, and complications."
 
 **Source:** Scott-Brown's Volume 1, Chapter 111 (Disorders of the Orbit)
 

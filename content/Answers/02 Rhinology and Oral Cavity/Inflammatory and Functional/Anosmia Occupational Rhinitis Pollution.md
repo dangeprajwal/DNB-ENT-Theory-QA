@@ -8,7 +8,8 @@ tags:
 
 # Anosmia and Effects of Pollution On the Respiratory Tract
 
-**Question:** *Discuss the classification, causes, evaluation, and management of anosmia. Describe the effects of air pollution and occupational exposure on the nose and respiratory tract.*
+> [!question] Questions
+> Discuss the classification, causes, evaluation, and management of anosmia. Describe the effects of air pollution and occupational exposure on the nose and respiratory tract.
 
 **Source:** Scott-Brown's Otorhinolaryngology, 8th Edition - Volume 1, Chapter 110 (Abnormalities of Smell) & Chapter 93 (Occupational Rhinitis)
 

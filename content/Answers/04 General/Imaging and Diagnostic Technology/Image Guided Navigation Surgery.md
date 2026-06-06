@@ -4,17 +4,9 @@ tags:
   - general
   - imaging
   - technology
-description: "DNB ENT Paper 4 (General) — Image-Guided Surgery and Navigation Systems in ENT. Answers based on Scott-Brown 8th Edition."
 ---
 
 # Image-Guided Surgery and Navigation Systems in ENT
-
-> [!question] Questions Covered
-> - **2014:** What are the principles, applications and advantages of image guided surgery in Head and Neck?
-> - **2018:** Navigation system and its role in ENT practice.
-> - **2021:** Describe various computer navigation technologies. Indications, radiology protocol and limitations of navigation for nose and PNS surgery.
-> - **2022:** Discuss the principle and clinical application of image guided surgery in head & neck.
-> - **2023:** Navigation technologies. Indications, radiology protocol and limitations for nose and PNS surgery.
 
 *Q14D-7 (2014): What are the principles, applications and advantages of image guided surgery in Head and Neck?*
 *Q18D-7 (2018): Navigation system and its role in ENT practice.*

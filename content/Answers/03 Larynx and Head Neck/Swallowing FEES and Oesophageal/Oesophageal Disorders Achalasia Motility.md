@@ -4,14 +4,14 @@ tags:
   - laryngology
   - swallowing
   - oesophageal
-description: "DNB ENT Paper 3 (Larynx & Head Neck) — Oesophageal Disorders — Achalasia, Motility Disorders and Oesophageal Diseases. Answers based on Scott-Brown 8th Edition."
 ---
 
 # Oesophageal Disorders — Achalasia, Motility Disorders and Oesophageal Diseases
 
-> [!question] Questions Covered
-> - Discuss achalasia cardia — aetiology, clinical features, investigation and management. Describe oesophageal motility disorders. Discuss Barrett's oesophagus, caustic stricture and oesophageal carcinoma. Describe the classification, investigation and management of oesophageal perforation.
-*Source:** Scott-Brown's Otorhinolaryngology, 8th Edition - Volume 3, Chapter 53 (Oesophageal Diseases)
+> [!question] Questions
+> Discuss achalasia cardia — aetiology, clinical features, investigation and management. Describe oesophageal motility disorders. Discuss Barrett's oesophagus, caustic stricture and oesophageal carcinoma. Describe the classification, investigation and management of oesophageal perforation.
+
+**Source:** Scott-Brown's Otorhinolaryngology, 8th Edition - Volume 3, Chapter 53 (Oesophageal Diseases)
 
 ---
 
