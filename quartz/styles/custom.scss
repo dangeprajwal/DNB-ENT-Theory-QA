@@ -443,91 +443,58 @@ img {
 }
 
 // ══════════════════════════════════════════════════════════════════
-// 8. FLOATING SIDEBAR DRAWERS (desktop ≥ 1200 px only)
+// 8. COLLAPSIBLE SIDEBARS (desktop ≥ 1200 px only)
 //
-// Strategy: keep the original Quartz grid (320px auto 320px) untouched.
-// Sidebars are position:fixed so they float/overlay the content.
-// No grid override = no layout collapse.
+// Strategy: sidebars stay IN the Quartz grid (position: sticky).
+// JS animates grid-template-columns to 0px/44px when collapsed.
+// Sidebar content fades out; overflow:hidden clips the drawer.
+// This avoids ANY grid sizing circular dependencies.
 // ══════════════════════════════════════════════════════════════════
 
 @media (min-width: 1200px) {
 
-  // ── Backdrop overlay (dims content when a sidebar is open) ───────
-  .sb-backdrop {
-    position: fixed;
-    inset: 0;
-    z-index: 499;
-    background: rgba(0, 0, 0, 0.25);
-    opacity: 0;
-    pointer-events: none;
-    transition: opacity 0.32s ease;
-
-    &.active {
-      opacity: 1;
-      pointer-events: auto;
-    }
+  // Animate the grid column widths smoothly
+  #quartz-body {
+    transition: grid-template-columns 0.32s ease;
   }
 
-  // ── LEFT sidebar: floating drawer from left ───────────────────────
+  // ── LEFT sidebar: clips to 0 when collapsed ───────────────────────
   .sidebar.left {
-    position: fixed !important;
-    left: 0;
-    top: 0;
-    width: 320px;
-    height: 100vh;
-    padding: 6rem 2rem 2rem 2rem;
-    z-index: 500;
-    overflow-y: auto;
-    overflow-x: hidden;
-
-    background: var(--light);
-    box-shadow: 6px 0 24px rgba(0, 0, 0, 0.13);
-    border-right: none;
-
-    transform: translateX(0);
-    transition: transform 0.32s cubic-bezier(0.4, 0, 0.2, 1),
-                box-shadow 0.32s ease;
+    overflow: hidden;
 
     &.sb-collapsed {
-      transform: translateX(-100%);
-      box-shadow: none;
+      border-right: none !important;
+      padding: 0 !important;
     }
 
-    & > * { opacity: 1; pointer-events: auto; }
+    & > * {
+      transition: opacity 0.18s ease;
+    }
+    &.sb-collapsed > * {
+      opacity: 0;
+      pointer-events: none;
+    }
   }
 
-  // ── RIGHT sidebar: floating drawer from right ─────────────────────
+  // ── RIGHT sidebar: collapses to 44 px (chevron stays visible) ─────
   .sidebar.right {
-    position: fixed !important;
-    right: 0;
-    top: 0;
-    width: 320px;
-    height: 100vh;
-    padding: 6rem 1.5rem 2rem 1.5rem;
-    z-index: 500;
-    overflow-y: auto;
-    overflow-x: hidden;
-
-    background: var(--light);
-    box-shadow: -6px 0 24px rgba(0, 0, 0, 0.13);
-    border-left: none;
-
-    transform: translateX(0);
-    transition: transform 0.32s cubic-bezier(0.4, 0, 0.2, 1),
-                box-shadow 0.32s ease;
+    overflow: hidden;
 
     &.sb-collapsed {
-      transform: translateX(100%);
-      box-shadow: none;
+      padding-left:  4px !important;
+      padding-right: 4px !important;
     }
 
     & > *:not(.sb-right-chevron) {
-      opacity: 1;
-      pointer-events: auto;
+      transition: opacity 0.18s ease;
+    }
+    &.sb-collapsed > *:not(.sb-right-chevron) {
+      opacity: 0;
+      pointer-events: none;
     }
   }
 
-  // ── Hamburger button (fixed, top-left) ────────────────────────────
+  // ── Hamburger button (fixed, top-left of viewport) ────────────────
   .sb-hamburger {
     position: fixed;
     top: 1.4rem;
@@ -544,54 +511,75 @@ img {
     border-radius: 8px;
     cursor: pointer;
     color: var(--darkgray);
-    box-shadow: 0 1px 4px rgba(0,0,0,0.08);
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.08);
     transition: background 0.15s ease, color 0.15s ease, box-shadow 0.15s ease;
 
     &:hover {
       background: var(--lightgray);
       color: var(--secondary);
-      box-shadow: 0 2px 8px rgba(0,0,0,0.12);
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.12);
     }
-    &:active  { background: var(--gray); }
+    &:active { background: var(--gray); }
     &:focus-visible {
       outline: 2px solid var(--secondary);
       outline-offset: 2px;
     }
+
+    // Prevent FOUC — CSS hides on mobile; JS also hides on resize
+    @media (max-width: 1199px) { display: none !important; }
   }
 
-  // ── Right sidebar tab (fixed pill at right viewport edge) ─────────
+  // ── Right sidebar chevron (lives inside the right sidebar) ─────────
   .sb-right-chevron {
-    position: fixed !important;
-    right: 0;
-    top: 50vh;
-    transform: translateY(-50%);
-    z-index: 9999;
-    width: 22px;
-    height: 52px;
-    padding: 0;
-    margin: 0;
+    flex-shrink: 0;
+    align-self: flex-start;
+    width: 30px;
+    height: 30px;
     display: flex;
     align-items: center;
     justify-content: center;
-    background: var(--light);
-    border: 1px solid var(--lightgray);
-    border-right: none;
-    border-radius: 6px 0 0 6px;
+    background: transparent;
+    border: none;
+    border-radius: 6px;
     cursor: pointer;
     color: var(--gray);
-    font-size: 13px;
-    line-height: 1;
-    box-shadow: -2px 0 8px rgba(0,0,0,0.08);
-    transition: background 0.15s ease, color 0.15s ease,
-                right 0.32s cubic-bezier(0.4, 0, 0.2, 1);
+    font-size: 1.1rem;
+    margin-bottom: 0.5rem;
+    transition: background 0.15s ease, color 0.15s ease;
 
     &:hover {
-      background: var(--secondary);
-      color: var(--light);
-      border-color: var(--secondary);
+      background: color-mix(in srgb, var(--secondary) 10%, transparent);
+      color: var(--secondary);
     }
 
-    body.sb-right-open & { right: 320px; }
+    // When right sidebar is collapsed, chevron centres vertically
+    .sb-collapsed & {
+      align-self: center;
+      margin-top: 5rem;
+      margin-bottom: 0;
+    }
+  }
+
+  // ── Content centering hooks ────────────────────────────────────────
+  // When the left sidebar collapses, the auto column widens but the
+  // article shouldn't stretch to full width. Centre and cap it.
+  body.sb-left-hidden #quartz-body .center article,
+  body.sb-left-hidden #quartz-body .center .page-header {
+    max-width: 860px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    box-sizing: border-box;
+    transition: max-width 0.32s ease, margin 0.32s ease;
+  }
+
+  // Both sidebars hidden → fully centred
+  body.sb-left-hidden.sb-right-hidden #quartz-body .center article,
+  body.sb-left-hidden.sb-right-hidden #quartz-body .center .page-header {
+    max-width: 800px;
+    padding-left: 1rem;
+    padding-right: 1rem;
   }
 
 } // end @media desktop
