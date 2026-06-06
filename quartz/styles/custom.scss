@@ -1,51 +1,203 @@
 @use "./base.scss";
 
-// ============================================================
-// DNB ENT Theory Q&A — Custom Styles
-// ============================================================
+// ══════════════════════════════════════════════════════════════════
+//  DNB ENT Theory Q&A — Design System
+//  Ported from MCh Apple-Inspired Design · Teal medical palette
+// ══════════════════════════════════════════════════════════════════
 
-// ------------------------------------------------------------
-// 0. SIDEBAR — clean styling, Explorer restored
-// ------------------------------------------------------------
-
-// Left sidebar: shadow on the inner edge (replaces flat border)
-.sidebar.left {
-  border-right: none;
+// ── OpenType features for Inter ───────────────────────────────────
+:root {
+  font-feature-settings: "liga" 1, "kern" 1, "calt" 1;
 }
 
-// Right sidebar: shadow on the inner edge
+// ── Headings: tight tracking + bold weight ────────────────────────
+h1, h2, h3, h4, h5, h6 {
+  letter-spacing: -0.025em;
+  font-weight: 700;
+  line-height: 1.15;
+}
+
+.article-title h1,
+.page article > h1:first-of-type {
+  font-size: 2.4rem !important;
+  font-weight: 700 !important;
+  letter-spacing: -0.035em !important;
+  line-height: 1.06 !important;
+}
+
+article h2 {
+  font-size: 1.65rem;
+  font-weight: 700;
+  letter-spacing: -0.028em;
+  margin-top: 2.2rem;
+  margin-bottom: 0.4em;
+}
+
+article h3 {
+  font-size: 1.25rem;
+  font-weight: 600;
+  letter-spacing: -0.02em;
+  margin-top: 1.5em;
+  margin-bottom: 0.3em;
+}
+
+article h4, article h5, article h6 {
+  font-size: 1.05rem;
+  font-weight: 600;
+  letter-spacing: -0.01em;
+}
+
+// ── Body text ─────────────────────────────────────────────────────
+article p, article li {
+  line-height: 1.78;
+}
+
+// ── Strong: dark tone ─────────────────────────────────────────────
+article strong {
+  color: var(--dark);
+  font-weight: 600;
+}
+
+// ── Sidebar: clean separator border ──────────────────────────────
+.sidebar {
+  background-color: var(--light);
+}
+
+.sidebar.left {
+  border-right: 1px solid var(--lightgray);
+}
+
 .sidebar.right {
-  border-left: none;
+  border-left: 1px solid var(--lightgray);
+}
 
-  .toc {
-    font-size: 0.82rem;
-    line-height: 1.5;
+// Mobile: frosted glass when sidebar overlays content
+@media (max-width: 800px) {
+  .sidebar.left {
+    backdrop-filter: saturate(180%) blur(20px);
+    -webkit-backdrop-filter: saturate(180%) blur(20px);
+    background-color: color-mix(in srgb, var(--light) 84%, transparent);
+    border-right: none;
+    border-bottom: 1px solid var(--lightgray);
+  }
+}
 
-    .toc-title {
-      font-size: 0.7rem;
-      font-weight: 700;
+// ── Page title in sidebar ─────────────────────────────────────────
+.page-title {
+  font-size: 1.3rem !important;
+  font-weight: 700 !important;
+  letter-spacing: -0.03em !important;
+  color: var(--dark) !important;
+}
+
+// ── Internal links: clean underline, no background pill ───────────
+a.internal:not(.tag-link) {
+  background-color: transparent !important;
+  padding: 0 !important;
+  border-radius: 0 !important;
+  color: var(--secondary) !important;
+  text-decoration: none;
+  border-bottom: 1px solid color-mix(in srgb, var(--secondary) 32%, transparent);
+  line-height: inherit;
+  transition: border-bottom-color 0.18s ease;
+
+  &:hover {
+    border-bottom-color: var(--secondary);
+    color: var(--secondary) !important;
+  }
+}
+
+// Tag links: pill style
+a.internal.tag-link {
+  background-color: color-mix(in srgb, var(--secondary) 10%, transparent) !important;
+  color: var(--secondary) !important;
+  border-radius: 20px !important;
+  padding: 0.1rem 0.6rem !important;
+  font-size: 0.8rem !important;
+  font-weight: 500 !important;
+  border-bottom: none !important;
+  transition: background-color 0.18s ease !important;
+
+  &:hover {
+    background-color: color-mix(in srgb, var(--secondary) 20%, transparent) !important;
+  }
+
+  &::before { content: "#"; }
+}
+
+// ── Breadcrumbs ───────────────────────────────────────────────────
+.breadcrumb-container {
+  font-size: 0.82rem;
+  color: var(--gray);
+
+  a {
+    background-color: transparent !important;
+    border-bottom: none !important;
+    color: var(--gray) !important;
+    font-weight: 400 !important;
+    padding: 0 !important;
+
+    &:hover { color: var(--secondary) !important; }
+  }
+}
+
+// ── Content meta ──────────────────────────────────────────────────
+.content-meta {
+  font-size: 0.8rem !important;
+  color: var(--gray) !important;
+  letter-spacing: 0.01em;
+
+  p { color: var(--gray) !important; }
+}
+
+// ── Tables: card style ────────────────────────────────────────────
+.table-container {
+  border-radius: 14px;
+  overflow: hidden;
+  border: 1px solid var(--lightgray);
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.05);
+  margin: 1.6rem 0;
+
+  > table {
+    margin: 0 !important;
+    padding: 0 !important;
+    border-collapse: collapse;
+
+    th {
+      background-color: var(--lightgray);
+      font-size: 0.76rem;
+      font-weight: 600;
+      letter-spacing: 0.06em;
       text-transform: uppercase;
-      letter-spacing: 0.08em;
       color: var(--gray);
-      margin-bottom: 0.6rem;
+      padding: 0.65rem 1rem;
+      border-bottom: 1px solid color-mix(in srgb, var(--gray) 15%, transparent);
     }
 
-    li a {
-      color: var(--darkgray);
-      &:hover {
-        color: var(--secondary);
-      }
+    td {
+      padding: 0.5rem 1rem;
+      font-size: 0.94rem;
+    }
+
+    tr:nth-child(even) {
+      background-color: color-mix(in srgb, var(--lightgray) 55%, transparent);
+    }
+
+    tr:not(:last-child) {
+      border-bottom: 1px solid var(--lightgray);
+    }
+
+    tr:hover {
+      background-color: color-mix(in srgb, var(--secondary) 5%, transparent);
+      transition: background-color 0.12s ease;
     }
   }
 }
 
-// ------------------------------------------------------------
-// 1. Mobile table: horizontal scroll so tables don't overflow
-// ------------------------------------------------------------
+// Mobile: horizontal scroll so tables don't overflow
 @media (max-width: 800px) {
   .center .page-header,
   .center article {
-    // Tables
     table {
       display: block;
       width: 100%;
@@ -54,7 +206,6 @@
       border-collapse: collapse;
     }
 
-    // Slightly smaller font on mobile so tables breathe
     table td,
     table th {
       font-size: 0.88em;
@@ -63,84 +214,237 @@
   }
 }
 
-// ------------------------------------------------------------
-// 2. Reading experience — comfortable line length on desktop
-// ------------------------------------------------------------
-@media (min-width: 1200px) {
-  article > p,
-  article > ul,
-  article > ol,
-  article > blockquote {
-    max-width: 72ch;
-  }
-}
-
-// ------------------------------------------------------------
-// 3. Body text: slightly looser line-height for readability
-// ------------------------------------------------------------
-article p,
-article li {
-  line-height: 1.75;
-}
-
-// ------------------------------------------------------------
-// 4. Callout boxes (Key Points / Clinical Pearls) — subtle tweak
-//    Quartz uses .callout for > [!abstract] etc.
-// ------------------------------------------------------------
+// ── Callouts: card style ──────────────────────────────────────────
 .callout {
-  border-radius: 6px;
-  padding: 14px 16px;
+  border-radius: 14px !important;
+  border-width: 1px !important;
+  padding: 0.05rem 1.1rem !important;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
   margin: 1.2em 0;
-
-  .callout-title {
-    font-weight: 700;
-    font-size: 0.95em;
-    letter-spacing: 0.02em;
-  }
-
-  .callout-content {
-    margin-top: 6px;
-
-    p {
-      margin: 4px 0;
-    }
-  }
 }
 
-// ------------------------------------------------------------
-// 5. Headings — tighter spacing so long-form answers feel clean
-// ------------------------------------------------------------
-article h2 {
-  margin-top: 2em;
-  margin-bottom: 0.4em;
+.callout-title {
+  font-weight: 600;
+  font-size: 0.88rem;
+  letter-spacing: 0.01em;
+  padding: 0.75rem 0;
 }
 
-article h3 {
-  margin-top: 1.5em;
-  margin-bottom: 0.3em;
+.callout-content {
+  margin-top: 6px;
+
+  p { margin: 4px 0; }
 }
 
-// ------------------------------------------------------------
-// 6. Code / inline code — keep it compact
-// ------------------------------------------------------------
-code {
-  font-size: 0.87em;
-  padding: 2px 5px;
-  border-radius: 3px;
+// ── Blockquote (non-callout) ──────────────────────────────────────
+blockquote:not(.callout) {
+  border-left: 2px solid var(--secondary);
+  background-color: color-mix(in srgb, var(--secondary) 5%, transparent);
+  padding: 0.85rem 1.2rem;
+  border-radius: 0 10px 10px 0;
+  margin: 1.2rem 0;
+
+  > p:only-child { margin: 0; }
 }
 
-// ------------------------------------------------------------
-// 7. Mobile: increase base font size for easier reading
-// ------------------------------------------------------------
+// ── Code blocks ───────────────────────────────────────────────────
+pre {
+  border-radius: 12px !important;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.06);
+}
+
+code:not(pre > code) {
+  border-radius: 6px;
+  font-size: 0.86em;
+  padding: 0.15rem 0.35rem;
+}
+
+// Mobile: slightly larger base font for readability
 @media (max-width: 800px) {
   article {
     font-size: 1.05rem;
   }
 }
 
-// ============================================================
+// ── HR: gradient fade ─────────────────────────────────────────────
+hr {
+  background: linear-gradient(
+    to right,
+    transparent,
+    var(--lightgray) 25%,
+    var(--lightgray) 75%,
+    transparent
+  ) !important;
+  border: none !important;
+  height: 1px !important;
+  margin: 2.8rem 0 !important;
+}
+
+// ── TOC: card container ───────────────────────────────────────────
+.toc {
+  border: 1px solid var(--lightgray) !important;
+  border-radius: 12px;
+  padding: 0.85rem 1.1rem !important;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.04);
+  font-size: 0.82rem;
+  line-height: 1.5;
+
+  > summary {
+    font-size: 0.75rem !important;
+    font-weight: 600 !important;
+    letter-spacing: 0.07em !important;
+    text-transform: uppercase !important;
+    color: var(--gray) !important;
+  }
+
+  ol {
+    font-size: 0.85rem;
+    line-height: 1.95;
+
+    a {
+      background-color: transparent !important;
+      border-bottom: none !important;
+      color: var(--gray) !important;
+      font-weight: 400 !important;
+      padding: 0 !important;
+
+      &:hover { color: var(--secondary) !important; }
+    }
+
+    li.in-view > a {
+      color: var(--secondary) !important;
+      font-weight: 600 !important;
+    }
+  }
+}
+
+// ── Backlinks: card ───────────────────────────────────────────────
+.backlinks {
+  border: 1px solid var(--lightgray);
+  border-radius: 12px;
+  padding: 0.85rem 1.1rem;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.04);
+
+  > h3 {
+    font-size: 0.75rem !important;
+    font-weight: 600 !important;
+    letter-spacing: 0.07em;
+    text-transform: uppercase;
+    color: var(--gray) !important;
+    margin-top: 0 !important;
+    margin-bottom: 0.55rem !important;
+  }
+
+  ul {
+    font-size: 0.88rem;
+    margin: 0;
+
+    li a {
+      background-color: transparent !important;
+      border-bottom: none !important;
+      color: var(--secondary) !important;
+      font-weight: 400;
+      padding: 0 !important;
+
+      &:hover { color: var(--tertiary) !important; }
+    }
+  }
+}
+
+// ── Graph: card ───────────────────────────────────────────────────
+.graph {
+  border: 1px solid var(--lightgray);
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.04);
+
+  > h3 {
+    font-size: 0.75rem !important;
+    font-weight: 600 !important;
+    letter-spacing: 0.07em;
+    text-transform: uppercase;
+    color: var(--gray) !important;
+    margin: 0.7rem 0.9rem !important;
+  }
+}
+
+// ── Explorer file tree ────────────────────────────────────────────
+.explorer {
+  li > a,
+  a.folder-entry {
+    background-color: transparent !important;
+    border-bottom: none !important;
+    padding: 0 !important;
+    color: var(--darkgray) !important;
+    font-weight: 400;
+    font-size: 0.88rem;
+
+    &:hover { color: var(--secondary) !important; }
+  }
+}
+
+// ── Search ────────────────────────────────────────────────────────
+.search #search-bar {
+  border-radius: 10px !important;
+  background-color: color-mix(in srgb, var(--lightgray) 80%, var(--light)) !important;
+  border: 1px solid var(--lightgray) !important;
+  font-size: 0.9rem !important;
+  transition: box-shadow 0.2s ease, border-color 0.2s ease;
+
+  &:focus {
+    border-color: var(--secondary) !important;
+    box-shadow: 0 0 0 3px color-mix(in srgb, var(--secondary) 15%, transparent) !important;
+    outline: none !important;
+  }
+}
+
+// ── Footer ───────────────────────────────────────────────────────
+footer {
+  border-top: 1px solid var(--lightgray);
+  padding-top: 1.2rem;
+  font-size: 0.8rem !important;
+  color: var(--gray) !important;
+
+  p, span { color: var(--gray) !important; font-size: 0.8rem !important; }
+
+  a {
+    background-color: transparent !important;
+    border-bottom: none !important;
+    padding: 0 !important;
+    color: var(--gray) !important;
+    font-weight: 400 !important;
+
+    &:hover { color: var(--secondary) !important; }
+  }
+}
+
+// ── Images ───────────────────────────────────────────────────────
+img {
+  border-radius: 10px !important;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+}
+
+// ── Text selection ────────────────────────────────────────────────
+::selection {
+  background-color: color-mix(in srgb, var(--secondary) 22%, transparent) !important;
+  color: var(--darkgray) !important;
+}
+
+// ── Thin scrollbars ───────────────────────────────────────────────
+* {
+  scrollbar-width: thin;
+  scrollbar-color: color-mix(in srgb, var(--gray) 35%, transparent) transparent;
+}
+::-webkit-scrollbar { width: 5px; height: 5px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb {
+  background-color: color-mix(in srgb, var(--gray) 35%, transparent);
+  border-radius: 10px;
+}
+
+// ══════════════════════════════════════════════════════════════════
 // 8. FLOATING SIDEBAR DRAWERS (desktop ≥ 1200 px only)
-// ============================================================
+// ══════════════════════════════════════════════════════════════════
 
 @media (min-width: 1200px) {
 
@@ -192,7 +496,6 @@ code {
       box-shadow: none;
     }
 
-    // All content visible — no fade needed (transform handles hiding)
     & > * {
       opacity: 1;
       pointer-events: auto;
@@ -204,7 +507,7 @@ code {
     position: fixed !important;
     right: 0;
     top: 0;
-    width: 300px;
+    width: 320px;
     height: 100vh;
     padding: 6rem 1.5rem 2rem 1.5rem;
     z-index: 500;
@@ -308,15 +611,15 @@ code {
 
     // Slide tab to the left edge of the open sidebar
     body.sb-right-open & {
-      right: 300px;
+      right: 320px;
     }
   }
 
   // ── Center: full width, comfortable reading padding ───────────────
   .center {
     box-shadow: none !important;
-    padding-left: 2rem !important;
-    padding-right: 2rem !important;
+    padding-left: 2.5rem !important;
+    padding-right: 2.5rem !important;
     max-width: 900px;
     margin: 0 auto !important;
     width: 100%;
