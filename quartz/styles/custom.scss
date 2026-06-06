@@ -565,7 +565,7 @@ img {
   // article shouldn't stretch to full width. Centre and cap it.
   body.sb-left-hidden #quartz-body .center article,
   body.sb-left-hidden #quartz-body .center .page-header {
-    max-width: 860px;
+    max-width: 900px;
     margin-left: auto;
     margin-right: auto;
     padding-left: 2rem;
@@ -574,12 +574,12 @@ img {
     transition: max-width 0.32s ease, margin 0.32s ease;
   }
 
-  // Both sidebars hidden → fully centred
+  // Both sidebars hidden → full-width reading mode (default on load)
   body.sb-left-hidden.sb-right-hidden #quartz-body .center article,
   body.sb-left-hidden.sb-right-hidden #quartz-body .center .page-header {
-    max-width: 800px;
-    padding-left: 1rem;
-    padding-right: 1rem;
+    max-width: 960px;
+    padding-left: 2rem;
+    padding-right: 2rem;
   }
 
 } // end @media desktop

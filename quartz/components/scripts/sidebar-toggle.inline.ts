@@ -22,9 +22,9 @@ document.addEventListener("nav", () => {
   if (!quartzBody || !leftSidebar || !rightSidebar) return
 
   // ── State ─────────────────────────────────────────────────────────
-  // "1" = collapsed, anything else (including null) = expanded
-  let leftCollapsed  = localStorage.getItem("sb-left")  === "1"
-  let rightCollapsed = localStorage.getItem("sb-right") === "1"
+  // "0" = expanded, anything else (including null) = collapsed (content-first default)
+  let leftCollapsed  = localStorage.getItem("sb-left")  !== "0"
+  let rightCollapsed = localStorage.getItem("sb-right") !== "0"
 
   // ── Hamburger (fixed, top-left, always outside the grid) ──────────
   const getHamburger = (): HTMLButtonElement => {
