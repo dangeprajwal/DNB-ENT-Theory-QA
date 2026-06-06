@@ -139,70 +139,99 @@ code {
 }
 
 // ============================================================
-// 8. COLLAPSIBLE SIDEBARS (desktop ≥ 1200 px only)
+// 8. FLOATING SIDEBAR DRAWERS (desktop ≥ 1200 px only)
 // ============================================================
 
 @media (min-width: 1200px) {
 
-  // ── Grid: smooth column-width animation ──────────────────────
+  // ── Grid: sidebars have no column width; content is always full ──
   #quartz-body {
-    transition: grid-template-columns 0.32s ease;
+    grid-template-columns: 0 auto 0 !important;
+    transition: none;
   }
 
-  // ── Sidebar shadow + gap between shadow line and content ─────────
-  .center {
-    box-shadow: inset -14px 0 12px -12px rgba(0, 0, 0, 0.10);
-    padding-left: 2.5rem !important;
-    transition: box-shadow 0.32s ease;
+  // ── Backdrop overlay (dims content when a sidebar is open) ───────
+  .sb-backdrop {
+    position: fixed;
+    inset: 0;
+    z-index: 499;
+    background: rgba(0, 0, 0, 0.25);
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 0.32s ease;
+
+    &.active {
+      opacity: 1;
+      pointer-events: auto;
+    }
   }
 
-  // Remove shadow when left sidebar is hidden
-  body.sb-left-hidden .center {
-    box-shadow: none;
-  }
-  body.sb-right-hidden .center {
-    box-shadow: inset -14px 0 12px -12px rgba(0, 0, 0, 0.10);
-  }
-  body.sb-left-hidden.sb-right-hidden .center {
-    box-shadow: none;
-  }
-
-  // ── Left sidebar: clip to zero when collapsed ────────────────
+  // ── LEFT sidebar: floating drawer from left ───────────────────────
   .sidebar.left {
-    overflow: hidden;
-    // Remove border when fully hidden (avoids a 1 px ghost line)
+    position: fixed !important;
+    left: 0;
+    top: 0;
+    width: 320px;
+    height: 100vh;
+    padding: 6rem 2rem 2rem 2rem;
+    z-index: 500;
+    overflow-y: auto;
+    overflow-x: hidden;
+
+    background: var(--light);
+    box-shadow: 6px 0 24px rgba(0, 0, 0, 0.13);
+    border-right: none;
+
+    // Slide in/out
+    transform: translateX(0);
+    transition: transform 0.32s cubic-bezier(0.4, 0, 0.2, 1),
+                box-shadow 0.32s ease;
+
     &.sb-collapsed {
-      border-right: none !important;
-      padding: 0 !important;
+      transform: translateX(-100%);
+      box-shadow: none;
     }
-    // Fade all children out
+
+    // All content visible — no fade needed (transform handles hiding)
     & > * {
-      transition: opacity 0.18s ease;
-    }
-    &.sb-collapsed > * {
-      opacity: 0;
-      pointer-events: none;
+      opacity: 1;
+      pointer-events: auto;
     }
   }
 
-  // ── Right sidebar: collapses to 44 px, chevron stays visible ─
+  // ── RIGHT sidebar: floating drawer from right ─────────────────────
   .sidebar.right {
-    overflow: hidden;
+    position: fixed !important;
+    right: 0;
+    top: 0;
+    width: 300px;
+    height: 100vh;
+    padding: 6rem 1.5rem 2rem 1.5rem;
+    z-index: 500;
+    overflow-y: auto;
+    overflow-x: hidden;
+
+    background: var(--light);
+    box-shadow: -6px 0 24px rgba(0, 0, 0, 0.13);
+    border-left: none;
+
+    // Slide in/out
+    transform: translateX(0);
+    transition: transform 0.32s cubic-bezier(0.4, 0, 0.2, 1),
+                box-shadow 0.32s ease;
+
     &.sb-collapsed {
-      padding-left:  2px !important;
-      padding-right: 2px !important;
+      transform: translateX(100%);
+      box-shadow: none;
     }
-    // Fade all children except the chevron button
+
     & > *:not(.sb-right-chevron) {
-      transition: opacity 0.18s ease;
-    }
-    &.sb-collapsed > *:not(.sb-right-chevron) {
-      opacity: 0;
-      pointer-events: none;
+      opacity: 1;
+      pointer-events: auto;
     }
   }
 
-  // ── Hamburger button (fixed, top-left) ───────────────────────
+  // ── Hamburger button (fixed, top-left) ────────────────────────────
   .sb-hamburger {
     position: fixed;
     top: 1.4rem;
@@ -217,91 +246,81 @@ code {
     align-items: center;
     justify-content: center;
 
-    background: transparent;
-    border: none;
+    background: var(--light);
+    border: 1px solid var(--lightgray);
     border-radius: 8px;
     cursor: pointer;
     color: var(--darkgray);
+    box-shadow: 0 1px 4px rgba(0,0,0,0.08);
 
-    transition: background 0.15s ease, color 0.15s ease;
+    transition: background 0.15s ease, color 0.15s ease, box-shadow 0.15s ease;
 
     &:hover {
       background: var(--lightgray);
       color: var(--secondary);
+      box-shadow: 0 2px 8px rgba(0,0,0,0.12);
     }
-    &:active {
-      background: var(--gray);
-    }
+    &:active { background: var(--gray); }
     &:focus-visible {
       outline: 2px solid var(--secondary);
       outline-offset: 2px;
     }
 
-    // Hide on mobile/tablet — JS also hides it, this prevents FOUC
-    @media (max-width: 1199px) {
-      display: none !important;
-    }
+    @media (max-width: 1199px) { display: none !important; }
   }
 
-  // ── Right sidebar chevron button (inside sidebar, top) ───────
+  // ── Right sidebar tab (fixed pill at right edge, always visible) ──
   .sb-right-chevron {
-    flex-shrink: 0;
-    align-self: flex-start;
+    position: fixed !important;
+    right: 0;
+    top: 50vh;
+    transform: translateY(-50%);
+    z-index: 9999;
 
-    width: 30px;
-    height: 30px;
+    width: 22px;
+    height: 52px;
+    padding: 0;
+    margin: 0;
+    flex-shrink: 0;
 
     display: flex;
     align-items: center;
     justify-content: center;
 
-    background: transparent;
+    background: var(--light);
     border: 1px solid var(--lightgray);
-    border-radius: 6px;
+    border-right: none;
+    border-radius: 6px 0 0 6px;
     cursor: pointer;
     color: var(--gray);
-    font-size: 16px;
+    font-size: 13px;
     line-height: 1;
+    box-shadow: -2px 0 8px rgba(0,0,0,0.08);
 
-    margin-bottom: 0.5rem;
-    transition: background 0.15s ease, color 0.15s ease, border-color 0.15s ease;
+    transition: background 0.15s ease, color 0.15s ease,
+                right 0.32s cubic-bezier(0.4, 0, 0.2, 1);
 
     &:hover {
-      background: var(--lightgray);
-      color: var(--darkgray);
-      border-color: var(--gray);
+      background: var(--secondary);
+      color: var(--light);
+      border-color: var(--secondary);
     }
 
-    // When sidebar is collapsed, centre the button in the 44 px strip
-    .sb-collapsed & {
-      align-self: center;
-      margin-top: 5rem;
-      margin-bottom: 0;
+    // Slide tab to the left edge of the open sidebar
+    body.sb-right-open & {
+      right: 300px;
     }
   }
 
-  // ── Content centering when sidebars collapse ─────────────────
-  // Center column is `auto` — it fills freed space.
-  // Limit article width and centre it so text stays readable.
-
-  // Left hidden → add left margin so content doesn't hug the edge
-  body.sb-left-hidden #quartz-body .center article,
-  body.sb-left-hidden #quartz-body .center .page-header {
-    max-width: 860px;
-    margin-left: auto;
-    margin-right: auto;
-    padding-left: 2rem;
-    padding-right: 2rem;
+  // ── Center: full width, comfortable reading padding ───────────────
+  .center {
+    box-shadow: none !important;
+    padding-left: 2rem !important;
+    padding-right: 2rem !important;
+    max-width: 900px;
+    margin: 0 auto !important;
+    width: 100%;
     box-sizing: border-box;
-    transition: max-width 0.32s ease, margin 0.32s ease;
-  }
-
-  // Both hidden → fully centred
-  body.sb-left-hidden.sb-right-hidden #quartz-body .center article,
-  body.sb-left-hidden.sb-right-hidden #quartz-body .center .page-header {
-    max-width: 800px;
-    padding-left: 1rem;
-    padding-right: 1rem;
   }
 
 } // end @media desktop
