@@ -8,14 +8,14 @@
 // 0. SIDEBAR — clean styling, Explorer restored
 // ------------------------------------------------------------
 
-// Left sidebar: subtle border separator
+// Left sidebar: shadow on the inner edge (replaces flat border)
 .sidebar.left {
-  border-right: 1px solid var(--lightgray);
+  border-right: none;
 }
 
-// Right sidebar (ToC): minimal styling
+// Right sidebar: shadow on the inner edge
 .sidebar.right {
-  border-left: 1px solid var(--lightgray);
+  border-left: none;
 
   .toc {
     font-size: 0.82rem;
@@ -147,6 +147,31 @@ code {
   // ── Grid: smooth column-width animation ──────────────────────
   #quartz-body {
     transition: grid-template-columns 0.32s ease;
+  }
+
+  // ── Sidebar shadow: inset on center column edges ─────────────
+  // Renders as a soft shadow at the sidebar/content boundary,
+  // unaffected by sidebar overflow:hidden settings.
+  .center {
+    box-shadow:
+      inset  14px 0 12px -12px rgba(0, 0, 0, 0.10),
+      inset -14px 0 12px -12px rgba(0, 0, 0, 0.10);
+    transition: box-shadow 0.32s ease;
+  }
+
+  // Fade the shadow out when a sidebar is hidden
+  body.sb-left-hidden .center {
+    box-shadow:
+      inset  0px 0 0px 0px rgba(0, 0, 0, 0),
+      inset -14px 0 12px -12px rgba(0, 0, 0, 0.10);
+  }
+  body.sb-right-hidden .center {
+    box-shadow:
+      inset  14px 0 12px -12px rgba(0, 0, 0, 0.10),
+      inset  0px 0 0px 0px rgba(0, 0, 0, 0);
+  }
+  body.sb-left-hidden.sb-right-hidden .center {
+    box-shadow: none;
   }
 
   // ── Left sidebar: clip to zero when collapsed ────────────────
