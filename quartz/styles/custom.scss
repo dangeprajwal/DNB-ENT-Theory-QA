@@ -444,15 +444,13 @@ img {
 
 // ══════════════════════════════════════════════════════════════════
 // 8. FLOATING SIDEBAR DRAWERS (desktop ≥ 1200 px only)
+//
+// Strategy: keep the original Quartz grid (320px auto 320px) untouched.
+// Sidebars are position:fixed so they float/overlay the content.
+// No grid override = no layout collapse.
 // ══════════════════════════════════════════════════════════════════
 
 @media (min-width: 1200px) {
-
-  // ── Grid: sidebars have no column width; content is always full ──
-  #quartz-body {
-    grid-template-columns: 0 auto 0 !important;
-    transition: none;
-  }
 
   // ── Backdrop overlay (dims content when a sidebar is open) ───────
   .sb-backdrop {
@@ -486,7 +484,6 @@ img {
     box-shadow: 6px 0 24px rgba(0, 0, 0, 0.13);
     border-right: none;
 
-    // Slide in/out
     transform: translateX(0);
     transition: transform 0.32s cubic-bezier(0.4, 0, 0.2, 1),
                 box-shadow 0.32s ease;
@@ -496,10 +493,7 @@ img {
       box-shadow: none;
     }
 
-    & > * {
-      opacity: 1;
-      pointer-events: auto;
-    }
+    & > * { opacity: 1; pointer-events: auto; }
   }
 
   // ── RIGHT sidebar: floating drawer from right ─────────────────────
@@ -518,7 +512,6 @@ img {
     box-shadow: -6px 0 24px rgba(0, 0, 0, 0.13);
     border-left: none;
 
-    // Slide in/out
     transform: translateX(0);
     transition: transform 0.32s cubic-bezier(0.4, 0, 0.2, 1),
                 box-shadow 0.32s ease;
@@ -540,22 +533,18 @@ img {
     top: 1.4rem;
     left: 1rem;
     z-index: 9999;
-
     width: 38px;
     height: 38px;
     padding: 9px;
-
     display: flex;
     align-items: center;
     justify-content: center;
-
     background: var(--light);
     border: 1px solid var(--lightgray);
     border-radius: 8px;
     cursor: pointer;
     color: var(--darkgray);
     box-shadow: 0 1px 4px rgba(0,0,0,0.08);
-
     transition: background 0.15s ease, color 0.15s ease, box-shadow 0.15s ease;
 
     &:hover {
@@ -563,33 +552,27 @@ img {
       color: var(--secondary);
       box-shadow: 0 2px 8px rgba(0,0,0,0.12);
     }
-    &:active { background: var(--gray); }
+    &:active  { background: var(--gray); }
     &:focus-visible {
       outline: 2px solid var(--secondary);
       outline-offset: 2px;
     }
-
-    @media (max-width: 1199px) { display: none !important; }
   }
 
-  // ── Right sidebar tab (fixed pill at right edge, always visible) ──
+  // ── Right sidebar tab (fixed pill at right viewport edge) ─────────
   .sb-right-chevron {
     position: fixed !important;
     right: 0;
     top: 50vh;
     transform: translateY(-50%);
     z-index: 9999;
-
     width: 22px;
     height: 52px;
     padding: 0;
     margin: 0;
-    flex-shrink: 0;
-
     display: flex;
     align-items: center;
     justify-content: center;
-
     background: var(--light);
     border: 1px solid var(--lightgray);
     border-right: none;
@@ -599,7 +582,6 @@ img {
     font-size: 13px;
     line-height: 1;
     box-shadow: -2px 0 8px rgba(0,0,0,0.08);
-
     transition: background 0.15s ease, color 0.15s ease,
                 right 0.32s cubic-bezier(0.4, 0, 0.2, 1);
 
@@ -609,21 +591,7 @@ img {
       border-color: var(--secondary);
     }
 
-    // Slide tab to the left edge of the open sidebar
-    body.sb-right-open & {
-      right: 320px;
-    }
-  }
-
-  // ── Center: full width, comfortable reading padding ───────────────
-  .center {
-    box-shadow: none !important;
-    padding-left: 2.5rem !important;
-    padding-right: 2.5rem !important;
-    max-width: 900px;
-    margin: 0 auto !important;
-    width: 100%;
-    box-sizing: border-box;
+    body.sb-right-open & { right: 320px; }
   }
 
 } // end @media desktop
