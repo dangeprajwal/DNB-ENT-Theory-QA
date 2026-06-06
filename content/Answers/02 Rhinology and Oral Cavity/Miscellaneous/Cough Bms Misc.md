@@ -3,7 +3,6 @@ tags:
   - paper2
   - rhinology
   - miscellaneous
-description: "DNB ENT Paper 2 (Rhinology) — Cough Reflex, Chronic Aspiration and Burning Mouth Syndrome. Answers based on Scott-Brown 8th Edition."
 ---
 
 # Cough Reflex, Chronic Aspiration and Burning Mouth Syndrome
@@ -13,11 +12,6 @@ description: "DNB ENT Paper 2 (Rhinology) — Cough Reflex, Chronic Aspiration a
 **Question 2:** *Define burning mouth syndrome. Discuss its etiology and management.* (2015-16)
 
 **Source:** Scott-Brown's Otorhinolaryngology, 8th Edition — Volume 3 Chapter 56 (Chronic Aspiration); Volume 3 Chapter 38 (Orofacial Pain — Burning Mouth Syndrome); Volume 3 Chapter 58 (Larynx Anatomy)
-
-
-> [!question] Questions Covered
-> - Describe the mechanism of cough reflex and its pharmacological management. Discuss the management of chronic aspiration.
-> - Define burning mouth syndrome. Discuss its etiology and management.
 
 ---
 

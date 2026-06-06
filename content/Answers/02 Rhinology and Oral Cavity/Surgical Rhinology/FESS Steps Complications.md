@@ -4,14 +4,13 @@ tags:
   - rhinology
   - surgery
   - fess
-description: "DNB ENT Paper 2 (Rhinology) — Functional Endoscopic Sinus Surgery (FESS) - Steps and Complications. Answers based on Scott-Brown 8th Edition."
 ---
 
 # Functional Endoscopic Sinus Surgery (FESS) - Steps and Complications
 
-> [!question] Questions Covered
-> - Describe the steps and complications of FESS.
-*Source:** Scott-Brown's Otorhinolaryngology, 8th Edition - Volume 1, Chapter 98 (Surgical Management of Rhinosinusitis) & Chapter 87 (Anatomy of the Nose and Paranasal Sinuses)
+**Question:** *Describe the steps and complications of FESS.*
+
+**Source:** Scott-Brown's Otorhinolaryngology, 8th Edition - Volume 1, Chapter 98 (Surgical Management of Rhinosinusitis) & Chapter 87 (Anatomy of the Nose and Paranasal Sinuses)
 
 ---
 

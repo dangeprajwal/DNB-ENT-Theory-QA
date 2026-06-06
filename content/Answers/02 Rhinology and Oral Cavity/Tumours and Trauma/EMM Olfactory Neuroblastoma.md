@@ -4,14 +4,13 @@ tags:
   - rhinology
   - oncology
   - trauma
-description: "DNB ENT Paper 2 (Rhinology) — Endoscopic Medial Maxillectomy and Olfactory Neuroblastoma. Answers based on Scott-Brown 8th Edition."
 ---
 
 # Endoscopic Medial Maxillectomy and Olfactory Neuroblastoma
 
-> [!question] Questions Covered
-> - "Classify sinonasal tumours by tissue of origin. Describe indications, procedure, and limitations of endoscopic medial maxillectomy. Discuss olfactory neuroblastoma — etiopathogenesis, clinical features, staging, and management."
-*Source:** Scott-Brown's Volume 1, Chapters 114 (Endoscopic Management of Sinonasal Tumours), 116 (Extended Anterior Skull Base Approaches), 117 (Radiology)
+**Question:** *"Classify sinonasal tumours by tissue of origin. Describe indications, procedure, and limitations of endoscopic medial maxillectomy. Discuss olfactory neuroblastoma — etiopathogenesis, clinical features, staging, and management."*
+
+**Source:** Scott-Brown's Volume 1, Chapters 114 (Endoscopic Management of Sinonasal Tumours), 116 (Extended Anterior Skull Base Approaches), 117 (Radiology)
 
 ---
 

@@ -4,14 +4,13 @@ tags:
   - rhinology
   - paediatric
   - congenital
-description: "DNB ENT Paper 2 (Rhinology) — Oro-antral Fistula. Answers based on Scott-Brown 8th Edition."
 ---
 
 # Oro-antral Fistula
 
-> [!question] Questions Covered
-> - Describe oro-antral fistula along with its surgical management.
-*Source:** Scott-Brown's Otorhinolaryngology, 8th Edition - Volume 1 (Chapters 88, 94, 114) & Volume 3
+**Question:** *Describe oro-antral fistula along with its surgical management.*
+
+**Source:** Scott-Brown's Otorhinolaryngology, 8th Edition - Volume 1 (Chapters 88, 94, 114) & Volume 3
 
 **Note:** Scott-Brown's does not contain a dedicated chapter on oro-antral fistula. The following content is compiled from relevant mentions across the textbook including chapters on rhinosinusitis, fungal sinusitis, sinonasal tumours, and maxillofacial surgery.
 

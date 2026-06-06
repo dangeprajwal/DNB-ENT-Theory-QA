@@ -3,14 +3,13 @@ tags:
   - paper2
   - oral-cavity
   - oncology
-description: "DNB ENT Paper 2 (Rhinology) — Oral Submucous Fibrosis. Answers based on Scott-Brown 8th Edition."
 ---
 
 # Oral Submucous Fibrosis
 
-> [!question] Questions Covered
-> - Oral submucous fibrosis — aetiopathogenesis, medical and surgical management.
-*Source:** Scott-Brown's Volume 3, Chapter 2 (Aetiology of Head and Neck Cancer), Chapter 12 (Oral Cavity Tumours), Chapter 26 (Head and Neck Pathology) and Chapter 42 (Benign Diseases of the Oral Cavity)
+**Question:** *Oral submucous fibrosis — aetiopathogenesis, medical and surgical management.*
+
+**Source:** Scott-Brown's Volume 3, Chapter 2 (Aetiology of Head and Neck Cancer), Chapter 12 (Oral Cavity Tumours), Chapter 26 (Head and Neck Pathology) and Chapter 42 (Benign Diseases of the Oral Cavity)
 
 ---
 

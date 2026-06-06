@@ -4,14 +4,13 @@ tags:
   - rhinology
   - paediatric
   - congenital
-description: "DNB ENT Paper 2 (Rhinology) — Sternberg's Canal and Spontaneous CSF Leaks. Answers based on Scott-Brown 8th Edition."
 ---
 
 # Sternberg's Canal and Spontaneous CSF Leaks
 
-> [!question] Questions Covered
-> - Describe Sternberg's canal and its clinical significance in the context of spontaneous [[CSF Rhinorrhea|CSF rhinorrhoea]].
-*Source:** Scott-Brown's Otorhinolaryngology, 8th Edition - Volume 1, Chapters 54 (Pituitary Fossa) & 108 (CSF Leaks)
+**Question:** *Describe Sternberg's canal and its clinical significance in the context of spontaneous [[CSF Rhinorrhea|CSF rhinorrhoea]].*
+
+**Source:** Scott-Brown's Otorhinolaryngology, 8th Edition - Volume 1, Chapters 54 (Pituitary Fossa) & 108 (CSF Leaks)
 
 ---
 

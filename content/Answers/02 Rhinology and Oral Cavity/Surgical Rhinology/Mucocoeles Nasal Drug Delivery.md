@@ -4,7 +4,6 @@ tags:
   - rhinology
   - surgery
   - fess
-description: "DNB ENT Paper 2 (Rhinology) — Paranasal Sinus Mucocoeles & Nasal Drug Delivery Methods. Answers based on Scott-Brown 8th Edition."
 ---
 
 # Paranasal Sinus Mucocoeles & Nasal Drug Delivery Methods
@@ -14,11 +13,6 @@ description: "DNB ENT Paper 2 (Rhinology) — Paranasal Sinus Mucocoeles & Nasal
 **Question 2:** *Methods of instillation of nasal drops and spray. Exhalation delivery system and uses.*
 
 **Source:** Scott-Brown's Otorhinolaryngology, 8th Edition — Volume 1: Chapter 100 (Mucoceles of the Paranasal Sinuses), Chapter 28 (Drug Therapy in Rhinology)
-
-
-> [!question] Questions Covered
-> - How to classify and treat frontoethmoidal mucocoeles? How to prevent recurrence?
-> - Methods of instillation of nasal drops and spray. Exhalation delivery system and uses.
 
 ---
 

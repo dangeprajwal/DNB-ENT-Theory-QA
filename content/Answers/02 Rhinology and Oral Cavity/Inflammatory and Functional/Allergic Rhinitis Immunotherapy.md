@@ -4,7 +4,6 @@ tags:
   - rhinology
   - inflammation
   - functional
-description: "DNB ENT Paper 2 (Rhinology) — Allergic Rhinitis, Immunotherapy & Drug-Induced Rhinitis. Answers based on Scott-Brown 8th Edition."
 ---
 
 # Allergic Rhinitis, Immunotherapy & Drug-Induced Rhinitis
@@ -24,16 +23,6 @@ description: "DNB ENT Paper 2 (Rhinology) — Allergic Rhinitis, Immunotherapy &
 **Question 7:** *Discuss nasal resistance and defence mechanisms of the nasal mucosa. Describe pregnancy-induced rhinitis (PIR).*
 
 **Source:** Scott-Brown's Otorhinolaryngology, 8th Edition — Volume 1: Chapter 91 (Allergic Rhinitis), Chapter 14 (Allergy: Basic Mechanisms and Tests), Chapter 92 (Non-Allergic Rhinitis), Chapter 89 (Physiology of the Nose)
-
-
-> [!question] Questions Covered
-> - Classify allergic rhinitis. Describe the etiopathology, investigations and outline management of allergic rhinitis.
-> - What is the role of immunotherapy in management of allergic rhinitis? Mention the procedure, efficacy and side effects of immunotherapy.
-> - Describe sublingual immunotherapy for allergic rhinitis. Mention rational approach to allergy testing.
-> - Treatment for allergic rhinitis in children. Role of immunotherapy in adults and children.
-> - Describe the immunological pathway for allergic rhinitis. Briefly describe SLIT and SCIT.
-> - What are ARIA diagnostic categories of allergic rhinitis? What are the drugs associated with drug-induced rhinitis? Outline treatment plan for allergic rhinitis.
-> - Discuss nasal resistance and defence mechanisms of the nasal mucosa. Describe pregnancy-induced rhinitis (PIR).
 
 ---
 

@@ -3,13 +3,9 @@ tags:
   - paper2
   - skull-base
   - vascular
-description: "DNB ENT Paper 2 (Rhinology) — Skull Base Surgery and Vascular Tumours. Answers based on Scott-Brown 8th Edition."
 ---
 
 # Skull Base Surgery and Vascular Tumours
-
-> [!question] Questions Covered
-> - Carotid body tumour — features, investigations, treatment, surgical technique (2019 Jun)
 
 > **Covers Q16, Q50, Q106, Q159, Q166, 2022-80**
 > **Source: Scott-Brown's Otorhinolaryngology, 8th Edition**

@@ -3,7 +3,6 @@ tags:
   - paper2
   - rhinology
   - miscellaneous
-description: "DNB ENT Paper 2 (Rhinology) — Fibrous Dysplasia and Cystic Swellings of the Nasolabial Region. Answers based on Scott-Brown 8th Edition."
 ---
 
 # Fibrous Dysplasia and Cystic Swellings of the Nasolabial Region
@@ -15,12 +14,6 @@ description: "DNB ENT Paper 2 (Rhinology) — Fibrous Dysplasia and Cystic Swell
 **Question 3:** *Discuss the pathology, types and management of fibrous dysplasia involving the nose and paranasal sinuses.* (2015-10)
 
 **Source:** Scott-Brown's Otorhinolaryngology, 8th Edition — Volume 1 Chapter 99 ([[Frontal Recess Frontal Sinus Surgery|Frontal Sinus]] / FD); Volume 3 Chapter 25 (Cysts and Tumours of the Bony Facial Skeleton)
-
-
-> [!question] Questions Covered
-> - Enumerate cystic swellings of the nasolabial area. Describe the investigations and management of nasopalatine cyst.
-> - Describe the types of fibrous dysplasia. Discuss the surgical management of fibrous dysplasia.
-> - Discuss the pathology, types and management of fibrous dysplasia involving the nose and paranasal sinuses.
 
 ---
 

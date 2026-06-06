@@ -3,14 +3,13 @@ tags:
   - paper2
   - head-and-neck
   - oncology
-description: "DNB ENT Paper 2 (Rhinology) — Nasopharyngeal Carcinoma — Aetiopathogenesis, Classification, Clinical Featur.... Answers based on Scott-Brown 8th Edition."
 ---
 
 # Nasopharyngeal Carcinoma — Aetiopathogenesis, Classification, Clinical Features and Management
 
-> [!question] Questions Covered
-> - Nasopharyngeal carcinoma — etiopathogenesis, clinical features and management. Histologic subtypes, T classification (AJCC). Classification and etiopathogenesis.
-*Source:** Scott-Brown's Volume 3, Chapter 8 (Nasopharyngeal Carcinoma)
+**Question:** *Nasopharyngeal carcinoma — etiopathogenesis, clinical features and management. Histologic subtypes, T classification (AJCC). Classification and etiopathogenesis.*
+
+**Source:** Scott-Brown's Volume 3, Chapter 8 (Nasopharyngeal Carcinoma)
 
 ---
 

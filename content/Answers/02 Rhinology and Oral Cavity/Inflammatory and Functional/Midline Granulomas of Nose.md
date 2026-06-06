@@ -4,14 +4,13 @@ tags:
   - rhinology
   - inflammation
   - functional
-description: "DNB ENT Paper 2 (Rhinology) — Midline Granulomas of the Nose. Answers based on Scott-Brown 8th Edition."
 ---
 
 # Midline Granulomas of the Nose
 
-> [!question] Questions Covered
-> - Discuss the aetiology, clinical features, diagnosis, and management of midline granulomas of the nose.
-*Source:** Scott-Brown's Otorhinolaryngology, 8th Edition - Volume 1, Chapter 109 (Granulomatous Conditions of the Nose)
+**Question:** *Discuss the aetiology, clinical features, diagnosis, and management of midline granulomas of the nose.*
+
+**Source:** Scott-Brown's Otorhinolaryngology, 8th Edition - Volume 1, Chapter 109 (Granulomatous Conditions of the Nose)
 
 ---
 

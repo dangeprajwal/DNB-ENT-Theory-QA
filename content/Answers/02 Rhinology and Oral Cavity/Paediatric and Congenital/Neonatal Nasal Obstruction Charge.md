@@ -4,14 +4,13 @@ tags:
   - rhinology
   - paediatric
   - congenital
-description: "DNB ENT Paper 2 (Rhinology) — Nasal Obstruction in Neonates and Charge Syndrome. Answers based on Scott-Brown 8th Edition."
 ---
 
 # Nasal Obstruction in Neonates and Charge Syndrome
 
-> [!question] Questions Covered
-> - Discuss the causes, diagnosis, and management of nasal obstruction in neonates. Describe CHARGE syndrome and its otorhinolaryngological implications.
-*Source:** Scott-Brown's Otorhinolaryngology, 8th Edition - Volume 2, Chapter 23 (Neonatal Nasal Obstruction) & Chapter 6 (The Child with a Syndrome)
+**Question:** *Discuss the causes, diagnosis, and management of nasal obstruction in neonates. Describe CHARGE syndrome and its otorhinolaryngological implications.*
+
+**Source:** Scott-Brown's Otorhinolaryngology, 8th Edition - Volume 2, Chapter 23 (Neonatal Nasal Obstruction) & Chapter 6 (The Child with a Syndrome)
 
 ---
 

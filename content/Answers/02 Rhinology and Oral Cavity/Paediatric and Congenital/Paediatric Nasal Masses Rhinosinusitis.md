@@ -4,14 +4,13 @@ tags:
   - rhinology
   - paediatric
   - congenital
-description: "DNB ENT Paper 2 (Rhinology) — Paediatric Nasal Masses, Rhinosinusitis, and Silent Sinus Syndrome. Answers based on Scott-Brown 8th Edition."
 ---
 
 # Paediatric Nasal Masses, Rhinosinusitis, and Silent Sinus Syndrome
 
-> [!question] Questions Covered
-> - "Describe nasal dermoids — embryology, features, classification, and management. Classify midline nasal masses and discuss nasal glioma management. Discuss paediatric rhinosinusitis etiopathogenesis and management. Describe silent sinus syndrome — etiology, features, and treatment."
-*Source:** Scott-Brown's Volume 2, Chapters 23 (Neonatal Nasal Obstruction), 24 (Paediatric Rhinosinusitis), 41 (Cysts and Sinuses of the Head and Neck); Volume 1, Chapter 111 (Disorders of the Orbit)
+**Question:** *"Describe nasal dermoids — embryology, features, classification, and management. Classify midline nasal masses and discuss nasal glioma management. Discuss paediatric rhinosinusitis etiopathogenesis and management. Describe silent sinus syndrome — etiology, features, and treatment."*
+
+**Source:** Scott-Brown's Volume 2, Chapters 23 (Neonatal Nasal Obstruction), 24 (Paediatric Rhinosinusitis), 41 (Cysts and Sinuses of the Head and Neck); Volume 1, Chapter 111 (Disorders of the Orbit)
 
 ---
 

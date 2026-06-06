@@ -4,14 +4,13 @@ tags:
   - rhinology
   - surgery
   - fess
-description: "DNB ENT Paper 2 (Rhinology) — Osteoplastic Flap and Open Frontal Sinus Approaches. Answers based on Scott-Brown 8th Edition."
 ---
 
 # Osteoplastic Flap and Open [[Frontal Recess Frontal Sinus Surgery|Frontal Sinus]] Approaches
 
-> [!question] Questions Covered
-> - Q120 (Oct 2024): Describe the osteoplastic approach to the frontal sinus including indications, surgical steps and complications. Q123 (Jun 2025): Discuss the open surgical approaches to the frontal sinus. Write short notes on hybrid FESS and frontal balloon sinuplasty.
-*Source:** Scott-Brown's Otorhinolaryngology, 8th Edition - Volume 1, Chapter 99 (The Frontal Sinus)
+**Question:** *Q120 (Oct 2024): Describe the osteoplastic approach to the frontal sinus including indications, surgical steps and complications. Q123 (Jun 2025): Discuss the open surgical approaches to the frontal sinus. Write short notes on hybrid FESS and frontal balloon sinuplasty.*
+
+**Source:** Scott-Brown's Otorhinolaryngology, 8th Edition - Volume 1, Chapter 99 (The Frontal Sinus)
 
 ---
 

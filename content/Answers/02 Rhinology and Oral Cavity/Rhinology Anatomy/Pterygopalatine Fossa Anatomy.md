@@ -3,14 +3,13 @@ tags:
   - paper2
   - rhinology
   - anatomy
-description: "DNB ENT Paper 2 (Rhinology) — Anatomy of the Pterygopalatine Fossa. Answers based on Scott-Brown 8th Edition."
 ---
 
 # Anatomy of the Pterygopalatine Fossa
 
-> [!question] Questions Covered
-> - Describe the anatomy of the pterygopalatine fossa with diagrams.
-*Source:** Scott-Brown's Otorhinolaryngology, 8th Edition - Volume 2, Chapter 98 (Skull Base Anatomy) & Volume 1, Chapter 87 (Anatomy of the Nose and Paranasal Sinuses)
+**Question:** *Describe the anatomy of the pterygopalatine fossa with diagrams.*
+
+**Source:** Scott-Brown's Otorhinolaryngology, 8th Edition - Volume 2, Chapter 98 (Skull Base Anatomy) & Volume 1, Chapter 87 (Anatomy of the Nose and Paranasal Sinuses)
 
 ---
 

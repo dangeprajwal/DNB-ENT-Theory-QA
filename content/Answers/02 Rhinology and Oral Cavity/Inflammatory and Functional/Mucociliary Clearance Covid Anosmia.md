@@ -4,14 +4,13 @@ tags:
   - rhinology
   - inflammation
   - functional
-description: "DNB ENT Paper 2 (Rhinology) — Mucociliary Clearance, Covid-19 Anosmia and Lund-mackay Scoring. Answers based on Scott-Brown 8th Edition."
 ---
 
 # Mucociliary Clearance, Covid-19 Anosmia and Lund-mackay Scoring
 
-> [!question] Questions Covered
-> - Q47 (Jun 2021): Discuss Covid-19 loss of smell and the role of olfactory retraining therapy. Q61 (Jun 2022): Describe the nasal cycle and physiology of paranasal sinuses; discuss the Lund-Mackay scoring system for CRS. 2015-1: Describe the mucociliary transport and clearance pathways of the nose and paranasal sinuses with diagrams.
-*Source:** Scott-Brown's Otorhinolaryngology, 8th Edition - Volume 1, Chapter 89 (Physiology of the Nose and Paranasal Sinuses), Chapter 95 (Nasal Polyposis), Chapter 110 (Abnormalities of Smell)
+**Question:** *Q47 (Jun 2021): Discuss Covid-19 loss of smell and the role of olfactory retraining therapy. Q61 (Jun 2022): Describe the nasal cycle and physiology of paranasal sinuses; discuss the Lund-Mackay scoring system for CRS. 2015-1: Describe the mucociliary transport and clearance pathways of the nose and paranasal sinuses with diagrams.*
+
+**Source:** Scott-Brown's Otorhinolaryngology, 8th Edition - Volume 1, Chapter 89 (Physiology of the Nose and Paranasal Sinuses), Chapter 95 (Nasal Polyposis), Chapter 110 (Abnormalities of Smell)
 
 ---
 

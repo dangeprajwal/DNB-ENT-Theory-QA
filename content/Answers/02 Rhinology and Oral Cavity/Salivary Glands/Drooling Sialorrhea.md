@@ -3,14 +3,13 @@ tags:
   - paper2
   - salivary
   - surgery
-description: "DNB ENT Paper 2 (Rhinology) — Drooling (Sialorrhoea) — Causes and Management. Answers based on Scott-Brown 8th Edition."
 ---
 
 # Drooling (Sialorrhoea) — Causes and Management
 
-> [!question] Questions Covered
-> - Drooling in children — causes and management. Sialorrhoea — aetiology, assessment and treatment options.
-*Source:** Scott-Brown's Volume 3, Chapter 46 (Non-Neoplastic Salivary Gland Diseases)
+**Question:** *Drooling in children — causes and management. Sialorrhoea — aetiology, assessment and treatment options.*
+
+**Source:** Scott-Brown's Volume 3, Chapter 46 (Non-Neoplastic Salivary Gland Diseases)
 
 ---
 

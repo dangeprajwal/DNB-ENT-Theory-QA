@@ -4,14 +4,13 @@ tags:
   - rhinology
   - oncology
   - trauma
-description: "DNB ENT Paper 2 (Rhinology) — Le Fort Fractures of the Maxilla. Answers based on Scott-Brown 8th Edition."
 ---
 
 # Le Fort Fractures of the Maxilla
 
-> [!question] Questions Covered
-> - Describe the Le Fort classification of midfacial fractures, their clinical features, and management.
-*Source:** Scott-Brown's Otorhinolaryngology, 8th Edition - Volume 1, Chapter 107 (Nasal and Facial Fractures)
+**Question:** *Describe the Le Fort classification of midfacial fractures, their clinical features, and management.*
+
+**Source:** Scott-Brown's Otorhinolaryngology, 8th Edition - Volume 1, Chapter 107 (Nasal and Facial Fractures)
 
 ---
 

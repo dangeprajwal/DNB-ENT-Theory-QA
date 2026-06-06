@@ -4,14 +4,9 @@ tags:
   - rhinology
   - inflammation
   - functional
-description: "DNB ENT Paper 2 (Rhinology) — Atrophic Rhinitis, Rhinosporidiosis, and Midline Nasal Conditions. Answers based on Scott-Brown 8th Edition."
 ---
 
 # Atrophic Rhinitis, Rhinosporidiosis, and Midline Nasal Conditions
-
-> [!question] Questions Covered
-> - Rhinosporidiosis -- epidemiology, etiopathogenesis, features, management.
-> - Short notes: Rhinosporidiosis.
 
 *Q59 (Dec 2021): Various hypotheses for primary atrophic rhinitis. Management.*
 *2018-8: Rhinosporidiosis -- epidemiology, etiopathogenesis, features, management.*

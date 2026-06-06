@@ -2,14 +2,13 @@
 tags:
   - paper2
   - sleep-medicine
-description: "DNB ENT Paper 2 (Rhinology) — Paediatric Obstructive Sleep Apnoea — Definition, Evaluation and Management. Answers based on Scott-Brown 8th Edition."
 ---
 
 # Paediatric [[Obstructive Sleep Apnoea|Obstructive Sleep Apnoea]] — Definition, Evaluation and Management
 
-> [!question] Questions Covered
-> - Sleep apnoea — definition. Evaluate an obese child with OSA.
-*Source:** Scott-Brown's Volume 2, Chapter 27 (Paediatric Obstructive Sleep Apnoea)
+**Question:** *Sleep apnoea — definition. Evaluate an obese child with OSA.*
+
+**Source:** Scott-Brown's Volume 2, Chapter 27 (Paediatric Obstructive Sleep Apnoea)
 
 ---
 

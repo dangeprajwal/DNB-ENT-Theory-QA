@@ -4,14 +4,13 @@ tags:
   - rhinology
   - inflammation
   - functional
-description: "DNB ENT Paper 2 (Rhinology) — Olfactory Pathway, Theories of Olfaction, Rhinomanometry and UPSIT. Answers based on Scott-Brown 8th Edition."
 ---
 
 # Olfactory Pathway, Theories of Olfaction, Rhinomanometry and UPSIT
 
-> [!question] Questions Covered
-> - A) Describe the olfactory pathway and theories of olfaction. B) Discuss rhinomanometry. Add a note on UPSIT.
-*Source:** Scott-Brown's Otorhinolaryngology, 8th Edition - Volume 1, Chapter 110 (Abnormalities of Smell) & Chapter 90 (Measurement of the Nasal Airway)
+**Question:** *A) Describe the olfactory pathway and theories of olfaction. B) Discuss rhinomanometry. Add a note on UPSIT.*
+
+**Source:** Scott-Brown's Otorhinolaryngology, 8th Edition - Volume 1, Chapter 110 (Abnormalities of Smell) & Chapter 90 (Measurement of the Nasal Airway)
 
 ---
 

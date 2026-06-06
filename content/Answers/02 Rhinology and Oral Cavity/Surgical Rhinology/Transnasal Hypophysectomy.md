@@ -4,14 +4,13 @@ tags:
   - rhinology
   - surgery
   - fess
-description: "DNB ENT Paper 2 (Rhinology) — Transnasal Hypophysectomy. Answers based on Scott-Brown 8th Edition."
 ---
 
 # Transnasal Hypophysectomy
 
-> [!question] Questions Covered
-> - Describe in detail the technique of transnasal (endoscopic transsphenoidal) hypophysectomy.
-*Source:** Scott-Brown's Otorhinolaryngology, 8th Edition - Volume 1, Chapters 54 (Pituitary Fossa), 84 (Pituitary Tumours) & 85 (Recurrent Pituitary Tumours)
+**Question:** *Describe in detail the technique of transnasal (endoscopic transsphenoidal) hypophysectomy.*
+
+**Source:** Scott-Brown's Otorhinolaryngology, 8th Edition - Volume 1, Chapters 54 (Pituitary Fossa), 84 (Pituitary Tumours) & 85 (Recurrent Pituitary Tumours)
 
 ---
 

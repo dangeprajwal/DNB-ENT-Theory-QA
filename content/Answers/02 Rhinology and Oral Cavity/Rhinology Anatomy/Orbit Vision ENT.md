@@ -3,14 +3,13 @@ tags:
   - paper2
   - rhinology
   - anatomy
-description: "DNB ENT Paper 2 (Rhinology) — Orbit — Vision in ENT, Orbital Anatomy, Proptosis, and ESS Complications. Answers based on Scott-Brown 8th Edition."
 ---
 
 # Orbit — Vision in ENT, Orbital Anatomy, Proptosis, and ESS Complications
 
-> [!question] Questions Covered
-> - "Enumerate causes of vision affection in ENT practice and describe AEA retraction during [[FESS Steps Complications|FESS]]. Discuss orbital anatomy in relation to nose and PNS. Enumerate causes of proptosis. What causes sudden proptosis during ESS and how to manage?"
-*Source:** Scott-Brown's Volume 1, Chapters 98 (Surgical Management of Rhinosinusitis), 111 (Disorders of the Orbit)
+**Question:** *"Enumerate causes of vision affection in ENT practice and describe AEA retraction during [[FESS Steps Complications|FESS]]. Discuss orbital anatomy in relation to nose and PNS. Enumerate causes of proptosis. What causes sudden proptosis during ESS and how to manage?"*
+
+**Source:** Scott-Brown's Volume 1, Chapters 98 (Surgical Management of Rhinosinusitis), 111 (Disorders of the Orbit)
 
 ---
 

@@ -3,14 +3,13 @@ tags:
   - paper2
   - oral-cavity
   - oncology
-description: "DNB ENT Paper 2 (Rhinology) — Lip and Buccal Carcinoma, Imaging in Oral Cancer. Answers based on Scott-Brown 8th Edition."
 ---
 
 # Lip and Buccal Carcinoma, Imaging in Oral Cancer
 
-> [!question] Questions Covered
-> - Describe the anatomy and lymphatic drainage of the lip. Discuss the clinical features, investigations and management of squamous cell carcinoma of the lip. What is the role of MRI and [[PET CT Nuclear Medicine Scans|PET-CT]] in oral cancer management? Describe the aetiology of gingivobuccal sulcus carcinoma and its management when there is mandibular involvement.
-*Source:** Scott-Brown's Volume 3, Chapter 12 (Oral Cavity Tumours Including Lip Reconstruction), Chapter 2 (Aetiology of Head and Neck Cancer), Chapter 37 (Imaging of the Neck)
+**Question:** *Describe the anatomy and lymphatic drainage of the lip. Discuss the clinical features, investigations and management of squamous cell carcinoma of the lip. What is the role of MRI and [[PET CT Nuclear Medicine Scans|PET-CT]] in oral cancer management? Describe the aetiology of gingivobuccal sulcus carcinoma and its management when there is mandibular involvement.*
+
+**Source:** Scott-Brown's Volume 3, Chapter 12 (Oral Cavity Tumours Including Lip Reconstruction), Chapter 2 (Aetiology of Head and Neck Cancer), Chapter 37 (Imaging of the Neck)
 
 ---
 

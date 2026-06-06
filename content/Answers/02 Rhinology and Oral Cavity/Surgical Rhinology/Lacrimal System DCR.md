@@ -4,14 +4,13 @@ tags:
   - rhinology
   - surgery
   - fess
-description: "DNB ENT Paper 2 (Rhinology) — Lacrimal System — Physiology, Endoscopic DCR, and Lacrimal Sump. Answers based on Scott-Brown 8th Edition."
 ---
 
 # Lacrimal System — Physiology, Endoscopic DCR, and Lacrimal Sump
 
-> [!question] Questions Covered
-> - "Describe the physiology of lacrimation and preoperative evaluation for endoscopic DCR. Discuss the lacrimal system physiology, endonasal DCR technique with advantages/disadvantages, and lacrimal sump syndrome. Describe endoscopic DCR indications, advantages, and complications."
-*Source:** Scott-Brown's Volume 1, Chapter 111 (Disorders of the Orbit)
+**Question:** *"Describe the physiology of lacrimation and preoperative evaluation for endoscopic DCR. Discuss the lacrimal system physiology, endonasal DCR technique with advantages/disadvantages, and lacrimal sump syndrome. Describe endoscopic DCR indications, advantages, and complications."*
+
+**Source:** Scott-Brown's Volume 1, Chapter 111 (Disorders of the Orbit)
 
 ---
 

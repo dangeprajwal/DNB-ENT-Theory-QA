@@ -3,14 +3,13 @@ tags:
   - paper2
   - rhinology
   - anatomy
-description: "DNB ENT Paper 2 (Rhinology) — Surgical Landmarks of the Pituitary Fossa. Answers based on Scott-Brown 8th Edition."
 ---
 
 # Surgical Landmarks of the Pituitary Fossa
 
-> [!question] Questions Covered
-> - Describe the developmental anatomy and surgical landmarks of the pituitary fossa relevant to endoscopic transsphenoidal surgery.
-*Source:** Scott-Brown's Otorhinolaryngology, 8th Edition - Volume 1, Chapter 54 (Developmental Anatomy of the Pituitary Fossa)
+**Question:** *Describe the developmental anatomy and surgical landmarks of the pituitary fossa relevant to endoscopic transsphenoidal surgery.*
+
+**Source:** Scott-Brown's Otorhinolaryngology, 8th Edition - Volume 1, Chapter 54 (Developmental Anatomy of the Pituitary Fossa)
 
 ---
 
