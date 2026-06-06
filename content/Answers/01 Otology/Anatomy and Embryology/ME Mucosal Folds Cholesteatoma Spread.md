@@ -4,15 +4,14 @@ tags:
   - otology
   - anatomy
   - embryology
-description: "DNB ENT Paper 1 (Otology) — Middle Ear Mucosal Folds, Spaces & Cholesteatoma Spread. Answers based on Scott-Brown 8th Edition."
 ---
 
 # Middle Ear Mucosal Folds, Spaces & [[Mastoid Surgery Cholesteatoma|Cholesteatoma]] Spread
 
-> [!question] Questions Covered
-> - **Q110 (2024):** Describe with the help of labelled diagrams, the various middle ear mucosal folds and spaces. Describe the spread of cholesteatoma with respect to those spaces.
-> - Scott-Brown's Otorhinolaryngology 8th Edition, Volume 2 — Chapter 46 (Anatomy of External and Middle Ear), Chapter 83 (Chronic Otitis Media)
+## Questions Covered
+- **Q110 (2024):** Describe with the help of labelled diagrams, the various middle ear mucosal folds and spaces. Describe the spread of cholesteatoma with respect to those spaces.
 
+**Source:** Scott-Brown's Otorhinolaryngology 8th Edition, Volume 2 — Chapter 46 (Anatomy of External and Middle Ear), Chapter 83 (Chronic Otitis Media)
 
 ---
 

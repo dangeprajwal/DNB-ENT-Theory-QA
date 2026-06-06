@@ -4,16 +4,15 @@ tags:
   - otology
   - surgery
   - middle-ear
-description: "DNB ENT Paper 1 (Otology) — Complications of Otitis Media & Lateral Sinus Thrombosis. Answers based on Scott-Brown 8th Edition."
 ---
 
 # Complications of Otitis Media & Lateral Sinus Thrombosis
 
-> [!question] Questions Covered
-> - **Q11 (2019):** Enumerate complications of otitis media. Discuss etiopathogenesis, symptomatology & treatment of Sigmoid sinus thrombosis.
-> - **Q96 (2024):** Briefly outline the pathways of spread of complications of otitis media. Discuss the management of lateral sinus thrombosis.
-> - Scott-Brown's Otorhinolaryngology 8th Edition, Volume 2 — Chapter 83 (Chronic Otitis Media) and Chapter 84 (Intracranial Complications of Otitis Media)
+## Questions Covered
+- **Q11 (2019):** Enumerate complications of otitis media. Discuss etiopathogenesis, symptomatology & treatment of Sigmoid sinus thrombosis.
+- **Q96 (2024):** Briefly outline the pathways of spread of complications of otitis media. Discuss the management of lateral sinus thrombosis.
 
+**Source:** Scott-Brown's Otorhinolaryngology 8th Edition, Volume 2 — Chapter 83 (Chronic Otitis Media) and Chapter 84 (Intracranial Complications of Otitis Media)
 
 ---
 

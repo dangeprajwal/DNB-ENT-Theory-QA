@@ -4,14 +4,13 @@ tags:
   - otology
   - anatomy
   - embryology
-description: "DNB ENT Paper 1 (Otology) — Embryology of Otic Labyrinth and Dorello's Canal. Answers based on Scott-Brown 8th Edition."
 ---
 
 # Embryology of Otic Labyrinth and Dorello's Canal
 
-> [!question] Questions Covered
-> - Describe the embryological development of the otic labyrinth. Discuss the anatomy of Dorello's canal and the etiopathogenesis of the syndrome associated with it.
-*Source:** Scott-Brown's Otorhinolaryngology, Volume 2 - Chapters 16, 46, 99, 108, 111
+**Question:** *Describe the embryological development of the otic labyrinth. Discuss the anatomy of Dorello's canal and the etiopathogenesis of the syndrome associated with it.*
+
+**Source:** Scott-Brown's Otorhinolaryngology, Volume 2 - Chapters 16, 46, 99, 108, 111
 
 ---
 

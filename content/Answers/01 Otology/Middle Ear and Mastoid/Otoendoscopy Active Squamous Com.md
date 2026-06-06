@@ -4,14 +4,13 @@ tags:
   - otology
   - surgery
   - middle-ear
-description: "DNB ENT Paper 1 (Otology) — Oto-endoscopy and Management of Active Squamous Chronic Otitis Media. Answers based on Scott-Brown 8th Edition."
 ---
 
 # Oto-endoscopy and Management of Active Squamous Chronic Otitis Media
 
-> [!question] Questions Covered
-> - Write a brief note on oto-endoscopy. What are the advantages and disadvantages of it? Describe the management of active squamous chronic otitis media.
-*Source:** Scott-Brown's Otorhinolaryngology, Volume 2 – Chapter 87: Otoendoscopy (Bowdler, Leong & Pothier); Chapter 83: Chronic Otitis Media (Browning)
+**Question:** *Write a brief note on oto-endoscopy. What are the advantages and disadvantages of it? Describe the management of active squamous chronic otitis media.*
+
+**Source:** Scott-Brown's Otorhinolaryngology, Volume 2 – Chapter 87: Otoendoscopy (Bowdler, Leong & Pothier); Chapter 83: Chronic Otitis Media (Browning)
 
 ---
 

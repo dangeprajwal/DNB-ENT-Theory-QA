@@ -4,14 +4,11 @@ tags:
   - otology
   - anatomy
   - embryology
-description: "DNB ENT Paper 1 (Otology) — Middle Ear Transformer Mechanism. Answers based on Scott-Brown 8th Edition."
 ---
 
 # Middle Ear Transformer Mechanism
 
-> [!question] Questions Covered
-> - **Q56, 2022:** Describe the middle ear transformer mechanism with regards to physiology of hearing.
-
+**DNB Exam Question (Q56, 2022):** *Describe the middle ear transformer mechanism with regards to physiology of hearing.*
 
 Source: Scott-Brown's Otorhinolaryngology 8th Edition, Volume 2 — Chapter 48 (Physiology of Hearing)
 

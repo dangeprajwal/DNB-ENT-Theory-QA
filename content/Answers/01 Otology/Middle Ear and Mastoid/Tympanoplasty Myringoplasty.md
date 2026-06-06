@@ -4,14 +4,11 @@ tags:
   - otology
   - surgery
   - middle-ear
-description: "DNB ENT Paper 1 (Otology) — Tympanoplasty and Myringoplasty. Answers based on Scott-Brown 8th Edition."
 ---
 
 # Tympanoplasty and Myringoplasty
 
-> [!question] Questions Covered
-> - **Q79, December 2022:** Define tympanoplasty. What are the components of MERI score and its clinical use? Discuss the factors which influence the graft uptake.
-
+**Question (Q79, December 2022):** *Define tympanoplasty. What are the components of MERI score and its clinical use? Discuss the factors which influence the graft uptake.*
 
 **Question (Q81, April 2023):** *What are different graft materials used for myringoplasty? Describe the anatomy related to temporalis fascia graft. What are the advantages of this graft?*
 

@@ -4,7 +4,6 @@ tags:
   - otology
   - audiology
   - hearing
-description: "DNB ENT Paper 1 (Otology) — Idiopathic Sudden Sensorineural Hearing Loss. Answers based on Scott-Brown 8th Edition."
 ---
 
 # Idiopathic Sudden Sensorineural Hearing Loss
@@ -17,11 +16,29 @@ description: "DNB ENT Paper 1 (Otology) — Idiopathic Sudden Sensorineural Hear
 
 ---
 
-> [!question] Questions Covered
-> - Define Sudden Sensorineural Hearing Loss. Discuss the etiology, clinical features, clinical assessment, prognostic factors, and medical management of Idiopathic Sudden Sensorineural Hearing Loss.
-> - ## INTRODUCTION
-> - ## PART A: DEFINITIONS
-*30 dB or more**, over **at least three contiguous audiometric frequencies**, that develops over **72 hours or less**. The hearing loss is defined in relation to the contralateral side as premorbid audiometry is rarely available.
+**Question:** *Define Sudden Sensorineural Hearing Loss. Discuss the etiology, clinical features, clinical assessment, prognostic factors, and medical management of Idiopathic Sudden Sensorineural Hearing Loss.*
+
+Source: Scott-Brown's Otorhinolaryngology Head and Neck Surgery, Volume 2, Chapter 60
+
+---
+
+## INTRODUCTION
+
+Sudden sensorineural hearing loss (SSNHL) is an otological emergency for which definitive aetiology and treatment remains controversial, but prompt recognition and management have been shown to improve hearing outcomes and quality of life. The estimated annual incidence is 5-30 per 100,000 persons and 99% of cases are unilateral.
+
+SSNHL often affects healthy individuals and is a frightening symptom that prompts the individual to seek urgent medical attention. There is a wide age distribution with an average of 50-60 years and no sex preference. The aetiology is identified in less than 5-10% of cases, with the vast majority being idiopathic. Early recognition and prompt management may improve hearing recovery.
+
+---
+
+## PART A: DEFINITIONS
+
+### Sudden Hearing Loss
+
+Sudden hearing loss is defined as the rapid onset, occurring over a 72-hour period, of a subjective sensation of hearing impairment in one or both ears.
+
+### Audiometric Criteria
+
+A hearing loss of **30 dB or more**, over **at least three contiguous audiometric frequencies**, that develops over **72 hours or less**. The hearing loss is defined in relation to the contralateral side as premorbid audiometry is rarely available.
 
 ### Idiopathic Sudden Sensorineural Hearing Loss (ISSNHL)
 

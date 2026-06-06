@@ -4,14 +4,11 @@ tags:
   - otology
   - anatomy
   - embryology
-description: "DNB ENT Paper 1 (Otology) — Middle Ear Mechanics and Acoustic Reflex. Answers based on Scott-Brown 8th Edition."
 ---
 
 # Middle Ear Mechanics and Acoustic Reflex
 
-> [!question] Questions Covered
-> - Describe the applied anatomy and physiology of acoustic reflex. Discuss two clinical scenarios where acoustic reflex contributes to decision making. Describe middle ear mechanics and acoustic stapedial reflex measurement.
-
+**Question:** *Describe the applied anatomy and physiology of acoustic reflex. Discuss two clinical scenarios where acoustic reflex contributes to decision making. Describe middle ear mechanics and acoustic stapedial reflex measurement.*
 
 Source: Scott-Brown's Otorhinolaryngology, Volume 2, Chapter 48 - Physiology of Hearing; Chapter 51 - Psychoacoustic Audiometry
 

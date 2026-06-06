@@ -3,14 +3,11 @@ tags:
   - paper1
   - otology
   - vestibular
-description: "DNB ENT Paper 1 (Otology) — Benign Paroxysmal Positional Vertigo (BPPV). Answers based on Scott-Brown 8th Edition."
 ---
 
 # Benign Paroxysmal Positional Vertigo (BPPV)
 
-> [!question] Questions Covered
-> - **Q2, June 2019:** Clinical features, differential diagnosis and current therapy of Benign Paroxysmal Positional Vertigo (BPPV).
-
+**Question (Q2, June 2019):** *Clinical features, differential diagnosis and current therapy of Benign Paroxysmal Positional Vertigo (BPPV).*
 
 **Question (Q57, December 2021):** *What is HINTS and its role in evaluation of patient with vertigo? Describe the clinical features, evaluation and management of Benign Paroxysmal Positional Vertigo.*
 

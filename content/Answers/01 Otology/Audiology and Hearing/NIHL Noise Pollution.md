@@ -4,17 +4,16 @@ tags:
   - otology
   - audiology
   - hearing
-description: "DNB ENT Paper 1 (Otology) — NIHL and Noise Pollution. Answers based on Scott-Brown 8th Edition."
 ---
 
 # NIHL and Noise Pollution
 
-> [!question] Questions Covered
-> - **Q36 (2021):** Define noise pollution. What are the effects of noise pollution? Describe its prevention.
-> - **Q68 (2022):** Define NIHL. What are clinical features, diagnostic tests, guidelines for prevention of NIHL and management of this problem?
-> - **Q125 (2025):** Describe the auditory effects of noise pollution. Discuss the Hearing conservation program for occupational noise-induced hearing loss. What is 60 percent rule?
-> - Scott-Brown's Otorhinolaryngology 8th Edition, Volume 2 — Chapter 53 (Prevention of Hearing Loss) & Chapter 57 (Noise-Induced Hearing Loss and Related Conditions)
+## Questions Covered
+- **Q36 (2021):** Define noise pollution. What are the effects of noise pollution? Describe its prevention.
+- **Q68 (2022):** Define NIHL. What are clinical features, diagnostic tests, guidelines for prevention of NIHL and management of this problem?
+- **Q125 (2025):** Describe the auditory effects of noise pollution. Discuss the Hearing conservation program for occupational noise-induced hearing loss. What is 60 percent rule?
 
+**Source:** Scott-Brown's Otorhinolaryngology 8th Edition, Volume 2 — Chapter 53 (Prevention of Hearing Loss) & Chapter 57 (Noise-Induced Hearing Loss and Related Conditions)
 
 ---
 

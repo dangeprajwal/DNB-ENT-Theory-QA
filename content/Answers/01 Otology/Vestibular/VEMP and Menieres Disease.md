@@ -3,14 +3,13 @@ tags:
   - paper1
   - otology
   - vestibular
-description: "DNB ENT Paper 1 (Otology) — VEMP and Meniere's Disease. Answers based on Scott-Brown 8th Edition."
 ---
 
 # VEMP and [[Menieres Disease and Intratympanic Therapy|Meniere's Disease]]
 
-> [!question] Questions Covered
-> - What is VEMP? What is its role in ENT practice? Describe clinical features, evaluation and management of Meniere's disease.
-*Source:** Scott-Brown's Otorhinolaryngology, 8th Edition - Volume 2, Chapters 62 & 63
+**Question:** *What is VEMP? What is its role in ENT practice? Describe clinical features, evaluation and management of Meniere's disease.*
+
+**Source:** Scott-Brown's Otorhinolaryngology, 8th Edition - Volume 2, Chapters 62 & 63
 
 ---
 

@@ -3,15 +3,19 @@ tags:
   - paper1
   - otology
   - special-topics
-description: "DNB ENT Paper 1 (Otology) — Otological Effects of Paget's Disease. Answers based on Scott-Brown 8th Edition."
 ---
 
 # Otological Effects of Paget's Disease
 
-> [!question] Questions Covered
-> - Define Paget's disease of bone. Describe the otological effects of Paget's disease including pathophysiology, clinical features, diagnosis and management.
-> - ## INTRODUCTION
-*osteitis deformans** by Sir James Paget in 1877, is a progressive, focal disorder of bone remodelling and the **second most frequent metabolic bone disorder** worldwide. There is an increase in osteoclastic activity producing bone resorption, with reactive stimulation of osteoblasts producing increased bone deposition, resulting in bone that is architecturally unsound. This leads to bone pain, deformity and fragility. Affected individuals typically have enlargement of the skull with involvement of the pelvis, tibia or femur. The temporal bone is frequently involved when the skull is affected, producing significant otological sequelae.
+**Question:** *Define Paget's disease of bone. Describe the otological effects of Paget's disease including pathophysiology, clinical features, diagnosis and management.*
+
+Source: Scott-Brown's Otorhinolaryngology, 8th Edition — Volume 2, Chapter 90
+
+---
+
+## INTRODUCTION
+
+Paget's disease of bone (PDB), originally termed **osteitis deformans** by Sir James Paget in 1877, is a progressive, focal disorder of bone remodelling and the **second most frequent metabolic bone disorder** worldwide. There is an increase in osteoclastic activity producing bone resorption, with reactive stimulation of osteoblasts producing increased bone deposition, resulting in bone that is architecturally unsound. This leads to bone pain, deformity and fragility. Affected individuals typically have enlargement of the skull with involvement of the pelvis, tibia or femur. The temporal bone is frequently involved when the skull is affected, producing significant otological sequelae.
 
 ---
 

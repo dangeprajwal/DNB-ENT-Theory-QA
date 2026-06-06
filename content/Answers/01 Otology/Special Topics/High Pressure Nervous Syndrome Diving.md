@@ -3,14 +3,13 @@ tags:
   - paper1
   - otology
   - special-topics
-description: "DNB ENT Paper 1 (Otology) — High Pressure Nervous Syndrome in Relation To Diving. Answers based on Scott-Brown 8th Edition."
 ---
 
 # High Pressure Nervous Syndrome in Relation To Diving
 
-> [!question] Questions Covered
-> - Describe the high pressure nervous syndrome (HPNS) in relation to diving, including its pathophysiology, clinical features, and management. Discuss the other otological injuries associated with diving.
-*Source:** Scott-Brown's Otorhinolaryngology, Volume 2 – Chapter 91: Ear Trauma (Sections on Diving-Related Injuries)
+**Question:** *Describe the high pressure nervous syndrome (HPNS) in relation to diving, including its pathophysiology, clinical features, and management. Discuss the other otological injuries associated with diving.*
+
+**Source:** Scott-Brown's Otorhinolaryngology, Volume 2 – Chapter 91: Ear Trauma (Sections on Diving-Related Injuries)
 
 ---
 

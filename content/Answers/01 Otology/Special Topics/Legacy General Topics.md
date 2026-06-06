@@ -3,7 +3,6 @@ tags:
   - paper1
   - otology
   - special-topics
-description: "DNB ENT Paper 1 (Otology) — Legacy General Topics — DNB Paper 1 (Old Format). Answers based on Scott-Brown 8th Edition."
 ---
 
 # Legacy General Topics — DNB Paper 1 (Old Format)
@@ -19,14 +18,6 @@ description: "DNB ENT Paper 1 (Otology) — Legacy General Topics — DNB Paper 
 **Question 5:** *What are radionuclides? Describe their role in imaging and therapeutic application in ENT.*
 
 Source: Scott-Brown's Otorhinolaryngology, 8th Edition — Vol 1 Ch 26, Ch 29, Ch 31, Ch 98; Vol 2 Ch 81; Vol 3 Ch 24
-
-
-> [!question] Questions Covered
-> - Define osteoradionecrosis of the temporal bone. Describe its aetiopathogenesis and management.
-> - What are the manifestations of xylocaine toxicity and how do you manage them? How do you give local anaesthesia for intranasal surgeries?
-> - Describe Total Parenteral Nutrition (TPN) and its complications.
-> - Describe the etiopathogenesis of deep vein thrombosis. How do you diagnose and manage it?
-> - What are radionuclides? Describe their role in imaging and therapeutic application in ENT.
 
 ---
 

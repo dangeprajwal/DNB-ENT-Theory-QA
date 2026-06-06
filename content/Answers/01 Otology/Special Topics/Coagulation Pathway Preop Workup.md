@@ -3,7 +3,6 @@ tags:
   - paper1
   - otology
   - special-topics
-description: "DNB ENT Paper 1 (Otology) — Coagulation Pathway and Pre-operative Workup of Coagulation Disorders. Answers based on Scott-Brown 8th Edition."
 ---
 
 # Coagulation Pathway and Pre-operative Workup of Coagulation Disorders
@@ -12,9 +11,10 @@ description: "DNB ENT Paper 1 (Otology) — Coagulation Pathway and Pre-operativ
 **Scott-Brown's Otorhinolaryngology, Head & Neck Surgery, 8th Edition**
 Chapter 26: Haemostasis: Normal Physiology, Disorders of Haemostasis and Thrombosis
 
-> [!question] Questions Covered
-> - **2021 Q37:** Describe the intrinsic pathway of coagulation. Discuss the evaluation and preparation of a patient of coagulation disorder prior to surgery.
-
+## Question Covered
+| Year | Question |
+|------|----------|
+| **2021 Q37** | Describe the intrinsic pathway of coagulation. Discuss the evaluation and preparation of a patient of coagulation disorder prior to surgery. |
 
 ---
 

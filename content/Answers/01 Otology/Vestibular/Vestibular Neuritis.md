@@ -3,14 +3,11 @@ tags:
   - paper1
   - otology
   - vestibular
-description: "DNB ENT Paper 1 (Otology) — Vestibular Neuritis. Answers based on Scott-Brown 8th Edition."
 ---
 
 # Vestibular Neuritis
 
-> [!question] Questions Covered
-> - Discuss the clinical features, differential diagnosis, and current therapy of vestibular neuritis.
-
+**Question:** *Discuss the clinical features, differential diagnosis, and current therapy of vestibular neuritis.*
 
 Source: Scott-Brown's Otorhinolaryngology Head and Neck Surgery, Volume 2, Chapter 66
 
