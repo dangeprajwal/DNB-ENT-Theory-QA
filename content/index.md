@@ -3,44 +3,11 @@ title: DNB ENT Theory Q&A
 description: Complete collection of DNB ENT Theory exam questions and answers from 2011 to 2025. All 883 questions across 4 papers with answers based on Scott-Brown's Otorhinolaryngology 8th Edition.
 ---
 
-<div class="landing">
-<section class="landing-hero">
-<div class="landing-eyebrow"><i class="ti ti-stethoscope" aria-hidden="true"></i><span>Scott-Brown 8th Edition · 2011–2025</span></div>
-<h1 class="landing-title">DNB ENT Theory — Q&amp;A Resource</h1>
-<p class="landing-sub">Every theory question across all four papers, from 2011 to 2025, segregated by subspecialty with answers referenced to Scott-Brown's Otorhinolaryngology, Head &amp; Neck Surgery, 8th Edition.</p>
-<div class="landing-cta">
-<a class="cta cta-primary" href="#complete-answer-index" onclick="var s=document.querySelector('.search-button'); if(s){s.click(); return false;}"><i class="ti ti-search" aria-hidden="true"></i>Search questions</a>
-<a class="cta cta-ghost" href="#high-yield-topics--what-to-prioritise"><i class="ti ti-trending-up" aria-hidden="true"></i>High-yield topics</a>
-</div>
-<div class="landing-stats">
-<div class="stat"><div class="stat-label">Questions</div><div class="stat-value">883</div></div>
-<div class="stat"><div class="stat-label">Answer files</div><div class="stat-value">219</div></div>
-<div class="stat"><div class="stat-label">Papers</div><div class="stat-value">4</div></div>
-</div>
-</section>
-<div class="paper-cards">
-<a class="paper-card p1" href="./Answers/01-Otology/">
-<div class="paper-card-top"><i class="ti ti-ear" aria-hidden="true"></i><span class="paper-tag">Paper 1</span></div>
-<div class="paper-card-name">Otology</div>
-<div class="paper-card-desc">Audiology, vestibular, implants, mastoid surgery</div>
-</a>
-<a class="paper-card p2" href="./Answers/02-Rhinology-and-Oral-Cavity/">
-<div class="paper-card-top"><i class="ti ti-lungs" aria-hidden="true"></i><span class="paper-tag">Paper 2</span></div>
-<div class="paper-card-name">Rhinology &amp; Oral Cavity</div>
-<div class="paper-card-desc">Skull base, salivary glands, FESS, oral cancer</div>
-</a>
-<a class="paper-card p3" href="./Answers/03-Larynx-and-Head-Neck/">
-<div class="paper-card-top"><i class="ti ti-microphone-2" aria-hidden="true"></i><span class="paper-tag">Paper 3</span></div>
-<div class="paper-card-name">Larynx &amp; Head Neck</div>
-<div class="paper-card-desc">Laryngeal oncology, voice, thyroid, reconstruction</div>
-</a>
-<a class="paper-card p4" href="./Answers/04-General/">
-<div class="paper-card-top"><i class="ti ti-dna" aria-hidden="true"></i><span class="paper-tag">Paper 4</span></div>
-<div class="paper-card-name">General Topics</div>
-<div class="paper-card-desc">Flaps, imaging, LASER, research methodology</div>
-</a>
-</div>
-</div>
+# DNB ENT Theory — Complete Question & Answer Resource
+
+This website is an effort to help all students preparing for the **DNB ENT Theory Examination**. It contains all the questions asked in the DNB ENT Theory papers from **2011 to 2025**, covering all 4 papers with a total of **883 questions**. The questions and answers are segregated according to topic and subspecialty for easy navigation.
+
+All answers are based on **Scott-Brown's Otorhinolaryngology, Head and Neck Surgery, 8th Edition** as the primary reference textbook.
 
 > **Quick Links:** [[Year-wise Question Papers|Year-wise Trends & Exam Strategy]] | [[About|About This Project]] | [[Disclaimer|Disclaimer]]
 

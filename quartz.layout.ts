@@ -21,15 +21,8 @@ export const defaultContentPageLayout: PageLayout = {
       component: Component.Breadcrumbs(),
       condition: (page) => page.fileData.slug !== "index",
     }),
-    // Hide the auto title/meta on the landing page — the hero block is the title there
-    Component.ConditionalRender({
-      component: Component.ArticleTitle(),
-      condition: (page) => page.fileData.slug !== "index",
-    }),
-    Component.ConditionalRender({
-      component: Component.ContentMeta(),
-      condition: (page) => page.fileData.slug !== "index",
-    }),
+    Component.ArticleTitle(),
+    Component.ContentMeta(),
     Component.TagList(),
   ],
   left: [
