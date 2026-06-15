@@ -5,20 +5,197 @@ import { googleFontHref, googleFontSubsetHref } from "../util/theme"
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import { unescapeHTML } from "../util/escape"
 import { CustomOgImagesEmitterName } from "../plugins/emitters/ogImage"
+
+type PaperInfo = { paper: string; subject: string }
+
+// Map slug → DNB paper + subject for SEO titles
+function getPaperInfo(slug: string): PaperInfo | null {
+  if (slug.includes("01-Otology")) return { paper: "Paper 1", subject: "Otology" }
+  if (slug.includes("02-Rhinology"))
+    return { paper: "Paper 2", subject: "Rhinology & Oral Cavity" }
+  if (slug.includes("03-Larynx")) return { paper: "Paper 3", subject: "Larynx & Head Neck" }
+  if (slug.includes("04-General")) return { paper: "Paper 4", subject: "General Topics" }
+  return null
+}
+
+// Strip boilerplate from auto-extracted description so it doesn't read
+// "Questions Covered Q4 (2019) [remaining parts]..."
+function cleanDescription(raw: string | undefined): string {
+  if (!raw) return ""
+  let s = unescapeHTML(raw.trim())
+  // Remove "Questions Covered" lead-in and any "Q(num) (year)" markers
+  s = s.replace(/Questions Covered\s*/gi, "")
+  s = s.replace(/Q\d+\s*\(\d{4}\)\s*\[[^\]]*\]:?\s*/g, "")
+  s = s.replace(/Q\d+\s*\(\d{4}\):?\s*/g, "")
+  s = s.replace(/\s+/g, " ").trim()
+  // Truncate at sentence boundary near 160 chars (Google's typical SERP cap)
+  if (s.length > 160) {
+    const cut = s.slice(0, 160)
+    const lastDot = Math.max(cut.lastIndexOf("."), cut.lastIndexOf("?"), cut.lastIndexOf("!"))
+    s = lastDot > 80 ? cut.slice(0, lastDot + 1) : cut.replace(/\s+\S*$/, "") + "…"
+  }
+  return s
+}
+
+// SEO title — embed exam + paper + subject for search-friendliness
+function buildSeoTitle(
+  baseTitle: string,
+  slug: string,
+  pageTitleSuffix: string,
+  sitePageTitle: string,
+): string {
+  const info = getPaperInfo(slug)
+  // Homepage and top-level pages keep their own title
+  if (!info || slug === "index" || slug === "About" || slug === "Disclaimer") {
+    return baseTitle + pageTitleSuffix
+  }
+  // Folder index pages (e.g. "Answers/01-Otology/index", "Answers/01-Otology/Audiology-and-Hearing/index")
+  // Quartz strips "index", so slug ends with the folder name
+  // Top-level paper folders → custom title
+  if (/Answers\/0[1-4]-[^/]+\/?$/.test(slug)) {
+    return `${info.subject} (${info.paper}) — DNB ENT Theory Answers | Scott-Brown 8th Ed`
+  }
+  // Subfolder index pages
+  if (slug.endsWith("/") || /Answers\/0[1-4]-[^/]+\/[^/]+\/?$/.test(slug)) {
+    return `${baseTitle} — ${info.subject} (${info.paper}) DNB ENT Answers | Scott-Brown 8th Ed`
+  }
+  // Individual answer page — the most important for SEO
+  return `${baseTitle} — DNB ENT ${info.subject} (${info.paper}) Answer | Scott-Brown 8th Ed`
+}
+
+// Build keyword list from frontmatter tags + paper info
+function buildKeywords(fileData: any, slug: string): string {
+  const tags: string[] = (fileData?.frontmatter?.tags ?? []).map((t: any) => String(t))
+  const info = getPaperInfo(slug)
+  const baseKeywords = ["DNB ENT", "ENT exam", "DNB theory", "Scott-Brown", "Otorhinolaryngology"]
+  if (info) {
+    baseKeywords.push(info.paper, info.subject, `DNB ENT ${info.paper}`)
+  }
+  // Title also makes good keywords
+  if (fileData?.frontmatter?.title) {
+    baseKeywords.push(String(fileData.frontmatter.title))
+  }
+  // Dedupe, keep human-readable order
+  const seen = new Set<string>()
+  const out: string[] = []
+  for (const k of [...baseKeywords, ...tags]) {
+    const cleaned = k.replace(/^paper\d+$/i, "").trim()
+    if (cleaned && !seen.has(cleaned.toLowerCase())) {
+      seen.add(cleaned.toLowerCase())
+      out.push(cleaned)
+    }
+  }
+  return out.join(", ")
+}
+
+// Build JSON-LD structured data for Google rich results
+function buildJsonLd(args: {
+  title: string
+  description: string
+  url: string
+  iconPath: string
+  isAnswer: boolean
+  paperInfo: PaperInfo | null
+  publishedAt?: Date | string
+  modifiedAt?: Date | string
+  authorName: string
+}): string {
+  const {
+    title,
+    description,
+    url,
+    iconPath,
+    isAnswer,
+    paperInfo,
+    publishedAt,
+    modifiedAt,
+    authorName,
+  } = args
+  // For answer pages emit MedicalScholarlyArticle; otherwise WebSite
+  if (isAnswer) {
+    const data: any = {
+      "@context": "https://schema.org",
+      "@type": "MedicalScholarlyArticle",
+      headline: title,
+      description,
+      url,
+      author: { "@type": "Person", name: authorName },
+      publisher: {
+        "@type": "Organization",
+        name: "DNB ENT Theory Q&A",
+        logo: { "@type": "ImageObject", url: iconPath },
+      },
+      mainEntityOfPage: { "@type": "WebPage", "@id": url },
+      educationalLevel: "Postgraduate",
+      audience: { "@type": "MedicalAudience", audienceType: "Medical resident / DNB candidate" },
+    }
+    if (paperInfo) {
+      data.about = `DNB ENT ${paperInfo.paper} — ${paperInfo.subject}`
+    }
+    if (publishedAt) data.datePublished = new Date(publishedAt).toISOString()
+    if (modifiedAt) data.dateModified = new Date(modifiedAt).toISOString()
+    return JSON.stringify(data)
+  }
+  // Default: a WebSite + SiteNavigation hint for the home page
+  return JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    name: "DNB ENT Theory Q&A",
+    description,
+    url,
+  })
+}
+
+// Inline click tracking — fires gtag events for internal link clicks
+// so the analytics blind spot we identified gets filled.
+const CLICK_TRACKING_SCRIPT = `
+(function(){
+  if (typeof window === 'undefined') return;
+  document.addEventListener('click', function(e) {
+    var a = e.target.closest('a');
+    if (!a) return;
+    var href = a.getAttribute('href') || '';
+    if (!href || href.startsWith('#')) return;
+    var isExternal = /^https?:/.test(href) && !href.includes(window.location.host);
+    var label = a.textContent ? a.textContent.trim().slice(0, 80) : href;
+    if (typeof window.gtag === 'function') {
+      window.gtag('event', isExternal ? 'click_external' : 'click_internal', {
+        link_url: href,
+        link_text: label,
+        page_path: window.location.pathname
+      });
+    }
+  }, { passive: true });
+})();
+`
+
 export default (() => {
-  const Head: QuartzComponent = ({
-    cfg,
-    fileData,
-    externalResources,
-    ctx,
-  }: QuartzComponentProps) => {
+  const Head: QuartzComponent = ({ cfg, fileData, externalResources, ctx }: QuartzComponentProps) => {
     const titleSuffix = cfg.pageTitleSuffix ?? ""
-    const title =
-      (fileData.frontmatter?.title ?? i18n(cfg.locale).propertyDefaults.title) + titleSuffix
-    const description =
+    const baseTitle =
+      fileData.frontmatter?.title ?? i18n(cfg.locale).propertyDefaults.title
+
+    const rawDescription =
       fileData.frontmatter?.socialDescription ??
       fileData.frontmatter?.description ??
-      unescapeHTML(fileData.description?.trim() ?? i18n(cfg.locale).propertyDefaults.description)
+      fileData.description?.trim() ??
+      i18n(cfg.locale).propertyDefaults.description
+
+    const cleanedDescription = cleanDescription(rawDescription)
+    const description =
+      cleanedDescription ||
+      "DNB ENT theory exam answers based on Scott-Brown's Otorhinolaryngology 8th Edition. Comprehensive answers for all 4 papers from 2011 to 2025."
+
+    const slug = fileData.slug ?? ""
+    const paperInfo = getPaperInfo(slug)
+    const isAnswer =
+      !!paperInfo &&
+      slug.startsWith("Answers/") &&
+      !/Answers\/0[1-4]-[^/]+\/?$/.test(slug) &&
+      !/Answers\/0[1-4]-[^/]+\/[^/]+\/?$/.test(slug)
+
+    const title = buildSeoTitle(baseTitle, slug, titleSuffix, cfg.pageTitle)
+    const keywords = buildKeywords(fileData, slug)
 
     const { css, js, additionalHead } = externalResources
 
@@ -27,7 +204,6 @@ export default (() => {
     const baseDir = fileData.slug === "404" ? path : pathToRoot(fileData.slug!)
     const iconPath = joinSegments(baseDir, "static/icon.png")
 
-    // Url of current page
     const socialUrl =
       fileData.slug === "404" ? url.toString() : joinSegments(url.toString(), fileData.slug!)
 
@@ -35,6 +211,18 @@ export default (() => {
       (e) => e.name === CustomOgImagesEmitterName,
     )
     const ogImageDefaultPath = `https://${cfg.baseUrl}/static/og-image.png`
+
+    const jsonLd = buildJsonLd({
+      title,
+      description,
+      url: socialUrl,
+      iconPath: `https://${cfg.baseUrl}/static/icon.png`,
+      isAnswer,
+      paperInfo,
+      publishedAt: fileData.dates?.created,
+      modifiedAt: fileData.dates?.modified,
+      authorName: "Dr. Prajwal Dange",
+    })
 
     return (
       <head>
@@ -55,7 +243,7 @@ export default (() => {
 
         <meta name="og:site_name" content={cfg.pageTitle}></meta>
         <meta property="og:title" content={title} />
-        <meta property="og:type" content="website" />
+        <meta property="og:type" content={isAnswer ? "article" : "website"} />
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:title" content={title} />
         <meta name="twitter:description" content={description} />
@@ -79,13 +267,22 @@ export default (() => {
             <meta property="twitter:domain" content={cfg.baseUrl}></meta>
             <meta property="og:url" content={socialUrl}></meta>
             <meta property="twitter:url" content={socialUrl}></meta>
+            <link rel="canonical" href={socialUrl} />
           </>
         )}
 
         <link rel="icon" href={iconPath} />
         <meta name="description" content={description} />
+        {keywords && <meta name="keywords" content={keywords} />}
+        <meta name="author" content="Dr. Prajwal Dange, MCh Head Neck Surgery (AIIMS Raipur)" />
         <meta name="google-site-verification" content="K2TIFU3ZQyJPMjBYeU5efeNNZFVp9gri-Y7Ccn1Hd80" />
         <meta name="generator" content="Quartz" />
+
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: jsonLd }}
+        />
+        <script dangerouslySetInnerHTML={{ __html: CLICK_TRACKING_SCRIPT }} />
 
         {css.map((resource) => CSSResourceToStyleElement(resource, true))}
         {js

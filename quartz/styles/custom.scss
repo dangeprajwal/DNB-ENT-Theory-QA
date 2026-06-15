@@ -52,6 +52,8 @@ article p, article li {
   line-height: 1.78;
 }
 
+// (mobile rules moved to the end of this file for cascade ordering)
+
 // ── Strong: dark tone ─────────────────────────────────────────────
 article strong {
   color: var(--dark);
@@ -498,3 +500,37 @@ img {
   }
 
 } // end @media desktop
+
+// ══════════════════════════════════════════════════════════════════
+// 9. MOBILE UX OVERRIDES — placed at end of file so they win the cascade
+//    against earlier `!important` rules of equal specificity
+// ══════════════════════════════════════════════════════════════════
+@media (max-width: 600px) {
+  .article-title h1,
+  .page article > h1:first-of-type {
+    font-size: 1.75rem !important;
+    letter-spacing: -0.025em !important;
+  }
+  article h2 { font-size: 1.35rem !important; margin-top: 1.8rem !important; }
+  article h3 { font-size: 1.1rem !important; margin-top: 1.2em !important; }
+  article h4, article h5, article h6 { font-size: 1rem !important; }
+
+  // Larger tap targets for tag pills
+  a.internal.tag-link {
+    padding: 0.4rem 0.85rem !important;
+    font-size: 0.85rem !important;
+    min-height: 36px !important;
+    display: inline-flex !important;
+    align-items: center !important;
+  }
+
+  // Stack right-column children vertically on mobile (graph + backlinks)
+  .sidebar.right > .graph,
+  .sidebar.right > .backlinks {
+    width: 100% !important;
+    max-width: 100% !important;
+    flex: unset !important;
+    max-height: unset !important;
+    margin-bottom: 1rem;
+  }
+}
