@@ -9,6 +9,18 @@ This website is an effort to help all students preparing for the **DNB ENT Theor
 
 All answers are based on **Scott-Brown's Otorhinolaryngology, Head and Neck Surgery, 8th Edition** as the primary reference textbook.
 
+> [!important] 🚀 Big Upgrade Coming — Scott-Brown 9th Edition Refresh
+> Every answer on this site is about to get a **major upgrade to Scott-Brown's Otorhinolaryngology, 9th Edition** — the newest gold-standard reference in ENT.
+>
+> **What's changing, and how to spot it:**
+> - **📚 9th-Edition chapter citations** added to every answer's Source line, alongside the 8e references
+> - **🆕 New content** the 9th edition adds — clearly highlighted in-line so you can see exactly what's new without re-reading the whole answer
+> - **Latest staging systems, guidelines, and management protocols** as reflected in the 9e (updated TNM, current consensus documents, new evidence)
+>
+> **Rolling out answer-by-answer over the coming weeks.** Bookmark this page and check back regularly — the topics you're studying today may already be updated tomorrow. Look for the **"Updated to 9e"** highlight to know at a glance which sections carry the latest evidence.
+>
+> *Your feedback is welcome — if you'd like a specific topic prioritised, write to **[prajwal.dange@gmail.com](mailto:prajwal.dange@gmail.com)**.*
+
 > **Quick Links:** [[Year-wise Question Papers|Year-wise Trends & Exam Strategy]] | [[About|About This Project]] | [[Disclaimer|Disclaimer]]
 
 > [!info] About This Website
