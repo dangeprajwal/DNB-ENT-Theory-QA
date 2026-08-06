@@ -502,6 +502,74 @@ img {
 } // end @media desktop
 
 // ══════════════════════════════════════════════════════════════════
+// 9E EDITION MARKERS — highlight tag + example-callout branding
+//    Makes Scott-Brown 9th-edition updates unmissable in every answer.
+// ══════════════════════════════════════════════════════════════════
+
+// <mark>...</mark> — used inline to flag specific 9e-changed values
+mark {
+  background: linear-gradient(120deg, rgba(255, 213, 79, 0.35), rgba(255, 179, 71, 0.35));
+  color: inherit !important;
+  padding: 0.05rem 0.35rem;
+  border-radius: 4px;
+  border-left: 2px solid #f59e0b;
+  font-weight: 500;
+  box-decoration-break: clone;
+  -webkit-box-decoration-break: clone;
+}
+
+// Dark-mode variant
+[saved-theme="dark"] mark {
+  background: linear-gradient(120deg, rgba(255, 213, 79, 0.22), rgba(255, 179, 71, 0.22));
+  border-left-color: #fbbf24;
+  color: #f8fafb !important;
+}
+
+// > [!example] callout — used as the 9e "Updates & New Additions" block
+.callout[data-callout="example"] {
+  --color: #7c3aed;                                           // violet accent
+  border-left: 4px solid #7c3aed !important;
+  background: linear-gradient(
+    135deg,
+    color-mix(in srgb, #7c3aed 6%, transparent),
+    color-mix(in srgb, #7c3aed 3%, transparent)
+  ) !important;
+  border-color: color-mix(in srgb, #7c3aed 30%, var(--lightgray)) !important;
+}
+.callout[data-callout="example"] .callout-title {
+  color: #7c3aed !important;
+  font-weight: 700 !important;
+  font-size: 0.95rem !important;
+  letter-spacing: -0.005em;
+}
+.callout[data-callout="example"] .callout-title-inner {
+  color: #7c3aed !important;
+}
+.callout[data-callout="example"] .callout-icon svg {
+  stroke: #7c3aed !important;
+  fill: #7c3aed !important;
+}
+
+// Dark-mode variant for example callout
+[saved-theme="dark"] .callout[data-callout="example"] {
+  --color: #a78bfa;
+  border-left-color: #a78bfa !important;
+  background: linear-gradient(
+    135deg,
+    rgba(167, 139, 250, 0.10),
+    rgba(167, 139, 250, 0.05)
+  ) !important;
+}
+[saved-theme="dark"] .callout[data-callout="example"] .callout-title,
+[saved-theme="dark"] .callout[data-callout="example"] .callout-title-inner {
+  color: #a78bfa !important;
+}
+[saved-theme="dark"] .callout[data-callout="example"] .callout-icon svg {
+  stroke: #a78bfa !important;
+  fill: #a78bfa !important;
+}
+
+// ══════════════════════════════════════════════════════════════════
 // 9. MOBILE UX OVERRIDES — placed at end of file so they win the cascade
 //    against earlier `!important` rules of equal specificity
 // ══════════════════════════════════════════════════════════════════

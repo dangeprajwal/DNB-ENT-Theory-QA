@@ -32,9 +32,9 @@ CI should be considered for any person with severe to profound hearing loss who 
 
 | Criterion | Detail |
 |---|---|
-| Audiological threshold | ==**9e update:** Ability to hear only sounds louder than **80 dB HL at 500 Hz, 1 kHz, 2 kHz, 3 kHz and 4 kHz** bilaterally without hearing aids== *(previously specified only 2 & 4 kHz)* |
+| Audiological threshold | <mark>**9e update:** Ability to hear only sounds louder than **80 dB HL at 500 Hz, 1 kHz, 2 kHz, 3 kHz and 4 kHz** bilaterally without hearing aids</mark> *(previously specified only 2 & 4 kHz)* |
 | Hearing aid trial | Minimum **3 months** (unless inappropriate or contraindicated) |
-| Adequate benefit (adults) | ==**9e update:** **Phoneme score < 50% on the Arthur Boothroyd (AB) Word test** presented at 70 dBA== *(replaces BKB sentence testing in 9e criteria)* |
+| Adequate benefit (adults) | <mark>**9e update:** **Phoneme score < 50% on the Arthur Boothroyd (AB) Word test** presented at 70 dBA</mark> *(replaces BKB sentence testing in 9e criteria)* |
 | Adequate benefit (children) | Failure to gain speech, language and listening skills appropriate to age, developmental stage and cognitive ability |
 | Assessment | By **multidisciplinary team** (MDT); tests adapted for disabilities and communication ability |
 | Bilateral CI | Recommended for **all children** and for adults who are **blind** or have other disabilities increasing reliance on auditory stimuli as a primary sensory mechanism for spatial awareness |
@@ -82,10 +82,10 @@ CI should be considered for any person with severe to profound hearing loss who 
 ## Part B: CI Candidacy Criteria — Children (Q33, Q65, Q116, Q28)
 
 ### Audiological Criteria (Children)
-- ==**9e update:** Same NICE thresholds — **≥80 dB HL at 500 Hz, 1 kHz, 2 kHz, 3 kHz and 4 kHz** bilaterally; failure to benefit from hearing aids==
+- <mark>**9e update:** Same NICE thresholds — **≥80 dB HL at 500 Hz, 1 kHz, 2 kHz, 3 kHz and 4 kHz** bilaterally; failure to benefit from hearing aids</mark>
 - Adequate benefit defined as: speech, language and listening skills appropriate to age, developmental stage and cognitive ability
 - Assessment adapted for age and abilities
-- ==**9e emphasis: Newborn hearing screening enables identification early; implantation at or before 12 months of age gives optimal outcomes**==
+- <mark>**9e emphasis: Newborn hearing screening enables identification early; implantation at or before 12 months of age gives optimal outcomes**</mark>
 
 ### Age at Implantation
 - **Preferred age in UK:** Around **12 months**
