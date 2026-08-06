@@ -16,7 +16,12 @@ tags:
 - **Q89 (2023):** Role of HRCT temporal bone and MRI in cochlear implant surgery.
 - **Q116 (2024):** Candidacy criteria for cochlear implantation. Complications of cochlear implant surgery.
 
-**Source:** Scott-Brown's Otorhinolaryngology 8th Edition, Volume 2 — Chapter 94 (Cochlear Implants), Chapter 95 (Middle Ear Implants), Chapter 11 (Paediatric Implantation Otology)
+**Source:**
+- Scott-Brown's Otorhinolaryngology **8th Edition**, Volume 2 — Chapter 94 (Cochlear Implants), Chapter 95 (Middle Ear Implants), Chapter 11 (Paediatric Implantation Otology)
+- Scott-Brown's Otorhinolaryngology **9th Edition (2026)**, Section 1 (Otology) — Chapter 38 (Cochlear Implants) by Stephen Broomfield & Irumee Pai
+
+> [!example] 🆕 Scott-Brown 9th Edition — Updates & New Additions
+> The 9th edition (2026, Section 1 Chapter 38) **updates the NICE candidacy criteria**, **replaces the BKB test with the AB Word test**, and adds a **"Future Advances" outlook**. Look for `==highlighted text==` inside this answer to spot the specific 9e changes at a glance. New material appears in the **"9e Additions"** subsections at the end of each Part.
 
 ---
 
@@ -27,11 +32,12 @@ CI should be considered for any person with severe to profound hearing loss who 
 
 | Criterion | Detail |
 |---|---|
-| Audiological threshold | Ability to hear only sounds louder than **90 dB HL at 2 kHz and 4 kHz** without hearing aids |
+| Audiological threshold | ==**9e update:** Ability to hear only sounds louder than **80 dB HL at 500 Hz, 1 kHz, 2 kHz, 3 kHz and 4 kHz** bilaterally without hearing aids== *(previously specified only 2 & 4 kHz)* |
 | Hearing aid trial | Minimum **3 months** (unless inappropriate or contraindicated) |
-| Adequate benefit (adults) | Score of **≥50% on BKB (Bamford-Kowal-Bench) sentence testing** at 70 dB SPL |
+| Adequate benefit (adults) | ==**9e update:** **Phoneme score < 50% on the Arthur Boothroyd (AB) Word test** presented at 70 dBA== *(replaces BKB sentence testing in 9e criteria)* |
+| Adequate benefit (children) | Failure to gain speech, language and listening skills appropriate to age, developmental stage and cognitive ability |
 | Assessment | By **multidisciplinary team** (MDT); tests adapted for disabilities and communication ability |
-| Bilateral CI | Recommended for adults who are **blind** or have other disabilities increasing reliance on auditory stimuli |
+| Bilateral CI | Recommended for **all children** and for adults who are **blind** or have other disabilities increasing reliance on auditory stimuli as a primary sensory mechanism for spatial awareness |
 
 ### Assessment Process
 - **Audiological:** PTA, speech audiometry (BKB sentences), ABR (validates behavioural responses, detects central problems/absent cochlear nerve, rules out non-organic hearing loss)
@@ -76,9 +82,10 @@ CI should be considered for any person with severe to profound hearing loss who 
 ## Part B: CI Candidacy Criteria — Children (Q33, Q65, Q116, Q28)
 
 ### Audiological Criteria (Children)
-- Same NICE thresholds: >90 dB HL at 2 and 4 kHz; failure to benefit from hearing aids
+- ==**9e update:** Same NICE thresholds — **≥80 dB HL at 500 Hz, 1 kHz, 2 kHz, 3 kHz and 4 kHz** bilaterally; failure to benefit from hearing aids==
 - Adequate benefit defined as: speech, language and listening skills appropriate to age, developmental stage and cognitive ability
 - Assessment adapted for age and abilities
+- ==**9e emphasis: Newborn hearing screening enables identification early; implantation at or before 12 months of age gives optimal outcomes**==
 
 ### Age at Implantation
 - **Preferred age in UK:** Around **12 months**
@@ -323,6 +330,29 @@ Patients with bilateral CIs have improved outcomes compared to unilateral CI:
 
 ---
 
+## Part G: 🆕 Future Advances in Cochlear Implantation (Scott-Brown 9e — New Section)
+
+> [!example] 🆕 New in Scott-Brown 9th Edition (Ch 38 Key Messages)
+> Alongside continually improving electrode design, processing strategies and surgical techniques, future advances in cochlear implantation include:
+>
+> - **Totally implantable device** — no external processor or coil; internal microphone + rechargeable battery
+> - **Improved neural stimulation strategies** — current focusing, virtual channels, closed-loop stimulation using cochlear feedback
+> - **Increasing use of robots** — robotic-assisted electrode insertion for millimetre-precision, controlled-speed insertion; reduces insertion trauma and helps hearing preservation
+> - **Routine use of drug-eluting electrodes** — dexamethasone-eluting arrays to reduce intracochlear fibrosis and preserve residual hearing
+> - **Inner-ear treatment with gene or stem cell therapies** — regeneration of hair cells and spiral ganglion neurons; combined therapy alongside implantation
+>
+> **Unmet need highlighted:** One of the greatest challenges in CI remains the substantial unmet need in both developed and developing countries — cost, access to MDT, and long-term rehabilitation infrastructure remain barriers even where the surgery itself is available.
+
+### 9e Key Messages Summary (Broomfield & Pai, 2026)
+1. CI has transformed management of severe-to-profound hearing loss
+2. Candidacy criteria differ between countries and are constantly evolving
+3. Modern criteria increasingly include residual hearing, SSD, complex needs, anatomical abnormalities
+4. Surgery is usually via cortical mastoidectomy + posterior tympanotomy; hearing preservation techniques increasingly used; serious complications rare
+5. Newborn hearing screening + implantation ≤ 12 months = optimal outcomes for congenital SNHL
+6. Unmet need remains the greatest global challenge
+
+---
+
 ## Question-Answer Mapping
 
 | Question | Parts to Read |
@@ -335,5 +365,5 @@ Patients with bilateral CIs have improved outcomes compared to unilateral CI:
 | Q116 (CI candidacy + complications) | A + B (Candidacy) → F (Complications) |
 
 ---
-*Source: Scott-Brown's Otorhinolaryngology 8th Edition, Volume 2, Chapters 11, 94, 95*
+*Source: Scott-Brown's Otorhinolaryngology 8th Edition, Volume 2, Chapters 11, 94, 95 • Scott-Brown 9th Edition (2026), Section 1 Chapter 38 (Broomfield & Pai)*
 *Cross-references: Auditory_Brainstem_Implants.md (Q4 ABI), Electroacoustic_Stimulation_Hearing_Preservation_CI.md (Q12 EAS), Auditory_Pathway_Neuropathy_Comprehensive.md (ANSD, neural plasticity), Bone_Conduction_MEI_Devices_Comprehensive.md (BCD), Mastoid_Surgery_Cholesteatoma_Comprehensive.md (posterior tympanotomy)*
