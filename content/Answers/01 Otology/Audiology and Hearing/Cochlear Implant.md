@@ -9,8 +9,8 @@ tags:
 # Cochlear Implant
 
 ## Questions Covered
-- **Q4 (2019) [remaining parts]:** Benefits of bilateral cochlear implantation. Indications of cochlear implantation in adults. *(ABI part already completed in `Auditory_Brainstem_Implants.md`)*
-- **Q28 (2020) [CI candidacy part]:** Candidacy criteria for cochlear implant surgery. *(Posterior tympanotomy anatomy part → `Mastoid_Surgery_[[Mastoid Surgery Cholesteatoma|Cholesteatoma]]_Comprehensive.md`)*
+- **Q4 (2019) [remaining parts]:** Benefits of bilateral cochlear implantation. Indications of cochlear implantation in adults. *(ABI part already completed in [[Auditory Brainstem Implants]])*
+- **Q28 (2020) [CI candidacy part]:** Candidacy criteria for cochlear implant surgery. *(Posterior tympanotomy anatomy part → [[Mastoid Surgery Cholesteatoma]])*
 - **Q33 (2021):** Candidacy criteria for cochlear implantation. Evaluation of child for cochlear implantation.
 - **Q65 (2022):** Types of middle ear implant. Candidacy criteria for cochlear implant in children & adults.
 - **Q89 (2023):** Role of HRCT temporal bone and MRI in cochlear implant surgery.
@@ -57,7 +57,7 @@ CI should be considered for any person with severe to profound hearing loss who 
 - First described by House & Sheehy (1961) — otosclerosis with profound hearing loss
 - CI outcomes in FAO equivalent to other aetiologies; some are best performers (otosclerosis generally spares sensory elements)
 - Higher risk of non-auditory stimulation (facial nerve stimulation) — manageable by deactivating responsible electrodes
-- *Cross-reference: `Otosclerosis_Comprehensive_Answer.md` for FAO pathology*
+- *Cross-reference: [[Otosclerosis]] for FAO pathology*
 
 **Neurofibromatosis Type 2 (NF2):**
 - Hearing loss from bilateral [[Vestibular Schwannoma|vestibular schwannoma]]s or their treatment
@@ -75,7 +75,7 @@ CI should be considered for any person with severe to profound hearing loss who 
 - Combined hearing aid + CI in same ear for "ski-slope" losses
 - Specially designed short electrodes (e.g., Cochlear Hybrid) — basal turn only
 - Many surgeons prefer medium/standard atraumatic electrode — hearing often preserved; if lost, full frequency coverage maintained
-- *Cross-reference: `Electroacoustic_Stimulation_Hearing_Preservation_CI.md` for EAS details*
+- *Cross-reference: [[Electroacoustic Stimulation Hearing Preservation CI]] for EAS details*
 
 ---
 
@@ -94,7 +94,7 @@ CI should be considered for any person with severe to profound hearing loss who 
 - Earlier CI → better language development; children implanted <18 months show similar language development rate as normal hearing peers
 - Children implanted after 3 years may struggle to catch up
 - Universal Newborn Hearing Screening (UNHS) enables early identification of profound hearing loss
-- *Cross-reference: `Auditory_Pathway_Neuropathy_Comprehensive.md` Part B for neural plasticity/critical period*
+- *Cross-reference: [[Auditory Pathway Neuropathy]] Part B for neural plasticity/critical period*
 
 ### Evaluation of a Child for CI (Q33)
 1. **Audiological assessment:** PTA (conditioned), ABR, OAE, aided audiometry, speech perception testing appropriate to age
@@ -118,7 +118,7 @@ CI should be considered for any person with severe to profound hearing loss who 
 - Prevalence up to 10% in children with permanent hearing loss
 - Severe-profound ANSD → CI effective rehabilitation
 - Hearing may improve over time → observation period recommended (most children observed until at least 6 months for behavioural assessments)
-- *Cross-reference: `Auditory_Pathway_Neuropathy_Comprehensive.md` Parts C-E for ANSD diagnosis/management*
+- *Cross-reference: [[Auditory Pathway Neuropathy]] Parts C-E for ANSD diagnosis/management*
 
 ### Anatomical Abnormalities
 - Present in ~20% of congenital profound SNHL
@@ -261,7 +261,7 @@ Patients with bilateral CIs have improved outcomes compared to unilateral CI:
 - MEI: Moderate-severe SNHL failing conventional hearing aids; or mixed HL with failed hearing aid/stapedotomy/BCI
 - CI: Severe-profound SNHL (>90 dB HL at 2 & 4 kHz) with <50% BKB score
 - BCD: Conductive/mixed (BC thresholds <45 dB percutaneous, <25 dB passive transcutaneous), SSD, atresia
-- *Cross-reference: `Bone_Conduction_MEI_Devices_Comprehensive.md` for BCD details*
+- *Cross-reference: [[Bone Conduction MEI Devices]] for BCD details*
 
 ---
 
@@ -357,8 +357,8 @@ Patients with bilateral CIs have improved outcomes compared to unilateral CI:
 
 | Question | Parts to Read |
 |---|---|
-| Q4 (Bilateral CI benefits, adult CI indications) | A (Adult candidacy) → C (Bilateral CI benefits); *ABI → `Auditory_Brainstem_Implants.md`* |
-| Q28 (CI candidacy + posterior tympanotomy) | A + B (Candidacy); *PT anatomy → `Mastoid_Surgery_Cholesteatoma_Comprehensive.md` Part I* |
+| Q4 (Bilateral CI benefits, adult CI indications) | A (Adult candidacy) → C (Bilateral CI benefits); *ABI → [[Auditory Brainstem Implants]]* |
+| Q28 (CI candidacy + posterior tympanotomy) | A + B (Candidacy); *PT anatomy → [[Mastoid Surgery Cholesteatoma]] Part I* |
 | Q33 (CI candidacy + child evaluation) | A + B (Candidacy, child evaluation protocol) |
 | Q65 (MEI types + CI candidacy) | E (MEI types) → A + B (CI candidacy) |
 | Q89 (HRCT & MRI in CI) | D (Imaging assessment) |
@@ -366,4 +366,4 @@ Patients with bilateral CIs have improved outcomes compared to unilateral CI:
 
 ---
 *Source: Scott-Brown's Otorhinolaryngology 8th Edition, Volume 2, Chapters 11, 94, 95 • Scott-Brown 9th Edition (2026), Section 1 Chapter 38 (Broomfield & Pai)*
-*Cross-references: Auditory_Brainstem_Implants.md (Q4 ABI), Electroacoustic_Stimulation_Hearing_Preservation_CI.md (Q12 EAS), Auditory_Pathway_Neuropathy_Comprehensive.md (ANSD, neural plasticity), Bone_Conduction_MEI_Devices_Comprehensive.md (BCD), Mastoid_Surgery_Cholesteatoma_Comprehensive.md (posterior tympanotomy)*
+*Cross-references: [[Auditory Brainstem Implants]] (Q4 ABI), [[Electroacoustic Stimulation Hearing Preservation CI]] (Q12 EAS), [[Auditory Pathway Neuropathy]] (ANSD, neural plasticity), [[Bone Conduction MEI Devices]] (BCD), [[Mastoid Surgery Cholesteatoma]] (posterior tympanotomy)*
