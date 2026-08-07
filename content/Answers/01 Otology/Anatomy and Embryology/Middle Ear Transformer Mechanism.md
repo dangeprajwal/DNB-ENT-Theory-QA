@@ -232,12 +232,12 @@ Large perforations cause greater hearing loss partly because of loss of round wi
 
 ## CROSS-REFERENCES
 
-- **Middle Ear Mechanics and Acoustic Reflex (Q15):** See `Middle_Ear_Mechanics_Acoustic_Reflex_Answer.md` for a complementary discussion focusing on middle ear mechanics from the perspective of acoustic reflex measurement and its clinical applications in audiological diagnosis (tympanometry, reflex threshold, reflex decay).
-- **Otosclerosis:** See `Otosclerosis_Comprehensive_Answer.md` for detailed discussion of Carhart's notch, stapes fixation pathophysiology, and surgical management.
-- **Tympanoplasty and Myringoplasty:** See `Tympanoplasty_Myringoplasty_Comprehensive.md` for surgical techniques that aim to restore the transformer mechanism.
-- **Ossiculoplasty:** See `Ossiculoplasty_CSF_Otorrhea_Cochleostomy.md` for PORP/TORP reconstruction principles.
-- **[[Stapes Surgery|Stapes Surgery]]:** See `Stapes_Surgery_Comprehensive.md` for surgical restoration of stapes mobility in otosclerosis.
-- **Audiometric Testing:** See `Audiometric_Testing_Comprehensive.md` for details on measuring conductive hearing loss and air-bone gaps.
+- **Middle Ear Mechanics and Acoustic Reflex (Q15):** See [[Middle Ear Mechanics and Acoustic Reflex]] for a complementary discussion focusing on middle ear mechanics from the perspective of acoustic reflex measurement and its clinical applications in audiological diagnosis (tympanometry, reflex threshold, reflex decay).
+- **Otosclerosis:** See [[Otosclerosis]] for detailed discussion of Carhart's notch, stapes fixation pathophysiology, and surgical management.
+- **Tympanoplasty and Myringoplasty:** See [[Tympanoplasty Myringoplasty]] for surgical techniques that aim to restore the transformer mechanism.
+- **Ossiculoplasty:** See [[Ossiculoplasty CSF Otorrhea Cochleostomy]] for PORP/TORP reconstruction principles.
+- **[[Stapes Surgery|Stapes Surgery]]:** See [[Stapes Surgery]] for surgical restoration of stapes mobility in otosclerosis.
+- **Audiometric Testing:** See [[Audiometric Testing]] for details on measuring conductive hearing loss and air-bone gaps.
 
 ---
 

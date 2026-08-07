@@ -330,7 +330,7 @@ Management depends on age, severity, aetiology, and associated comorbidities. A 
 | **Recommended by** | JCIH, AAP, NHS England | Historically used, now largely replaced by UNHS |
 | **Method** | OAE for well-baby; ABR for NICU babies | ABR preferred for high-risk |
 
-**Note:** For more details on OAE types, screening protocols, and UNHS vs targeted screening, see existing answer `Neonatal_Hearing_Screening_OAE_Answer.md` (Q51, Q77, Q120).
+**Note:** For more details on OAE types, screening protocols, and UNHS vs targeted screening, see existing answer [[Neonatal Hearing Screening OAE]] (Q51, Q77, Q120).
 
 ---
 

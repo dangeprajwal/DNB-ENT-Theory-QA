@@ -37,7 +37,7 @@ Paragangliomas (previously termed glomus tumours or chemodectomas) are the most 
 
 - **Paraganglioma** is the most common primary neoplasm of the middle ear and the most common tumour of the jugular foramen
 - **SCC** is the most common primary malignant tumour of the temporal bone; however, it is extremely rare (incidence ~1-6 per million per year)
-- **[[Vestibular Schwannoma|Vestibular schwannoma]]** arises at the CPA/IAM and is covered separately (see `Vestibular_Schwannoma_Comprehensive.md`)
+- **[[Vestibular Schwannoma|Vestibular schwannoma]]** arises at the CPA/IAM and is covered separately (see [[Vestibular Schwannoma]])
 - **Endolymphatic sac tumour** is associated with von Hippel-Lindau disease; presents with SNHL and destructive petrous bone lesion
 - **Rhabdomyosarcoma** is the most common malignant temporal bone tumour in children
 - **Metastatic deposits** to the temporal bone most commonly originate from breast, lung, renal, and prostate primaries
@@ -361,4 +361,4 @@ Indications for radiotherapy include:
 ---
 
 *Source: Scott-Brown's Otorhinolaryngology 8th Edition, Volume 2, Chapters 99, 100*
-*Cross-references: Vestibular_Schwannoma_Comprehensive.md (CPA tumours, skull base surgery), Facial_Nerve_Comprehensive.md (facial nerve anatomy, rerouting), Mastoid_Surgery_[[Mastoid Surgery Cholesteatoma|Cholesteatoma]]_Comprehensive.md (mastoidectomy technique)*
+*Cross-references: [[Vestibular Schwannoma]] (CPA tumours, skull base surgery), [[Facial Nerve]] (facial nerve anatomy, rerouting), Mastoid_Surgery_[[Mastoid Surgery Cholesteatoma|Cholesteatoma]]_Comprehensive.md (mastoidectomy technique)*

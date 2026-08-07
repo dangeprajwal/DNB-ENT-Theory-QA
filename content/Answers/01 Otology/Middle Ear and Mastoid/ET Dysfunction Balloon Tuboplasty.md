@@ -333,14 +333,14 @@ Approximately 60-75% of patients show significant improvement in ETDQ-7 scores f
 
 | Topic | File |
 |-------|------|
-| Chronic Suppurative Otitis Media and Complications | `CSOM_Complications_Comprehensive.md` |
-| Tympanoplasty and Myringoplasty | `Tympanoplasty_Myringoplasty_Comprehensive.md` |
-| Mastoid Surgery and Cholesteatoma | `Mastoid_Surgery_Cholesteatoma_Comprehensive.md` |
-| [[Endoscopic Ear Surgery|Endoscopic Ear Surgery]] | `Endoscopic_Ear_Surgery_Comprehensive.md` |
-| Middle Ear Mechanics and Acoustic Reflex | `Middle_Ear_Mechanics_Acoustic_Reflex_Answer.md` |
-| Tympanosclerosis | `Tympanosclerosis_Answer.md` |
-| Audiometric Testing | `Audiometric_Testing_Comprehensive.md` |
-| [[Ossiculoplasty CSF Otorrhea Cochleostomy|Ossiculoplasty]] | `Ossiculoplasty_CSF_Otorrhea_Cochleostomy.md` |
+| Chronic Suppurative Otitis Media and Complications | [[CSOM Complications]] |
+| Tympanoplasty and Myringoplasty | [[Tympanoplasty Myringoplasty]] |
+| Mastoid Surgery and Cholesteatoma | [[Mastoid Surgery Cholesteatoma]] |
+| [[Endoscopic Ear Surgery|Endoscopic Ear Surgery]] | [[Endoscopic Ear Surgery]] |
+| Middle Ear Mechanics and Acoustic Reflex | [[Middle Ear Mechanics and Acoustic Reflex]] |
+| Tympanosclerosis | [[Tympanosclerosis]] |
+| Audiometric Testing | [[Audiometric Testing]] |
+| [[Ossiculoplasty CSF Otorrhea Cochleostomy|Ossiculoplasty]] | [[Ossiculoplasty CSF Otorrhea Cochleostomy]] |
 
 ---
 

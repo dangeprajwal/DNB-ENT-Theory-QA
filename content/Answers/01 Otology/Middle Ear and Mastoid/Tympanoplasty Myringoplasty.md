@@ -14,7 +14,7 @@ tags:
 
 **Question (Q82, April 2023):** *Discuss sensory innervations of external ear. Describe technique and points for local anaesthesia for tympanoplasty.*
 
-**Question (Q95, October 2023):** *Paediatric tympanoplasty.* *(Pulsatile [[Tinnitus|tinnitus]] part already covered in Tinnitus_Answer.md)*
+**Question (Q95, October 2023):** *Paediatric tympanoplasty.* *(Pulsatile [[Tinnitus|tinnitus]] part already covered in [[Tinnitus]])*
 
 **Source:** Scott-Brown's Otorhinolaryngology, 8th Edition - Volume 2, Chapter 84: Myringoplasty; Chapter 85: [[Ossiculoplasty CSF Otorrhea Cochleostomy|Ossiculoplasty]]; Chapter 46: Anatomy and Embryology of the External and Middle Ear; Chapter 92: Otalgia
 

@@ -223,11 +223,11 @@ Postoperative care following the translabyrinthine approach requires ICU or high
 
 ## Cross-References
 
-- **[Vestibular Schwannoma — Comprehensive](Vestibular_Schwannoma_Comprehensive.md):** Detailed classification (Koos, Samii), imaging, all surgical approaches, and management algorithms
+- **[Vestibular Schwannoma — Comprehensive]([[Vestibular Schwannoma]]):** Detailed classification (Koos, Samii), imaging, all surgical approaches, and management algorithms
 - **[[VEMP and Menieres Disease]]:** Vestibular evoked myogenic potentials in Meniere's disease diagnosis, electrocochleography, and medical management of Meniere's disease
-- **[Facial Nerve — Comprehensive](Facial_Nerve_Comprehensive.md):** Facial nerve anatomy, House-Brackmann grading, electrodiagnostics, and surgical management
-- **[Vestibular Physiology and Testing](Vestibular_Physiology_Testing_Comprehensive.md):** Caloric testing, vestibular compensation mechanisms, vestibular rehabilitation
-- **[Vestibular Neuritis](Vestibular_Neuritis_Answer.md):** Vestibular compensation physiology relevant to post-labyrinthectomy recovery
+- **[Facial Nerve — Comprehensive]([[Facial Nerve]]):** Facial nerve anatomy, House-Brackmann grading, electrodiagnostics, and surgical management
+- **[Vestibular Physiology and Testing]([[Vestibular Physiology Testing]]):** Caloric testing, vestibular compensation mechanisms, vestibular rehabilitation
+- **[Vestibular Neuritis]([[Vestibular Neuritis]]):** Vestibular compensation physiology relevant to post-labyrinthectomy recovery
 
 ---
 

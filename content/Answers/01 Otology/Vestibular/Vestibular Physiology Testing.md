@@ -263,7 +263,7 @@ Vestibular Evoked Myogenic Potentials (VEMPs) are short-latency electromyographi
 5. **[[Otosclerosis|Otosclerosis]]:** Absent/reduced cVEMP due to stapes fixation (conductive component)
 6. **Age-related decline monitoring**
 
-**Note:** For more detailed VEMP clinical applications, see existing answer `VEMP_and_Menieres_Disease_Answer.md` (Q67)
+**Note:** For more detailed VEMP clinical applications, see existing answer [[VEMP and Menieres Disease]] (Q67)
 
 ---
 

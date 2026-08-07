@@ -293,9 +293,9 @@ Journals serve as the final gatekeepers of publication integrity. **Mandatory pl
 
 ## CROSS-REFERENCES TO RELATED FILES
 
-- **Research_Methodology_Bias_Errors_Answer.md** -- Type I and Type II errors, systematic errors and bias in research (complements Part C of this document on errors in hypothesis testing)
-- **Research_Methodology_Study_Designs_Answer.md** -- Study designs (RCT, cohort, case-control), levels of evidence, evidence-based medicine (complements Part A hierarchy of evidence)
-- **Research_Types_Evaluation_Indexing_Impact_Factor.md** -- Research types, PICO framework, evaluation of research papers, impact factor, journal indexing (complements Part A on outcomes research framework and research question formulation)
+- **[[Research Bias and Errors]]** -- Type I and Type II errors, systematic errors and bias in research (complements Part C of this document on errors in hypothesis testing)
+- **[[Research Study Designs]]** -- Study designs (RCT, cohort, case-control), levels of evidence, evidence-based medicine (complements Part A hierarchy of evidence)
+- **[[Research Types Evaluation and Indexing]]** -- Research types, PICO framework, evaluation of research papers, impact factor, journal indexing (complements Part A on outcomes research framework and research question formulation)
 
 ---
 

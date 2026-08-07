@@ -220,7 +220,7 @@ Electrocochleography is a near-field recording of the electrical potentials gene
 4. **Auditory neuropathy spectrum disorder (ANSD):** Presence of CM with absent or grossly abnormal AP/ABR helps diagnose ANSD
 5. **Perilymphatic fistula:** May demonstrate electrophysiological changes during provocative testing
 
-**Note:** For [[VEMP and Menieres Disease|VEMP]] (Q9), see the existing comprehensive answer in `VEMP_and_Menieres_Disease_Answer.md` which covers cVEMP, oVEMP, types, technique, and clinical applications.
+**Note:** For [[VEMP and Menieres Disease|VEMP]] (Q9), see the existing comprehensive answer in [[VEMP and Menieres Disease]] which covers cVEMP, oVEMP, types, technique, and clinical applications.
 
 ---
 

@@ -13,8 +13,8 @@ tags:
 - **Q3 (2019):** Discuss the fenestra options and types of prosthesis used for stapedotomy.
 - **Q46 (2021):** Complications of stapes surgery. How will you manage a dislocated incus encountered during stapes surgery?
 - **Q71 (2022):** Describe types of LASER used in otological surgery with its advantages.
-- **Q113 (2024) [Surgery part]:** Describe the surgical techniques for [[Otosclerosis|otosclerosis]]. *(Pathology/diagnosis → `Otosclerosis_Comprehensive_Answer.md`; obliteration part → `Mastoid_Surgery_[[Mastoid Surgery Cholesteatoma|Cholesteatoma]]_Comprehensive.md`)*
-- **Q94 (2023) [Stapedotomy part]:** Post-operative complications of stapedotomy. *(Residivism after mastoid surgery → `Mastoid_Surgery_Cholesteatoma_Comprehensive.md`)*
+- **Q113 (2024) [Surgery part]:** Describe the surgical techniques for [[Otosclerosis|otosclerosis]]. *(Pathology/diagnosis → [[Otosclerosis]]; obliteration part → `Mastoid_Surgery_[[Mastoid Surgery Cholesteatoma|Cholesteatoma]]_Comprehensive.md`)*
+- **Q94 (2023) [Stapedotomy part]:** Post-operative complications of stapedotomy. *(Residivism after mastoid surgery → [[Mastoid Surgery Cholesteatoma]])*
 
 **Source:** Scott-Brown's Otorhinolaryngology 8th Edition, Volume 2 — Chapter 89 (Otosclerosis)
 
@@ -340,4 +340,4 @@ Three main causes at revision surgery:
 
 ---
 *Source: Scott-Brown's Otorhinolaryngology 8th Edition, Volume 2, Chapter 89*
-*Cross-references: Otosclerosis_Comprehensive_Answer.md (pathology, diagnosis, FAO), Cochlear_Implant_Comprehensive.md (CI in FAO), Mastoid_Surgery_Cholesteatoma_Comprehensive.md (obliteration, residivism)*
+*Cross-references: [[Otosclerosis]] (pathology, diagnosis, FAO), [[Cochlear Implant]] (CI in FAO), [[Mastoid Surgery Cholesteatoma]] (obliteration, residivism)*

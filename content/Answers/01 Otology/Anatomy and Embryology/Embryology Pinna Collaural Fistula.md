@@ -276,13 +276,13 @@ Successful surgical management depends on several factors. **Previous incision a
 
 | Related Topic | Recommended File / Chapter |
 |---------------|---------------------------|
-| Preauricular sinus — recurrent management | `Recurrent_Preauricular_Sinus_Answer.md` |
-| Facial nerve anatomy and surgical identification | `Facial_Nerve_Comprehensive.md`; Scott-Brown Ch. 47 (Anatomy of Facial Nerve) |
+| Preauricular sinus — recurrent management | [[Recurrent Preauricular Sinus]] |
+| Facial nerve anatomy and surgical identification | [[Facial Nerve]]; Scott-Brown Ch. 47 (Anatomy of Facial Nerve) |
 | Middle ear embryology and ossicular development | Scott-Brown Ch. 46 (Anatomy and Embryology of External and Middle Ear) |
-| Congenital hearing loss and auricular anomalies | `DNB_ENT_Congenital_Hearing_Loss_Answers.md` |
+| Congenital hearing loss and auricular anomalies | [[Congenital Hearing Loss]] |
 | Second, third, fourth branchial cleft anomalies | Scott-Brown Ch. 41 (Cysts and Sinuses of Head and Neck) |
 | Microtia reconstruction techniques | Scott-Brown Ch. 16 (Microtia and External Ear Abnormalities) |
-| CSOM and middle ear surgery (relevant to EAC atresia repair) | `CSOM_Complications_Comprehensive.md`; `Mastoid_Surgery_Cholesteatoma_Comprehensive.md` |
+| CSOM and middle ear surgery (relevant to EAC atresia repair) | [[CSOM Complications]]; [[Mastoid Surgery Cholesteatoma]] |
 
 ---
 

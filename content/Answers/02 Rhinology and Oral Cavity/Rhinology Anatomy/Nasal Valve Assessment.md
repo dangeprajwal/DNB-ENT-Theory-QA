@@ -21,7 +21,7 @@ tags:
 
 The nasal valves are the flow-limiting segments of the nasal airway and are critical to nasal airflow. The internal nasal valve represents the narrowest portion of the nasal cavity and is the primary determinant of nasal resistance. Understanding nasal valve anatomy is essential for evaluating nasal obstruction, planning septorhinoplasty, and interpreting objective nasal function tests. Nasal resistance contributes up to 50% of total airway resistance, and its measurement by rhinomanometry, acoustic rhinometry, or peak nasal inspiratory flow provides objective data to guide surgical and medical management.
 
-**Note on Sternberg's canal:** This topic is covered in detail in the separate answer file `Sternbergs_Canal_CSF_Leaks.md`. Briefly, Sternberg's canal (lateral craniopharyngeal canal) is a persistent embryological defect at the junction of the lateral wall of the sphenoid sinus with the pterygoid process, representing failure of fusion of the basisphenoid and presphenoid ossification centres. It is a recognized pathway for spontaneous [[CSF Rhinorrhea|CSF rhinorrhoea]] and skull base encephaloceles.
+**Note on Sternberg's canal:** This topic is covered in detail in the separate answer file [[Sternbergs Canal CSF Leaks]]. Briefly, Sternberg's canal (lateral craniopharyngeal canal) is a persistent embryological defect at the junction of the lateral wall of the sphenoid sinus with the pterygoid process, representing failure of fusion of the basisphenoid and presphenoid ossification centres. It is a recognized pathway for spontaneous [[CSF Rhinorrhea|CSF rhinorrhoea]] and skull base encephaloceles.
 
 ---
 

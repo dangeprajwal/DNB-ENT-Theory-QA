@@ -184,10 +184,10 @@ Despite its value as an adjunct, the endoscope cannot replace the operating micr
 ---
 
 ## Cross-References
-- **Tympanoplasty techniques and graft materials** — see `Tympanoplasty_Myringoplasty_Comprehensive.md`
-- **Cholesteatoma surgery and mastoidectomy** — see `Mastoid_Surgery_Cholesteatoma_Comprehensive.md`
-- **Otoendoscopy in active squamous COM** — see `Otoendoscopy_Active_Squamous_COM.md`
-- **Vestibular schwannoma management** — see `Vestibular_Schwannoma_Comprehensive.md`
-- **Ossiculoplasty and CSF otorrhea** — see `Ossiculoplasty_CSF_Otorrhea_Cochleostomy.md`
-- **Facial nerve monitoring and anatomy** — see `Facial_Nerve_Comprehensive.md`
-- **[[Stapes Surgery|Stapes surgery]] and LASER in otology** — see `Stapes_Surgery_Comprehensive.md`
+- **Tympanoplasty techniques and graft materials** — see [[Tympanoplasty Myringoplasty]]
+- **Cholesteatoma surgery and mastoidectomy** — see [[Mastoid Surgery Cholesteatoma]]
+- **Otoendoscopy in active squamous COM** — see [[Otoendoscopy Active Squamous Com]]
+- **Vestibular schwannoma management** — see [[Vestibular Schwannoma]]
+- **Ossiculoplasty and CSF otorrhea** — see [[Ossiculoplasty CSF Otorrhea Cochleostomy]]
+- **Facial nerve monitoring and anatomy** — see [[Facial Nerve]]
+- **[[Stapes Surgery|Stapes surgery]] and LASER in otology** — see [[Stapes Surgery]]

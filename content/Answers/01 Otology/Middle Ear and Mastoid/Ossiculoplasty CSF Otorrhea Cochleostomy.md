@@ -308,4 +308,4 @@ Erosion of the long process of the incus is the **most common ossicular chain de
 
 ---
 *Source: Scott-Brown's Otorhinolaryngology 8th Edition, Volume 2, Chapters 85, 91, 94*
-*Cross-references: Cochlear_Implant_Comprehensive.md (CI candidacy, complications), Facial_Nerve_Comprehensive.md (TB fractures, FN palsy), [[Tympanoplasty Myringoplasty|Tympanoplasty]]_Myringoplasty_Comprehensive.md (MERI, graft materials)*
+*Cross-references: [[Cochlear Implant]] (CI candidacy, complications), [[Facial Nerve]] (TB fractures, FN palsy), [[Tympanoplasty Myringoplasty|Tympanoplasty]]_[[Tympanoplasty Myringoplasty]] (MERI, graft materials)*

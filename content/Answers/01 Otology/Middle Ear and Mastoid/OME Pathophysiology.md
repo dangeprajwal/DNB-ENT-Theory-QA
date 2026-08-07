@@ -206,15 +206,15 @@ Grommet types are divided into short-term tubes (Shah or Shepard pattern, which 
 
 | Topic | File |
 |-------|------|
-| CSOM Complications | `CSOM_Complications_Comprehensive.md` |
-| Tympanosclerosis | `Tympanosclerosis_Answer.md` |
-| [[Tympanoplasty Myringoplasty|Tympanoplasty]] and Myringoplasty | `Tympanoplasty_Myringoplasty_Comprehensive.md` |
-| Mastoid Surgery and Cholesteatoma | `Mastoid_Surgery_Cholesteatoma_Comprehensive.md` |
-| Middle Ear Mechanics and Acoustic Reflex | `Middle_Ear_Mechanics_Acoustic_Reflex_Answer.md` |
-| Audiometric Testing | `Audiometric_Testing_Comprehensive.md` |
-| Endoscopic Middle Ear Anatomy | `Endoscopic_ME_Anatomy_Comprehensive.md` |
-| [[Endoscopic Ear Surgery|Endoscopic Ear Surgery]] | `Endoscopic_Ear_Surgery_Comprehensive.md` |
-| [[Ossiculoplasty CSF Otorrhea Cochleostomy|Ossiculoplasty]] | `Ossiculoplasty_CSF_Otorrhea_Cochleostomy.md` |
+| CSOM Complications | [[CSOM Complications]] |
+| Tympanosclerosis | [[Tympanosclerosis]] |
+| [[Tympanoplasty Myringoplasty|Tympanoplasty]] and Myringoplasty | [[Tympanoplasty Myringoplasty]] |
+| Mastoid Surgery and Cholesteatoma | [[Mastoid Surgery Cholesteatoma]] |
+| Middle Ear Mechanics and Acoustic Reflex | [[Middle Ear Mechanics and Acoustic Reflex]] |
+| Audiometric Testing | [[Audiometric Testing]] |
+| Endoscopic Middle Ear Anatomy | [[Endoscopic ME Anatomy]] |
+| [[Endoscopic Ear Surgery|Endoscopic Ear Surgery]] | [[Endoscopic Ear Surgery]] |
+| [[Ossiculoplasty CSF Otorrhea Cochleostomy|Ossiculoplasty]] | [[Ossiculoplasty CSF Otorrhea Cochleostomy]] |
 
 ---
 

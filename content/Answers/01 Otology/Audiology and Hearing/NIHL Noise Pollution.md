@@ -229,7 +229,7 @@ The **60/60 Rule** is a guideline for safe use of personal music devices:
 - 100% disability (complete deafness) — full compensation
 - Must demonstrate: excessive noise exposure, consequent hearing loss, foreseeable risk, claim within 3 years of awareness
 
-*Cross-reference: `Audiometric_Testing_Comprehensive.md` Part H for detailed hearing disability percentage calculation and WHO classification*
+*Cross-reference: [[Audiometric Testing]] Part H for detailed hearing disability percentage calculation and WHO classification*
 
 ### Future Directions
 - Antioxidant therapy: N-acetylcysteine, glutathione, alpha lipoic acid (mainly animal studies)
@@ -250,4 +250,4 @@ The **60/60 Rule** is a guideline for safe use of personal music devices:
 
 ---
 *Source: Scott-Brown's Otorhinolaryngology 8th Edition, Volume 2, Chapters 53 and 57*
-*Cross-references: Audiometric_Testing_Comprehensive.md (hearing disability calculation)*
+*Cross-references: [[Audiometric Testing]] (hearing disability calculation)*

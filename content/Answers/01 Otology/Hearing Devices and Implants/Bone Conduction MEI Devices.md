@@ -228,7 +228,7 @@ AMEIs overcome conventional hearing aid shortcomings (distortion, feedback, occl
 - Medically fit for surgery
 - Appropriately counselled with realistic expectations
 - Mostly adults (VSB and MET/Carina cleared for <18 years)
-- *Cross-reference: `Cochlear_Implant_Comprehensive.md` Part E for MEI classification/types*
+- *Cross-reference: [[Cochlear Implant]] Part E for MEI classification/types*
 
 ---
 
@@ -290,4 +290,4 @@ Similar to [[Cochlear Implant|cochlear implant]] surgery: retroauricular transma
 
 ---
 *Source: Scott-Brown's Otorhinolaryngology 8th Edition, Volume 2, Chapters 93 and 95*
-*Cross-references: Cochlear_Implant_Comprehensive.md (CI candidacy, MEI types), Middle_Ear_Mechanics_Acoustic_Reflex_Answer.md (middle ear transformer mechanism)*
+*Cross-references: [[Cochlear Implant]] (CI candidacy, MEI types), [[Middle Ear Mechanics and Acoustic Reflex]] (middle ear transformer mechanism)*

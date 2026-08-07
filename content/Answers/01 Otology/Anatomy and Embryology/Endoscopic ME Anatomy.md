@@ -600,10 +600,10 @@ The RW is identified intraoperatively using the following sequential landmarks:
 
 | Topic | File |
 |-------|------|
-| Mastoid surgery, cholesteatoma management, posterior tympanotomy, hidden areas | `Mastoid_Surgery_Cholesteatoma_Comprehensive.md` |
-| Cochlear implant surgery (electrode insertion, round window approach) | `Cochlear_Implant_Comprehensive.md` |
-| Facial nerve anatomy, tympanic and mastoid segments | `Facial_Nerve_Comprehensive.md` |
-| Middle ear mechanics, ossicular chain | `Middle_Ear_Mechanics_Acoustic_Reflex_Answer.md` |
+| Mastoid surgery, cholesteatoma management, posterior tympanotomy, hidden areas | [[Mastoid Surgery Cholesteatoma]] |
+| Cochlear implant surgery (electrode insertion, round window approach) | [[Cochlear Implant]] |
+| Facial nerve anatomy, tympanic and mastoid segments | [[Facial Nerve]] |
+| Middle ear mechanics, ossicular chain | [[Middle Ear Mechanics and Acoustic Reflex]] |
 | Temporal bone anatomy, external ear canal | Chapter 46 reference |
-| [[Stapes Surgery|Stapes surgery]] (oval window, stapedotomy) | `Stapes_Surgery_Comprehensive.md` |
-| Electroacoustic stimulation, hearing preservation CI | `Electroacoustic_Stimulation_Hearing_Preservation_CI.md` |
+| [[Stapes Surgery|Stapes surgery]] (oval window, stapedotomy) | [[Stapes Surgery]] |
+| Electroacoustic stimulation, hearing preservation CI | [[Electroacoustic Stimulation Hearing Preservation CI]] |

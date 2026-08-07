@@ -359,4 +359,4 @@ Treatment may need to continue for many weeks. In refractory cases where raised 
 ---
 
 *Source: Scott-Brown's Otorhinolaryngology 8th Edition, Volume 2, Chapters 83, 84*
-*Cross-references: Mastoid_Surgery_Cholesteatoma_Comprehensive.md (mastoidectomy types/techniques), Facial_Nerve_Comprehensive.md (facial nerve paralysis management), Malignant_OE_Skull_Base_Osteomyelitis.md (skull base infection pathways)*
+*Cross-references: [[Mastoid Surgery Cholesteatoma]] (mastoidectomy types/techniques), [[Facial Nerve]] (facial nerve paralysis management), [[Malignant OE Skull Base Osteomyelitis]] (skull base infection pathways)*

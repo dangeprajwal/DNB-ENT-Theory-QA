@@ -532,14 +532,14 @@ The complications of cholesteatoma are directly related to the specific spaces a
 
 | Topic | File |
 |-------|------|
-| Mastoid surgery types, cholesteatoma management, hidden areas, residual disease, posterior tympanotomy | `Mastoid_Surgery_Cholesteatoma_Comprehensive.md` |
-| Endoscopic middle ear anatomy, retrotympanic spaces, sinus tympani classification, round window anatomy | `Endoscopic_ME_Anatomy_Comprehensive.md` |
-| Facial nerve anatomy (tympanic and mastoid segments, dehiscence) | `Facial_Nerve_Comprehensive.md` |
-| Middle ear mechanics, ossicular chain function, acoustic reflex | `Middle_Ear_Mechanics_Acoustic_Reflex_Answer.md` |
-| [[Tympanoplasty Myringoplasty|Tympanoplasty]], myringoplasty, graft materials, cartilage reconstruction | `Tympanoplasty_Myringoplasty_Comprehensive.md` |
-| CSOM complications (intracranial, extracranial, labyrinthine fistula) | `CSOM_Complications_Comprehensive.md` |
-| Otoendoscopy in active squamous COM | `Otoendoscopy_Active_Squamous_COM.md` |
+| Mastoid surgery types, cholesteatoma management, hidden areas, residual disease, posterior tympanotomy | [[Mastoid Surgery Cholesteatoma]] |
+| Endoscopic middle ear anatomy, retrotympanic spaces, sinus tympani classification, round window anatomy | [[Endoscopic ME Anatomy]] |
+| Facial nerve anatomy (tympanic and mastoid segments, dehiscence) | [[Facial Nerve]] |
+| Middle ear mechanics, ossicular chain function, acoustic reflex | [[Middle Ear Mechanics and Acoustic Reflex]] |
+| [[Tympanoplasty Myringoplasty|Tympanoplasty]], myringoplasty, graft materials, cartilage reconstruction | [[Tympanoplasty Myringoplasty]] |
+| CSOM complications (intracranial, extracranial, labyrinthine fistula) | [[CSOM Complications]] |
+| Otoendoscopy in active squamous COM | [[Otoendoscopy Active Squamous Com]] |
 
 ---
 *Source: Scott-Brown's Otorhinolaryngology 8th Edition, Volume 2, Chapters 46 (Anatomy of External and Middle Ear), 83 (Chronic Otitis Media)*
-*Cross-references: Mastoid_Surgery_Cholesteatoma_Comprehensive.md, Endoscopic_ME_Anatomy_Comprehensive.md, Facial_Nerve_Comprehensive.md, CSOM_Complications_Comprehensive.md*
+*Cross-references: [[Mastoid Surgery Cholesteatoma]], [[Endoscopic ME Anatomy]], [[Facial Nerve]], [[CSOM Complications]]*

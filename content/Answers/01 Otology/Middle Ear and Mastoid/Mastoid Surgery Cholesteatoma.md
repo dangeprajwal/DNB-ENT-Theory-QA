@@ -14,8 +14,8 @@ tags:
 - **Q48 (2021):** Discuss the aetiology and management of post-operative discharging mastoid cavity.
 - **Q104 (2024):** Classify and describe types of mastoid surgery. Discuss the management of cholesteatoma in a child.
 - **Q124 (2025):** What are the hidden areas for residual cholesteatoma? Discuss the management of cholesteatoma in sinus tympani.
-- **Q113 (2024) [Obliteration part]:** Describe mastoid obliteration techniques. *(Surgical techniques for [[Otosclerosis|otosclerosis]] → `Stapes_Surgery_Comprehensive.md`)*
-- **Q94 (2023) [Residivism part]:** Discuss residivism after mastoid surgery. *(Stapedotomy complications → `Stapes_Surgery_Comprehensive.md`)*
+- **Q113 (2024) [Obliteration part]:** Describe mastoid obliteration techniques. *(Surgical techniques for [[Otosclerosis|otosclerosis]] → [[Stapes Surgery]])*
+- **Q94 (2023) [Residivism part]:** Discuss residivism after mastoid surgery. *(Stapedotomy complications → [[Stapes Surgery]])*
 
 **Source:** Scott-Brown’s Otorhinolaryngology 8th Edition, Volume 2 — Chapter 15 (Paediatric COM), Chapter 83 (Chronic Otitis Media), Chapter 87 (Otoendoscopy), Chapter 46 (Temporal Bone Anatomy)
 
@@ -338,4 +338,4 @@ The posterior tympanotomy is most commonly performed for **cochlear implantation
 
 ---
 *Source: Scott-Brown’s Otorhinolaryngology 8th Edition, Volume 2, Chapters 15, 46, 83, 87*
-*Cross-references: Otoendoscopy_Active_Squamous_COM.md (Q6 endoscopic approach), Tympanoplasty_Myringoplasty_Comprehensive.md (Q79/81/82/95 graft materials/MERI), Facial_Nerve_Comprehensive.md (FN anatomy), Stapes_Surgery_Comprehensive.md (stapedotomy complications)*
+*Cross-references: [[Otoendoscopy Active Squamous Com]] (Q6 endoscopic approach), [[Tympanoplasty Myringoplasty]] (Q79/81/82/95 graft materials/MERI), [[Facial Nerve]] (FN anatomy), [[Stapes Surgery]] (stapedotomy complications)*

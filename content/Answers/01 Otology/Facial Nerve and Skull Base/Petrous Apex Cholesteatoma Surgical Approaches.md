@@ -438,12 +438,12 @@ approach  (Kawase)  transpterygoid  approach   approach
 | Related Topic | File | Relevance |
 |--------------|------|-----------|
 | **Dorello's canal anatomy and Gradenigo's syndrome** | `Embryology of Otic Labyrinth and Dorellos Canal.md` | Detailed embryology of the otic labyrinth; anatomy of Dorello's canal where CN VI passes beneath Gruber's ligament; etiopathogenesis of Gradenigo's syndrome (petrous apicitis triad) — directly relevant to CN VI palsy in petrous apex cholesteatoma |
-| **Complications of CSOM including Gradenigo's syndrome** | `CSOM_Complications_Comprehensive.md` | Petrositis as an intratemporal complication of CSOM; Gradenigo's syndrome triad (otorrhoea, retro-orbital pain, CN VI palsy); acquired cholesteatoma extending to petrous apex is an extension of chronic middle ear disease |
-| **[[Vestibular Schwannoma|Vestibular schwannoma]] and CPA anatomy** | `Vestibular_Schwannoma_Comprehensive.md` | Surgical anatomy of the CPA and posterior petrous surface; IAC anatomy; translabyrinthine, middle fossa, and retrosigmoid approaches (shared approaches with petrous apex surgery) |
-| **[[Glomus Tumour|Glomus tumour]] and jugular foramen** | `Glomus_Tumour_Comprehensive.md` | Jugular foramen anatomy; relationship of jugular bulb to infralabyrinthine and infracochlear approaches; lower cranial nerve anatomy |
-| **Mastoid surgery and cholesteatoma** | `Mastoid_Surgery_Cholesteatoma_Comprehensive.md` | Cortical mastoidectomy technique (first step in transmastoid approaches to petrous apex); cholesteatoma pathology and principles of matrix removal |
-| **Facial nerve anatomy** | `Facial_Nerve_Comprehensive.md` | Course of facial nerve through the temporal bone; geniculate ganglion as origin of GSPN; facial nerve rerouting in transcochlear approach |
-| **[[Endoscopic Ear Surgery|Endoscopic ear surgery]]** | `Endoscopic_Ear_Surgery_Comprehensive.md` | Endoscopic techniques applicable to middle ear and beyond; evolving role of endoscopic-assisted petrous apex surgery |
+| **Complications of CSOM including Gradenigo's syndrome** | [[CSOM Complications]] | Petrositis as an intratemporal complication of CSOM; Gradenigo's syndrome triad (otorrhoea, retro-orbital pain, CN VI palsy); acquired cholesteatoma extending to petrous apex is an extension of chronic middle ear disease |
+| **[[Vestibular Schwannoma|Vestibular schwannoma]] and CPA anatomy** | [[Vestibular Schwannoma]] | Surgical anatomy of the CPA and posterior petrous surface; IAC anatomy; translabyrinthine, middle fossa, and retrosigmoid approaches (shared approaches with petrous apex surgery) |
+| **[[Glomus Tumour|Glomus tumour]] and jugular foramen** | [[Glomus Tumour]] | Jugular foramen anatomy; relationship of jugular bulb to infralabyrinthine and infracochlear approaches; lower cranial nerve anatomy |
+| **Mastoid surgery and cholesteatoma** | [[Mastoid Surgery Cholesteatoma]] | Cortical mastoidectomy technique (first step in transmastoid approaches to petrous apex); cholesteatoma pathology and principles of matrix removal |
+| **Facial nerve anatomy** | [[Facial Nerve]] | Course of facial nerve through the temporal bone; geniculate ganglion as origin of GSPN; facial nerve rerouting in transcochlear approach |
+| **[[Endoscopic Ear Surgery|Endoscopic ear surgery]]** | [[Endoscopic Ear Surgery]] | Endoscopic techniques applicable to middle ear and beyond; evolving role of endoscopic-assisted petrous apex surgery |
 
 ---
 
