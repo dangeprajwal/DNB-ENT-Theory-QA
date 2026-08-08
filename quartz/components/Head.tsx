@@ -204,8 +204,12 @@ export default (() => {
     const baseDir = fileData.slug === "404" ? path : pathToRoot(fileData.slug!)
     const iconPath = joinSegments(baseDir, "static/icon.png")
 
-    const socialUrl =
+    const rawSocialUrl =
       fileData.slug === "404" ? url.toString() : joinSegments(url.toString(), fileData.slug!)
+    // Google prefers the folder-slash URL over the /index variant.
+    // Emit canonicals & OG URLs matching that preference so GSC doesn't
+    // flag "/index" pages as "Alternative page with proper canonical tag".
+    const socialUrl = rawSocialUrl.replace(/\/index$/, "/")
 
     const usesCustomOgImage = ctx.cfg.plugins.emitters.some(
       (e) => e.name === CustomOgImagesEmitterName,
