@@ -37,7 +37,9 @@ function cleanDescription(raw: string | undefined): string {
   return s
 }
 
-// SEO title — embed exam + paper + subject for search-friendliness
+// SEO title — lead with clinical/topic keyword, add "Notes" (high search
+// volume), keep "DNB ENT" + subject, drop "(Paper N)" and edition qualifier
+// (nobody Googles those; edition qualifier is misleading during 8e→9e transition).
 function buildSeoTitle(
   baseTitle: string,
   slug: string,
@@ -49,18 +51,20 @@ function buildSeoTitle(
   if (!info || slug === "index" || slug === "About" || slug === "Disclaimer") {
     return baseTitle + pageTitleSuffix
   }
-  // Folder index pages (e.g. "Answers/01-Otology/index", "Answers/01-Otology/Audiology-and-Hearing/index")
-  // Quartz strips "index", so slug ends with the folder name
-  // Top-level paper folders → custom title
-  if (/Answers\/0[1-4]-[^/]+\/?$/.test(slug)) {
-    return `${info.subject} (${info.paper}) — DNB ENT Theory Answers | Scott-Brown 8th Ed`
+  // Normalize slug — folder pages arrive as ".../index"; strip it so regexes match
+  const s = slug.replace(/\/index$/, "")
+  // Top-level paper folders: Answers/01-Otology
+  if (/^Answers\/0[1-4]-[^/]+$/.test(s)) {
+    return `${info.subject} — DNB ENT Notes & Answers | Scott-Brown`
   }
-  // Subfolder index pages
-  if (slug.endsWith("/") || /Answers\/0[1-4]-[^/]+\/[^/]+\/?$/.test(slug)) {
-    return `${baseTitle} — ${info.subject} (${info.paper}) DNB ENT Answers | Scott-Brown 8th Ed`
+  // Subfolder index pages: Answers/01-Otology/Audiology-and-Hearing
+  if (/^Answers\/0[1-4]-[^/]+\/[^/]+$/.test(s)) {
+    // Use folder name as human-friendly title (replace hyphens with spaces)
+    const folderName = s.split("/").pop()!.replace(/-/g, " ")
+    return `${folderName} — DNB ENT Notes | ${info.subject} | Scott-Brown`
   }
-  // Individual answer page — the most important for SEO
-  return `${baseTitle} — DNB ENT ${info.subject} (${info.paper}) Answer | Scott-Brown 8th Ed`
+  // Individual answer page — leads with clinical topic (highest SEO weight)
+  return `${baseTitle} — DNB ENT Notes & Answer | ${info.subject} | Scott-Brown`
 }
 
 // Build keyword list from frontmatter tags + paper info
