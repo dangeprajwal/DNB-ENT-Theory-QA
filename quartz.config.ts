@@ -24,32 +24,34 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Inter",
+        header: "Fraunces",
         body: "Inter",
         code: "JetBrains Mono",
       },
       colors: {
+        // Light — warm paper editorial (Steep-inspired), amber accent
         lightMode: {
-          light: "#f8fafb",
-          lightgray: "#e0e7ed",
-          gray: "#8fa3b0",
-          darkgray: "#3a4a54",
-          dark: "#1a2832",
-          secondary: "#0d6e6e",
-          tertiary: "#2a9d8f",
-          highlight: "rgba(42, 157, 143, 0.12)",
-          textHighlight: "#e9c46a88",
+          light: "#faf9f5",       // warm paper canvas
+          lightgray: "#ece8de",   // warm-tinted card surface
+          gray: "#8f8778",        // warm mid-gray
+          darkgray: "#3f3730",    // warm dark gray for body text
+          dark: "#1a1613",        // near-black warm — headings
+          secondary: "#c2410c",   // terracotta — links, accent
+          tertiary: "#f59e0b",    // amber — hover, active nav
+          highlight: "rgba(245, 158, 11, 0.10)",
+          textHighlight: "#f59e0b40",
         },
+        // Dark — kept as fallback for users who explicitly prefer dark
         darkMode: {
           light: "#0f1a20",
           lightgray: "#1e2d36",
-          gray: "#5a7a8a",
+          gray: "#7a8a94",
           darkgray: "#d0dce3",
           dark: "#e8f0f5",
-          secondary: "#2a9d8f",
-          tertiary: "#4ecdc4",
-          highlight: "rgba(42, 157, 143, 0.15)",
-          textHighlight: "#e9c46a55",
+          secondary: "#f59e0b",   // amber accent in dark mode
+          tertiary: "#fbbf24",    // amber-yellow hover
+          highlight: "rgba(245, 158, 11, 0.15)",
+          textHighlight: "#f59e0b55",
         },
       },
     },

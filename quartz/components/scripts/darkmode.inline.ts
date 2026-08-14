@@ -1,4 +1,7 @@
-const userPref = window.matchMedia("(prefers-color-scheme: light)").matches ? "light" : "dark"
+// Default to light unless OS explicitly prefers dark AND user has no saved pref.
+// A previous logic error made dark the fallback whenever "prefers-color-scheme: light"
+// did not explicitly match — this made dark the effective default for OS "no preference".
+const userPref = window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light"
 const currentTheme = localStorage.getItem("theme") ?? userPref
 document.documentElement.setAttribute("saved-theme", currentTheme)
 
