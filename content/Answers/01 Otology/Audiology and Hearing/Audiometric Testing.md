@@ -18,13 +18,30 @@ tags:
 > - **Q108** — What is masking and how it is done? Discuss the rules or indicators for the use of clinical masking. What is plateau seeking method of masking?
 > - **Q117** — Describe the technology of tympanometry. Discuss its clinical applications.
 
-**Source:** Scott-Brown's Otorhinolaryngology, 8th Edition — Volume 2, Chapter 51 (Psychoacoustic Audiometry), Chapter 52 (Evoked Measurement of Auditory Sensitivity), Chapter 48 (Physiology of Hearing), Chapter 112 (Facial Nerve)
+**Source:**
+- Scott-Brown's Otorhinolaryngology, **8th Edition** — Volume 2, Chapter 51 (Psychoacoustic Audiometry), Chapter 52 (Evoked Measurement of Auditory Sensitivity), Chapter 48 (Physiology of Hearing), Chapter 112 (Facial Nerve)
+- Scott-Brown's Otorhinolaryngology, **9th Edition** — Section 1 (Otology), **Chapter 3: Hearing Tests** by Alan Sanderson & Judith Bird
 
 ---
 
 ## INTRODUCTION
 
 Audiometric testing forms the cornerstone of otological evaluation. A systematic battery of tests — from pure tone audiometry to advanced electrophysiological assessments — enables the clinician to determine the type, degree, and site of hearing loss. This comprehensive answer covers the full spectrum of audiometric tests relevant to the DNB examination.
+
+> [!example] 🆕 Scott-Brown 9th Edition — Updates & New Additions
+> The 9e Chapter 3 (Sanderson & Bird) modernises hearing tests around **functional real-world performance** rather than pure-tone thresholds alone. Key exam-relevant additions:
+> - **Speech-in-noise (SIN) audiometry** — QuickSIN, BKB-SIN, HINT tests; SNHL patients need **up to 15 dB greater SNR** than normal hearers. QuickSIN can detect vestibular schwannoma with **higher sensitivity than PTA**.
+> - **Hidden hearing loss** — cochlear synaptopathy and auditory nerve demyelination cause poor SIN performance despite **normal PTA thresholds**.
+> - **Wide-band tympanometry (WBT)** — higher sensitivity than standard 226 Hz tympanometry for ossicular chain conditions including early otosclerosis.
+> - **NICE 2019 CI candidacy update:** PTA ≥80 dB HL at ≥2 frequencies (500, 1k, 2k, 3k, 4k Hz) bilaterally + phoneme score <50% on Arthur Boothroyd word test at 70 dBA.
+> - **PTA test order revised:** 1 kHz → 2 → 4 → 8 → 500 → 250 → recheck 1 kHz (not ascending from 1 kHz alone).
+> - **Extended high-frequency PTA (to 20 kHz)** — recommended for aging and **platinum-based chemotherapy** ototoxicity monitoring.
+> - **Effective Masking Level (EML)** — modern calibrated masking approach (ISO 389-4:1994).
+> - **Uncomfortable Loudness Level (ULL)** — upper limits of hearing, useful for hearing aid fitting.
+> - **WHO ICF core set for hearing loss** — new framework covering body functions, activities, participation, environmental and personal factors.
+> - **Global burden $981 billion/year** (2019 Global Burden of Disease study).
+> - **Hearing loss ↔ dementia link** re-emphasised — treating hearing loss reduces cognitive decline and depression.
+> - **Digital future:** WHO HearWHO smartphone app, AI/ML-assisted audiometry, Audible Contrast Threshold (ACT) test — language-independent SIN correlate.
 
 ---
 
@@ -48,8 +65,12 @@ Pure tone audiometry (PTA) determines hearing thresholds for sinusoidal signals 
   - **Air conduction (AC):** Supra-aural headphones (TDH-39/49/50) or insert earphones
   - **Bone conduction (BC):** Bone vibrator on mastoid process or forehead
 - **Test frequencies:** Octave intervals — 250, 500, 1000, 2000, 4000, 8000 Hz; inter-octave (750, 1500, 3000, 6000 Hz) if steeply sloping
-- **Procedure:** Modified Hughson-Westlake technique (ascending method): Start at 1000 Hz, decrease in 10 dB steps until inaudible, increase in 5 dB steps — threshold = lowest level heard in 2/3 ascending presentations
+- <mark>**9e note:** Half-octaves at 3 kHz and 6 kHz should be added whenever the difference between adjacent high-frequency HTLs is ≥20 dB — gives higher-resolution slope characterisation.</mark>
+- <mark>**9e extended high-frequency PTA (up to 20 kHz)** is now recommended for monitoring in ageing and after **platinum-based chemotherapy** ototoxicity.</mark>
+- **Procedure:** Modified Hughson-Westlake technique (10 dB down, 5 dB up): threshold = lowest level heard in ≥50% of ascending presentations (minimum 2 responses at that level).
+- <mark>**9e test order (Chapter 3):** 1 kHz → 2 kHz → 4 kHz → 8 kHz → 500 Hz → 250 Hz, then **recheck 1 kHz** for reliability. Above 80 dB HL, increase in 5 dB steps only (avoid discomfort from loudness recruitment).</mark>
 - **Audiogram symbols:** Right ear — O (AC), [ (masked BC); Left ear — X (AC), ] (masked BC)
+- <mark>**Uncomfortable Loudness Level (ULL):** the loudest sound a listener will tolerate — represents the upper limit of the dynamic range and is useful for hearing aid fitting. Higher test–retest variability than HTL.</mark>
 
 ### Audiogram Interpretation
 - **Air-bone gap >10 dB:** Conductive component present
@@ -85,6 +106,7 @@ Masking is the process of introducing noise to the non-test ear to prevent it fr
 - **Narrow-band noise (NBN):** Most commonly used for pure tone masking — centred at the test frequency
 - **Speech noise (speech-shaped noise):** Used for speech audiometry masking
 - **White noise:** Broadband — used less commonly, less efficient
+- <mark>**9e — Effective Masking Level (EML):** modern audiometers calibrate the narrowband noise per ISO 389-4:1994 so that noise presented at 50 dB EML raises the HTL of the non-test ear to exactly 50 dB HL. This eliminates the need for the tester to first find the noise threshold in the non-test ear — masking becomes directly quantitative.</mark>
 
 ### Plateau-Seeking Method
 
@@ -115,6 +137,10 @@ Occurs when the **air-bone gap in the non-test ear is so large** that effective 
 - **Acoustic admittance:** The reciprocal of impedance — the ease with which sound energy flows through the middle ear. Measured in mmho (millimho) or mL.
 - Modern instruments measure **admittance** (compliance) rather than impedance
 - The middle ear transmits maximum acoustic energy (minimum impedance) when tympanic membrane pressure equals middle ear pressure
+
+### 🆕 9e Addition — Wide-Band Tympanometry (WBT)
+
+<mark>**Standard 226 Hz tympanometry is not sensitive to mild stapes fixation** — so it can miss early-stage otosclerosis. **Wide-band tympanometry (WBT)** uses a broadband click stimulus (200-8000 Hz) instead of a single tone, measures absorbance across the full frequency range, and has **higher sensitivity for ossicular chain conditions including otosclerosis** (9e Chapter 3). Diagnosis of otosclerosis therefore requires the classical test triad: PTA (Carhart's notch), **WBT or absent stapedial reflex**, and clinical/otoscopic confirmation.</mark>
 
 ### Tympanometry — Technology and Technique
 
@@ -366,7 +392,71 @@ Percentage of hearing disability is calculated using average hearing loss at spe
 
 ---
 
-## PART J: NPPCD
+## 🆕 PART J (9e): SPEECH AUDIOMETRY — QUIET & IN NOISE
+
+### Why Speech Audiometry Complements PTA
+<mark>PTA measures detection thresholds for pure tones but poorly reflects **real-world hearing performance**. Speech audiometry — especially in-noise — bridges this gap. 9e Chapter 3 emphasises: "Most hearing aid users perform well in quiet and low noise; adding noise creates a closer approximation of real-world speech recognition performance."</mark>
+
+### Speech Audiometry in Quiet
+
+| Measure | Definition |
+|---------|-----------|
+| **Speech Recognition Threshold (SRT / SRT50)** | Level at which patient repeats back speech with 50% correct score |
+| **Speech Recognition Score (SRS) / Word Recognition Score (WRS)** | % correct at a specific presentation level (e.g., 65 dB SPL) |
+| **Psychometric function** | Plot of % correct vs. presentation level — reveals conductive shift (rightward), SNHL (plateau <100%), or **retrocochlear rollover** |
+
+**Standardised word/sentence lists:**
+- **AB word lists** — phonetically balanced, no context cues
+- **BKB sentences** (Bamford-Kowal-Bench) — low-context, 5 keywords each
+- **CUNY sentences** (City University New York) — high-context, easier — suits severe/profound loss
+
+### 🆕 Speech-in-Noise (SIN) Audiometry — Major 9e Focus
+
+<mark>SNHL patients require **up to 15 dB greater signal-to-noise ratio (SNR)** than normal hearers to achieve 50% correct. SIN performance is **not well predicted** by PTA or SRS-in-quiet.</mark>
+
+| Test | Duration | Sentence Material | Noise Type | Outcome |
+|------|---------|-------------------|-----------|---------|
+| **QuickSIN** | 5 min | Harvard IEEE (low context) | Four-talker babble | **SNR loss** — dB above normative SRT |
+| **BKB-SIN** | 3 min | BKB (low context) | Four-talker babble | SNR loss (list-pair averaged) |
+| **HINT** (Hearing-in-Noise Test) | Variable | BKB | Speech-shaped noise at 65 dB SPL | Adjusts target speech to 50% correct |
+
+**QuickSIN SNR loss categories:** Normal / Mild / Moderate / Severe.
+
+### Clinical Applications of SIN Audiometry
+1. <mark>**Vestibular schwannoma detection:** QuickSIN has **higher sensitivity than PTA** for identifying retrocochlear pathology (9e Chapter 3, ref 48).</mark>
+2. <mark>**Ménière's disease:** Fluctuating SRS not predicted by HTL changes; SIN performance poor and often limits hearing aid benefit.</mark>
+3. <mark>**Hidden hearing loss** — cochlear synaptopathy or auditory nerve demyelination cause poor SIN despite **normal PTA**. Suspect in noise-exposed workers with self-reported difficulty but "normal" audiogram.</mark>
+4. **Auditory processing disorder (APD)** — SIN forms part of clinical test battery (no consensus standard yet).
+5. **Cochlear implant candidacy** — see NICE 2019 update below.
+6. **Assistive listening device recommendation** — high SNR-loss patients benefit from remote microphone systems.
+
+### 🆕 NICE 2019 CI Candidacy Criteria (from 9e Chapter 3)
+
+<mark>The 9e cites the **UK NICE 2019 update** for adult and older-child cochlear implant candidacy:</mark>
+1. <mark>**Bilateral PTA ≥80 dB HL** at **≥2 frequencies** (500, 1000, 2000, 3000, 4000 Hz) **without** acoustic hearing aids</mark>
+2. <mark>**Phoneme score <50%** on the **Arthur Boothroyd word test** at **70 dBA** (aided, best-fitted hearing aids)</mark>
+
+*(This is more restrictive than earlier thresholds — see [[Cochlear Implant]] for full candidacy discussion.)*
+
+---
+
+## 🆕 PART K (9e): HIDDEN HEARING LOSS
+
+<mark>A concept emphasised in 9e — patients with **normal PTA thresholds** but disproportionate hearing difficulty, especially in noise. Underlying mechanisms (from animal models):</mark>
+- **Cochlear synaptopathy** — loss of ribbon synapses between IHCs and auditory nerve fibres (particularly noise-exposed workers)
+- **Auditory nerve demyelination** — slowed neural transmission
+- **Auditory processing disorder (APD)** — central integration failure
+
+**Diagnostic approach (9e recommended test battery):**
+1. Extended high-frequency audiometry (to 20 kHz)
+2. Otoacoustic emissions (may be attenuated)
+3. Electrocochleography (EcochG)
+4. ABR (may show reduced amplitude of wave I)
+5. Speech-in-noise testing (single most sensitive functional test)
+
+---
+
+## PART L: NPPCD
 
 ### National Programme for Prevention & Control of Deafness (NPPCD)
 
@@ -404,6 +494,10 @@ Percentage of hearing disability is calculated using average hearing loss at spe
 > - **Stenger test** is the most reliable tuning fork test for malingering; **OAE and ABR** are the most reliable objective tests
 > - **Type Ad + CHL** = likely ossicular discontinuity → ossiculoplasty
 > - **EMG in otology:** Primarily for facial nerve prognosis — fibrillation = Wallerian degeneration; polyphasic = reinnervation
+> - <mark>**9e — Speech-in-noise (SIN) audiometry** is the modern standard for functional hearing assessment; **QuickSIN, BKB-SIN, HINT** are the workhorse tests</mark>
+> - <mark>**9e — Wide-band tympanometry (WBT)** has higher sensitivity than 226 Hz standard tympanometry for early otosclerosis and ossicular conditions</mark>
+> - <mark>**9e — Hidden hearing loss** = normal PTA + disproportionate real-world difficulty, driven by cochlear synaptopathy/nerve demyelination</mark>
+> - <mark>**9e — NICE 2019 CI candidacy:** PTA ≥80 dB HL at ≥2 freq (500-4000 Hz) bilaterally + phoneme score <50% on Arthur Boothroyd at 70 dBA</mark>
 
 
 ---
@@ -417,4 +511,8 @@ Percentage of hearing disability is calculated using average hearing loss at spe
 > 6. NPPCD aims to screen, diagnose, and intervene following the **1-3-6 rule** adapted from JCIH guidelines
 > 7. Test-retest variability >10 dB at the same frequency should raise suspicion of **non-organic hearing loss**
 > 8. Use **1000 Hz probe tone** for tympanometry in infants <6 months (226 Hz is unreliable in this age group)
+> 9. <mark>**9e clinical pearl:** BC results at **4 kHz can be spurious** — weigh diagnostic value against risk of misinterpretation. BC 500 Hz–2 kHz is nearly always sufficient to characterise a conductive loss.</mark>
+> 10. <mark>**9e clinical pearl:** Above **80 dB HL**, use **5 dB steps only** during PTA — larger steps cause discomfort from loudness recruitment in cochlear-damaged ears.</mark>
+> 11. <mark>**9e — Ambient noise limit** for PTA is **35 dB(A)** in the test room (ISO 8253-1:2010).</mark>
+> 12. <mark>**9e — smartphone audiometry (WHO HearWHO app)** now enables screening in low-resource areas — high sensitivity/specificity vs. gold-standard PTA in recent meta-analysis.</mark>
 
