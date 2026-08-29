@@ -508,6 +508,45 @@ img {
 } // end @media desktop
 
 // ══════════════════════════════════════════════════════════════════
+// SITE SHUTDOWN — strip all UI chrome so the message stands alone.
+//   Applies while content/ has only shutdown pages. To restore full
+//   layout: delete this block AND restore content/ from content_ARCHIVE/.
+// ══════════════════════════════════════════════════════════════════
+body[data-slug="index"],
+body[data-slug="404"] {
+  .sidebar,
+  .breadcrumb-container,
+  .content-meta,
+  .page-header .content-meta,
+  footer,
+  #quartz-body > .center > .page-header > .popover-hint > .article-title,
+  article > *:not(h1) {
+    display: none !important;
+  }
+
+  #quartz-body {
+    grid-template-columns: 1fr !important;
+    display: block !important;
+    min-height: 100vh;
+  }
+
+  .center {
+    max-width: 640px !important;
+    margin: 0 auto !important;
+    padding: 40vh 2rem 2rem !important;
+    text-align: center !important;
+  }
+
+  article h1 {
+    font-size: 1.5rem !important;
+    font-weight: 400 !important;
+    color: var(--gray) !important;
+    letter-spacing: -0.01em !important;
+    line-height: 1.4 !important;
+  }
+}
+
+// ══════════════════════════════════════════════════════════════════
 // 9E EDITION MARKERS — highlight tag + example-callout branding
 //    Makes Scott-Brown 9th-edition updates unmissable in every answer.
 // ══════════════════════════════════════════════════════════════════

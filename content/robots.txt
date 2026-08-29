@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://dangeprajwal.github.io/DNB-ENT-Theory-QA/sitemap.xml
