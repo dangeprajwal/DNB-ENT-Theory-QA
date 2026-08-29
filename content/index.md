@@ -19,14 +19,14 @@ All answers are based on **Scott-Brown's Otorhinolaryngology, Head and Neck Surg
 >
 > **Rolling out answer-by-answer over the coming weeks.** Bookmark this page and check back regularly — the topics you're studying today may already be updated tomorrow. Look for the **"Updated to 9e"** highlight to know at a glance which sections carry the latest evidence.
 >
-> *Your feedback is welcome — if you'd like a specific topic prioritised, write to **[prajwal.dange@gmail.com](mailto:prajwal.dange@gmail.com)**.*
+> *Your feedback is welcome — if you'd like a specific topic prioritised, open an issue on **[GitHub](https://github.com/dangeprajwal/DNB-ENT-Theory-QA/issues)**.*
 
 > **Quick Links:** [[Year-wise Question Papers|Year-wise Trends & Exam Strategy]] | [[About|About This Project]] | [[Disclaimer|Disclaimer]]
 
 > [!info] About This Website
 > This website was created by **Dr. Prajwal Dange, MBBS, MS, DNB, MCh Head Neck Surgery and Oncology — AIIMS Raipur (Gold Medalist)**.
 >
-> For any queries, corrections, or suggestions regarding content on this website, please write to: **[prajwal.dange@gmail.com](mailto:prajwal.dange@gmail.com)**
+> For any queries, corrections, or suggestions regarding content on this website, please open an issue on **[GitHub](https://github.com/dangeprajwal/DNB-ENT-Theory-QA/issues)**.
 >
 > **Also see:** [MCh Head and Neck Surgery and Oncology — Question & Answer Resource](https://dangeprajwal.github.io/MCh-HNSO/)
 

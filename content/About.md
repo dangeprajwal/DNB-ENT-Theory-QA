@@ -35,11 +35,11 @@ Preparing for DNB ENT theory exams is challenging. Question papers from previous
 
 ## Contact & Queries
 
-For any queries, corrections, or suggestions regarding the content on this website, please write to:
+For any queries, corrections, or suggestions regarding the content on this website:
 
-📧 **[prajwal.dange@gmail.com](mailto:prajwal.dange@gmail.com)**
+🐙 **[Open an issue on GitHub](https://github.com/dangeprajwal/DNB-ENT-Theory-QA/issues)**
 
-Whether you have found an error, require a modification, or would like to contribute answers — feel free to reach out directly or submit an issue on [GitHub](https://github.com/dangeprajwal/DNB-ENT-Theory-QA).
+Whether you have found an error, require a modification, or would like to contribute answers — please raise it on the GitHub Issues tracker so other students can benefit from the discussion too.
 
 ---
 
